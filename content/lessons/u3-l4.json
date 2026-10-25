@@ -1,0 +1,145 @@
+{
+ "id": "u3-l4",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الفاتحہ کی پانچویں آیت — إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِيْنُ — کو لفظ بہ لفظ سمجھیں، اور سیکھیں: إِيَّا — صرف (اداۃ الحصر)، نَ — ہم (مضارع)، مضارع کا پورا جدول (عَبَدَ)، اور اسْت — طلب کرنا (نَسْتَعِيْنُ، استسقا)۔",
+  "en": "Understand the fifth verse of Al-Fatihah — إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِيْنُ — word by word, and learn: إِيَّا — “only” (restriction), نَ — “we” (present tense), the full present-tense table (عَبَدَ), and اسْت — seeking (نَسْتَعِيْنُ, استسقا)."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "إِيَّا — صرف", "en": "إِيَّا — only" },
+   "body": {
+    "ur": "إِيَّا اداۃ الحصر ہے، یعنی خاص کر دیتا ہے: إِيَّاكَ — صرف اور صرف آپ کی، إِيَّاهُ — خاص اس کی (اس کے علاوہ کسی کی نہیں)، إِيَّايَ — خاص میری۔",
+    "en": "إِيَّا is a word of restriction: إِيَّاكَ — You alone, إِيَّاهُ — him alone (no one else), إِيَّايَ — me alone."
+   }
+  },
+  {
+   "title": { "ur": "اسْت — طلب کرنا", "en": "اسْت — seeking" },
+   "body": {
+    "ur": "اسْت / نَسْت طلب کرنے کے معنی دیتا ہے: نمازِ استسقا = است (میں طلب کرتا ہوں) + سقا (پانی) — بارش کی طلب۔ اسی طرح نَسْتَعِيْنُ — ہم مدد طلب کرتے ہیں۔",
+    "en": "اسْت / نَسْت carries the sense of seeking: the prayer استسقا = است (I seek) + سقا (water) — asking for rain. So نَسْتَعِيْنُ — we seek help."
+   }
+  }
+ ],
+ "verse": { "surah": 1, "ayah": 5 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "صرف آپ ہی کی", "en": "You alone" },
+   "parts": [
+    { "text": "إِيَّا", "role": "noun", "label": { "ur": "خاص، صرف (اداۃ الحصر)", "en": "only (restriction)" } },
+    { "text": "كَ", "role": "noun", "label": { "ur": "آپ (مخاطب)", "en": "You" } }
+   ],
+   "why": {
+    "ur": "ایّا + ک: صرف اور صرف آپ کی۔ إِيَّا اداۃ الحصر (خاص) ہے، اور كَ مخاطب کی علامت۔ اسی طرح إِيَّاهُ — خاص اس کی، إِيَّايَ — خاص میری۔",
+    "en": "إيّا + ك: You and You alone. إِيَّا restricts (only), and كَ is “You”. Likewise إِيَّاهُ — him alone, إِيَّايَ — me alone."
+   }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "ہم عبادت کرتے ہیں", "en": "we worship" },
+   "parts": [
+    { "text": "نَ", "role": "particle", "label": { "ur": "ہم (مضارع، جمع متکلم)", "en": "we (present)" } },
+    { "text": "عْبُدُ", "role": "verb", "label": { "ur": "عبادت کرنا", "en": "worship" } }
+   ],
+   "why": {
+    "ur": "ن + عبد۔ نَ کے دو کام: جمع متکلم کی علامت (ہم)، اور مضارع کی علامت (ی، ت، ا، ن میں سے)۔ عَبَدَ — اس نے عبادت کی؛ يَعْبُدُ — وہ، تَعْبُدُ — تو، أَعْبُدُ — میں، نَعْبُدُ — ہم عبادت کرتے ہیں یا کریں گے۔ إِيَّاكَ نَعْبُدُ — ہم صرف آپ ہی کی عبادت کرتے ہیں۔",
+    "en": "ن + عبد. نَ does two jobs: it means “we”, and it is a present-tense sign (one of ی، ت، ا، ن). عَبَدَ — he worshipped; يَعْبُدُ — he, تَعْبُدُ — you, أَعْبُدُ — I, نَعْبُدُ — we worship. إِيَّاكَ نَعْبُدُ — You alone we worship."
+   }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "اور صرف آپ ہی سے", "en": "and You alone" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "إِيَّا", "role": "noun", "label": { "ur": "خاص، صرف", "en": "only" } },
+    { "text": "كَ", "role": "noun", "label": { "ur": "آپ", "en": "You" } }
+   ],
+   "why": { "ur": "وَ — اور، إِيَّاكَ — صرف آپ ہی۔", "en": "وَ — and, إِيَّاكَ — You alone." }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "ہم مدد طلب کرتے ہیں", "en": "we ask for help" },
+   "parts": [
+    { "text": "نَسْتَ", "role": "particle", "label": { "ur": "ہم طلب کرتے ہیں", "en": "we seek" } },
+    { "text": "عِيْنُ", "role": "verb", "label": { "ur": "مدد", "en": "help" } }
+   ],
+   "why": {
+    "ur": "نست + عین۔ عَانَ — اس نے مدد کی، يُعِيْنُ — وہ مدد کرتا ہے۔ اسْت — میں طلب کرتا ہوں، نَسْتَ — ہم طلب کرتے ہیں (جیسے نمازِ استسقا: است + سقا — پانی طلب کرنا)۔ نَسْتَعِيْنُ — ہم سب مدد طلب کرتے ہیں۔ إِيَّاكَ نَسْتَعِيْنُ — ہم صرف آپ ہی سے مدد طلب کرتے ہیں۔",
+    "en": "نست + عين. عَانَ — he helped, يُعِيْنُ — he helps. اسْت — I seek, نَسْتَ — we seek (as in the prayer استسقا: است + سقا — seeking water). نَسْتَعِيْنُ — we seek help. إِيَّاكَ نَسْتَعِيْنُ — You alone we ask for help."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2], "role": "verb", "label": { "ur": "صرف آپ ہی کی ہم عبادت کرتے ہیں", "en": "You alone we worship" } },
+   { "words": [3, 4], "role": "verb", "label": { "ur": "اور صرف آپ ہی سے مدد مانگتے ہیں", "en": "and You alone we ask for help" } }
+  ],
+  "plain": {
+   "ur": "ہم تیری ہی عبادت کرتے ہیں اور تجھی سے مدد مانگتے ہیں۔ إِيَّاكَ فعل سے پہلے آیا ہے، اور یہی ”صرف“ کا زور پیدا کرتا ہے — عبادت بھی صرف اسی کی، اور مدد کی طلب بھی صرف اسی سے۔ یہاں سے سورت کا رخ اللہ کی تعریف سے بندے کی دعا کی طرف مڑ جاتا ہے۔",
+   "en": "You alone we worship and You alone we ask for help. إِيَّاكَ comes before the verb, and that is what gives the “alone” its force — worship for Him only, and help sought from Him only. Here the surah turns from praising Allah to the servant's prayer."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "إِيَّا اداۃ الحصر ہے: إِيَّاكَ — صرف آپ؛ إِيَّاهُ — صرف وہ؛ إِيَّايَ — صرف میں۔",
+   "en": "إِيَّا restricts: إِيَّاكَ — You alone; إِيَّاهُ — him alone; إِيَّايَ — me alone."
+  },
+  "points": [
+   { "ur": "يَعْبُدُ، تَعْبُدُ، أَعْبُدُ، نَعْبُدُ — وہ، تو، میں، ہم عبادت کرتے ہیں۔", "en": "يَعْبُدُ, تَعْبُدُ, أَعْبُدُ, نَعْبُدُ — he, you, I, we worship." },
+   { "ur": "اسْت / نَسْتَ — طلب کرنا: نَسْتَعِيْنُ — ہم مدد طلب کرتے ہیں۔", "en": "اسْت / نَسْتَ — seeking: نَسْتَعِيْنُ — we seek help." },
+   { "ur": "عَانَ — مدد کی، يُعِيْنُ — مدد کرتا ہے۔", "en": "عَانَ — helped, يُعِيْنُ — helps." }
+  ]
+ },
+ "check": [
+  {
+   "id": "u3-l4-q1",
+   "type": "mcq",
+   "prompt": { "ur": "إِيَّاكَ کا کیا مطلب ہے؟", "en": "What does إِيَّاكَ mean?" },
+   "options": [
+    { "text": { "ur": "صرف آپ ہی", "en": "You alone" } },
+    { "text": { "ur": "ہم سب", "en": "all of us" } },
+    { "text": { "ur": "آپ کی طرف", "en": "towards You" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "إِيَّا (خاص، صرف) + كَ (آپ): صرف اور صرف آپ۔", "en": "إِيَّا (only) + كَ (You): You alone." }
+  },
+  {
+   "id": "u3-l4-q2",
+   "type": "mcq",
+   "prompt": { "ur": "نَعْبُدُ کے شروع میں نَ کیا بتاتا ہے؟", "en": "What does the نَ at the start of نَعْبُدُ show?" },
+   "options": [
+    { "text": { "ur": "ہم — مضارع", "en": "we — present tense" } },
+    { "text": { "ur": "میں — ماضی", "en": "I — past" } },
+    { "text": { "ur": "وہ — امر", "en": "he — command" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "نَ جمع متکلم (ہم) اور مضارع کی علامت ہے: نَعْبُدُ — ہم عبادت کرتے ہیں۔", "en": "نَ means “we” and marks the present tense: نَعْبُدُ — we worship." }
+  },
+  {
+   "id": "u3-l4-q3",
+   "type": "mcq",
+   "prompt": { "ur": "أَعْبُدُ کا کیا مطلب ہے؟", "en": "What does أَعْبُدُ mean?" },
+   "arabic": "أَعْبُدُ",
+   "options": [
+    { "text": { "ur": "میں عبادت کرتا ہوں", "en": "I worship" } },
+    { "text": { "ur": "ہم عبادت کرتے ہیں", "en": "we worship" } },
+    { "text": { "ur": "عبادت کرو", "en": "worship!" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "شروع کا أ — میں: أَعْبُدُ — میں عبادت کرتا ہوں۔ ہم — نَعْبُدُ۔", "en": "أ at the start — I: أَعْبُدُ — I worship. “We” is نَعْبُدُ." }
+  },
+  {
+   "id": "u3-l4-q4",
+   "type": "mcq",
+   "prompt": { "ur": "نَسْتَعِيْنُ میں نَسْتَ کا کیا معنی ہے؟", "en": "What does نَسْتَ mean in نَسْتَعِيْنُ?" },
+   "options": [
+    { "text": { "ur": "ہم طلب کرتے ہیں", "en": "we seek" } },
+    { "text": { "ur": "ہم دیتے ہیں", "en": "we give" } },
+    { "text": { "ur": "ہم نے کیا", "en": "we did" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "اسْت / نَسْت طلب کے معنی دیتا ہے (جیسے استسقا): نَسْتَعِيْنُ — ہم مدد طلب کرتے ہیں۔", "en": "اسْت / نَسْت means seeking (as in استسقا): نَسْتَعِيْنُ — we seek help." }
+  }
+ ]
+}

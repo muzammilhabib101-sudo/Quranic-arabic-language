@@ -1,0 +1,294 @@
+{
+ "id": "u2-l15",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الحجرات کی پندرہویں آیت کو لفظ بہ لفظ سمجھیں — سچے مومن کون ہیں — اور سیکھیں: إِنَّمَا سے حصر، بِ کے معنی ”پر“ (بِاللّٰهِ)، لَمْ يَرْتَابُوْا، اور اضافت سَبِيْلِ اللّٰهِ۔",
+  "en": "Understand the fifteenth verse of Surah Al-Hujurat word by word — who the true believers are — and learn: restriction with إِنَّمَا, بِ meaning “in” (بِاللّٰهِ), لَمْ يَرْتَابُوْا, and the idafa سَبِيْلِ اللّٰهِ."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "إِنَّمَا — صرف یہی", "en": "إِنَّمَا — only these" },
+   "body": {
+    "ur": "إِنَّ، أَنَّ، لامِ لازم، قَدْ، لَقَدْ اور نَّ — سب بیشک اور یقیناً کے معنی دیتے ہیں، مگر إِنَّمَا سب سے زیادہ زور اور تاکید کے لیے آتا ہے: مومن تو صرف وہی ہیں…",
+    "en": "إِنَّ, أَنَّ, the emphatic لام, قَدْ, لَقَدْ and نَّ all mean “indeed”, but إِنَّمَا is the strongest: the believers are only those who…"
+   }
+  },
+  {
+   "title": { "ur": "بِ کے کئی معنی", "en": "The many meanings of بِ" },
+   "body": {
+    "ur": "بِ کے ساتھ، پر، اوپر، کے سبب، کے متعلق اور میں — سب معنی دیتا ہے: بِسْمِ اللّٰهِ (کے ساتھ)، بِاللّٰهِ (پر)، بِجَهَالَةٍ (کے سبب)، بِالْقَوْلِ (میں)۔",
+    "en": "بِ can mean with, on, because of, about and in: بِسْمِ اللّٰهِ (with), بِاللّٰهِ (in), بِجَهَالَةٍ (because of), بِالْقَوْلِ (in)."
+   }
+  }
+ ],
+ "verse": { "surah": 49, "ayah": 15 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "صرف، بیشک", "en": "only" },
+   "parts": [
+    { "text": "إِنَّ", "role": "particle", "label": { "ur": "بیشک", "en": "indeed" } },
+    { "text": "مَا", "role": "particle", "label": { "ur": "حصر", "en": "restriction" } }
+   ],
+   "why": {
+    "ur": "إِنَّمَا — تاکید کا سب سے زور دار کلمہ: بیشک ایسا ہی ہے، صرف یہی۔",
+    "en": "إِنَّمَا — the strongest word of emphasis: truly, only this."
+   }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "مومن", "en": "the believers" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "مُؤْمِن", "role": "noun", "label": { "ur": "مومن", "en": "believer" } },
+    { "text": "وْنَ", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": { "ur": "الْمُؤْمِنُوْنَ — حقیقی مومن۔", "en": "الْمُؤْمِنُوْنَ — the true believers." }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "وہ لوگ جو", "en": "those who" },
+   "parts": [{ "text": "الَّذِيْنَ", "role": "noun", "label": { "ur": "جو سب اشخاص", "en": "those who" } }],
+   "why": { "ur": "الَّذِيْنَ — جو سب اشخاص۔", "en": "الَّذِيْنَ — those who." }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "ایمان لائے", "en": "believed" },
+   "parts": [
+    { "text": "آمَنَ", "role": "verb", "label": { "ur": "جو ایک شخص ایمان لایا", "en": "he believed" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": { "ur": "آمن + وا: جو سب اشخاص ایمان لائے۔", "en": "آمن + وا: those who all believed." }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "اللہ پر", "en": "in Allah" },
+   "parts": [
+    { "text": "بِ", "role": "particle", "label": { "ur": "پر", "en": "in, on" } },
+    { "text": "اللّٰه", "role": "noun", "label": { "ur": "اللہ", "en": "Allah" } }
+   ],
+   "why": {
+    "ur": "ب + اللہ: اللہ پر۔ ب کے ساتھ، پر، اوپر، کے سبب، کے متعلق اور میں — سب معنی دیتا ہے؛ یہاں ”پر“۔",
+    "en": "ب + Allah: in Allah. بِ can mean with, on, because of, about or in; here it is “in”."
+   }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "اور اس کے رسول پر", "en": "and His Messenger" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "رَسُوْلِ", "role": "noun", "label": { "ur": "رسول", "en": "messenger" } },
+    { "text": "هٖ", "role": "noun", "label": { "ur": "اس کے", "en": "His" } }
+   ],
+   "why": { "ur": "رسول + ہٖ: اس کے رسول۔", "en": "رسول + هٖ: His Messenger." }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "پھر", "en": "then" },
+   "parts": [{ "text": "ثُمَّ", "role": "particle", "label": { "ur": "پھر", "en": "then" } }],
+   "why": { "ur": "ثُمَّ — پھر؛ قرآن میں بار بار آنے والے کلمات میں سے۔", "en": "ثُمَّ — then; one of the Quran's most frequent words." }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "نہیں", "en": "did not" },
+   "parts": [{ "text": "لَمْ", "role": "particle", "label": { "ur": "نفی (ماضی)", "en": "not (past)" } }],
+   "why": { "ur": "لَمْ — مضارع سے پہلے آتا ہے اور ماضی میں نفی کرتا ہے۔", "en": "لَمْ — comes before a present verb and negates it in the past." }
+  },
+  {
+   "position": 9,
+   "meaning": { "ur": "شک میں پڑے", "en": "doubted" },
+   "parts": [
+    { "text": "يَرْتَابُ", "role": "verb", "label": { "ur": "شک میں مبتلا ہونا", "en": "doubt" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ارتیاب یعنی شک؛ اردو میں جملہ آتا ہے: ”میں یہ بات بلاشک و ارتیاب کہتا ہوں“۔ اِرْتَابَ — وہ شک میں مبتلا ہوا، يَرْتَابُ — وہ شک میں مبتلا ہوتا ہے، يَرْتَابُوْا — وہ سب شک میں مبتلا ہوتے ہیں، لَمْ يَرْتَابُوْا — وہ سب شک میں مبتلا نہیں ہوئے۔ لَمْ کے استعمال سے مضارع ماضی میں بدل گیا۔",
+    "en": "ارتیاب means doubt; Urdu says “I say this without doubt or ارتیاب”. اِرْتَابَ — he doubted, يَرْتَابُ — he doubts, لَمْ يَرْتَابُوْا — they did not doubt. لَمْ turns the present into the past."
+   }
+  },
+  {
+   "position": 10,
+   "meaning": { "ur": "اور انہوں نے جہاد کیا", "en": "and strove" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "جَاهَدُ", "role": "verb", "label": { "ur": "اس نے جہاد کیا", "en": "he strove" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": { "ur": "جاہد + وا: ان سب نے جہاد کیا۔", "en": "جاهد + وا: they strove." }
+  },
+  {
+   "position": 11,
+   "meaning": { "ur": "اپنے مالوں کے ساتھ", "en": "with their wealth" },
+   "parts": [
+    { "text": "بِ", "role": "particle", "label": { "ur": "کے ساتھ", "en": "with" } },
+    { "text": "أَمْوَالِ", "role": "noun", "label": { "ur": "اموال (مال کی جمع)", "en": "wealth" } },
+    { "text": "هِمْ", "role": "noun", "label": { "ur": "ان سب کے", "en": "their" } }
+   ],
+   "why": { "ur": "ب + اموال (مال کی جمع) + ہم: اپنے اموال کے ساتھ۔", "en": "ب + اموال (plural of مال) + هم: with their wealth." }
+  },
+  {
+   "position": 12,
+   "meaning": { "ur": "اور اپنی جانوں کے ساتھ", "en": "and their lives" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "أَنْفُسِ", "role": "noun", "label": { "ur": "جانیں (نفس کی جمع)", "en": "selves, lives" } },
+    { "text": "هِمْ", "role": "noun", "label": { "ur": "ان سب کی", "en": "their" } }
+   ],
+   "why": { "ur": "انفس (نفس — جان) + ہم: اپنی جانوں سے۔", "en": "انفس (نفس — life, self) + هم: with their lives." }
+  },
+  {
+   "position": 13,
+   "meaning": { "ur": "میں", "en": "in" },
+   "parts": [{ "text": "فِيْ", "role": "particle", "label": { "ur": "میں", "en": "in" } }],
+   "why": { "ur": "فِيْ — میں۔", "en": "فِيْ — in." }
+  },
+  {
+   "position": 14,
+   "meaning": { "ur": "راستہ", "en": "the way" },
+   "parts": [{ "text": "سَبِيْل", "role": "noun", "label": { "ur": "راستہ", "en": "way" } }],
+   "why": { "ur": "سَبِيْل — راستہ (اسمِ نکرہ)۔", "en": "سَبِيْل — way, path (indefinite)." }
+  },
+  {
+   "position": 15,
+   "meaning": { "ur": "اللہ (کے)", "en": "(of) Allah" },
+   "parts": [{ "text": "اللّٰه", "role": "noun", "label": { "ur": "اللہ (اسمِ معرفہ)", "en": "Allah" } }],
+   "why": {
+    "ur": "سَبِيْلِ اللّٰهِ — اللہ کا راستہ: پہلے اسمِ نکرہ اور پھر اسمِ معرفہ آئے تو کا، کے، کی کا اضافہ کرتے ہیں۔",
+    "en": "سَبِيْلِ اللّٰهِ — the way of Allah: an indefinite noun followed by a definite one is translated with “of”."
+   }
+  },
+  {
+   "position": 16,
+   "meaning": { "ur": "یہی لوگ", "en": "those" },
+   "parts": [{ "text": "أُولٰئِكَ", "role": "noun", "label": { "ur": "وہ سب", "en": "those" } }],
+   "why": { "ur": "أُولٰئِكَ — وہ سب۔", "en": "أُولٰئِكَ — those." }
+  },
+  {
+   "position": 17,
+   "meaning": { "ur": "وہی", "en": "they are" },
+   "parts": [{ "text": "هُمُ", "role": "noun", "label": { "ur": "وہ سب", "en": "they" } }],
+   "why": { "ur": "أُولٰئِكَ هُمُ — وہی لوگ (دو ہم معنی کلمات سے زور)۔", "en": "أُولٰئِكَ هُمُ — they alone (two words of one meaning add emphasis)." }
+  },
+  {
+   "position": 18,
+   "meaning": { "ur": "سچے", "en": "the truthful" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "اصل", "en": "the true" } },
+    { "text": "صَّادِق", "role": "noun", "label": { "ur": "سچا", "en": "truthful" } },
+    { "text": "وْنَ", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "pattern": "فَاعِل",
+   "patternMeaning": { "ur": "کام کرنے والا", "en": "the one who does the action" },
+   "why": {
+    "ur": "ال + صادق + ون: وہی لوگ دراصل سچے ہیں۔ أُولٰئِكَ هُمُ الصَّادِقُوْنَ — یہی لوگ درحقیقت سچے ہیں۔",
+    "en": "ال + صادق + ون: the truly truthful. أُولٰئِكَ هُمُ الصَّادِقُوْنَ — it is they who are the truthful."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2], "role": "particle", "label": { "ur": "مومن تو صرف وہ ہیں", "en": "the believers are only" } },
+   { "words": [3, 4, 5, 6], "role": "verb", "label": { "ur": "جو اللہ اور اس کے رسول پر ایمان لائے", "en": "those who believed in Allah and His Messenger" } },
+   { "words": [7, 8, 9], "role": "verb", "label": { "ur": "پھر کبھی شک میں نہ پڑے", "en": "then never doubted" } },
+   { "words": [10, 11, 12], "role": "verb", "label": { "ur": "اور مال و جان سے جہاد کیا", "en": "and strove with wealth and life" } },
+   { "words": [13, 14, 15], "role": "noun", "label": { "ur": "اللہ کی راہ میں", "en": "in the way of Allah" } },
+   { "words": [16, 17, 18], "role": "noun", "label": { "ur": "وہی سچے ہیں", "en": "it is they who are truthful" } }
+  ],
+  "plain": {
+   "ur": "بیشک مومن تو صرف وہی ہیں جو اللہ اور اس کے رسول پر ایمان لائے، اور پھر شک میں مبتلا نہ ہوئے، اور پھر انہوں نے اپنی جانوں اور مالوں کے ساتھ اللہ کی راہ میں جہاد کیا — وہی لوگ دراصل سچے ہیں۔ پچھلی آیت میں بدوؤں کے زبانی دعوے کا ذکر تھا؛ یہ آیت سچے ایمان کی تین نشانیاں بتاتی ہے: ایمان، بے شک یقین، اور جہاد۔",
+   "en": "The believers are only those who believed in Allah and His Messenger, then never doubted, and strove with their wealth and their lives in the way of Allah — it is they who are truthful. The previous verse spoke of a claim made with the tongue; this one gives three signs of true faith: belief, certainty without doubt, and striving."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "إِنَّمَا حصر کرتا ہے — صرف یہی: إِنَّمَا الْمُؤْمِنُوْنَ — مومن تو صرف وہ ہیں۔",
+   "en": "إِنَّمَا restricts — only these: إِنَّمَا الْمُؤْمِنُوْنَ — the believers are only those…"
+  },
+  "points": [
+   {
+    "ur": "بِ کے معنی: کے ساتھ (بِسْمِ اللّٰهِ)، پر (بِاللّٰهِ)، سبب (بِجَهَالَةٍ)، میں (بِالْقَوْلِ)۔",
+    "en": "بِ means: with (بِسْمِ اللّٰهِ), in (بِاللّٰهِ), because of (بِجَهَالَةٍ), in (بِالْقَوْلِ)."
+   },
+   {
+    "ur": "لَمْ يَرْتَابُوْا — وہ شک میں مبتلا نہیں ہوئے (ارتیاب = شک)۔",
+    "en": "لَمْ يَرْتَابُوْا — they did not doubt (ارتیاب = doubt)."
+   },
+   {
+    "ur": "سَبِيْلِ اللّٰهِ — اضافت: نکرہ کے بعد معرفہ — اللہ کا راستہ۔",
+    "en": "سَبِيْلِ اللّٰهِ — idafa: indefinite then definite — the way of Allah."
+   }
+  ]
+ },
+ "check": [
+  {
+   "id": "u2-l15-q1",
+   "type": "mcq",
+   "prompt": { "ur": "بِاللّٰهِ میں بِ کا کیا معنی ہے؟", "en": "What does بِ mean in بِاللّٰهِ?" },
+   "options": [
+    { "text": { "ur": "پر", "en": "in, on" } },
+    { "text": { "ur": "کے سبب", "en": "because of" } },
+    { "text": { "ur": "اور", "en": "and" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "آمَنُوْا بِاللّٰهِ — اللہ پر ایمان لائے؛ یہاں ب کا معنی ”پر“ ہے۔",
+    "en": "آمَنُوْا بِاللّٰهِ — believed in Allah; here بِ means “in”."
+   }
+  },
+  {
+   "id": "u2-l15-q2",
+   "type": "mcq",
+   "prompt": { "ur": "لَمْ يَرْتَابُوْا کا کیا مطلب ہے؟", "en": "What does لَمْ يَرْتَابُوْا mean?" },
+   "options": [
+    { "text": { "ur": "وہ شک میں مبتلا نہیں ہوئے", "en": "they did not doubt" } },
+    { "text": { "ur": "وہ شک کرتے ہیں", "en": "they doubt" } },
+    { "text": { "ur": "شک نہ کرو", "en": "do not doubt" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "يَرْتَابُوْا — وہ شک میں مبتلا ہوتے ہیں؛ لَمْ سے ماضی کی نفی: وہ شک میں مبتلا نہیں ہوئے۔",
+    "en": "يَرْتَابُوْا — they doubt; لَمْ makes a negative past: they did not doubt."
+   }
+  },
+  {
+   "id": "u2-l15-q3",
+   "type": "mcq",
+   "prompt": { "ur": "ثُمَّ کا کیا معنی ہے؟", "en": "What does ثُمَّ mean?" },
+   "arabic": "ثُمَّ",
+   "options": [
+    { "text": { "ur": "پھر", "en": "then" } },
+    { "text": { "ur": "یہاں", "en": "here" } },
+    { "text": { "ur": "نہیں", "en": "not" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "ثُمَّ — پھر۔", "en": "ثُمَّ — then." }
+  },
+  {
+   "id": "u2-l15-q4",
+   "type": "mcq",
+   "prompt": { "ur": "سَبِيْلِ اللّٰهِ کا ترجمہ کیا ہے؟", "en": "How is سَبِيْلِ اللّٰهِ translated?" },
+   "options": [
+    { "text": { "ur": "اللہ کا راستہ", "en": "the way of Allah" } },
+    { "text": { "ur": "اللہ اور راستہ", "en": "Allah and a way" } },
+    { "text": { "ur": "اللہ کی طرف", "en": "towards Allah" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "پہلے اسمِ نکرہ (سَبِيْل) اور پھر اسمِ معرفہ (اللّٰه) — اضافت: اللہ کا راستہ۔",
+    "en": "Indefinite (سَبِيْل) then definite (اللّٰه) — idafa: the way of Allah."
+   }
+  },
+  {
+   "id": "u2-l15-q5",
+   "type": "mcq",
+   "prompt": { "ur": "أَمْوَال کس لفظ کی جمع ہے؟", "en": "أَمْوَال is the plural of which word?" },
+   "arabic": "أَمْوَال",
+   "options": [{ "ar": "مَال" }, { "ar": "أَمْر" }, { "ar": "عَمَل" }],
+   "answer": 0,
+   "explanation": {
+    "ur": "أَمْوَال، مَال کی جمع ہے: بِأَمْوَالِهِمْ — اپنے مالوں کے ساتھ۔",
+    "en": "أَمْوَال is the plural of مَال (wealth): بِأَمْوَالِهِمْ — with their wealth."
+   }
+  }
+ ]
+}

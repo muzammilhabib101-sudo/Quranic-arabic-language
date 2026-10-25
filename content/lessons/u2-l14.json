@@ -1,0 +1,397 @@
+{
+ "id": "u2-l14",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الحجرات کی چودہویں آیت کو لفظ بہ لفظ سمجھیں — ایمان اور اسلام کا فرق — اور سیکھیں: قَالَتْ میں مؤنث ت (قوم مؤنث ہے)، فعلِ امر قُلْ، لَمْ سے ماضی کی نفی، اور لَمَّا کے دو استعمال۔",
+  "en": "Understand the fourteenth verse of Surah Al-Hujurat word by word — the difference between faith and submission — and learn: the feminine ت in قَالَتْ (a people is feminine), the command قُلْ, لَمْ negating the past, and the two uses of لَمَّا."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "قومیں مؤنث", "en": "Peoples are feminine" },
+   "body": {
+    "ur": "قومیں تمام زبانوں میں مؤنث ہوتی ہیں، اس لیے یہاں قَالَتِ الْأَعْرَابُ (بدوؤں نے کہا) میں مؤنث کا صیغہ ہے۔",
+    "en": "Peoples are treated as feminine, so قَالَتِ الْأَعْرَابُ (the Bedouins said) uses the feminine form."
+   }
+  },
+  {
+   "title": { "ur": "لَمَّا کے دو استعمال", "en": "Two uses of لَمَّا" },
+   "body": {
+    "ur": "۱۔ مضارع سے پہلے نفی کے لیے: وَلَمَّا يَدْخُلِ — ابھی داخل ہوا ہی نہیں۔ ۲۔ ماضی سے پہلے بمعنی ”جب“: لَمَّا جَاءَ أَكْرَمْتُهٗ — جب وہ آیا تو میں نے اس کی عزت کی۔",
+    "en": "1. Before a present verb, it negates: وَلَمَّا يَدْخُلِ — has not yet entered. 2. Before a past verb, it means “when”: لَمَّا جَاءَ أَكْرَمْتُهٗ — when he came, I honoured him."
+   }
+  }
+ ],
+ "verse": { "surah": 49, "ayah": 14 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "کہا", "en": "said" },
+   "parts": [
+    { "text": "قَالَ", "role": "verb", "label": { "ur": "اس نے کہا", "en": "he said" } },
+    { "text": "تِ", "role": "noun", "label": { "ur": "مؤنث کی علامت", "en": "feminine sign" } }
+   ],
+   "why": {
+    "ur": "قال + ت: اس ایک مؤنث نے کہا۔ کلمے کے آخر پر آنے والی ت کی چار حالتیں ہیں: كَتَبْتُ (میں نے)، كَتَبْتَ (تو مذکر نے)، كَتَبْتِ (تو مؤنث نے)، كَتَبَتْ (اس مؤنث نے)۔ یہاں ت پر زیر صرف اگلے لفظ سے ملانے کے لیے ہے۔",
+    "en": "قال + ت: she said. A final ت has four cases: كَتَبْتُ (I), كَتَبْتَ (you, m.), كَتَبْتِ (you, f.), كَتَبَتْ (she). The kasra on this ت only joins it to the next word."
+   }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "بدوؤں نے", "en": "the Bedouins" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "أَعْرَاب", "role": "noun", "label": { "ur": "بدو", "en": "Bedouins" } }
+   ],
+   "why": {
+    "ur": "الْأَعْرَاب — اعرابی کی جمع، یعنی تہذیب سے ناآشنا بدو۔ قومیں تمام زبانوں میں مؤنث ہوتی ہیں، اس لیے قَالَتْ آیا۔ قَالَتِ الْأَعْرَابُ — بدوؤں نے کہا۔",
+    "en": "الْأَعْرَاب — plural of اعرابی, desert Arabs unfamiliar with settled ways. Peoples are feminine, hence قَالَتْ. قَالَتِ الْأَعْرَابُ — the Bedouins said."
+   }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "ہم ایمان لائے", "en": "we believe" },
+   "parts": [
+    { "text": "آمَنْ", "role": "verb", "label": { "ur": "ایمان لایا", "en": "believed" } },
+    { "text": "نَّا", "role": "noun", "label": { "ur": "ہم", "en": "we" } }
+   ],
+   "why": {
+    "ur": "آمن + نا: ہم ایمان لائے۔",
+    "en": "آمن + نا: we believed."
+   }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "کہہ دیجیے", "en": "say" },
+   "parts": [{ "text": "قُلْ", "role": "verb", "label": { "ur": "کہہ دیجیے (امر)", "en": "say (command)" } }],
+   "why": {
+    "ur": "قُلْ — کہہ دیجیے؛ آخری حرف پر سکون فعلِ امر کی علامت ہے۔",
+    "en": "قُلْ — say; the sukun on the last letter marks a command."
+   }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "نہیں", "en": "not" },
+   "parts": [{ "text": "لَمْ", "role": "particle", "label": { "ur": "نفی (ماضی)", "en": "not (past)" } }],
+   "why": {
+    "ur": "لَمْ نفی کے لیے استعمال ہوتا ہے، مضارع سے پہلے آتا ہے اور ماضی کے معنی دیتا ہے۔",
+    "en": "لَمْ negates; it comes before a present verb and gives a past meaning."
+   }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "تم ایمان لائے", "en": "you have believed" },
+   "parts": [
+    { "text": "تُؤْمِنُ", "role": "verb", "label": { "ur": "تم ایمان لاتے ہو", "en": "you believe" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "تؤمن + وا: تم سب ایمان لاتے ہو یا لاؤ گے۔ لَمْ نے ماضی میں نفی کر دی: لَمْ تُؤْمِنُوْا — تم سب ایمان نہیں لائے۔",
+    "en": "تؤمن + وا: you all believe. لَمْ makes it a negative past: لَمْ تُؤْمِنُوْا — you have not believed."
+   }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "اور لیکن", "en": "but" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "لٰكِنْ", "role": "particle", "label": { "ur": "لیکن", "en": "but" } }
+   ],
+   "why": { "ur": "وَ — اور، لٰكِنْ — لیکن؛ دونوں اردو میں مستعمل۔", "en": "وَ — and, لٰكِنْ — but; both used in Urdu." }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "تم سب کہو", "en": "say (all of you)" },
+   "parts": [
+    { "text": "قُوْلُ", "role": "verb", "label": { "ur": "کہو", "en": "say" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": { "ur": "قول + وا: تم سب کہو۔", "en": "قول + وا: say, all of you." }
+  },
+  {
+   "position": 9,
+   "meaning": { "ur": "ہم اسلام لائے", "en": "we have submitted" },
+   "parts": [
+    { "text": "أَسْلَمْ", "role": "verb", "label": { "ur": "سرِ خم تسلیم کیا", "en": "submitted" } },
+    { "text": "نَا", "role": "noun", "label": { "ur": "ہم نے", "en": "we" } }
+   ],
+   "why": {
+    "ur": "اسلم + نا: ہم نے سرِ خم تسلیم کیا، ہم جھک گئے۔ وَلٰكِنْ قُوْلُوْا أَسْلَمْنَا — بلکہ یوں کہو کہ ہم مطیع ہو گئے۔",
+    "en": "أسلم + نا: we bowed, we submitted. وَلٰكِنْ قُوْلُوْا أَسْلَمْنَا — rather say: we have submitted."
+   }
+  },
+  {
+   "position": 10,
+   "meaning": { "ur": "اور ابھی نہیں", "en": "and not yet" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "لَمَّا", "role": "particle", "label": { "ur": "ہرگز نہیں (ابھی تک)", "en": "not yet" } }
+   ],
+   "why": {
+    "ur": "لَمْ + مَا — دونوں نفی: ہرگز نہیں، ابھی تک نہیں۔ لَمَّا دو طرح استعمال ہوتا ہے: مضارع سے پہلے نفی کے لیے، اور ماضی سے پہلے بمعنی ”جب“ (لَمَّا جَاءَ أَكْرَمْتُهٗ — جب وہ آیا تو میں نے اس کی عزت کی)۔",
+    "en": "لَمْ + مَا — both negate: not at all, not yet. لَمَّا has two uses: before a present verb it negates, and before a past verb it means “when” (لَمَّا جَاءَ أَكْرَمْتُهٗ — when he came, I honoured him)."
+   }
+  },
+  {
+   "position": 11,
+   "meaning": { "ur": "داخل ہوا", "en": "entered" },
+   "parts": [
+    { "text": "يَ", "role": "particle", "label": { "ur": "مضارع کی علامت", "en": "present-tense sign" } },
+    { "text": "دْخُلِ", "role": "verb", "label": { "ur": "داخل ہونا", "en": "enter" } }
+   ],
+   "why": {
+    "ur": "ی + دخل: داخل ہوتا ہے یا ہو گا (داخل اردو میں مستعمل)۔ وَلَمَّا يَدْخُلِ — اور ابھی داخل ہوا ہی نہیں۔",
+    "en": "ی + دخل: enters (Urdu داخل). وَلَمَّا يَدْخُلِ — and has not yet entered."
+   }
+  },
+  {
+   "position": 12,
+   "meaning": { "ur": "ایمان", "en": "faith" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "إِيْمَان", "role": "noun", "label": { "ur": "اصل ایمان", "en": "true faith" } }
+   ],
+   "why": { "ur": "الْإِيْمَان — اصل ایمان۔", "en": "الْإِيْمَان — true faith." }
+  },
+  {
+   "position": 13,
+   "meaning": { "ur": "میں", "en": "into" },
+   "parts": [{ "text": "فِيْ", "role": "particle", "label": { "ur": "میں", "en": "in" } }],
+   "why": { "ur": "فِيْ — میں۔", "en": "فِيْ — in, into." }
+  },
+  {
+   "position": 14,
+   "meaning": { "ur": "تمہارے دلوں", "en": "your hearts" },
+   "parts": [
+    { "text": "قُلُوْبِ", "role": "noun", "label": { "ur": "دل (قلب کی جمع)", "en": "hearts" } },
+    { "text": "كُمْ", "role": "noun", "label": { "ur": "تمہارے", "en": "your" } }
+   ],
+   "why": {
+    "ur": "قلوب + كُم: تمہارے دلوں میں۔ وَلَمَّا يَدْخُلِ الْإِيْمَانُ فِيْ قُلُوْبِكُمْ — ایمان تو ابھی تمہارے دلوں میں داخل ہی نہیں ہوا۔",
+    "en": "قلوب + كُم: in your hearts. وَلَمَّا يَدْخُلِ الْإِيْمَانُ فِيْ قُلُوْبِكُمْ — faith has not yet entered your hearts."
+   }
+  },
+  {
+   "position": 15,
+   "meaning": { "ur": "اور اگر", "en": "and if" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "إِنْ", "role": "particle", "label": { "ur": "اگر", "en": "if" } }
+   ],
+   "why": { "ur": "وَ — اور، إِنْ — اگر۔", "en": "وَ — and, إِنْ — if." }
+  },
+  {
+   "position": 16,
+   "meaning": { "ur": "تم اطاعت کرو", "en": "you obey" },
+   "parts": [
+    { "text": "تُطِيْعُ", "role": "verb", "label": { "ur": "تم اطاعت کرو", "en": "you obey" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "تطیع + وا: تم سب اطاعت کرتے۔ اسی سے مُطِيْع؛ اور يُطِيْعُ، أُطِيْعُ، نُطِيْعُ۔",
+    "en": "تطيع + وا: you all obey. From the same root: مُطِيْع (obedient), and يُطِيْعُ, أُطِيْعُ, نُطِيْعُ."
+   }
+  },
+  {
+   "position": 17,
+   "meaning": { "ur": "اللہ کی", "en": "Allah" },
+   "parts": [{ "text": "اللّٰه", "role": "noun", "label": { "ur": "لفظِ جلالہ", "en": "Allah" } }],
+   "why": { "ur": "اللّٰه — لفظِ جلالہ۔", "en": "اللّٰه — Allah." }
+  },
+  {
+   "position": 18,
+   "meaning": { "ur": "اور ان کے رسول کی", "en": "and His Messenger" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "رَسُوْلَ", "role": "noun", "label": { "ur": "رسول", "en": "messenger" } },
+    { "text": "هٗ", "role": "noun", "label": { "ur": "ان کے", "en": "His" } }
+   ],
+   "why": {
+    "ur": "وَرَسُوْلَهٗ — اور ان کے رسول۔ وَإِنْ تُطِيْعُوا اللّٰهَ وَرَسُوْلَهٗ — اگر تم اللہ اور ان کے رسول کی اطاعت کرتے۔",
+    "en": "وَرَسُوْلَهٗ — and His Messenger. وَإِنْ تُطِيْعُوا اللّٰهَ وَرَسُوْلَهٗ — and if you obey Allah and His Messenger."
+   }
+  },
+  {
+   "position": 19,
+   "meaning": { "ur": "نہ", "en": "not" },
+   "parts": [{ "text": "لَا", "role": "particle", "label": { "ur": "نفی", "en": "not" } }],
+   "why": { "ur": "لَا — نفی کے لیے۔", "en": "لَا — negation." }
+  },
+  {
+   "position": 20,
+   "meaning": { "ur": "وہ تمہارے لیے کمی کرے گا", "en": "He will reduce for you" },
+   "parts": [
+    { "text": "يَلِتْ", "role": "verb", "label": { "ur": "کمی کرنا", "en": "reduce" } },
+    { "text": "كُمْ", "role": "noun", "label": { "ur": "تمہارے", "en": "you" } }
+   ],
+   "why": {
+    "ur": "یلت + كُم۔ لَاتَ — اس نے کمی کی؛ يَلِتْ — وہ کم کرتا ہے، گھٹاتا ہے، پھیرتا ہے۔ لَا يَلِتْكُمْ — وہ تمہارے لیے کمی نہیں کرے گا۔",
+    "en": "يلت + كُم. لَاتَ — he reduced; يَلِتْ — he lessens, takes away. لَا يَلِتْكُمْ — He will not reduce for you."
+   }
+  },
+  {
+   "position": 21,
+   "meaning": { "ur": "سے", "en": "of" },
+   "parts": [{ "text": "مِنْ", "role": "particle", "label": { "ur": "سے", "en": "of, from" } }],
+   "why": { "ur": "مِنْ — سے۔", "en": "مِنْ — of." }
+  },
+  {
+   "position": 22,
+   "meaning": { "ur": "تمہارے اعمال", "en": "your deeds" },
+   "parts": [
+    { "text": "أَعْمَالِ", "role": "noun", "label": { "ur": "اعمال", "en": "deeds" } },
+    { "text": "كُمْ", "role": "noun", "label": { "ur": "تمہارے", "en": "your" } }
+   ],
+   "why": { "ur": "اعمال (عمل کی جمع) + كُم: تمہارے اعمال میں سے۔", "en": "اعمال (plural of عمل) + كُم: of your deeds." }
+  },
+  {
+   "position": 23,
+   "meaning": { "ur": "کچھ بھی", "en": "anything" },
+   "parts": [{ "text": "شَيْء", "role": "noun", "label": { "ur": "چیز", "en": "thing" } }],
+   "why": {
+    "ur": "شَيْء — چیز، اور اس کی جمع اشیاء (اردو میں مستعمل)۔ تنوین سے: کچھ بھی۔ لَا يَلِتْكُمْ مِّنْ أَعْمَالِكُمْ شَيْئًا — تو وہ تمہارے اعمال کے اجر میں کوئی کمی نہ فرماتے۔",
+    "en": "شَيْء — thing; plural اشیاء (used in Urdu). With tanween: anything. لَا يَلِتْكُمْ مِّنْ أَعْمَالِكُمْ شَيْئًا — He will not lessen your deeds in the least."
+   }
+  },
+  {
+   "position": 24,
+   "meaning": { "ur": "بیشک", "en": "indeed" },
+   "parts": [{ "text": "إِنَّ", "role": "particle", "label": { "ur": "بیشک", "en": "indeed" } }],
+   "why": { "ur": "إِنَّ — بیشک۔", "en": "إِنَّ — indeed." }
+  },
+  {
+   "position": 25,
+   "meaning": { "ur": "اللہ", "en": "Allah" },
+   "parts": [{ "text": "اللّٰه", "role": "noun", "label": { "ur": "لفظِ جلالہ", "en": "Allah" } }],
+   "why": { "ur": "إِنَّ اللّٰهَ — بیشک اللہ۔", "en": "إِنَّ اللّٰهَ — indeed Allah." }
+  },
+  {
+   "position": 26,
+   "meaning": { "ur": "مغفرت فرمانے والا", "en": "Forgiving" },
+   "parts": [{ "text": "غَفُوْر", "role": "noun", "label": { "ur": "مغفرت فرمانے والا", "en": "forgiving" } }],
+   "why": { "ur": "غَفُوْر — مغفرت فرمانے والے۔", "en": "غَفُوْر — the Forgiving." }
+  },
+  {
+   "position": 27,
+   "meaning": { "ur": "رحم فرمانے والا", "en": "Merciful" },
+   "parts": [{ "text": "رَحِيْم", "role": "noun", "label": { "ur": "رحم فرمانے والا", "en": "merciful" } }],
+   "pattern": "فَعِيْل",
+   "patternMeaning": { "ur": "ہمیشہ کی ذاتی صفت", "en": "a lasting quality of who one is" },
+   "why": {
+    "ur": "رَحِيْم — رحم فرمانے والے۔ إِنَّ اللّٰهَ غَفُوْرٌ رَّحِيْمٌ — بیشک اللہ درگزر فرمانے اور رحم کرنے والے ہیں۔",
+    "en": "رَحِيْم — the Merciful. إِنَّ اللّٰهَ غَفُوْرٌ رَّحِيْمٌ — indeed Allah is Forgiving, Merciful."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2, 3], "role": "verb", "label": { "ur": "بدوؤں نے کہا: ہم ایمان لائے", "en": "the Bedouins say: we believe" } },
+   { "words": [4, 5, 6], "role": "verb", "label": { "ur": "کہہ دیجیے: تم ایمان نہیں لائے", "en": "say: you have not believed" } },
+   { "words": [7, 8, 9], "role": "verb", "label": { "ur": "بلکہ کہو: ہم مطیع ہو گئے", "en": "rather say: we have submitted" } },
+   { "words": [10, 11, 12, 13, 14], "role": "verb", "label": { "ur": "ایمان ابھی تمہارے دلوں میں داخل نہیں ہوا", "en": "faith has not yet entered your hearts" } },
+   { "words": [15, 16, 17, 18], "role": "verb", "label": { "ur": "اور اگر تم اللہ اور رسول کی اطاعت کرو", "en": "and if you obey Allah and His Messenger" } },
+   { "words": [19, 20, 21, 22, 23], "role": "verb", "label": { "ur": "وہ تمہارے اعمال میں کچھ کمی نہ کرے گا", "en": "He will not lessen your deeds at all" } },
+   { "words": [24, 25, 26, 27], "role": "noun", "label": { "ur": "بیشک اللہ غفور، رحیم ہے", "en": "indeed Allah is Forgiving, Merciful" } }
+  ],
+  "plain": {
+   "ur": "بدو کہتے ہیں کہ ہم ایمان لائے۔ کہہ دیجیے: تم ایمان نہیں لائے، بلکہ یوں کہو کہ ہم مطیع ہو گئے، اور ایمان تو ابھی تمہارے دلوں میں داخل ہوا ہی نہیں۔ اگر تم اللہ اور اس کے رسول کی اطاعت کرو تو وہ تمہارے اعمال کے اجر میں کوئی کمی نہ فرمائے گا؛ بیشک اللہ درگزر کرنے والے اور رحم کرنے والے ہیں۔ آیت زبانی دعوے (آمَنَّا) اور دل کی حقیقت (لَمَّا يَدْخُلِ) میں فرق کرتی ہے۔",
+   "en": "The Bedouins say, “We believe.” Say: you have not believed; rather say, “We have submitted,” for faith has not yet entered your hearts. If you obey Allah and His Messenger, He will not lessen your deeds at all; indeed Allah is Forgiving, Merciful. The verse separates a claim made with the tongue (آمَنَّا) from what is truly in the heart (لَمَّا يَدْخُلِ)."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "لَمْ مضارع سے پہلے آ کر ماضی کی نفی کرتا ہے: تُؤْمِنُوْا (تم ایمان لاتے ہو) ← لَمْ تُؤْمِنُوْا (تم ایمان نہیں لائے)۔",
+   "en": "لَمْ before a present verb makes a negative past: تُؤْمِنُوْا (you believe) → لَمْ تُؤْمِنُوْا (you have not believed)."
+  },
+  "points": [
+   {
+    "ur": "قُلْ — آخری حرف پر سکون: فعلِ امر، کہہ دیجیے۔",
+    "en": "قُلْ — a sukun on the last letter: a command, say."
+   },
+   {
+    "ur": "لَمَّا + مضارع — ابھی تک نہیں؛ لَمَّا + ماضی — جب۔",
+    "en": "لَمَّا + present — not yet; لَمَّا + past — when."
+   },
+   {
+    "ur": "قَالَتِ الْأَعْرَابُ — قومیں مؤنث ہوتی ہیں، اس لیے قَالَتْ۔",
+    "en": "قَالَتِ الْأَعْرَابُ — peoples are feminine, hence قَالَتْ."
+   }
+  ]
+ },
+ "check": [
+  {
+   "id": "u2-l14-q1",
+   "type": "mcq",
+   "prompt": { "ur": "قَالَتِ الْأَعْرَابُ میں قَالَتْ (مؤنث) کیوں ہے؟", "en": "Why is the feminine قَالَتْ used in قَالَتِ الْأَعْرَابُ?" },
+   "options": [
+    { "text": { "ur": "قومیں مؤنث ہوتی ہیں", "en": "Peoples are treated as feminine" } },
+    { "text": { "ur": "یہ عورتوں کا ذکر ہے", "en": "It speaks of women" } },
+    { "text": { "ur": "یہ سوال ہے", "en": "It is a question" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "قومیں تمام زبانوں میں مؤنث ہوتی ہیں، اس لیے یہاں قَالَتْ کا کلمہ استعمال ہوا ہے۔",
+    "en": "Peoples are feminine, so the verse uses قَالَتْ."
+   }
+  },
+  {
+   "id": "u2-l14-q2",
+   "type": "mcq",
+   "prompt": { "ur": "لَمْ تُؤْمِنُوْا کا کیا مطلب ہے؟", "en": "What does لَمْ تُؤْمِنُوْا mean?" },
+   "options": [
+    { "text": { "ur": "تم سب ایمان نہیں لائے", "en": "you have not believed" } },
+    { "text": { "ur": "ایمان لاؤ", "en": "believe!" } },
+    { "text": { "ur": "تم ایمان لاؤ گے", "en": "you will believe" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "لَمْ نے مضارع (تُؤْمِنُوْا) کی ماضی میں نفی کر دی: تم سب ایمان نہیں لائے۔",
+    "en": "لَمْ turns the present (تُؤْمِنُوْا) into a negative past: you have not believed."
+   }
+  },
+  {
+   "id": "u2-l14-q3",
+   "type": "mcq",
+   "prompt": { "ur": "وَلَمَّا يَدْخُلِ میں لَمَّا کا کیا مطلب ہے؟", "en": "What does لَمَّا mean in وَلَمَّا يَدْخُلِ?" },
+   "options": [
+    { "text": { "ur": "جب", "en": "when" } },
+    { "text": { "ur": "ابھی تک نہیں", "en": "not yet" } },
+    { "text": { "ur": "اگر", "en": "if" } }
+   ],
+   "answer": 1,
+   "explanation": {
+    "ur": "مضارع سے پہلے لَمَّا نفی دیتا ہے: ابھی داخل ہوا ہی نہیں۔ ماضی سے پہلے ہوتا تو مطلب ”جب“ ہوتا۔",
+    "en": "Before a present verb, لَمَّا negates: has not yet entered. Before a past verb it would mean “when”."
+   }
+  },
+  {
+   "id": "u2-l14-q4",
+   "type": "mcq",
+   "prompt": { "ur": "قُلْ کے آخر پر سکون کیا بتاتا ہے؟", "en": "What does the sukun at the end of قُلْ show?" },
+   "options": [
+    { "text": { "ur": "فعلِ امر — حکم", "en": "a command" } },
+    { "text": { "ur": "جمع", "en": "plural" } },
+    { "text": { "ur": "ماضی", "en": "past tense" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "آخری حرف پر سکون فعلِ امر کی علامت ہے: قُلْ — کہہ دیجیے۔",
+    "en": "A sukun on the last letter marks a command: قُلْ — say."
+   }
+  },
+  {
+   "id": "u2-l14-q5",
+   "type": "mcq",
+   "prompt": { "ur": "أَسْلَمْنَا کا کیا مطلب ہے؟", "en": "What does أَسْلَمْنَا mean?" },
+   "options": [
+    { "text": { "ur": "ہم نے سرِ خم تسلیم کیا", "en": "we have submitted" } },
+    { "text": { "ur": "وہ اسلام لائے", "en": "they submitted" } },
+    { "text": { "ur": "اسلام لاؤ", "en": "submit!" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "اسلم + نا (ہم نے): ہم نے سرِ خم تسلیم کیا، ہم مطیع ہو گئے۔",
+    "en": "أسلم + نا (we): we bowed, we have submitted."
+   }
+  }
+ ]
+}

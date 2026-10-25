@@ -1,0 +1,254 @@
+{
+ "id": "u2-l16",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الحجرات کی سولہویں آیت کو لفظ بہ لفظ سمجھیں، اور سیکھیں: سوالیہ أَ کے ساتھ لمبا فعل (أَتُعَلِّمُوْنَ)، بِ — کے متعلق (بِدِيْنِكُمْ، بِكُلِّ)، مَا کی چار قسمیں، اور السَّمٰوٰت — السَّمَاء کی جمع۔",
+  "en": "Understand the sixteenth verse of Surah Al-Hujurat word by word, and learn: a long verb with the question أَ (أَتُعَلِّمُوْنَ), بِ meaning “about” (بِدِيْنِكُمْ, بِكُلِّ), the four kinds of مَا, and السَّمٰوٰت — the plural of السَّمَاء."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "ایک لفظ میں سوال", "en": "A question in one word" },
+   "body": {
+    "ur": "أَتُعَلِّمُوْنَ = أ (کیا — استفہام) + تُ (تم — مضارع) + عَلِّمُ (سکھایا) + وْنَ (جمع): کیا تم سکھاتے ہو؟",
+    "en": "أَتُعَلِّمُوْنَ = أ (question) + تُ (you — present) + عَلِّمُ (teach) + وْنَ (plural): do you teach?"
+   }
+  },
+  {
+   "title": { "ur": "مَا کی چار قسمیں", "en": "Four kinds of مَا" },
+   "body": {
+    "ur": "مَا الموصولة — جو، مَا النافية — نہیں، مَا الاستفهامية — کیا، مَا التعجبية — کتنا۔ یہاں مَا موصولہ ہے: جو کچھ۔",
+    "en": "مَا meaning “what/that which”, “not”, “what?”, and “how!”. Here it is “that which”: whatever."
+   }
+  }
+ ],
+ "verse": { "surah": 49, "ayah": 16 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "کہہ دیجیے", "en": "say" },
+   "parts": [{ "text": "قُلْ", "role": "verb", "label": { "ur": "کہہ دیجیے (امر)", "en": "say (command)" } }],
+   "why": { "ur": "قُلْ — کہہ دیجیے؛ آخری حرف پر سکون فعلِ امر کی علامت ہے۔", "en": "قُلْ — say; a sukun on the last letter marks a command." }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "کیا تم سکھاتے (بتاتے) ہو", "en": "do you inform" },
+   "parts": [
+    { "text": "أَ", "role": "particle", "label": { "ur": "کیا (استفہام)", "en": "question" } },
+    { "text": "تُ", "role": "particle", "label": { "ur": "تم (مضارع)", "en": "you (present)" } },
+    { "text": "عَلِّمُ", "role": "verb", "label": { "ur": "سکھایا", "en": "teach" } },
+    { "text": "وْنَ", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "أ + ت + علم + ون۔ أ — استفہام (کیا)، ت — علامتِ مضارع (تم)، عَلَّمَ — سکھایا، ون — جمع۔ أَتُعَلِّمُوْنَ — کیا تم سکھاتے ہو؟",
+    "en": "أ + ت + علّم + ون. أ — question (do…?), ت — present-tense sign (you), عَلَّمَ — taught, ون — plural. أَتُعَلِّمُوْنَ — do you teach?"
+   }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "اللہ کو", "en": "Allah" },
+   "parts": [{ "text": "اللّٰه", "role": "noun", "label": { "ur": "لفظِ جلالہ", "en": "Allah" } }],
+   "why": { "ur": "اللّٰه — لفظِ جلالہ۔", "en": "اللّٰه — Allah." }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "اپنے دین کے متعلق", "en": "about your religion" },
+   "parts": [
+    { "text": "بِ", "role": "particle", "label": { "ur": "کے متعلق", "en": "about" } },
+    { "text": "دِيْنِ", "role": "noun", "label": { "ur": "دین", "en": "religion" } },
+    { "text": "كُمْ", "role": "noun", "label": { "ur": "تمہارے (اپنے)", "en": "your" } }
+   ],
+   "why": {
+    "ur": "ب (کے متعلق) + دین + كُم (تمہارے): اپنے دین کے متعلق۔ قُلْ أَتُعَلِّمُوْنَ اللّٰهَ بِدِيْنِكُمْ — کہہ دیجیے: کیا تم اللہ کو اپنے دین کے متعلق بتاتے ہو؟",
+    "en": "ب (about) + دين + كُم (your): about your religion. قُلْ أَتُعَلِّمُوْنَ اللّٰهَ بِدِيْنِكُمْ — say: do you inform Allah about your religion?"
+   }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "حالانکہ اللہ", "en": "while Allah" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "اللّٰه", "role": "noun", "label": { "ur": "اللہ", "en": "Allah" } }
+   ],
+   "why": { "ur": "وَاللّٰهُ — اور اللہ، حالانکہ اللہ۔", "en": "وَاللّٰهُ — and Allah, while Allah." }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "جانتا ہے", "en": "knows" },
+   "parts": [
+    { "text": "يَ", "role": "particle", "label": { "ur": "مضارع، مذکر غائب", "en": "present, he" } },
+    { "text": "عْلَمُ", "role": "verb", "label": { "ur": "جاننا", "en": "know" } }
+   ],
+   "why": { "ur": "ی + علم: ی مضارع کی علامت (مذکر غائب)، علم — جاننا: يَعْلَمُ — جانتا ہے۔", "en": "ی + علم: ی is the present-tense sign (he), علم — knowing: يَعْلَمُ — knows." }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "جو کچھ", "en": "whatever" },
+   "parts": [{ "text": "مَا", "role": "noun", "label": { "ur": "جو (موصولہ)", "en": "that which" } }],
+   "why": {
+    "ur": "مَا — جو۔ مَا کی چار قسمیں: موصولہ (جو)، نافیہ (نہیں)، استفہامیہ (کیا)، تعجبیہ (کتنا)۔",
+    "en": "مَا — whatever. Four kinds of مَا: “that which”, “not”, “what?”, “how!”."
+   }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "میں", "en": "in" },
+   "parts": [{ "text": "فِيْ", "role": "particle", "label": { "ur": "میں", "en": "in" } }],
+   "why": { "ur": "فِيْ — میں۔", "en": "فِيْ — in." }
+  },
+  {
+   "position": 9,
+   "meaning": { "ur": "آسمانوں", "en": "the heavens" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "سَّمٰوٰت", "role": "noun", "label": { "ur": "آسمان (جمع)", "en": "heavens" } }
+   ],
+   "why": { "ur": "السَّمٰوٰت، السَّمَاء کی جمع ہے: آسمانوں۔", "en": "السَّمٰوٰت is the plural of السَّمَاء: the heavens." }
+  },
+  {
+   "position": 10,
+   "meaning": { "ur": "اور جو کچھ", "en": "and whatever" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "مَا", "role": "noun", "label": { "ur": "جو", "en": "that which" } }
+   ],
+   "why": { "ur": "وَمَا — اور جو۔", "en": "وَمَا — and whatever." }
+  },
+  {
+   "position": 11,
+   "meaning": { "ur": "میں", "en": "in" },
+   "parts": [{ "text": "فِيْ", "role": "particle", "label": { "ur": "میں", "en": "in" } }],
+   "why": { "ur": "فِيْ — میں۔", "en": "فِيْ — in." }
+  },
+  {
+   "position": 12,
+   "meaning": { "ur": "زمین", "en": "the earth" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "أَرْض", "role": "noun", "label": { "ur": "زمین", "en": "earth" } }
+   ],
+   "why": {
+    "ur": "الْأَرْض — زمین۔ وَاللّٰهُ يَعْلَمُ مَا فِي السَّمٰوٰتِ وَمَا فِي الْأَرْضِ — اللہ زمین اور آسمان میں جو کچھ ہے اسے جانتا ہے۔",
+    "en": "الْأَرْض — the earth. وَاللّٰهُ يَعْلَمُ مَا فِي السَّمٰوٰتِ وَمَا فِي الْأَرْضِ — Allah knows whatever is in the heavens and the earth."
+   }
+  },
+  {
+   "position": 13,
+   "meaning": { "ur": "اور اللہ", "en": "and Allah" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "اللّٰه", "role": "noun", "label": { "ur": "اللہ", "en": "Allah" } }
+   ],
+   "why": { "ur": "وَاللّٰهُ — اور اللہ۔", "en": "وَاللّٰهُ — and Allah." }
+  },
+  {
+   "position": 14,
+   "meaning": { "ur": "ہر (کے متعلق)", "en": "of every" },
+   "parts": [
+    { "text": "بِ", "role": "particle", "label": { "ur": "کے متعلق", "en": "about" } },
+    { "text": "كُلِّ", "role": "noun", "label": { "ur": "تمام، ہر", "en": "every, all" } }
+   ],
+   "why": {
+    "ur": "ب + کل: تمام کے متعلق۔ ب کے معنی: کے ساتھ (بِسْمِ اللّٰهِ)، میں (بِالْقَوْلِ)، سبب (بِجَهَالَةٍ)، پر (بِاللّٰهِ)، اور کے متعلق (بِكُلِّ شَيْءٍ)۔",
+    "en": "ب + كل: about all. بِ means: with (بِسْمِ اللّٰهِ), in (بِالْقَوْلِ), because of (بِجَهَالَةٍ), in (بِاللّٰهِ), and about (بِكُلِّ شَيْءٍ)."
+   }
+  },
+  {
+   "position": 15,
+   "meaning": { "ur": "چیز", "en": "thing" },
+   "parts": [{ "text": "شَيْء", "role": "noun", "label": { "ur": "چیز", "en": "thing" } }],
+   "why": { "ur": "شَيْء — چیز۔", "en": "شَيْء — thing." }
+  },
+  {
+   "position": 16,
+   "meaning": { "ur": "جاننے والا", "en": "All-Knowing" },
+   "parts": [{ "text": "عَلِيْم", "role": "noun", "label": { "ur": "جاننے والا", "en": "knowing" } }],
+   "pattern": "فَعِيْل",
+   "patternMeaning": { "ur": "ہمیشہ کی ذاتی صفت", "en": "a lasting quality of who one is" },
+   "why": {
+    "ur": "علم — جاننا؛ عَلِيْم — جاننے والے۔ وَاللّٰهُ بِكُلِّ شَيْءٍ عَلِيْمٌ — اللہ تو ہر چیز کا علم رکھتے ہیں۔",
+    "en": "علم — knowing; عَلِيْم — All-Knowing. وَاللّٰهُ بِكُلِّ شَيْءٍ عَلِيْمٌ — and Allah knows everything."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2, 3, 4], "role": "verb", "label": { "ur": "کہہ دیجیے: کیا تم اللہ کو اپنا دین بتاتے ہو؟", "en": "say: do you inform Allah of your religion?" } },
+   { "words": [5, 6, 7, 8, 9], "role": "verb", "label": { "ur": "حالانکہ اللہ آسمانوں کی ہر چیز جانتا ہے", "en": "while Allah knows all in the heavens" } },
+   { "words": [10, 11, 12], "role": "noun", "label": { "ur": "اور جو زمین میں ہے", "en": "and all in the earth" } },
+   { "words": [13, 14, 15, 16], "role": "noun", "label": { "ur": "اور اللہ ہر چیز جانتا ہے", "en": "and Allah knows everything" } }
+  ],
+  "plain": {
+   "ur": "اے نبی ﷺ، انہیں کہہ دیجیے: کیا تم اپنے دین کے بارے میں اللہ کو بتاتے ہو؟ حالانکہ اللہ زمین و آسمان کی ہر چیز کو جانتے ہیں، اور اللہ تو ہر چیز کا علم رکھتے ہیں۔ یہ بدوؤں کے دعوے (آمَنَّا) کا جواب ہے: جو سب کچھ جانتا ہے، اسے ایمان کی خبر دینے کی ضرورت نہیں۔",
+   "en": "O Prophet ﷺ, say to them: do you inform Allah about your religion, while Allah knows whatever is in the heavens and the earth, and Allah knows everything? This answers the Bedouins' claim (آمَنَّا): the One who knows all needs no one to tell Him of their faith."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "شروع کا أَ سوال بناتا ہے: أَتُعَلِّمُوْنَ — کیا تم سکھاتے ہو؟ (أَيُحِبُّ — کیا وہ پسند کرتا ہے؟)",
+   "en": "An أَ at the start makes a question: أَتُعَلِّمُوْنَ — do you teach? (أَيُحِبُّ — does he like?)"
+  },
+  "points": [
+   {
+    "ur": "بِ — کے متعلق: بِدِيْنِكُمْ (اپنے دین کے متعلق)، بِكُلِّ شَيْءٍ (ہر چیز کے متعلق)۔",
+    "en": "بِ — about: بِدِيْنِكُمْ (about your religion), بِكُلِّ شَيْءٍ (about everything)."
+   },
+   {
+    "ur": "السَّمٰوٰت — السَّمَاء کی جمع؛ الْأَرْض — زمین۔",
+    "en": "السَّمٰوٰت — plural of السَّمَاء; الْأَرْض — the earth."
+   },
+   {
+    "ur": "مَا: جو، نہیں، کیا، کتنا — یہاں ”جو کچھ“۔",
+    "en": "مَا: that which, not, what?, how! — here “whatever”."
+   }
+  ]
+ },
+ "check": [
+  {
+   "id": "u2-l16-q1",
+   "type": "mcq",
+   "prompt": { "ur": "أَتُعَلِّمُوْنَ کا کیا مطلب ہے؟", "en": "What does أَتُعَلِّمُوْنَ mean?" },
+   "options": [
+    { "text": { "ur": "کیا تم سکھاتے ہو؟", "en": "do you teach?" } },
+    { "text": { "ur": "تم جانتے ہو", "en": "you know" } },
+    { "text": { "ur": "میں سکھاتا ہوں", "en": "I teach" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "أ (کیا) + ت (تم) + علّم (سکھانا) + ون (جمع): کیا تم سکھاتے ہو؟",
+    "en": "أ (question) + ت (you) + علّم (teach) + ون (plural): do you teach?"
+   }
+  },
+  {
+   "id": "u2-l16-q2",
+   "type": "mcq",
+   "prompt": { "ur": "السَّمٰوٰت کس لفظ کی جمع ہے؟", "en": "السَّمٰوٰت is the plural of which word?" },
+   "options": [{ "ar": "السَّمَاء" }, { "ar": "الْأَرْض" }, { "ar": "الْاِسْم" }],
+   "answer": 0,
+   "explanation": { "ur": "السَّمٰوٰت — السَّمَاء (آسمان) کی جمع۔", "en": "السَّمٰوٰت — plural of السَّمَاء (sky, heaven)." }
+  },
+  {
+   "id": "u2-l16-q3",
+   "type": "mcq",
+   "prompt": { "ur": "بِكُلِّ شَيْءٍ میں بِ کا کیا معنی ہے؟", "en": "What does بِ mean in بِكُلِّ شَيْءٍ?" },
+   "options": [
+    { "text": { "ur": "کے متعلق", "en": "about" } },
+    { "text": { "ur": "کے ساتھ", "en": "with" } },
+    { "text": { "ur": "کے سبب", "en": "because of" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "بِكُلِّ شَيْءٍ عَلِيْمٌ — ہر چیز کے متعلق جاننے والا: یہاں ب ”کے متعلق“ ہے۔", "en": "بِكُلِّ شَيْءٍ عَلِيْمٌ — knowing about everything: here بِ means “about”." }
+  },
+  {
+   "id": "u2-l16-q4",
+   "type": "mcq",
+   "prompt": { "ur": "مَا فِي السَّمٰوٰتِ میں مَا کون سا ہے؟", "en": "Which kind of مَا is in مَا فِي السَّمٰوٰتِ?" },
+   "options": [
+    { "text": { "ur": "موصولہ — جو کچھ", "en": "“whatever”" } },
+    { "text": { "ur": "نافیہ — نہیں", "en": "“not”" } },
+    { "text": { "ur": "تعجبیہ — کتنا", "en": "“how!”" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "یہاں مَا موصولہ ہے: جو کچھ آسمانوں میں ہے۔", "en": "Here مَا means “whatever”: whatever is in the heavens." }
+  }
+ ]
+}

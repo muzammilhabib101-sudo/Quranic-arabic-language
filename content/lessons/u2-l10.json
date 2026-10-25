@@ -1,0 +1,246 @@
+{
+ "id": "u2-l10",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الحجرات کی دسویں آیت کو لفظ بہ لفظ سمجھیں، اور سیکھیں: تاکید کے الفاظ اور سب سے زور دار إِنَّمَا، ضمیر سے پہلے جمع اور تثنیہ کا ن گر جانا (أَخَوَيْكُمْ)، لَعَلَّ (تاکہ)، اور فعلِ مجہول (تُرْحَمُوْنَ)۔",
+  "en": "Understand the tenth verse of Surah Al-Hujurat word by word, and learn: words of emphasis and the strongest, إِنَّمَا; the ن of the dual and plural dropping before a pronoun (أَخَوَيْكُمْ); لَعَلَّ (so that); and the passive verb (تُرْحَمُوْنَ)."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "تاکید کے الفاظ", "en": "Words of emphasis" },
+   "body": {
+    "ur": "إِنَّ، أَنَّ — بیشک؛ لَ (لامِ لازم)، قَدْ، لَقَدْ — یقیناً؛ نونِ ثقیلہ (نَّ)۔ سب سے زیادہ زور اور یقین کے لیے إِنَّمَا آتا ہے — اسے ادات الحصر کہتے ہیں، یعنی یہ بات کو گھیر لیتا ہے: صرف یہی۔",
+    "en": "إِنَّ, أَنَّ — indeed; لَ (emphatic), قَدْ, لَقَدْ — surely; the heavy ن (نَّ). The strongest is إِنَّمَا — a word of restriction: only this, nothing else."
+   }
+  },
+  {
+   "title": { "ur": "ضمیر سے پہلے ن گر جاتا ہے", "en": "The ن drops before a pronoun" },
+   "body": {
+    "ur": "جمع یا تثنیہ کی علامت (ون، ین، ان) کے ساتھ کوئی ضمیر متصل ہو تو اس علامت کا دوسرا حرف (ن) گر جاتا ہے: أَخَوَيْنِ + كُمْ ← أَخَوَيْكُمْ۔",
+    "en": "When a pronoun attaches to a dual or plural ending (ون, ين, ان), the ending's ن drops: أَخَوَيْنِ + كُمْ becomes أَخَوَيْكُمْ."
+   }
+  },
+  {
+   "title": { "ur": "فعلِ مجہول", "en": "The passive verb" },
+   "body": {
+    "ur": "مضارع کی علامت پر پیش اور تیسرے حرف پر زبر ہو تو فعل مجہول ہوتا ہے (يُفْعَلُ): تُرْحَمُ — تم پر رحم کیا جائے۔ ماضی میں پہلے حرف پر پیش اور دوسرے کے نیچے زیر: فُعِلَ — كُتِبَ (لکھا گیا)۔",
+    "en": "A present-tense verb with a damma on its sign and a fatha on the third letter is passive (يُفْعَلُ): تُرْحَمُ — you are shown mercy. In the past: a damma on the first letter and a kasra under the second, فُعِلَ — كُتِبَ (it was written)."
+   }
+  }
+ ],
+ "verse": { "surah": 49, "ayah": 10 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "بیشک ایسا ہی ہے کہ", "en": "only, indeed" },
+   "parts": [
+    { "text": "إِنَّ", "role": "particle", "label": { "ur": "بیشک", "en": "indeed" } },
+    { "text": "مَا", "role": "particle", "label": { "ur": "حصر", "en": "restriction" } }
+   ],
+   "why": {
+    "ur": "إِنَّ، أَنَّ، لَ، قَدْ، لَقَدْ اور نونِ ثقیلہ — یہ سب کلمات یقیناً اور تاکید کے معنی لیے ہوتے ہیں، مگر سب سے زیادہ زور سے یقین اور تاکید کے اظہار کے لیے إِنَّمَا کا استعمال کیا جاتا ہے۔ اسے ادات الحصر کہتے ہیں، یعنی یہ کلمہ اپنے بعد والی عبارت کا محاصرہ کر لیتا ہے۔",
+    "en": "إِنَّ, أَنَّ, لَ, قَدْ, لَقَدْ and the heavy ن all carry certainty and emphasis, but the strongest of them is إِنَّمَا. It is a word of restriction: it closes off what follows — this, and only this."
+   }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "مومن", "en": "the believers" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "مُؤْمِن", "role": "noun", "label": { "ur": "مومن", "en": "believer" } },
+    { "text": "وْنَ", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ال + مومن + ون: حقیقی مومن۔ مومن اردو میں مستعمل ہے۔",
+    "en": "ال + مؤمن + ون: the true believers. Urdu uses مومن."
+   }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "بھائی بھائی", "en": "brothers" },
+   "parts": [{ "text": "إِخْوَة", "role": "noun", "label": { "ur": "بھائی (جمع)", "en": "brothers" } }],
+   "why": {
+    "ur": "إِخْوَة — بھائی بھائی؛ اسی سے اُخوّت، جو اردو میں مستعمل ہے۔ إِنَّمَا الْمُؤْمِنُوْنَ إِخْوَةٌ — بیشک مومن ہی آپس میں بھائی بھائی ہیں۔",
+    "en": "إِخْوَة — brothers; Urdu اخوت (brotherhood) comes from it. إِنَّمَا الْمُؤْمِنُوْنَ إِخْوَةٌ — the believers are nothing but brothers."
+   }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "پس صلح کرا دو", "en": "so make peace" },
+   "parts": [
+    { "text": "فَ", "role": "particle", "label": { "ur": "پس", "en": "so" } },
+    { "text": "أَصْلِحْ", "role": "verb", "label": { "ur": "صلح کراؤ", "en": "make peace" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ف (پس) + ا (امر) + صلح (اصلاح، درستگی) + وا (جمع): پس تم سب صلح کروا دو۔",
+    "en": "ف (so) + ا (command) + صلح (putting right) + وا (plural): so make peace, all of you."
+   }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "درمیان", "en": "between" },
+   "parts": [{ "text": "بَيْنَ", "role": "noun", "label": { "ur": "درمیان", "en": "between" } }],
+   "why": { "ur": "بَيْنَ — درمیان۔", "en": "بَيْنَ — between." }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "تمہارے دو بھائیوں", "en": "your brothers" },
+   "parts": [
+    { "text": "أَخَوَيْ", "role": "noun", "label": { "ur": "دو بھائی", "en": "two brothers" } },
+    { "text": "كُمْ", "role": "noun", "label": { "ur": "تمہارے", "en": "your" } }
+   ],
+   "why": {
+    "ur": "اخوین + كُم۔ أَخَوَيْنِ — دو بھائی، اور كُم — تمہارے۔ جب کسی کلمے پر جمع یا تثنیہ کی علامت لگی ہو اور اس کے ساتھ کوئی ضمیر متصل ہو، تو علامت کا دوسرا حرف (ن) گر جاتا ہے: أَخَوَيْنِ + كُمْ ← أَخَوَيْكُمْ۔ فَأَصْلِحُوْا بَيْنَ أَخَوَيْكُمْ — پس اپنے بھائیوں کے درمیان صلح کروا دو۔",
+    "en": "اخوين + كُم. أَخَوَيْنِ — two brothers, and كُم — your. When a pronoun attaches to a dual or plural ending, the ending's second letter (ن) drops: أَخَوَيْنِ + كُمْ becomes أَخَوَيْكُمْ. فَأَصْلِحُوْا بَيْنَ أَخَوَيْكُمْ — so make peace between your brothers."
+   }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "اور تم سب ڈرو", "en": "and fear" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "اتَّقِ", "role": "verb", "label": { "ur": "ڈر (حکم)", "en": "fear (command)" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "تقویٰ سے امر: امر کے لیے الف آیا تو حرفِ علت (ی) گر گیا — اتَّقُوْا — تم سب ڈرو (جیسا کہ آیت ۱ میں پڑھا)۔",
+    "en": "A command from تقویٰ: with the command alif the weak letter (ی) drops — اتَّقُوْا — fear, all of you (as in verse 1)."
+   }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "اللہ (سے)", "en": "Allah" },
+   "parts": [{ "text": "اللّٰه", "role": "noun", "label": { "ur": "لفظِ جلالہ", "en": "Allah" } }],
+   "why": { "ur": "وَاتَّقُوا اللّٰهَ — اور اللہ سے ڈرو۔", "en": "وَاتَّقُوا اللّٰهَ — and fear Allah." }
+  },
+  {
+   "position": 9,
+   "meaning": { "ur": "تاکہ تم", "en": "so that you" },
+   "parts": [
+    { "text": "لَعَلَّ", "role": "particle", "label": { "ur": "تاکہ، شاید کہ", "en": "so that, perhaps" } },
+    { "text": "كُمْ", "role": "noun", "label": { "ur": "تم سب", "en": "you" } }
+   ],
+   "why": { "ur": "لعل + كُم: تاکہ تم سب، شاید کہ تم۔", "en": "لعل + كُم: so that you, that perhaps you." }
+  },
+  {
+   "position": 10,
+   "meaning": { "ur": "تم پر رحم کیا جائے", "en": "you may receive mercy" },
+   "parts": [
+    { "text": "تُ", "role": "particle", "label": { "ur": "مضارع + مخاطب", "en": "present, “you”" } },
+    { "text": "رْحَمُ", "role": "verb", "label": { "ur": "رحم کیا جانا", "en": "be shown mercy" } },
+    { "text": "وْنَ", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ت + رحم + ون۔ مضارع کی علامت (ت) پر پیش ہے اور تیسرے حرف (ح) پر زبر — اس لیے یہ فعلِ مجہول ہے (Passive Voice): تُرْحَمُوْنَ — تم پر رحم کیا جائے۔ وَاتَّقُوا اللّٰهَ لَعَلَّكُمْ تُرْحَمُوْنَ — اور اللہ سے ڈرو تاکہ تم پر رحم کیا جائے۔",
+    "en": "ت + رحم + ون. The present-tense sign (ت) has a damma and the third letter (ح) a fatha — so this is the passive: تُرْحَمُوْنَ — you are shown mercy. وَاتَّقُوا اللّٰهَ لَعَلَّكُمْ تُرْحَمُوْنَ — and fear Allah, so that you may receive mercy."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2, 3], "role": "particle", "label": { "ur": "مومن تو بس بھائی بھائی ہیں", "en": "the believers are but brothers" } },
+   { "words": [4, 5, 6], "role": "verb", "label": { "ur": "پس اپنے بھائیوں میں صلح کرا دو", "en": "so make peace between your brothers" } },
+   { "words": [7, 8], "role": "verb", "label": { "ur": "اور اللہ سے ڈرو", "en": "and fear Allah" } },
+   { "words": [9, 10], "role": "verb", "label": { "ur": "تاکہ تم پر رحم کیا جائے", "en": "so that you may receive mercy" } }
+  ],
+  "plain": {
+   "ur": "مومن ہی ایک دوسرے کے بھائی بھائی ہیں، تو اپنے بھائیوں کے درمیان صلح کروا دو، اور اللہ سے ڈرو تاکہ تم پر رحم کیا جائے۔ پچھلی آیت نے لڑنے والے گروہوں میں صلح کا طریقہ بتایا تھا؛ یہ آیت اس کی بنیاد بتاتی ہے — إِنَّمَا، یعنی صرف یہی رشتہ: بھائی چارہ۔",
+   "en": "The believers are nothing but brothers, so make peace between your brothers, and fear Allah so that you may receive mercy. The previous verse showed how to make peace between fighting groups; this one gives the reason — إِنَّمَا, only this bond: brotherhood."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "جمع یا تثنیہ کی علامت کے ساتھ ضمیر لگے تو ن گر جاتا ہے: أَخَوَيْنِ + كُمْ ← أَخَوَيْكُمْ۔",
+   "en": "When a pronoun attaches to a dual or plural ending, the ن drops: أَخَوَيْنِ + كُمْ becomes أَخَوَيْكُمْ."
+  },
+  "points": [
+   {
+    "ur": "إِنَّمَا تاکید کا سب سے زور دار لفظ ہے — صرف یہی، اور کچھ نہیں۔",
+    "en": "إِنَّمَا is the strongest word of emphasis — only this, nothing else."
+   },
+   {
+    "ur": "لَعَلَّ — تاکہ، شاید کہ: لَعَلَّكُمْ — تاکہ تم۔",
+    "en": "لَعَلَّ — so that, perhaps: لَعَلَّكُمْ — so that you."
+   },
+   {
+    "ur": "فعلِ مجہول: مضارع کی علامت پر پیش اور تیسرے حرف پر زبر — تُرْحَمُوْنَ (تم پر رحم کیا جائے)؛ ماضی میں فُعِلَ — كُتِبَ (لکھا گیا)۔",
+    "en": "The passive: a damma on the present-tense sign and a fatha on the third letter — تُرْحَمُوْنَ (you are shown mercy); in the past, فُعِلَ — كُتِبَ (it was written)."
+   }
+  ]
+ },
+ "check": [
+  {
+   "id": "u2-l10-q1",
+   "type": "mcq",
+   "prompt": { "ur": "تاکید کا سب سے زور دار لفظ کون سا ہے؟", "en": "Which is the strongest word of emphasis?" },
+   "options": [{ "ar": "قَدْ" }, { "ar": "إِنَّمَا" }, { "ar": "لَعَلَّ" }],
+   "answer": 1,
+   "explanation": {
+    "ur": "إِنَّمَا سب سے زیادہ زور سے تاکید کرتا ہے، اور بات کو گھیر لیتا ہے: صرف یہی۔ لَعَلَّ کا معنی ”تاکہ“ ہے۔",
+    "en": "إِنَّمَا is the strongest emphasis, restricting the statement: only this. لَعَلَّ means “so that”."
+   }
+  },
+  {
+   "id": "u2-l10-q2",
+   "type": "mcq",
+   "prompt": { "ur": "أَخَوَيْكُمْ میں ن کیوں نہیں ہے؟", "en": "Why is there no ن in أَخَوَيْكُمْ?" },
+   "options": [
+    { "text": { "ur": "ضمیر لگنے سے تثنیہ کا ن گر گیا", "en": "The dual ن dropped when the pronoun attached" } },
+    { "text": { "ur": "یہ واحد ہے", "en": "It is singular" } },
+    { "text": { "ur": "یہ فعل ہے", "en": "It is a verb" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "أَخَوَيْنِ (دو بھائی) + كُمْ: ضمیر متصل ہونے سے ن گر جاتا ہے — أَخَوَيْكُمْ۔",
+    "en": "أَخَوَيْنِ (two brothers) + كُمْ: with the attached pronoun the ن drops — أَخَوَيْكُمْ."
+   }
+  },
+  {
+   "id": "u2-l10-q3",
+   "type": "mcq",
+   "prompt": { "ur": "تُرْحَمُوْنَ کا کیا مطلب ہے؟", "en": "What does تُرْحَمُوْنَ mean?" },
+   "options": [
+    { "text": { "ur": "تم رحم کرتے ہو", "en": "you show mercy" } },
+    { "text": { "ur": "تم پر رحم کیا جائے", "en": "you are shown mercy" } },
+    { "text": { "ur": "رحم کرو", "en": "show mercy!" } }
+   ],
+   "answer": 1,
+   "explanation": {
+    "ur": "علامت پر پیش اور تیسرے حرف پر زبر — فعلِ مجہول: تم پر رحم کیا جائے۔",
+    "en": "A damma on the sign and a fatha on the third letter — passive: you are shown mercy."
+   }
+  },
+  {
+   "id": "u2-l10-q4",
+   "type": "mcq",
+   "prompt": { "ur": "كُتِبَ کا کیا مطلب ہے؟", "en": "What does كُتِبَ mean?" },
+   "arabic": "كُتِبَ",
+   "options": [
+    { "text": { "ur": "اس نے لکھا", "en": "he wrote" } },
+    { "text": { "ur": "لکھا گیا", "en": "it was written" } },
+    { "text": { "ur": "لکھو", "en": "write!" } }
+   ],
+   "answer": 1,
+   "explanation": {
+    "ur": "ماضی مجہول — پہلے حرف پر پیش اور دوسرے کے نیچے زیر (فُعِلَ): كُتِبَ — لکھا گیا۔ كَتَبَ — اس نے لکھا۔",
+    "en": "The past passive — a damma on the first letter and a kasra under the second (فُعِلَ): كُتِبَ — it was written. كَتَبَ — he wrote."
+   }
+  },
+  {
+   "id": "u2-l10-q5",
+   "type": "mcq",
+   "prompt": { "ur": "لَعَلَّكُمْ کا کیا مطلب ہے؟", "en": "What does لَعَلَّكُمْ mean?" },
+   "options": [
+    { "text": { "ur": "تاکہ تم", "en": "so that you" } },
+    { "text": { "ur": "بیشک تم", "en": "indeed you" } },
+    { "text": { "ur": "تمہارے لیے", "en": "for you" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "لَعَلَّ — تاکہ، شاید کہ؛ كُمْ — تم: تاکہ تم۔",
+    "en": "لَعَلَّ — so that, perhaps; كُمْ — you: so that you."
+   }
+  }
+ ]
+}

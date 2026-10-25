@@ -1,0 +1,165 @@
+{
+ "id": "u4-l9",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الفرقان کی آیت ۶۹ کو لفظ بہ لفظ سمجھیں، اور سیکھیں: يُضٰعَفْ — دگنا کیا جائے گا، لَهٗ میں لامِ تعلیل، يَوْمَ الْقِيٰمَةِ (اضافت)، اور فِيْهِ — ضمیر هٖ۔",
+  "en": "Understand Al-Furqan 25:69 word by word, and learn: يُضٰعَفْ — will be doubled, the لام of purpose in لَهٗ, يَوْمَ الْقِيٰمَةِ (idafa), and فِيْهِ — the pronoun هٖ."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "ال — معرفہ", "en": "ال — definite" },
+   "body": {
+    "ur": "الْعَذَاب — عذاب (خاص)؛ ال معرفہ بنانے کے لیے: وہی عذاب جس کا ذکر ہو چکا۔",
+    "en": "الْعَذَاب — the punishment (specific); ال makes it definite: the punishment already mentioned."
+   }
+  },
+  {
+   "title": { "ur": "يَوْمَ الْقِيٰمَةِ", "en": "يَوْمَ الْقِيٰمَةِ" },
+   "body": {
+    "ur": "يَوْم (اسمِ نکرہ) + الْقِيٰمَة (اسمِ معرفہ): قیامت کے دن — اضافت۔",
+    "en": "يَوْم (indefinite) + الْقِيٰمَة (definite): the Day of Resurrection — an idafa."
+   }
+  }
+ ],
+ "verse": { "surah": 25, "ayah": 69 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "دگنا کیا جائے گا", "en": "will be doubled" },
+   "parts": [
+    { "text": "يُ", "role": "particle", "label": { "ur": "علامتِ مضارع", "en": "present-tense sign" } },
+    { "text": "ضٰعَفْ", "role": "verb", "label": { "ur": "دوچند کرنا", "en": "multiply" } }
+   ],
+   "why": {
+    "ur": "ی + ضعف: اضافہ کرنا، دوچند کرنا، کئی گنا بڑھانا اور زیادہ کرنا۔ يُضٰعَفْ — دگنا کیا جائے گا۔",
+    "en": "ی + ضعف: to increase, double, multiply several times. يُضٰعَفْ — will be doubled."
+   }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "اس کے لیے", "en": "for him" },
+   "parts": [
+    { "text": "لَ", "role": "particle", "label": { "ur": "لامِ تعلیل — کے لیے", "en": "for" } },
+    { "text": "هٗ", "role": "noun", "label": { "ur": "ضمیر غائب مفرد", "en": "him" } }
+   ],
+   "why": { "ur": "ل + ہٗ: اس کے لیے؛ لامِ تعلیل بمعنی ”کے لیے“، اور ہٗ ضمیرِ غائب مفرد۔", "en": "ل + هٗ: for him; the لام of purpose, and هٗ — him." }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "عذاب", "en": "the punishment" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "معرفہ بنانے کے لیے", "en": "the" } },
+    { "text": "عَذَاب", "role": "noun", "label": { "ur": "عذاب (خاص)", "en": "punishment" } }
+   ],
+   "why": { "ur": "الْعَذَاب — عذاب (خاص)؛ ال معرفہ بنانے سے۔", "en": "الْعَذَاب — the punishment (specific), made definite by ال." }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "دن", "en": "on the Day" },
+   "parts": [{ "text": "يَوْم", "role": "noun", "label": { "ur": "دن (اسمِ نکرہ)", "en": "day" } }],
+   "why": { "ur": "يَوْم — دن۔", "en": "يَوْم — day." }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "قیامت کے", "en": "of Resurrection" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "اسمِ معرفہ", "en": "the" } },
+    { "text": "قِيٰمَة", "role": "noun", "label": { "ur": "قیامت", "en": "resurrection" } }
+   ],
+   "why": {
+    "ur": "الْقِيٰمَة — قیامت۔ يَوْمَ الْقِيٰمَةِ — قیامت کے دن: نکرہ کے بعد معرفہ — اضافت۔ يُضٰعَفْ لَهُ الْعَذَابُ يَوْمَ الْقِيٰمَةِ — روزِ قیامت اسے دوگنا عذاب دیا جائے گا۔",
+    "en": "الْقِيٰمَة — the Resurrection. يَوْمَ الْقِيٰمَةِ — the Day of Resurrection: indefinite then definite — idafa. يُضٰعَفْ لَهُ الْعَذَابُ يَوْمَ الْقِيٰمَةِ — his punishment will be doubled on the Day of Resurrection."
+   }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "اور ہمیشہ رہے گا", "en": "and abide forever" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "يَخْلُدْ", "role": "verb", "label": { "ur": "ہمیشہ رہنا", "en": "abide forever" } }
+   ],
+   "why": {
+    "ur": "ی + خلد: ی علامتِ مضارع، خُلْد — ہمیشگی؛ خالد — ہمیشہ رہنے والا۔ يَخْلُدْ — وہ ہمیشہ رہے گا۔",
+    "en": "ی + خلد: ی is the present-tense sign, خُلْد — eternity; خالد — one who abides forever. يَخْلُدْ — he will abide forever."
+   }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "اس میں", "en": "in it" },
+   "parts": [
+    { "text": "فِيْ", "role": "particle", "label": { "ur": "میں", "en": "in" } },
+    { "text": "هٖ", "role": "noun", "label": { "ur": "اس", "en": "it" } }
+   ],
+   "why": { "ur": "فی + ہٖ: اس میں۔", "en": "في + هٖ: in it." }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "ذلت کے ساتھ", "en": "humiliated" },
+   "parts": [{ "text": "مُهَان", "role": "noun", "label": { "ur": "اہانت کے ساتھ", "en": "in disgrace" } }],
+   "why": {
+    "ur": "مُهَانًا — اہانت کے ساتھ، حقارت کے ساتھ، بے وقعت اور ذلیل و رسوا ہو کر (اہانت اردو میں مستعمل)۔ وَيَخْلُدْ فِيْهِ مُهَانًا — اور وہ ہمیشہ اس میں ذلت کے ساتھ رہے گا۔",
+    "en": "مُهَانًا — in disgrace, despised, humiliated (Urdu اہانت). وَيَخْلُدْ فِيْهِ مُهَانًا — and he will abide in it forever, humiliated."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2, 3], "role": "verb", "label": { "ur": "اس کے لیے عذاب دگنا کیا جائے گا", "en": "his punishment will be doubled" } },
+   { "words": [4, 5], "role": "noun", "label": { "ur": "قیامت کے دن", "en": "on the Day of Resurrection" } },
+   { "words": [6, 7, 8], "role": "verb", "label": { "ur": "اور وہ ہمیشہ اس میں ذلیل رہے گا", "en": "and he will abide in it humiliated" } }
+  ],
+  "plain": {
+   "ur": "روزِ قیامت اسے دوگنا عذاب دیا جائے گا، اور وہ ہمیشہ اس میں ذلت کے ساتھ رہے گا۔ یہ پچھلی آیت کے آخری حصے (يَلْقَ أَثَامًا) کی تفصیل ہے: ان تین گناہوں کی سزا کیا ہے۔",
+   "en": "His punishment will be doubled on the Day of Resurrection, and he will abide in it forever, humiliated. This explains the end of the previous verse (يَلْقَ أَثَامًا): the penalty for those three sins."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "يَوْمَ الْقِيٰمَةِ — اضافت: نکرہ (يَوْم) کے بعد معرفہ (الْقِيٰمَة) — قیامت کا دن۔",
+   "en": "يَوْمَ الْقِيٰمَةِ — idafa: indefinite (يَوْم) then definite (الْقِيٰمَة) — the Day of Resurrection."
+  },
+  "points": [
+   { "ur": "لَهٗ = لَ (کے لیے) + هٗ (اس)۔", "en": "لَهٗ = لَ (for) + هٗ (him)." },
+   { "ur": "يَخْلُدْ — ہمیشہ رہے گا؛ خالد — ہمیشہ رہنے والا۔", "en": "يَخْلُدْ — will abide forever; خالد — everlasting." },
+   { "ur": "مُهَانًا — ذلت کے ساتھ (اہانت)۔", "en": "مُهَانًا — in disgrace (Urdu اہانت)." }
+  ]
+ },
+ "check": [
+  {
+   "id": "u4-l9-q1",
+   "type": "mcq",
+   "prompt": { "ur": "يَوْمَ الْقِيٰمَةِ کا ترجمہ کیا ہے؟", "en": "How is يَوْمَ الْقِيٰمَةِ translated?" },
+   "options": [
+    { "text": { "ur": "قیامت کا دن", "en": "the Day of Resurrection" } },
+    { "text": { "ur": "دن اور قیامت", "en": "a day and the resurrection" } },
+    { "text": { "ur": "آج کا دن", "en": "today" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "نکرہ کے بعد معرفہ — اضافت: قیامت کا دن۔", "en": "Indefinite then definite — idafa: the Day of Resurrection." }
+  },
+  {
+   "id": "u4-l9-q2",
+   "type": "mcq",
+   "prompt": { "ur": "يَخْلُدْ کا کیا مطلب ہے؟", "en": "What does يَخْلُدْ mean?" },
+   "options": [
+    { "text": { "ur": "وہ ہمیشہ رہے گا", "en": "he will abide forever" } },
+    { "text": { "ur": "وہ نکل جائے گا", "en": "he will leave" } },
+    { "text": { "ur": "وہ سو جائے گا", "en": "he will sleep" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "خُلْد — ہمیشگی: يَخْلُدْ — وہ ہمیشہ رہے گا۔", "en": "خُلْد — eternity: يَخْلُدْ — he will abide forever." }
+  },
+  {
+   "id": "u4-l9-q3",
+   "type": "mcq",
+   "prompt": { "ur": "لَهٗ میں ل کا کیا معنی ہے؟", "en": "What does the ل in لَهٗ mean?" },
+   "options": [
+    { "text": { "ur": "کے لیے", "en": "for" } },
+    { "text": { "ur": "یقیناً", "en": "surely" } },
+    { "text": { "ur": "نہیں", "en": "not" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "یہاں لامِ تعلیل ہے: لَهٗ — اس کے لیے۔", "en": "Here it is the لام of purpose: لَهٗ — for him." }
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "id": "u3-l3",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الفاتحہ کی چوتھی آیت — مٰلِكِ يَوْمِ الدِّيْنِ — کو لفظ بہ لفظ سمجھیں، اور اضافت کی ایک لڑی پہچانیں: مالک ← دن ← بدلہ۔",
+  "en": "Understand the fourth verse of Al-Fatihah — مٰلِكِ يَوْمِ الدِّيْنِ — word by word, and recognise a chain of idafa: owner ← day ← recompense."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "اضافت کی لڑی", "en": "A chain of idafa" },
+   "body": {
+    "ur": "مٰلِكِ (نکرہ) + يَوْمِ (نکرہ) + الدِّيْنِ (معرفہ): ہر جوڑے میں ”کا، کے، کی“ لگتا ہے — بدلے کے دن کا مالک۔",
+    "en": "مٰلِكِ (indefinite) + يَوْمِ (indefinite) + الدِّيْنِ (definite): each link takes “of” — Owner of the Day of Recompense."
+   }
+  },
+  {
+   "title": { "ur": "دِيْن کے معنی", "en": "Meanings of دِيْن" },
+   "body": {
+    "ur": "یہاں الدِّيْن کا معنی ہے بدلہ، جزا، معاوضہ؛ يَوْمُ الدِّيْن — جزا کا دن، بدلے کا دن۔",
+    "en": "Here الدِّيْن means recompense, reward, repayment; يَوْمُ الدِّيْن — the Day of Recompense."
+   }
+  }
+ ],
+ "verse": { "surah": 1, "ayah": 4 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "مالک", "en": "Owner, Master" },
+   "parts": [{ "text": "مَالِك", "role": "noun", "label": { "ur": "مالک", "en": "owner" } }],
+   "pattern": "فَاعِل",
+   "patternMeaning": { "ur": "کام کرنے والا", "en": "the one who does the action" },
+   "why": {
+    "ur": "مٰلِك — مالک (اردو میں مستعمل)؛ وزن فَاعِل پر: مِلکیت رکھنے والا۔",
+    "en": "مٰلِك — owner (Urdu مالک); on the pattern فَاعِل: the one who owns."
+   }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "دن", "en": "Day" },
+   "parts": [{ "text": "يَوْم", "role": "noun", "label": { "ur": "دن", "en": "day" } }],
+   "why": { "ur": "يَوْم — دن (اسمِ نکرہ)۔", "en": "يَوْم — day (indefinite)." }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "بدلے کا", "en": "of Recompense" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "دِّيْن", "role": "noun", "label": { "ur": "بدلہ، جزا، معاوضہ", "en": "recompense" } }
+   ],
+   "why": {
+    "ur": "ال + دین: بدلہ، جزا، معاوضہ (اسمِ معرفہ)۔ يَوْمِ الدِّيْنِ — جزا کا دن، بدلے کا دن: اسمِ نکرہ کے بعد اسمِ معرفہ، اس لیے کا، کے، کی۔ مٰلِكِ يَوْمِ الدِّيْنِ — بدلے کے دن کا مالک ہے۔",
+    "en": "ال + دين: recompense (definite). يَوْمِ الدِّيْنِ — the Day of Recompense: an indefinite noun followed by a definite one takes “of”. مٰلِكِ يَوْمِ الدِّيْنِ — Owner of the Day of Recompense."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1], "role": "noun", "label": { "ur": "مالک", "en": "Owner" } },
+   { "words": [2], "role": "noun", "label": { "ur": "دن کا", "en": "of the Day" } },
+   { "words": [3], "role": "noun", "label": { "ur": "بدلے کے", "en": "of Recompense" } }
+  ],
+  "plain": {
+   "ur": "روزِ جزا کا مالک ہے۔ تین اسم ایک لڑی میں: مالک — کس کا؟ دن کا — کون سا دن؟ بدلے کا دن۔ پہلی تین آیات اللہ کی صفات ہیں: تمام جہانوں کا رب، رحمان، رحیم، اور بدلے کے دن کا مالک۔",
+   "en": "Owner of the Day of Recompense. Three nouns in a chain: Owner — of what? of the Day — which day? the Day of Recompense. The first verses describe Allah: Lord of the worlds, Most Gracious, Most Merciful, and Owner of the Day of Recompense."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "اسمِ نکرہ کے بعد اسمِ معرفہ آئے تو ترجمے میں کا، کے، کی: يَوْمِ الدِّيْنِ — بدلے کا دن۔",
+   "en": "An indefinite noun followed by a definite one is translated with “of”: يَوْمِ الدِّيْنِ — the Day of Recompense."
+  },
+  "points": [
+   { "ur": "مٰلِك — مالک، وزن فَاعِل۔", "en": "مٰلِك — owner, pattern فَاعِل." },
+   { "ur": "يَوْم — دن۔", "en": "يَوْم — day." },
+   { "ur": "الدِّيْن — یہاں بدلہ، جزا۔", "en": "الدِّيْن — here, recompense." }
+  ]
+ },
+ "check": [
+  {
+   "id": "u3-l3-q1",
+   "type": "mcq",
+   "prompt": { "ur": "يَوْم کا کیا معنی ہے؟", "en": "What does يَوْم mean?" },
+   "arabic": "يَوْم",
+   "options": [
+    { "text": { "ur": "دن", "en": "day" } },
+    { "text": { "ur": "رات", "en": "night" } },
+    { "text": { "ur": "مالک", "en": "owner" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "يَوْم — دن۔", "en": "يَوْم — day." }
+  },
+  {
+   "id": "u3-l3-q2",
+   "type": "mcq",
+   "prompt": { "ur": "يَوْمِ الدِّيْنِ میں الدِّيْن کا معنی کیا ہے؟", "en": "What does الدِّيْن mean in يَوْمِ الدِّيْنِ?" },
+   "options": [
+    { "text": { "ur": "بدلہ، جزا", "en": "recompense" } },
+    { "text": { "ur": "قرض", "en": "debt" } },
+    { "text": { "ur": "گھر", "en": "home" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "یہاں دین — بدلہ، جزا، معاوضہ: جزا کا دن۔", "en": "Here دين — recompense: the Day of Recompense." }
+  },
+  {
+   "id": "u3-l3-q3",
+   "type": "mcq",
+   "prompt": { "ur": "مٰلِك کس وزن پر ہے؟", "en": "Which pattern is مٰلِك on?" },
+   "arabic": "مَالِك",
+   "options": [{ "ar": "فَاعِل" }, { "ar": "فَعِيْل" }, { "ar": "مَفْعُوْل" }],
+   "answer": 0,
+   "explanation": { "ur": "مَالِك وزن فَاعِل پر ہے — ملکیت رکھنے والا۔", "en": "مَالِك is on فَاعِل — the one who owns." }
+  }
+ ]
+}

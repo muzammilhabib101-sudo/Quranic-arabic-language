@@ -1,0 +1,127 @@
+{
+ "id": "u3-l2",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الفاتحہ کی تیسری آیت — الرَّحْمٰنِ الرَّحِيْمِ — کو دہرائیں: ہر لفظ کا وزن ہوتا ہے، اور وزن بدلنے سے معنی میں تبدیلی آتی ہے — رَحِمَ، رَاحِم، مَرْحُوْم، رَحْمٰن اور رَحِيْم۔",
+  "en": "Review the third verse of Al-Fatihah — الرَّحْمٰنِ الرَّحِيْمِ: every word has a pattern, and changing the pattern changes the meaning — رَحِمَ, رَاحِم, مَرْحُوْم, رَحْمٰن and رَحِيْم."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "وزن معنی بدلتا ہے", "en": "Patterns change meaning" },
+   "body": {
+    "ur": "تمام زبانوں میں ہر کلمے کا کوئی وزن ہوتا ہے جو موسیقیت اور غنائیت کا سبب بنتا ہے، مگر عربی میں وزن معانی میں تبدیلی کا بھی موجب ہوتا ہے۔ رَحِمَ کا وزن فَعِلَ ہے؛ جب اسے کسی اور وزن پر لے جاتے ہیں تو معنی بدل جاتا ہے۔",
+    "en": "In every language words have a rhythm, but in Arabic the pattern also changes the meaning. رَحِمَ is on فَعِلَ; move it to another pattern and the meaning changes."
+   }
+  },
+  {
+   "title": { "ur": "ایک مادّہ، کئی الفاظ", "en": "One root, many words" },
+   "body": {
+    "ur": "رَحِمَ (فَعِلَ) — اس نے رحم کیا؛ رَاحِم (فَاعِل) — رحم کرنے والا؛ مَرْحُوْم (مَفْعُوْل) — جس پر رحم کیا گیا؛ رَحْمٰن (فَعْلَان) — جوش سے رحم کرنے والا؛ رَحِيْم (فَعِيْل) — ہمیشہ رحم کرنے والا۔",
+    "en": "رَحِمَ (فَعِلَ) — he showed mercy; رَاحِم (فَاعِل) — one who shows mercy; مَرْحُوْم (مَفْعُوْل) — one shown mercy; رَحْمٰن (فَعْلَان) — overflowing in mercy; رَحِيْم (فَعِيْل) — always merciful."
+   }
+  }
+ ],
+ "verse": { "surah": 1, "ayah": 3 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "بے حد مہربان", "en": "the Most Gracious" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "رَحْمٰن", "role": "noun", "label": { "ur": "جوش سے رحم کرنے والا", "en": "overflowing in mercy" } }
+   ],
+   "pattern": "فَعْلَان",
+   "patternMeaning": {
+    "ur": "جوش، قوت، ولولہ اور زور؛ اپنی حدود سے باہر نکل آنا، راستے کی رکاوٹوں کو توڑنا — جیسے طُوفَان، طُغْيَان، غَضْبَان، فَيْضَان",
+    "en": "force and overflowing beyond limits, breaking through obstacles — like طُوفَان, طُغْيَان, غَضْبَان, فَيْضَان"
+   },
+   "why": {
+    "ur": "رَحْمٰن وزن فَعْلَان پر ہے۔ طوفان — جب ہوا عام رفتار کی بجائے تیز چلے؛ طغیان — جب ندی نالے اپنی حدود توڑ کر باہر آ جائیں؛ غضبان — جب ناراضگی حد سے بڑھ جائے؛ فیضان — جب ہر وقت فیض جاری رہے۔ ان سب میں قدرِ مشترک: جوش، قوت اور حدود سے باہر نکل آنا۔ یعنی ایسا رحم کرنے والا جس کا رحم جوش سے امڈ آتا ہے اور راستے کی تمام رکاوٹوں کو توڑ کر آتا ہے۔",
+    "en": "رَحْمٰن is on فَعْلَان. طوفان — when wind blows far faster than usual; طغیان — when streams burst their banks; غضبان — when anger goes beyond bounds; فیضان — when bounty flows constantly. What they share: force, and overflowing all limits. So الرَّحْمٰن is the One whose mercy surges out and breaks through every obstacle."
+   }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "نہایت رحم والا", "en": "the Most Merciful" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "رَحِيْم", "role": "noun", "label": { "ur": "ہمیشہ رحم کرنے والا", "en": "always merciful" } }
+   ],
+   "pattern": "فَعِيْل",
+   "patternMeaning": {
+    "ur": "ہمیشگی — ایسی صفت جو ازل سے ابد تک ہو اور ذات کا حصہ ہو — جیسے عَلِيْم، عَظِيْم",
+    "en": "permanence — a quality without beginning or end that is part of who one is — like عَلِيْم, عَظِيْم"
+   },
+   "why": {
+    "ur": "رَحِيْم وزن فَعِيْل پر ہے: ایسا رحم کرنے والا جو ازل سے ابد تک رحم کرنے والا ہو، اور یہ صفت اس کی ذاتی ہو۔ رحمان اور رحیم دونوں کلمات اردو میں مستعمل ہیں، اور دونوں رحم سے بنے ہیں۔",
+    "en": "رَحِيْم is on فَعِيْل: merciful without beginning or end, a quality of His very being. Both رحمان and رحیم are used in Urdu, and both come from رحم."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1], "role": "noun", "label": { "ur": "بے حد مہربان (فَعْلَان — جوش)", "en": "Most Gracious (فَعْلَان — force)" } },
+   { "words": [2], "role": "noun", "label": { "ur": "نہایت رحم والا (فَعِيْل — ہمیشگی)", "en": "Most Merciful (فَعِيْل — permanence)" } }
+  ],
+  "plain": {
+   "ur": "دو الفاظ، ایک ہی مادّہ (ر ح م)، مگر دو وزن: الرَّحْمٰن — جس کا رحم جوش سے امڈتا ہے، اور الرَّحِيْم — جس کا رحم ہمیشہ قائم رہتا ہے۔ یہی دونوں الفاظ بسم اللہ میں بھی آئے تھے؛ یہاں یہ رَبِّ الْعٰلَمِيْنَ کی صفات کے طور پر آئے ہیں۔",
+   "en": "Two words from one root (ر ح م) on two patterns: الرَّحْمٰن — whose mercy surges, and الرَّحِيْم — whose mercy never ends. The same words came in the Bismillah; here they describe the Lord of all the worlds."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "عربی میں وزن بدلنے سے معنی بدلتا ہے: رَحِمَ → رَاحِم → مَرْحُوْم → رَحْمٰن → رَحِيْم۔",
+   "en": "In Arabic, changing the pattern changes the meaning: رَحِمَ → رَاحِم → مَرْحُوْم → رَحْمٰن → رَحِيْم."
+  },
+  "points": [
+   { "ur": "فَعْلَان — جوش اور حد سے بڑھنا: رَحْمٰن، طُوفَان، غَضْبَان۔", "en": "فَعْلَان — force, overflowing: رَحْمٰن, طُوفَان, غَضْبَان." },
+   { "ur": "فَعِيْل — ہمیشگی: رَحِيْم، عَلِيْم، عَظِيْم۔", "en": "فَعِيْل — permanence: رَحِيْم, عَلِيْم, عَظِيْم." },
+   { "ur": "فَاعِل — کرنے والا (رَاحِم)؛ مَفْعُوْل — جس پر کیا گیا (مَرْحُوْم)۔", "en": "فَاعِل — the doer (رَاحِم); مَفْعُوْل — the one it is done to (مَرْحُوْم)." }
+  ]
+ },
+ "check": [
+  {
+   "id": "u3-l2-q1",
+   "type": "mcq",
+   "prompt": { "ur": "رَحْمٰن کس وزن پر ہے؟", "en": "Which pattern is رَحْمٰن on?" },
+   "arabic": "رَحْمٰن",
+   "options": [{ "ar": "فَعْلَان" }, { "ar": "فَعِيْل" }, { "ar": "فَاعِل" }],
+   "answer": 0,
+   "explanation": { "ur": "رَحْمٰن وزن فَعْلَان پر ہے — جوش اور قوت۔", "en": "رَحْمٰن is on فَعْلَان — force and overflowing." }
+  },
+  {
+   "id": "u3-l2-q2",
+   "type": "mcq",
+   "prompt": { "ur": "مَرْحُوْم کا کیا مطلب ہے؟", "en": "What does مَرْحُوْم mean?" },
+   "arabic": "مَرْحُوْم",
+   "options": [
+    { "text": { "ur": "جس پر رحم کیا گیا", "en": "one shown mercy" } },
+    { "text": { "ur": "رحم کرنے والا", "en": "one who shows mercy" } },
+    { "text": { "ur": "اس نے رحم کیا", "en": "he showed mercy" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "وزن مَفْعُوْل — جس پر کام کیا گیا: مَرْحُوْم۔ رحم کرنے والا رَاحِم (فَاعِل) ہے۔", "en": "Pattern مَفْعُوْل — the one it is done to: مَرْحُوْم. The one who shows mercy is رَاحِم (فَاعِل)." }
+  },
+  {
+   "id": "u3-l2-q3",
+   "type": "mcq",
+   "prompt": { "ur": "وزن فَعِيْل کا قدرِ مشترک کیا ہے؟", "en": "What do words on فَعِيْل share?" },
+   "options": [
+    { "text": { "ur": "ہمیشہ رہنے والی، ذاتی صفت", "en": "a lasting quality of who one is" } },
+    { "text": { "ur": "جوش اور حد سے بڑھنا", "en": "force and overflowing" } },
+    { "text": { "ur": "جس پر کام کیا گیا", "en": "the one acted on" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "فَعِيْل — ہمیشگی: رَحِيْم، عَلِيْم، عَظِيْم۔ جوش فَعْلَان کا معنی ہے۔", "en": "فَعِيْل — permanence: رَحِيْم, عَلِيْم, عَظِيْم. Force is the meaning of فَعْلَان." }
+  },
+  {
+   "id": "u3-l2-q4",
+   "type": "mcq",
+   "prompt": { "ur": "طُوفَان کس وزن پر ہے؟", "en": "Which pattern is طُوفَان on?" },
+   "arabic": "طُوفَان",
+   "options": [{ "ar": "فَعْلَان" }, { "ar": "فَعِيْل" }, { "ar": "مَفْعُوْل" }],
+   "answer": 0,
+   "explanation": { "ur": "طُوفَان، طُغْيَان، غَضْبَان، فَيْضَان — سب جوش اور حد سے بڑھنے کے معنی میں۔", "en": "طُوفَان, طُغْيَان, غَضْبَان, فَيْضَان — all carry force and overflowing." }
+  }
+ ]
+}

@@ -1,0 +1,176 @@
+{
+ "id": "u4-l15",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الفرقان کی آیت ۷۵ کو لفظ بہ لفظ سمجھیں — رحمٰن کے بندوں کا انعام — اور سیکھیں: أُولٰٓئِكَ (وہی لوگ)، يُجْزَوْنَ اور يُلَقَّوْنَ (مضارع مجہول)، اور بِمَا (اس سبب سے کہ)۔",
+  "en": "Understand Al-Furqan 25:75 word by word — the reward of the servants of the Most Merciful — and learn: أُولٰٓئِكَ (those), يُجْزَوْنَ and يُلَقَّوْنَ (present passive), and بِمَا (because)."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "مضارع مجہول", "en": "Present passive" },
+   "body": {
+    "ur": "مضارع کی علامت پر پیش اور تیسرے حرف پر زبر ہو تو فعل مجہول ہے: يجزون (علامت پر زبر) — وہ بدلہ دیتے ہیں، يُجْزَوْنَ — انہیں بدلہ دیا جائے گا۔",
+    "en": "When the present-tense sign has a damma and the third letter a fatha, the verb is passive: يجزون (fatha on the sign) — they reward, يُجْزَوْنَ — they will be rewarded."
+   }
+  },
+  {
+   "title": { "ur": "أُولٰٓئِكَ — دور کا اشارہ", "en": "أُولٰٓئِكَ — pointing far" },
+   "body": {
+    "ur": "أُولٰٓئِكَ — وہ لوگ، وہی لوگ (اسمِ اشارہ بعید، جمع)۔ پچھلی آیات کے سب اوصاف والے بندوں کی طرف اشارہ ہے۔",
+    "en": "أُولٰٓئِكَ — those, they are the ones (pointing far, plural). It points back to the servants described in the earlier verses."
+   }
+  }
+ ],
+ "verse": { "surah": 25, "ayah": 75 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "یہی لوگ", "en": "those" },
+   "parts": [{ "text": "أُولٰٓئِكَ", "role": "noun", "label": { "ur": "وہ لوگ (اشارہ بعید)", "en": "those (far)" } }],
+   "why": { "ur": "أُولٰٓئِكَ — اسمِ اشارہ بعید: وہی لوگ۔", "en": "أُولٰٓئِكَ — demonstrative for far: those, they are the ones." }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "بدلے میں دیے جائیں گے", "en": "will be rewarded" },
+   "parts": [
+    { "text": "يُجْزَ", "role": "verb", "label": { "ur": "بدلہ دیا جائے گا (مجہول)", "en": "be rewarded (passive)" } },
+    { "text": "وْنَ", "role": "noun", "label": { "ur": "وہ سب", "en": "they" } }
+   ],
+   "why": {
+    "ur": "جزاء — بدلہ۔ يُجْزَوْنَ — علامت پر پیش، تیسرے حرف پر زبر: مجہول۔ انہیں بدلہ ملے گا۔",
+    "en": "جزاء — reward. يُجْزَوْنَ — damma on the sign, fatha on the third letter: passive. They will be rewarded."
+   }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "بالاخانہ", "en": "the high chamber" },
+   "parts": [
+    { "text": "الْ", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "غُرْفَةَ", "role": "noun", "label": { "ur": "بالاخانہ", "en": "chamber" } }
+   ],
+   "why": { "ur": "الغرفة — بالاخانہ، جنت کی بلند منزل۔", "en": "الغرفة — the upper chamber, the high dwelling of Paradise." }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "اس سبب سے کہ", "en": "because" },
+   "parts": [
+    { "text": "بِ", "role": "particle", "label": { "ur": "سبب سے", "en": "because of" } },
+    { "text": "مَا", "role": "particle", "label": { "ur": "جو", "en": "what" } }
+   ],
+   "why": { "ur": "ب + ما: اس سبب سے جو — اس وجہ سے کہ۔", "en": "ب + ما: because of what — because." }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "انہوں نے صبر کیا", "en": "they were patient" },
+   "parts": [
+    { "text": "صَبَرُ", "role": "verb", "label": { "ur": "صبر کیا", "en": "were patient" } },
+    { "text": "وْا", "role": "noun", "label": { "ur": "وہ سب", "en": "they" } }
+   ],
+   "why": { "ur": "صَبَرُوْا — ان سب نے صبر کیا۔ بِمَا صَبَرُوْا — ان کے صبر کے سبب۔", "en": "صَبَرُوْا — they were patient. بِمَا صَبَرُوْا — because of their patience." }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "اور ان کا استقبال کیا جائے گا", "en": "and they will be met" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "يُلَقَّ", "role": "verb", "label": { "ur": "ملوایا جائے گا (مجہول)", "en": "be met (passive)" } },
+    { "text": "وْنَ", "role": "noun", "label": { "ur": "وہ سب", "en": "they" } }
+   ],
+   "why": {
+    "ur": "لقاء — ملاقات۔ يُلَقَّوْنَ — مجہول: انہیں ملے گا، ان کا استقبال کیا جائے گا۔",
+    "en": "لقاء — meeting. يُلَقَّوْنَ — passive: they will be met, they will receive."
+   }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "اس میں", "en": "therein" },
+   "parts": [
+    { "text": "فِيْ", "role": "particle", "label": { "ur": "میں", "en": "in" } },
+    { "text": "هَا", "role": "noun", "label": { "ur": "اس (مؤنث)", "en": "it (f.)" } }
+   ],
+   "why": { "ur": "فی + ہا: اس میں — یعنی الغرفة میں (مؤنث، اس لیے ہا)۔", "en": "في + ها: in it — the chamber (feminine, so ها)." }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "دعائے خیر", "en": "greetings" },
+   "parts": [
+    { "text": "تَحِيَّة", "role": "noun", "label": { "ur": "آداب، دعائے خیر", "en": "greeting" } },
+    { "text": "ا", "role": "particle", "label": { "ur": "تنوین", "en": "tanween" } }
+   ],
+   "why": { "ur": "تحیة — آداب و تسلیمات، زندگی کی دعا۔", "en": "تحية — greeting, a wish of long life." }
+  },
+  {
+   "position": 9,
+   "meaning": { "ur": "اور سلام", "en": "and peace" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "سَلَام", "role": "noun", "label": { "ur": "سلامتی", "en": "peace" } },
+    { "text": "ا", "role": "particle", "label": { "ur": "تنوین", "en": "tanween" } }
+   ],
+   "why": { "ur": "سلام — سلامتی۔ تَحِيَّةً وَسَلَامًا — آداب اور سلام سے۔", "en": "سلام — peace. تَحِيَّةً وَسَلَامًا — with greetings and peace." }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2, 3], "role": "verb", "label": { "ur": "انہی لوگوں کو بالاخانہ ملے گا", "en": "those will be rewarded the high chamber" } },
+   { "words": [4, 5], "role": "verb", "label": { "ur": "ان کے صبر کے بدلے", "en": "for their patience" } },
+   { "words": [6, 7], "role": "verb", "label": { "ur": "اور وہاں ان کا استقبال ہوگا", "en": "and they will be met there" } },
+   { "words": [8, 9], "role": "noun", "label": { "ur": "آداب اور سلام سے", "en": "with greetings and peace" } }
+  ],
+  "plain": {
+   "ur": "یہی وہ لوگ ہیں جنہیں ان کے صبر کے بدلے جنت کے بالاخانے دیے جائیں گے، اور وہاں آداب اور سلام سے ان کا استقبال کیا جائے گا۔",
+   "en": "Those are the ones who will be rewarded with the high chambers of Paradise for their patience, and they will be met there with greetings and peace."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "علامت پر پیش + تیسرے حرف پر زبر = مضارع مجہول: يُجْزَوْنَ، يُلَقَّوْنَ۔",
+   "en": "Damma on the sign + fatha on the third letter = present passive: يُجْزَوْنَ, يُلَقَّوْنَ."
+  },
+  "points": [
+   { "ur": "أُولٰٓئِكَ — وہی لوگ (دور کا اشارہ)۔", "en": "أُولٰٓئِكَ — those (pointing far)." },
+   { "ur": "بِمَا — اس سبب سے کہ۔", "en": "بِمَا — because." },
+   { "ur": "الْغُرْفَة — بالاخانہ؛ تَحِيَّة — آداب؛ سَلَام — سلامتی۔", "en": "الْغُرْفَة — high chamber; تَحِيَّة — greeting; سَلَام — peace." }
+  ]
+ },
+ "check": [
+  {
+   "id": "u4-l15-q1",
+   "type": "mcq",
+   "prompt": { "ur": "يُجْزَوْنَ کا کیا مطلب ہے؟", "en": "What does يُجْزَوْنَ mean?" },
+   "arabic": "يُجْزَوْنَ",
+   "options": [
+    { "text": { "ur": "انہیں بدلہ دیا جائے گا", "en": "they will be rewarded" } },
+    { "text": { "ur": "وہ بدلہ دیں گے", "en": "they will reward" } },
+    { "text": { "ur": "انہوں نے صبر کیا", "en": "they were patient" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "علامت پر پیش اور تیسرے حرف پر زبر: مجہول — انہیں بدلہ دیا جائے گا۔", "en": "Damma on the sign, fatha on the third letter: passive — they will be rewarded." }
+  },
+  {
+   "id": "u4-l15-q2",
+   "type": "mcq",
+   "prompt": { "ur": "بِمَا صَبَرُوْا کا کیا مطلب ہے؟", "en": "What does بِمَا صَبَرُوْا mean?" },
+   "arabic": "بِمَا صَبَرُوْا",
+   "options": [
+    { "text": { "ur": "ان کے صبر کے سبب", "en": "because they were patient" } },
+    { "text": { "ur": "انہوں نے صبر نہیں کیا", "en": "they were not patient" } },
+    { "text": { "ur": "صبر کرو", "en": "be patient" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "ب + ما: اس سبب سے کہ؛ صَبَرُوْا — انہوں نے صبر کیا۔", "en": "ب + ما: because; صَبَرُوْا — they were patient." }
+  },
+  {
+   "id": "u4-l15-q3",
+   "type": "mcq",
+   "prompt": { "ur": "الْغُرْفَةَ کا کیا مطلب ہے؟", "en": "What does الْغُرْفَةَ mean?" },
+   "options": [
+    { "text": { "ur": "بالاخانہ، بلند منزل", "en": "the high chamber" } },
+    { "text": { "ur": "باغ", "en": "garden" } },
+    { "text": { "ur": "دریا", "en": "river" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "الغرفة — بالاخانہ، جنت کی بلند منزل۔", "en": "الغرفة — the upper chamber of Paradise." }
+  }
+ ]
+}

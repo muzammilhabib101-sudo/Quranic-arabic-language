@@ -1,0 +1,462 @@
+{
+ "id": "u2-l12",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الحجرات کی بارہویں آیت کو لفظ بہ لفظ سمجھیں — گمان، جاسوسی اور غیبت سے بچنا — اور سیکھیں: سوال کا ہمزہ (أَيُحِبُّ)، حالت ظاہر کرنے والی تنوین (مَيْتًا)، ضمیر سے پہلے جمع کا الف گرنا (فَكَرِهْتُمُوْهُ)، اور وزن فَعَّال (تَوَّاب)۔",
+  "en": "Understand the twelfth verse of Surah Al-Hujurat word by word — avoiding suspicion, spying and backbiting — and learn: the question hamza (أَيُحِبُّ), tanween that shows a state (مَيْتًا), the plural alif dropping before a pronoun (فَكَرِهْتُمُوْهُ), and the pattern فَعَّال (تَوَّاب)."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "سوال کا ہمزہ", "en": "The question hamza" },
+   "body": {
+    "ur": "کلمے سے پہلے أ (ہمزہ استفہام) سوال بنا دیتا ہے: يُحِبُّ — وہ پسند کرتا ہے، أَيُحِبُّ — کیا وہ پسند کرتا ہے؟",
+    "en": "أ before a word (the question hamza) makes a question: يُحِبُّ — he likes, أَيُحِبُّ — does he like?"
+   }
+  },
+  {
+   "title": { "ur": "حالت کی تنوین", "en": "Tanween of state" },
+   "body": {
+    "ur": "تنوین حالت کو ظاہر کرنے کے لیے بھی لگائی جاتی ہے: مَيْت — مردہ، مَيْتًا — مردہ حالت میں۔",
+    "en": "Tanween can also show a state: مَيْت — dead, مَيْتًا — in a dead state."
+   }
+  },
+  {
+   "title": { "ur": "وزن فَعَّال", "en": "The pattern فَعَّال" },
+   "body": {
+    "ur": "فَعَّال بار بار اور بہت زیادہ کرنے والے کو کہتے ہیں: تَوَّاب — بہت توبہ قبول فرمانے والا۔",
+    "en": "فَعَّال names someone who does something again and again: تَوَّاب — the One who accepts repentance again and again."
+   }
+  }
+ ],
+ "verse": { "surah": 49, "ayah": 12 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "اے", "en": "O" },
+   "parts": [
+    { "text": "يَا", "role": "particle", "label": { "ur": "اے", "en": "O" } },
+    { "text": "أَيُّ", "role": "noun", "label": { "ur": "اے (توجہ)", "en": "O you" } },
+    { "text": "هَا", "role": "particle", "label": { "ur": "تنبیہ", "en": "attention" } }
+   ],
+   "why": { "ur": "حرفِ ندا: يَا أَيُّهَا الَّذِيْنَ آمَنُوْا — اے اہلِ ایمان۔", "en": "A calling word: يَا أَيُّهَا الَّذِيْنَ آمَنُوْا — O you who believe." }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "وہ سب جو", "en": "those who" },
+   "parts": [{ "text": "الَّذِيْنَ", "role": "noun", "label": { "ur": "جو سب", "en": "those who" } }],
+   "why": { "ur": "اسمِ موصول: جو سب اشخاص۔", "en": "A relative word: those who." }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "ایمان لائے", "en": "believed" },
+   "parts": [
+    { "text": "آمَنَ", "role": "verb", "label": { "ur": "ایمان لایا", "en": "believed" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": { "ur": "آمَنَ + وا: وہ سب ایمان لائے۔", "en": "آمَنَ + وا: they all believed." }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "اجتناب کرو، بچو", "en": "avoid" },
+   "parts": [
+    { "text": "اجْتَنِبْ", "role": "verb", "label": { "ur": "اجتناب کرو", "en": "avoid" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "اجتنب + وا۔ اجتناب — بچنا، دور رہنا (اردو میں مستعمل)۔ اجْتَنِبُوْا — تم سب اجتناب برتو۔",
+    "en": "اجتنب + وا. اجتناب — avoiding, keeping away (used in Urdu). اجْتَنِبُوْا — avoid, all of you."
+   }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "بہت زیادہ", "en": "much" },
+   "parts": [{ "text": "كَثِيْر", "role": "noun", "label": { "ur": "زیادہ تر", "en": "much" } }],
+   "why": {
+    "ur": "کثیر — زیادہ تر، قلیل کا عکس؛ اردو میں مستعمل۔",
+    "en": "کثیر — much, the opposite of قلیل (little); used in Urdu."
+   }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "سے", "en": "of" },
+   "parts": [{ "text": "مِنْ", "role": "particle", "label": { "ur": "سے", "en": "of" } }],
+   "why": { "ur": "مِنْ — سے۔", "en": "مِنْ — of." }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "گمان", "en": "assumption" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "ظَنّ", "role": "noun", "label": { "ur": "گمان، شک", "en": "suspicion" } }
+   ],
+   "why": {
+    "ur": "الظن — خیال، شک، گمان؛ اسی سے بدگمانی (ظن کا لفظ اردو میں مستعمل)۔ اجْتَنِبُوْا كَثِيْرًا مِّنَ الظَّنِّ — زیادہ گمان کرنے سے پرہیز کرو۔",
+    "en": "الظن — thinking, doubt, assumption; Urdu has ظن and بدگمانی (suspicion). اجْتَنِبُوْا كَثِيْرًا مِّنَ الظَّنِّ — avoid much assumption."
+   }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "بیشک", "en": "indeed" },
+   "parts": [{ "text": "إِنَّ", "role": "particle", "label": { "ur": "بیشک", "en": "indeed" } }],
+   "why": { "ur": "إِنَّ — بیشک۔", "en": "إِنَّ — indeed." }
+  },
+  {
+   "position": 9,
+   "meaning": { "ur": "بعض", "en": "some" },
+   "parts": [{ "text": "بَعْض", "role": "noun", "label": { "ur": "چند", "en": "some" } }],
+   "why": {
+    "ur": "بعض — چند؛ اس کا عکس: تمام، سارے۔ اردو میں مستعمل۔",
+    "en": "بعض — some; its opposite: all. Used in Urdu."
+   }
+  },
+  {
+   "position": 10,
+   "meaning": { "ur": "گمان", "en": "assumption" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "ظَنّ", "role": "noun", "label": { "ur": "گمان", "en": "assumption" } }
+   ],
+   "why": { "ur": "بَعْضَ الظَّنِّ — بعض گمان۔", "en": "بَعْضَ الظَّنِّ — some assumption." }
+  },
+  {
+   "position": 11,
+   "meaning": { "ur": "گناہ", "en": "a sin" },
+   "parts": [{ "text": "إِثْم", "role": "noun", "label": { "ur": "گناہ، ناجائز کام", "en": "sin" } }],
+   "why": {
+    "ur": "إِثْم — گناہ، ناجائز کام۔ إِنَّ بَعْضَ الظَّنِّ إِثْمٌ — بیشک بعض گمان گناہ ہوتے ہیں۔",
+    "en": "إِثْم — sin, a wrong deed. إِنَّ بَعْضَ الظَّنِّ إِثْمٌ — indeed some assumption is sin."
+   }
+  },
+  {
+   "position": 12,
+   "meaning": { "ur": "اور نہ", "en": "and do not" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "لَا", "role": "particle", "label": { "ur": "نہ", "en": "do not" } }
+   ],
+   "why": { "ur": "وَ — اور، لَا — نہ، منع اور نفی کے لیے۔", "en": "وَ — and, لَا — not, for forbidding and negating." }
+  },
+  {
+   "position": 13,
+   "meaning": { "ur": "جاسوسی کرو", "en": "spy" },
+   "parts": [
+    { "text": "تَ", "role": "particle", "label": { "ur": "مخاطب کی علامت", "en": "sign of “you”" } },
+    { "text": "جَسَّسُ", "role": "verb", "label": { "ur": "جاسوسی کرنا", "en": "spy" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ت + جسس + وا۔ جسس — جاسوسی کی، کھوج لگایا، بھید ٹٹولا اور خبر کی ٹوہ میں رہا۔ تَجَسَّسُ — تم جاسوسی کرتے ہو؛ وَلَا تَجَسَّسُوْا — اور تم سب جاسوسی نہ کرو۔",
+    "en": "ت + جسس + وا. جسس — to spy, to dig into secrets and pry for news. تَجَسَّسُ — you spy; وَلَا تَجَسَّسُوْا — and do not spy, all of you."
+   }
+  },
+  {
+   "position": 14,
+   "meaning": { "ur": "اور نہ", "en": "and not" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "لَا", "role": "particle", "label": { "ur": "نہ", "en": "not" } }
+   ],
+   "why": { "ur": "وَلَا — اور نہ۔", "en": "وَلَا — and not." }
+  },
+  {
+   "position": 15,
+   "meaning": { "ur": "غیبت کرے", "en": "backbite" },
+   "parts": [
+    { "text": "يَ", "role": "particle", "label": { "ur": "مضارع کی علامت", "en": "present-tense sign" } },
+    { "text": "غْتَبْ", "role": "verb", "label": { "ur": "غیبت کرنا", "en": "backbite" } }
+   ],
+   "why": {
+    "ur": "اِغْتَابَ — اس نے غیبت کی، يَغْتَابُ — وہ غیبت کرتا ہے، غِيْبَة — غیبت (اردو میں مستعمل)۔ وَلَا يَغْتَبْ — اور نہ غیبت کرے۔",
+    "en": "اِغْتَابَ — he backbit, يَغْتَابُ — he backbites, غِيْبَة — backbiting (Urdu غیبت). وَلَا يَغْتَبْ — and let not … backbite."
+   }
+  },
+  {
+   "position": 16,
+   "meaning": { "ur": "تمہارے بعض", "en": "some of you" },
+   "parts": [
+    { "text": "بَعْضُ", "role": "noun", "label": { "ur": "چند", "en": "some" } },
+    { "text": "كُمْ", "role": "noun", "label": { "ur": "تمہارے", "en": "of you" } }
+   ],
+   "why": { "ur": "بعض (چند) + كُم (تمہارے): تمہارے بعض۔", "en": "بعض (some) + كُم (of you): some of you." }
+  },
+  {
+   "position": 17,
+   "meaning": { "ur": "بعض کی", "en": "of others" },
+   "parts": [{ "text": "بَعْض", "role": "noun", "label": { "ur": "بعض کی", "en": "others" } }],
+   "why": {
+    "ur": "بَعْضًا — بعض کی۔ وَلَا يَغْتَبْ بَعْضُكُمْ بَعْضًا — تمہارے بعض، بعض کی غیبت نہ کریں — یعنی تم آپس میں ایک دوسرے کی غیبت نہ کرو۔",
+    "en": "بَعْضًا — of others. وَلَا يَغْتَبْ بَعْضُكُمْ بَعْضًا — let not some of you backbite others — that is, do not backbite one another."
+   }
+  },
+  {
+   "position": 18,
+   "meaning": { "ur": "کیا پسند کرتا ہے", "en": "would … like" },
+   "parts": [
+    { "text": "أَ", "role": "particle", "label": { "ur": "کیا (ہمزہ استفہام)", "en": "question hamza" } },
+    { "text": "يُ", "role": "particle", "label": { "ur": "مضارع کی علامت", "en": "present-tense sign" } },
+    { "text": "حِبُّ", "role": "verb", "label": { "ur": "پسند کرنا", "en": "like" } }
+   ],
+   "why": {
+    "ur": "أ + ی + حب۔ شروع کا أ ہمزہ استفہام ہے، یعنی ”کیا“؛ ی مضارع کی علامت؛ حب — پسند کرنا (اردو میں مستعمل)۔ يُحِبُّ — وہ پسند کرتا ہے، أَيُحِبُّ — کیا وہ پسند کرتا ہے؟",
+    "en": "أ + ی + حب. The أ at the start is the question hamza, “does…?”; ی is the present-tense sign; حب — to like (Urdu حب). يُحِبُّ — he likes, أَيُحِبُّ — does he like?"
+   }
+  },
+  {
+   "position": 19,
+   "meaning": { "ur": "تم میں سے کوئی ایک", "en": "one of you" },
+   "parts": [
+    { "text": "أَحَدُ", "role": "noun", "label": { "ur": "ایک", "en": "one" } },
+    { "text": "كُمْ", "role": "noun", "label": { "ur": "تم سب میں", "en": "of you" } }
+   ],
+   "why": {
+    "ur": "احد (ایک — اردو میں مستعمل) + كُم: ایک تم سب میں۔ أَيُحِبُّ أَحَدُكُمْ — کیا تم میں سے کوئی ایک پسند کرتا ہے؟",
+    "en": "احد (one — used in Urdu) + كُم: one of you. أَيُحِبُّ أَحَدُكُمْ — would any one of you like…?"
+   }
+  },
+  {
+   "position": 20,
+   "meaning": { "ur": "کہ", "en": "to" },
+   "parts": [{ "text": "أَنْ", "role": "particle", "label": { "ur": "کہ", "en": "that, to" } }],
+   "why": { "ur": "أَنْ — کہ۔", "en": "أَنْ — that, to." }
+  },
+  {
+   "position": 21,
+   "meaning": { "ur": "وہ کھائے", "en": "eat" },
+   "parts": [
+    { "text": "يَ", "role": "particle", "label": { "ur": "مضارع کی علامت", "en": "present-tense sign" } },
+    { "text": "أْكُلَ", "role": "verb", "label": { "ur": "کھانا", "en": "eat" } }
+   ],
+   "why": {
+    "ur": "ی + اکل: وہ کھاتا ہے یا کھائے گا۔ اکلِ حلال اور ماکولات کے الفاظ اردو میں مستعمل ہیں۔",
+    "en": "ی + أكل: he eats. Urdu has اکلِ حلال (eating lawfully) and ماکولات (foods)."
+   }
+  },
+  {
+   "position": 22,
+   "meaning": { "ur": "گوشت", "en": "the flesh" },
+   "parts": [{ "text": "لَحْم", "role": "noun", "label": { "ur": "گوشت", "en": "flesh, meat" } }],
+   "why": {
+    "ur": "لحم — گوشت؛ اردو میں مستعمل (لحمیات کا استعمال مفید ہے)۔",
+    "en": "لحم — meat, flesh; Urdu has لحمیات (meats, proteins)."
+   }
+  },
+  {
+   "position": 23,
+   "meaning": { "ur": "اپنے بھائی کا", "en": "of his brother" },
+   "parts": [
+    { "text": "أَخِيْ", "role": "noun", "label": { "ur": "بھائی", "en": "brother" } },
+    { "text": "هِ", "role": "noun", "label": { "ur": "اس کے", "en": "his" } }
+   ],
+   "why": { "ur": "اخی + ہ: اس کے بھائی کا — اپنے بھائی کا۔", "en": "أخي + ه: his brother's." }
+  },
+  {
+   "position": 24,
+   "meaning": { "ur": "مردہ حالت میں", "en": "dead" },
+   "parts": [{ "text": "مَيْت", "role": "noun", "label": { "ur": "مردہ", "en": "dead" } }],
+   "why": {
+    "ur": "میّت + ا۔ میّت — مردہ (اردو میں مستعمل)، اور حالت کو ظاہر کرنے کے لیے تنوین لگائی جاتی ہے: مَيْتًا — مردہ حالت میں۔",
+    "en": "ميت + ا. میّت — dead (used in Urdu), and tanween is added to show a state: مَيْتًا — in a dead state."
+   }
+  },
+  {
+   "position": 25,
+   "meaning": { "ur": "تو تم اسے ناپسند کرو گے", "en": "you would hate it" },
+   "parts": [
+    { "text": "فَ", "role": "particle", "label": { "ur": "پس", "en": "so" } },
+    { "text": "كَرِهْ", "role": "verb", "label": { "ur": "کراہت کرنا", "en": "hate" } },
+    { "text": "تُمُوْ", "role": "noun", "label": { "ur": "تم سب", "en": "you (all)" } },
+    { "text": "هُ", "role": "noun", "label": { "ur": "اس سے", "en": "it" } }
+   ],
+   "why": {
+    "ur": "ف + کرہ + تم + و + ہ۔ ف — پس، کرہ — کراہت، تم — تم، و — جمع کی علامت، ہ — اس ایک مذکر سے۔ جب کسی کلمے پر جمع کی علامت لگی ہو اور اس کے ساتھ کوئی ضمیر متصل ہو، تو علامتِ جمع کا دوسرا حرف حذف ہو جاتا ہے: وا کا الف حذف ہو گیا۔ فَكَرِهْتُمُوْهُ — پس تم سب اس سے کراہت کرتے ہو۔",
+    "en": "ف + كره + تم + و + ه. ف — so, كره — disgust, تم — you, و — the plural sign, ه — it. When a pronoun attaches to a plural ending, the ending's second letter drops: the alif of وا is gone. فَكَرِهْتُمُوْهُ — so you would hate it."
+   }
+  },
+  {
+   "position": 26,
+   "meaning": { "ur": "اور تم سب ڈرو", "en": "and fear" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "اتَّقِ", "role": "verb", "label": { "ur": "ڈر (حکم)", "en": "fear (command)" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ا (امر) + تق (ڈرو) + وا (جمع): امر کے استعمال کی وجہ سے تقویٰ کا حرفِ علت حذف ہو گیا — سب ڈرو۔",
+    "en": "ا (command) + تق (fear) + وا (plural): because of the command, the weak letter of تقویٰ drops — fear, all of you."
+   }
+  },
+  {
+   "position": 27,
+   "meaning": { "ur": "اللہ (سے)", "en": "Allah" },
+   "parts": [{ "text": "اللّٰه", "role": "noun", "label": { "ur": "لفظِ جلالہ", "en": "Allah" } }],
+   "why": { "ur": "وَاتَّقُوا اللّٰهَ — اور اللہ سے ڈرو۔", "en": "وَاتَّقُوا اللّٰهَ — and fear Allah." }
+  },
+  {
+   "position": 28,
+   "meaning": { "ur": "بیشک", "en": "indeed" },
+   "parts": [{ "text": "إِنَّ", "role": "particle", "label": { "ur": "بیشک", "en": "indeed" } }],
+   "why": { "ur": "إِنَّ — بیشک۔", "en": "إِنَّ — indeed." }
+  },
+  {
+   "position": 29,
+   "meaning": { "ur": "اللہ", "en": "Allah" },
+   "parts": [{ "text": "اللّٰه", "role": "noun", "label": { "ur": "لفظِ جلالہ", "en": "Allah" } }],
+   "why": { "ur": "إِنَّ اللّٰهَ — بیشک اللہ۔", "en": "إِنَّ اللّٰهَ — indeed Allah." }
+  },
+  {
+   "position": 30,
+   "meaning": { "ur": "بہت توبہ قبول فرمانے والا", "en": "Accepting of repentance" },
+   "parts": [{ "text": "تَوَّاب", "role": "noun", "label": { "ur": "بار بار توبہ قبول کرنے والا", "en": "always accepting repentance" } }],
+   "pattern": "فَعَّال",
+   "patternMeaning": {
+    "ur": "بار بار اور بہت زیادہ کرنے والا",
+    "en": "doing something again and again"
+   },
+   "why": {
+    "ur": "تَوَّاب وزن فَعَّال پر ہے، جو بار بار اور بہت زیادہ کرنے والے کو بتاتا ہے: بہت توبہ قبول فرمانے والا۔",
+    "en": "تَوَّاب is on the pattern فَعَّال, which names one who does something again and again: the One who accepts repentance again and again."
+   }
+  },
+  {
+   "position": 31,
+   "meaning": { "ur": "رحم کرنے والا", "en": "Most Merciful" },
+   "parts": [{ "text": "رَحِيْم", "role": "noun", "label": { "ur": "ہمیشہ رحم کرنے والا", "en": "always merciful" } }],
+   "pattern": "فَعِيْل",
+   "patternMeaning": {
+    "ur": "ہمیشگی — ایسی صفت جو ازل سے ابد تک ہو اور ذات کا حصہ ہو",
+    "en": "permanence — a lasting quality that is part of who one is"
+   },
+   "why": {
+    "ur": "رَحِيْم — وزن فَعِيْل پر۔ إِنَّ اللّٰهَ تَوَّابٌ رَّحِيْمٌ — بیشک اللہ بہت توبہ قبول فرمانے والے اور رحم کرنے والے ہیں۔",
+    "en": "رَحِيْم — on the pattern فَعِيْل. إِنَّ اللّٰهَ تَوَّابٌ رَّحِيْمٌ — indeed Allah accepts repentance again and again and is Most Merciful."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2, 3], "role": "particle", "label": { "ur": "اے ایمان والو", "en": "O you who believe" } },
+   { "words": [4, 5, 6, 7], "role": "verb", "label": { "ur": "بہت گمان کرنے سے بچو", "en": "avoid much assumption" } },
+   { "words": [8, 9, 10, 11], "role": "particle", "label": { "ur": "بیشک بعض گمان گناہ ہیں", "en": "indeed some assumption is sin" } },
+   { "words": [12, 13], "role": "verb", "label": { "ur": "اور جاسوسی نہ کرو", "en": "and do not spy" } },
+   { "words": [14, 15, 16, 17], "role": "verb", "label": { "ur": "اور ایک دوسرے کی غیبت نہ کرو", "en": "nor backbite one another" } },
+   { "words": [18, 19], "role": "verb", "label": { "ur": "کیا تم میں سے کوئی پسند کرے گا", "en": "would any of you like" } },
+   { "words": [20, 21, 22, 23, 24], "role": "verb", "label": { "ur": "کہ اپنے مردہ بھائی کا گوشت کھائے؟", "en": "to eat the flesh of his dead brother?" } },
+   { "words": [25], "role": "verb", "label": { "ur": "تم اسے ناپسند کرو گے", "en": "you would hate it" } },
+   { "words": [26, 27], "role": "verb", "label": { "ur": "اور اللہ سے ڈرو", "en": "and fear Allah" } },
+   { "words": [28, 29, 30, 31], "role": "noun", "label": { "ur": "بیشک اللہ توبہ قبول کرنے والا، رحیم ہے", "en": "indeed Allah accepts repentance, Most Merciful" } }
+  ],
+  "plain": {
+   "ur": "اے اہلِ ایمان! زیادہ گمان کرنے سے پرہیز کرو کیونکہ بعض گمان گناہ ہوتے ہیں، اور تجسس نہ کرو، اور نہ ہی کوئی ایک دوسرے کی غیبت کرے۔ کیا تم میں سے کوئی یہ پسند کرتا ہے کہ وہ اپنے مردہ بھائی کا گوشت کھائے؟ پس تم اسے ناپسند کرتے ہو۔ اور اللہ سے ڈرو؛ بیشک اللہ بہت توبہ قبول فرمانے والے اور رحم کرنے والے ہیں۔ آیت تین برائیوں سے روکتی ہے — گمان، جاسوسی، غیبت — پھر ایک سوال (أَيُحِبُّ) سے غیبت کی برائی دکھاتی ہے۔",
+   "en": "O you who believe! Avoid much assumption, for some assumption is sin; do not spy, and do not backbite one another. Would any of you like to eat the flesh of his dead brother? You would hate it. And fear Allah; indeed Allah accepts repentance again and again and is Most Merciful. The verse forbids three wrongs — suspicion, spying, backbiting — then shows how ugly backbiting is with a question (أَيُحِبُّ)."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "کلمے سے پہلے ہمزہ (أ) سوال بناتا ہے: يُحِبُّ — وہ پسند کرتا ہے، أَيُحِبُّ — کیا وہ پسند کرتا ہے؟",
+   "en": "A hamza (أ) before a word makes a question: يُحِبُّ — he likes, أَيُحِبُّ — does he like?"
+  },
+  "points": [
+   {
+    "ur": "تنوین حالت بھی بتاتی ہے: مَيْتًا — مردہ حالت میں۔",
+    "en": "Tanween can show a state: مَيْتًا — in a dead state."
+   },
+   {
+    "ur": "جمع کی علامت کے ساتھ ضمیر لگے تو اس کا دوسرا حرف گر جاتا ہے: كَرِهْتُمْ + وا + هُ ← فَكَرِهْتُمُوْهُ۔",
+    "en": "When a pronoun attaches to a plural ending, its second letter drops: فَكَرِهْتُمُوْهُ."
+   },
+   {
+    "ur": "وزن فَعَّال — بار بار کرنے والا: تَوَّاب؛ وزن فَعِيْل — ہمیشہ کی صفت: رَحِيْم۔",
+    "en": "The pattern فَعَّال — doing again and again: تَوَّاب; the pattern فَعِيْل — a lasting quality: رَحِيْم."
+   }
+  ]
+ },
+ "check": [
+  {
+   "id": "u2-l12-q1",
+   "type": "mcq",
+   "prompt": { "ur": "أَيُحِبُّ کے شروع میں أ کا کیا معنی ہے؟", "en": "What does the أ at the start of أَيُحِبُّ mean?" },
+   "options": [
+    { "text": { "ur": "کیا (سوال)", "en": "does…? (a question)" } },
+    { "text": { "ur": "میں", "en": "I" } },
+    { "text": { "ur": "حکم", "en": "a command" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "یہ ہمزہ استفہام ہے: أَيُحِبُّ — کیا وہ پسند کرتا ہے؟",
+    "en": "It is the question hamza: أَيُحِبُّ — does he like?"
+   }
+  },
+  {
+   "id": "u2-l12-q2",
+   "type": "mcq",
+   "prompt": { "ur": "مَيْتًا پر تنوین کیا بتاتی ہے؟", "en": "What does the tanween on مَيْتًا show?" },
+   "options": [
+    { "text": { "ur": "حالت — مردہ حالت میں", "en": "a state — in a dead state" } },
+    { "text": { "ur": "جمع", "en": "plural" } },
+    { "text": { "ur": "سوال", "en": "a question" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "حالت ظاہر کرنے کے لیے تنوین لگائی جاتی ہے: مَيْتًا — مردہ حالت میں۔",
+    "en": "Tanween is added to show a state: مَيْتًا — in a dead state."
+   }
+  },
+  {
+   "id": "u2-l12-q3",
+   "type": "mcq",
+   "prompt": { "ur": "تَوَّاب کس وزن پر ہے؟", "en": "Which pattern is تَوَّاب on?" },
+   "arabic": "تَوَّاب",
+   "options": [{ "ar": "فَعِيْل" }, { "ar": "فَعَّال" }, { "ar": "فَاعِل" }],
+   "answer": 1,
+   "explanation": {
+    "ur": "تَوَّاب وزن فَعَّال پر ہے: بار بار توبہ قبول کرنے والا۔",
+    "en": "تَوَّاب is on فَعَّال: the One who accepts repentance again and again."
+   }
+  },
+  {
+   "id": "u2-l12-q4",
+   "type": "mcq",
+   "prompt": { "ur": "آیت کن تین چیزوں سے روکتی ہے؟", "en": "Which three things does the verse forbid?" },
+   "options": [
+    { "text": { "ur": "بدگمانی، جاسوسی اور غیبت", "en": "suspicion, spying and backbiting" } },
+    { "text": { "ur": "جھوٹ، چوری اور لڑائی", "en": "lying, stealing and fighting" } },
+    { "text": { "ur": "مذاق، طعنے اور برے نام", "en": "mocking, taunting and name-calling" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "اجْتَنِبُوْا كَثِيْرًا مِّنَ الظَّنِّ (گمان)، وَلَا تَجَسَّسُوْا (جاسوسی)، وَلَا يَغْتَبْ (غیبت)۔ مذاق، طعنے اور برے نام پچھلی آیت میں تھے۔",
+    "en": "اجْتَنِبُوْا كَثِيْرًا مِّنَ الظَّنِّ (suspicion), وَلَا تَجَسَّسُوْا (spying), وَلَا يَغْتَبْ (backbiting). Mocking, taunting and name-calling were in the previous verse."
+   }
+  },
+  {
+   "id": "u2-l12-q5",
+   "type": "mcq",
+   "prompt": { "ur": "اجْتَنِبُوْا کا کیا مطلب ہے؟", "en": "What does اجْتَنِبُوْا mean?" },
+   "options": [
+    { "text": { "ur": "تم سب اجتناب کرو، بچو", "en": "avoid, all of you" } },
+    { "text": { "ur": "تم سب جاسوسی کرو", "en": "spy, all of you" } },
+    { "text": { "ur": "وہ سب بچ گئے", "en": "they escaped" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "اجتنب (اجتناب کرو) + وا (جمع): تم سب اجتناب برتو۔",
+    "en": "اجتنب (avoid) + وا (plural): avoid, all of you."
+   }
+  },
+  {
+   "id": "u2-l12-q6",
+   "type": "mcq",
+   "prompt": { "ur": "أَحَدُكُمْ کا کیا مطلب ہے؟", "en": "What does أَحَدُكُمْ mean?" },
+   "options": [
+    { "text": { "ur": "تم میں سے کوئی ایک", "en": "any one of you" } },
+    { "text": { "ur": "تم سب", "en": "all of you" } },
+    { "text": { "ur": "تمہارا بھائی", "en": "your brother" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "احد (ایک) + كُم (تم سب): تم میں سے کوئی ایک۔",
+    "en": "أحد (one) + كُم (you): any one of you."
+   }
+  }
+ ]
+}

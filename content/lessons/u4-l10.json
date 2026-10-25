@@ -1,0 +1,231 @@
+{
+ "id": "u4-l10",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الفرقان کی آیت ۷۰ کو لفظ بہ لفظ سمجھیں — توبہ کا دروازہ — اور سیکھیں: تَابَ، آمَنَ اور عَمِلَ کا ماضی اور مضارع، عَمَلًا صَالِحًا میں تنوین (بطور)، اور سَيِّئَات و حَسَنَات (ات سے جمع)۔",
+  "en": "Understand Al-Furqan 25:70 word by word — the door of repentance — and learn: the past and present of تَابَ, آمَنَ and عَمِلَ, the tanween “as” in عَمَلًا صَالِحًا, and سَيِّئَات / حَسَنَات (plurals with ات)."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "ماضی اور مضارع", "en": "Past and present" },
+   "body": {
+    "ur": "تَابَ — اس نے توبہ کی، يَتُوْبُ — وہ توبہ کرتا ہے؛ آمَنَ — وہ ایمان لایا، يُؤْمِنُ — وہ ایمان لاتا ہے؛ عَمِلَ — اس نے عمل کیا، يَعْمَلُ — وہ عمل کرتا ہے۔",
+    "en": "تَابَ — he repented, يَتُوْبُ — he repents; آمَنَ — he believed, يُؤْمِنُ — he believes; عَمِلَ — he did, يَعْمَلُ — he does."
+   }
+  },
+  {
+   "title": { "ur": "ات — مؤنث جمع", "en": "ات — feminine plural" },
+   "body": {
+    "ur": "حَسَنَة (نیکی) کی جمع حَسَنَات، اور سَيِّئَة (برائی) کی جمع سَيِّئَات — ة ہٹا کر ات۔",
+    "en": "حَسَنَة (good deed) → حَسَنَات, and سَيِّئَة (bad deed) → سَيِّئَات — drop the ة, add ات."
+   }
+  }
+ ],
+ "verse": { "surah": 25, "ayah": 70 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "سوائے", "en": "except" },
+   "parts": [{ "text": "إِلَّا", "role": "particle", "label": { "ur": "سوائے", "en": "except" } }],
+   "why": { "ur": "إِلَّا — سوائے۔", "en": "إِلَّا — except." }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "جو", "en": "whoever" },
+   "parts": [{ "text": "مَنْ", "role": "noun", "label": { "ur": "جو", "en": "whoever" } }],
+   "why": { "ur": "مَنْ — جو۔", "en": "مَنْ — whoever." }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "توبہ کی", "en": "repents" },
+   "parts": [{ "text": "تَابَ", "role": "verb", "label": { "ur": "اس نے توبہ کی", "en": "repented" } }],
+   "why": {
+    "ur": "تَابَ — اس نے توبہ کی (متوجہ ہوا، پلٹا)؛ يَتُوْبُ — وہ توبہ کرتا ہے یا کرے گا؛ تَوْبَة — توبہ۔ إِلَّا مَنْ تَابَ — سوائے اس شخص کے جس نے توبہ کی۔",
+    "en": "تَابَ — he repented (turned back); يَتُوْبُ — he repents; تَوْبَة — repentance. إِلَّا مَنْ تَابَ — except whoever repents."
+   }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "اور ایمان لایا", "en": "and believes" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "آمَنَ", "role": "verb", "label": { "ur": "وہ ایمان لایا", "en": "believed" } }
+   ],
+   "why": { "ur": "آمَنَ — وہ ایمان لایا؛ يُؤْمِنُ — وہ ایمان لاتا ہے یا لائے گا؛ إِيْمَان۔", "en": "آمَنَ — he believed; يُؤْمِنُ — he believes; إِيْمَان — faith." }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "اور عمل کیا", "en": "and does" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "عَمِلَ", "role": "verb", "label": { "ur": "اس نے عمل کیا", "en": "did" } }
+   ],
+   "why": { "ur": "عَمِلَ — اس نے عمل کیا؛ يَعْمَلُ — وہ عمل کرتا ہے یا کرے گا۔", "en": "عَمِلَ — he did; يَعْمَلُ — he does." }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "عمل", "en": "deeds" },
+   "parts": [{ "text": "عَمَل", "role": "noun", "label": { "ur": "عمل", "en": "deed" } }],
+   "why": { "ur": "عَمَلًا — عمل۔", "en": "عَمَلًا — a deed." }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "نیک", "en": "righteous" },
+   "parts": [
+    { "text": "صَالِح", "role": "noun", "label": { "ur": "نیک، اچھا", "en": "righteous" } },
+    { "text": "ا", "role": "particle", "label": { "ur": "بطور", "en": "as" } }
+   ],
+   "pattern": "فَاعِل",
+   "patternMeaning": { "ur": "کام کرنے والا", "en": "the one who does the action" },
+   "why": {
+    "ur": "صالح + ا: نیک، اچھے، بھلے، درست، موافق۔ وَآمَنَ وَعَمِلَ عَمَلًا صَالِحًا — اور ایمان لا کر صالح عمل کیے۔",
+    "en": "صالح + ا: good, right, proper. وَآمَنَ وَعَمِلَ عَمَلًا صَالِحًا — and believes and does righteous deeds."
+   }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "تو یہی لوگ", "en": "then those" },
+   "parts": [
+    { "text": "فَ", "role": "particle", "label": { "ur": "پس", "en": "so" } },
+    { "text": "أُولٰئِكَ", "role": "noun", "label": { "ur": "وہ سب (اسمِ اشارہ بعید جمع)", "en": "those" } }
+   ],
+   "why": { "ur": "ف (پس) + اُولئک (وہ سب — اسمِ اشارہ بعید جمع)۔", "en": "ف (so) + أولئك (those — pointing far, plural)." }
+  },
+  {
+   "position": 9,
+   "meaning": { "ur": "بدل دے گا", "en": "will replace" },
+   "parts": [
+    { "text": "يُ", "role": "particle", "label": { "ur": "علامتِ مضارع", "en": "present-tense sign" } },
+    { "text": "بَدِّلُ", "role": "verb", "label": { "ur": "بدلنا", "en": "change" } }
+   ],
+   "why": {
+    "ur": "ی + بدّل: بَدَّلَ — اس نے بدلا، يُبَدِّلُ — وہ بدلتا ہے یا بدل لے گا (بدل اردو میں مستعمل)۔",
+    "en": "ی + بدّل: بَدَّلَ — he changed, يُبَدِّلُ — he changes, will change (Urdu بدل)."
+   }
+  },
+  {
+   "position": 10,
+   "meaning": { "ur": "اللہ", "en": "Allah" },
+   "parts": [{ "text": "اللّٰه", "role": "noun", "label": { "ur": "لفظِ جلالہ", "en": "Allah" } }],
+   "why": { "ur": "اللّٰه — لفظِ جلالہ۔", "en": "اللّٰه — Allah." }
+  },
+  {
+   "position": 11,
+   "meaning": { "ur": "ان کی برائیاں", "en": "their bad deeds" },
+   "parts": [
+    { "text": "سَيِّئَات", "role": "noun", "label": { "ur": "برائیاں، گناہ", "en": "bad deeds" } },
+    { "text": "هِمْ", "role": "noun", "label": { "ur": "ان سب کے", "en": "their" } }
+   ],
+   "why": {
+    "ur": "سیئات + ہم: ان سب کے گناہوں کو۔ سَيِّئَات — برائیاں، سیاکاریاں، گناہ، خرابیاں۔",
+    "en": "سيئات + هم: their bad deeds. سَيِّئَات — evils, sins, wrongs."
+   }
+  },
+  {
+   "position": 12,
+   "meaning": { "ur": "نیکیوں میں", "en": "into good deeds" },
+   "parts": [{ "text": "حَسَنَات", "role": "noun", "label": { "ur": "نیکیاں", "en": "good deeds" } }],
+   "why": {
+    "ur": "حَسَنَات — حَسَنَة کی جمع ہے، یعنی نیکی: نیکیوں میں۔ فَأُولٰئِكَ يُبَدِّلُ اللّٰهُ سَيِّئَاتِهِمْ حَسَنَاتٍ — پس لوگوں کی برائیوں کو اللہ نیکیوں میں بدل دے گا۔",
+    "en": "حَسَنَات — plural of حَسَنَة, a good deed: into good deeds. فَأُولٰئِكَ يُبَدِّلُ اللّٰهُ سَيِّئَاتِهِمْ حَسَنَاتٍ — Allah will replace their bad deeds with good ones."
+   }
+  },
+  {
+   "position": 13,
+   "meaning": { "ur": "اور ہے", "en": "and is" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "كَانَ", "role": "verb", "label": { "ur": "ہے", "en": "is" } }
+   ],
+   "why": { "ur": "كَانَ — ہے۔", "en": "كَانَ — is." }
+  },
+  {
+   "position": 14,
+   "meaning": { "ur": "اللہ", "en": "Allah" },
+   "parts": [{ "text": "اللّٰه", "role": "noun", "label": { "ur": "لفظِ جلالہ", "en": "Allah" } }],
+   "why": { "ur": "اللّٰه — لفظِ جلالہ۔", "en": "اللّٰه — Allah." }
+  },
+  {
+   "position": 15,
+   "meaning": { "ur": "مغفرت فرمانے والا", "en": "Forgiving" },
+   "parts": [{ "text": "غَفُوْر", "role": "noun", "label": { "ur": "مغفرت فرمانے والا", "en": "forgiving" } }],
+   "why": { "ur": "غَفُوْرًا — مغفرت فرمانے والے۔", "en": "غَفُوْرًا — Forgiving." }
+  },
+  {
+   "position": 16,
+   "meaning": { "ur": "رحم فرمانے والا", "en": "Merciful" },
+   "parts": [{ "text": "رَحِيْم", "role": "noun", "label": { "ur": "رحم فرمانے والا", "en": "merciful" } }],
+   "pattern": "فَعِيْل",
+   "patternMeaning": { "ur": "ہمیشہ کی ذاتی صفت", "en": "a lasting quality of who one is" },
+   "why": {
+    "ur": "رَحِيْمًا — رحم فرمانے والے۔ وَكَانَ اللّٰهُ غَفُوْرًا رَّحِيْمًا — اور اللہ بڑی مغفرت فرمانے والے اور رحم کرنے والے ہیں۔",
+    "en": "رَحِيْمًا — Merciful. وَكَانَ اللّٰهُ غَفُوْرًا رَّحِيْمًا — and Allah is ever Forgiving, Merciful."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2, 3], "role": "verb", "label": { "ur": "سوائے اس کے جس نے توبہ کی", "en": "except whoever repents" } },
+   { "words": [4, 5, 6, 7], "role": "verb", "label": { "ur": "اور ایمان لا کر نیک عمل کیے", "en": "and believes and does good deeds" } },
+   { "words": [8, 9, 10, 11, 12], "role": "verb", "label": { "ur": "اللہ ان کی برائیاں نیکیوں میں بدل دے گا", "en": "Allah will turn their bad deeds into good" } },
+   { "words": [13, 14, 15, 16], "role": "noun", "label": { "ur": "اور اللہ غفور، رحیم ہے", "en": "and Allah is Forgiving, Merciful" } }
+  ],
+  "plain": {
+   "ur": "سوائے اس شخص کے جس نے توبہ کی اور ایمان لا کر صالح عمل کیے — تو ایسے لوگوں کی برائیوں کو اللہ نیکیوں میں بدل دے گا، اور اللہ بڑی مغفرت فرمانے والے اور رحم کرنے والے ہیں۔ پچھلی آیات میں سخت سزا کا ذکر تھا؛ یہ آیت امید کا دروازہ کھولتی ہے: سچی توبہ سے گناہ بھی نیکیوں میں بدل جاتے ہیں۔",
+   "en": "Except whoever repents, believes and does righteous deeds — for them Allah will replace their bad deeds with good ones, and Allah is ever Forgiving, Merciful. After the warning of the previous verses, this one opens the door of hope: with sincere repentance, even sins are turned into good deeds."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "ة والے لفظ کی جمع ات سے: حَسَنَة ← حَسَنَات، سَيِّئَة ← سَيِّئَات۔",
+   "en": "Words ending in ة make their plural with ات: حَسَنَة → حَسَنَات, سَيِّئَة → سَيِّئَات."
+  },
+  "points": [
+   { "ur": "تَابَ / يَتُوْبُ — توبہ کی / کرتا ہے۔", "en": "تَابَ / يَتُوْبُ — repented / repents." },
+   { "ur": "عَمِلَ عَمَلًا صَالِحًا — نیک عمل کیا۔", "en": "عَمِلَ عَمَلًا صَالِحًا — did a righteous deed." },
+   { "ur": "يُبَدِّلُ — بدل دیتا ہے۔", "en": "يُبَدِّلُ — replaces, changes." }
+  ]
+ },
+ "check": [
+  {
+   "id": "u4-l10-q1",
+   "type": "mcq",
+   "prompt": { "ur": "حَسَنَات کس لفظ کی جمع ہے؟", "en": "حَسَنَات is the plural of which word?" },
+   "options": [{ "ar": "حَسَنَة" }, { "ar": "حُسْن" }, { "ar": "سَيِّئَة" }],
+   "answer": 0,
+   "explanation": { "ur": "حَسَنَات، حَسَنَة (نیکی) کی جمع ہے۔", "en": "حَسَنَات is the plural of حَسَنَة (a good deed)." }
+  },
+  {
+   "id": "u4-l10-q2",
+   "type": "mcq",
+   "prompt": { "ur": "يُبَدِّلُ کا کیا مطلب ہے؟", "en": "What does يُبَدِّلُ mean?" },
+   "options": [
+    { "text": { "ur": "بدل دیتا ہے", "en": "replaces" } },
+    { "text": { "ur": "مٹا دیتا ہے", "en": "erases" } },
+    { "text": { "ur": "لکھتا ہے", "en": "writes" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "بَدَّلَ — بدلا، يُبَدِّلُ — بدلتا ہے: برائیوں کو نیکیوں میں بدل دیتا ہے۔", "en": "بَدَّلَ — changed, يُبَدِّلُ — changes: turns bad deeds into good." }
+  },
+  {
+   "id": "u4-l10-q3",
+   "type": "mcq",
+   "prompt": { "ur": "تَابَ کا مضارع کیا ہے؟", "en": "What is the present of تَابَ?" },
+   "options": [{ "ar": "يَتُوْبُ" }, { "ar": "تَوْبَة" }, { "ar": "تَائِب" }],
+   "answer": 0,
+   "explanation": { "ur": "تَابَ — اس نے توبہ کی، يَتُوْبُ — وہ توبہ کرتا ہے؛ تَوْبَة — توبہ (اسم)۔", "en": "تَابَ — he repented, يَتُوْبُ — he repents; تَوْبَة — repentance (noun)." }
+  },
+  {
+   "id": "u4-l10-q4",
+   "type": "mcq",
+   "prompt": { "ur": "توبہ کرنے والوں کی برائیوں کا کیا ہوگا؟", "en": "What happens to the bad deeds of those who repent?" },
+   "options": [
+    { "text": { "ur": "اللہ انہیں نیکیوں میں بدل دے گا", "en": "Allah turns them into good deeds" } },
+    { "text": { "ur": "وہ دگنی ہو جائیں گی", "en": "they are doubled" } },
+    { "text": { "ur": "کچھ نہیں بدلے گا", "en": "nothing changes" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "يُبَدِّلُ اللّٰهُ سَيِّئَاتِهِمْ حَسَنَاتٍ — اللہ ان کی برائیوں کو نیکیوں میں بدل دے گا۔", "en": "يُبَدِّلُ اللّٰهُ سَيِّئَاتِهِمْ حَسَنَاتٍ — Allah replaces their bad deeds with good ones." }
+  }
+ ]
+}

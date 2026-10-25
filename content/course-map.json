@@ -1,0 +1,2845 @@
+{
+ "generated": "tools/course-map.mjs",
+ "status": "approved",
+ "units": [
+  {
+   "id": "u1",
+   "order": 1,
+   "title": {
+    "ur": "بسم اللہ — پہلا قدم",
+    "en": "Bismillah — the first step"
+   },
+   "description": {
+    "ur": "بسم اللہ کے ہر لفظ کا تجزیہ: ب، اسم، اللہ، اور وزن فَعْلان و فَعِیْل۔",
+    "en": "Every word of the Bismillah explained, with the patterns فَعْلان and فَعِیْل."
+   },
+   "surah": 1,
+   "lessonIds": [
+    "u1-l1"
+   ]
+  },
+  {
+   "id": "u2",
+   "order": 2,
+   "title": {
+    "ur": "سورۃ الحجرات",
+    "en": "Surah Al-Hujurat"
+   },
+   "description": {
+    "ur": "سورۃ الحجرات کی ۱۸ آیات، لفظ بہ لفظ — ضمائر، فعل مضارع، امر، نفی اور اضافت۔",
+    "en": "All 18 verses of Al-Hujurat word by word — pronouns, present tense, commands, negation and idafa."
+   },
+   "surah": 49,
+   "lessonIds": [
+    "u2-l1",
+    "u2-l2",
+    "u2-l3",
+    "u2-l4",
+    "u2-l5",
+    "u2-l6",
+    "u2-l7",
+    "u2-l8",
+    "u2-l9",
+    "u2-l10",
+    "u2-l11",
+    "u2-l12",
+    "u2-l13",
+    "u2-l14",
+    "u2-l15",
+    "u2-l16",
+    "u2-l17",
+    "u2-l18"
+   ]
+  },
+  {
+   "id": "u3",
+   "order": 3,
+   "title": {
+    "ur": "سورۃ الفاتحہ",
+    "en": "Surah Al-Fatihah"
+   },
+   "description": {
+    "ur": "سورۃ الفاتحہ کی تمام آیات — حمد، رب، عبادت اور ہدایت کی دعا۔",
+    "en": "All of Al-Fatihah — praise, Lord, worship and the prayer for guidance."
+   },
+   "surah": 1,
+   "lessonIds": [
+    "u3-l1",
+    "u3-l2",
+    "u3-l3",
+    "u3-l4",
+    "u3-l5",
+    "u3-l6"
+   ]
+  },
+  {
+   "id": "u4",
+   "order": 4,
+   "title": {
+    "ur": "سورۃ الفرقان — عباد الرحمٰن",
+    "en": "Surah Al-Furqan — Servants of the Most Merciful"
+   },
+   "description": {
+    "ur": "سورۃ الفرقان آیات ۶۱ تا ۷۷: رحمٰن کے بندوں کی صفات۔",
+    "en": "Al-Furqan 25:61–77: the qualities of the servants of the Most Merciful."
+   },
+   "surah": 25,
+   "lessonIds": [
+    "u4-l1",
+    "u4-l2",
+    "u4-l3",
+    "u4-l4",
+    "u4-l5",
+    "u4-l6",
+    "u4-l7",
+    "u4-l8",
+    "u4-l9",
+    "u4-l10",
+    "u4-l11",
+    "u4-l12",
+    "u4-l13",
+    "u4-l14",
+    "u4-l15",
+    "u4-l16",
+    "u4-l17"
+   ]
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u1-l1",
+   "unitId": "u1",
+   "order": 1,
+   "title": {
+    "ur": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+    "en": "Bismillah"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 1,
+    "to": 12
+   },
+   "verseRefs": [
+    {
+     "surah": 1,
+     "ayah": 1
+    }
+   ],
+   "estMinutes": 13,
+   "topics": [
+    {
+     "n": 3,
+     "type": "g",
+     "text": "ابن: alif added so a sakin first letter can be pronounced"
+    },
+    {
+     "n": 6,
+     "type": "p",
+     "text": "الرحمن = ال + رحمان; every word has a pattern (wazan); رحم on فعل"
+    },
+    {
+     "n": 7,
+     "type": "p",
+     "text": "فعل / فاعل / مفعول: رحم، راحم، مرحوم"
+    },
+    {
+     "n": 8,
+     "type": "p",
+     "text": "Pattern فعلان: طوفان، طغيان، غضبان، فيضان (overflowing intensity)"
+    },
+    {
+     "n": 9,
+     "type": "p",
+     "text": "الرحمن on فعلان: mercy that overflows"
+    },
+    {
+     "n": 10,
+     "type": "p",
+     "text": "الرحيم = ال + رحيم on فعيل"
+    },
+    {
+     "n": 11,
+     "type": "p",
+     "text": "Pattern فعيل: a lasting quality — عليم، عظيم، رحيم"
+    }
+   ],
+   "keyWords": [
+    "بسم",
+    "الله",
+    "الرحمن",
+    "الرحيم",
+    "ابن",
+    "اسم",
+    "اله",
+    "رحم",
+    "راحم",
+    "مرحوم",
+    "طوفان",
+    "طغيان",
+    "غضبان",
+    "فيضان",
+    "رحيم",
+    "عليم",
+    "عظيم"
+   ],
+   "counts": {
+    "verse": 2,
+    "word": 3,
+    "grammar": 1,
+    "pattern": 6
+   }
+  },
+  {
+   "id": "u2-l1",
+   "unitId": "u2",
+   "order": 1,
+   "title": {
+    "ur": "الحجرات — آیت ۱",
+    "en": "Al-Hujurat 49:1"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 13,
+    "to": 32
+   },
+   "verseRefs": [
+    {
+     "surah": 49,
+     "ayah": 1
+    }
+   ],
+   "estMinutes": 18,
+   "topics": [
+    {
+     "n": 14,
+     "type": "g",
+     "text": "Vocative particles (حروف ندا): يا، ايها، ايتها"
+    },
+    {
+     "n": 15,
+     "type": "g",
+     "text": "Relative pronouns: الذين، الذي، التي، اللائي"
+    },
+    {
+     "n": 22,
+     "type": "g",
+     "text": "What a pronoun (ضمير) is: قلمه"
+    },
+    {
+     "n": 23,
+     "type": "g",
+     "text": "Attached pronouns: قلمه، قلمها، قلمهما، قلمهم، قلمهن"
+    },
+    {
+     "n": 24,
+     "type": "g",
+     "text": "Detached pronouns هو، هي، هما، هم، هن with طالب forms"
+    },
+    {
+     "n": 27,
+     "type": "g",
+     "text": "واتقوا; when an alif comes before a verb (أكتب، أأكتب، اكتب); weak letters"
+    },
+    {
+     "n": 30,
+     "type": "p",
+     "text": "سميع، عليم on فعيل"
+    }
+   ],
+   "keyWords": [
+    "يا",
+    "ايها",
+    "الذين",
+    "امنوا",
+    "لا",
+    "تقدموا",
+    "بين",
+    "يدي",
+    "الله",
+    "ورسوله",
+    "ايتها",
+    "الذي",
+    "التي",
+    "اللائي",
+    "امن",
+    "يد",
+    "رسوله",
+    "قلمه",
+    "قلمها",
+    "قلمهما",
+    "قلمهم",
+    "قلمهن",
+    "هو",
+    "هي",
+    "هما",
+    "هم",
+    "هن",
+    "اتقوا",
+    "اكتب",
+    "تقوى",
+    "ان",
+    "سميع",
+    "عليم",
+    "واتقوا"
+   ],
+   "counts": {
+    "verse": 5,
+    "word": 8,
+    "grammar": 6,
+    "pattern": 1
+   }
+  },
+  {
+   "id": "u2-l2",
+   "unitId": "u2",
+   "order": 2,
+   "title": {
+    "ur": "الحجرات — آیت ۲",
+    "en": "Al-Hujurat 49:2"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 33,
+    "to": 66
+   },
+   "verseRefs": [
+    {
+     "surah": 49,
+     "ayah": 2
+    }
+   ],
+   "estMinutes": 28,
+   "topics": [
+    {
+     "n": 34,
+     "type": "g",
+     "text": "Vocative particles (repeat)"
+    },
+    {
+     "n": 35,
+     "type": "g",
+     "text": "Relative pronouns (repeat)"
+    },
+    {
+     "n": 38,
+     "type": "g",
+     "text": "ترفعوا = ت + رفع + وا; second-person pronouns ك، كما، كم، كن، ت، تما، تم"
+    },
+    {
+     "n": 39,
+     "type": "g",
+     "text": "Second-person pronoun example: قلمك"
+    },
+    {
+     "n": 40,
+     "type": "g",
+     "text": "Attached \"your\": قلمك، قلمكما، قلمكم، قلمكن"
+    },
+    {
+     "n": 41,
+     "type": "g",
+     "text": "Detached \"you\": انت، انتما، انتم، انتن with طالب"
+    },
+    {
+     "n": 44,
+     "type": "g",
+     "text": "اصواتكم = اصوات + كم; صوته، صوتها، اصواتهم، صوتي، اصواتنا"
+    },
+    {
+     "n": 45,
+     "type": "g",
+     "text": "صوتك، اصواتكما، اصواتكم، اصواتكن"
+    },
+    {
+     "n": 49,
+     "type": "g",
+     "text": "صوت النبي: two nouns together (idafa), ال on the second"
+    },
+    {
+     "n": 53,
+     "type": "g",
+     "text": "له = ل + ه; two kinds of lam"
+    },
+    {
+     "n": 64,
+     "type": "g",
+     "text": "تشعرون = ت + شعر + ون; how Arabic vowels map to Urdu spelling"
+    }
+   ],
+   "keyWords": [
+    "يا",
+    "ايها",
+    "الذين",
+    "امنوا",
+    "لا",
+    "ترفعوا",
+    "اصواتكم",
+    "فوق",
+    "صوت",
+    "النبي",
+    "ولا",
+    "تجهروا",
+    "له",
+    "بالقول",
+    "كجهر",
+    "بعضكم",
+    "لبعض",
+    "ان",
+    "تحبط",
+    "اعمالكم",
+    "وانتم",
+    "تشعرون",
+    "ايتها",
+    "الذي",
+    "التي",
+    "اللائي",
+    "امن",
+    "قلمك",
+    "قلمكما",
+    "قلمكم",
+    "قلمكن",
+    "انت",
+    "انتما",
+    "انتم",
+    "انتن",
+    "رفع",
+    "اصوات",
+    "صوتك",
+    "جهر",
+    "قول"
+   ],
+   "counts": {
+    "verse": 7,
+    "word": 16,
+    "grammar": 11,
+    "pattern": 0
+   }
+  },
+  {
+   "id": "u2-l3",
+   "unitId": "u2",
+   "order": 3,
+   "title": {
+    "ur": "الحجرات — آیت ۳",
+    "en": "Al-Hujurat 49:3"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 67,
+    "to": 84
+   },
+   "verseRefs": [
+    {
+     "surah": 49,
+     "ayah": 3
+    }
+   ],
+   "estMinutes": 13,
+   "topics": [
+    {
+     "n": 69,
+     "type": "g",
+     "text": "Relative pronouns (repeat)"
+    },
+    {
+     "n": 70,
+     "type": "g",
+     "text": "يغضون = ي + غض + ون; present-tense verb (fi'l mudari') starts with ي، ت، ا، ن"
+    },
+    {
+     "n": 71,
+     "type": "g",
+     "text": "Signs of the present tense (علامات مضارع): ي، ت، ا، ن and their persons"
+    },
+    {
+     "n": 72,
+     "type": "g",
+     "text": "Present tense example: يقول، تقول، اقول، نقول"
+    },
+    {
+     "n": 73,
+     "type": "g",
+     "text": "Present tense example: يكتب، تكتب، اكتب، نكتب"
+    },
+    {
+     "n": 74,
+     "type": "g",
+     "text": "س and سوف before the present tense: near and far future (سيغض، ستغض)"
+    }
+   ],
+   "keyWords": [
+    "ان",
+    "الذين",
+    "يغضون",
+    "اصواتهم",
+    "عند",
+    "رسول",
+    "الله",
+    "اولئك",
+    "امتحن",
+    "قلوبهم",
+    "للتقوى",
+    "لهم",
+    "مغفرة",
+    "واجر",
+    "عظيم",
+    "الذي",
+    "التي",
+    "اللائي",
+    "يقول",
+    "تقول",
+    "اقول",
+    "نقول",
+    "يكتب",
+    "تكتب",
+    "اكتب",
+    "نكتب",
+    "سيغض",
+    "ستغض",
+    "سوف",
+    "يغض",
+    "قلوب",
+    "اجر"
+   ],
+   "counts": {
+    "verse": 4,
+    "word": 8,
+    "grammar": 6,
+    "pattern": 0
+   }
+  },
+  {
+   "id": "u2-l4",
+   "unitId": "u2",
+   "order": 4,
+   "title": {
+    "ur": "الحجرات — آیت ۴",
+    "en": "Al-Hujurat 49:4"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 85,
+    "to": 97
+   },
+   "verseRefs": [
+    {
+     "surah": 49,
+     "ayah": 4
+    }
+   ],
+   "estMinutes": 13,
+   "topics": [
+    {
+     "n": 88,
+     "type": "g",
+     "text": "Signs of the present tense (repeat)"
+    },
+    {
+     "n": 92,
+     "type": "g",
+     "text": "الحجرات: feminine ة, plural with ات (حجرة → حجرات)"
+    }
+   ],
+   "keyWords": [
+    "ان",
+    "الذين",
+    "ينادونك",
+    "من",
+    "وراء",
+    "الحجرات",
+    "اكثرهم",
+    "لا",
+    "يعقلون",
+    "نادى",
+    "ينادون",
+    "امام",
+    "يمين",
+    "يسار",
+    "فوق",
+    "تحت",
+    "حجرة",
+    "عقل"
+   ],
+   "counts": {
+    "verse": 4,
+    "word": 7,
+    "grammar": 2,
+    "pattern": 0
+   }
+  },
+  {
+   "id": "u2-l5",
+   "unitId": "u2",
+   "order": 5,
+   "title": {
+    "ur": "الحجرات — آیت ۵",
+    "en": "Al-Hujurat 49:5"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 98,
+    "to": 110
+   },
+   "verseRefs": [
+    {
+     "surah": 49,
+     "ayah": 5
+    }
+   ],
+   "estMinutes": 13,
+   "topics": [
+    {
+     "n": 105,
+     "type": "g",
+     "text": "لكان = ل + كان; two kinds of lam (لام تعليل، لام لازم)"
+    },
+    {
+     "n": 108,
+     "type": "p",
+     "text": "والله، غفور، رحيم on فعيل"
+    }
+   ],
+   "keyWords": [
+    "ولو",
+    "انهم",
+    "صبروا",
+    "حتى",
+    "تخرج",
+    "اليهم",
+    "لكان",
+    "خيرا",
+    "لهم",
+    "والله",
+    "غفور",
+    "رحيم",
+    "لو",
+    "صبر",
+    "خرج",
+    "الى",
+    "كان"
+   ],
+   "counts": {
+    "verse": 6,
+    "word": 5,
+    "grammar": 1,
+    "pattern": 1
+   }
+  },
+  {
+   "id": "u2-l6",
+   "unitId": "u2",
+   "order": 6,
+   "title": {
+    "ur": "الحجرات — آیت ۶",
+    "en": "Al-Hujurat 49:6"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 111,
+    "to": 122
+   },
+   "verseRefs": [
+    {
+     "surah": 49,
+     "ayah": 6
+    }
+   ],
+   "estMinutes": 13,
+   "topics": [
+    {
+     "n": 120,
+     "type": "g",
+     "text": "على (on); kinds of ما: relative, negative, interrogative, exclamation"
+    }
+   ],
+   "keyWords": [
+    "يا",
+    "ايها",
+    "الذين",
+    "امنوا",
+    "ان",
+    "جاءكم",
+    "فاسق",
+    "بنبا",
+    "فتبينوا",
+    "تصيبوا",
+    "قوما",
+    "بجهالة",
+    "فتصبحوا",
+    "على",
+    "ما",
+    "فعلتم",
+    "نادمين",
+    "نبا"
+   ],
+   "counts": {
+    "verse": 3,
+    "word": 8,
+    "grammar": 1,
+    "pattern": 0
+   }
+  },
+  {
+   "id": "u2-l7",
+   "unitId": "u2",
+   "order": 7,
+   "title": {
+    "ur": "الحجرات — آیت ۷",
+    "en": "Al-Hujurat 49:7"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 123,
+    "to": 149
+   },
+   "verseRefs": [
+    {
+     "surah": 49,
+     "ayah": 7
+    }
+   ],
+   "estMinutes": 23,
+   "topics": [
+    {
+     "n": 125,
+     "type": "g",
+     "text": "When an alif comes before a verb: three cases (repeat)"
+    },
+    {
+     "n": 126,
+     "type": "g",
+     "text": "اعلموا: alif as the sign of a command (امر); علم = to know"
+    },
+    {
+     "n": 137,
+     "type": "p",
+     "text": "حبب on فعل (intensive): made beloved; قتل → قتّل"
+    },
+    {
+     "n": 143,
+     "type": "p",
+     "text": "كره on فعل (intensive): made hateful; اليكم"
+    }
+   ],
+   "keyWords": [
+    "واعلموا",
+    "ان",
+    "فيكم",
+    "رسول",
+    "الله",
+    "لو",
+    "يطيعكم",
+    "في",
+    "كثير",
+    "من",
+    "الامر",
+    "لعنتم",
+    "ولكن",
+    "حبب",
+    "اليكم",
+    "الايمان",
+    "وزينه",
+    "قلوبكم",
+    "وكره",
+    "الكفر",
+    "والفسوق",
+    "والعصيان",
+    "اولئك",
+    "هم",
+    "الراشدون",
+    "اعلموا",
+    "اكتب",
+    "علم",
+    "مطيع",
+    "عنت",
+    "لكن",
+    "قتل",
+    "زينه",
+    "زين",
+    "قلوب",
+    "كره",
+    "الفسوق",
+    "العصيان",
+    "راشد"
+   ],
+   "counts": {
+    "verse": 9,
+    "word": 14,
+    "grammar": 2,
+    "pattern": 2
+   }
+  },
+  {
+   "id": "u2-l8",
+   "unitId": "u2",
+   "order": 8,
+   "title": {
+    "ur": "الحجرات — آیت ۸",
+    "en": "Al-Hujurat 49:8"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 150,
+    "to": 155
+   },
+   "verseRefs": [
+    {
+     "surah": 49,
+     "ayah": 8
+    }
+   ],
+   "estMinutes": 8,
+   "topics": [
+    {
+     "n": 154,
+     "type": "p",
+     "text": "عليم and حكيم on فعيل"
+    }
+   ],
+   "keyWords": [
+    "فضلا",
+    "من",
+    "الله",
+    "ونعمة",
+    "والله",
+    "عليم",
+    "حكيم",
+    "نعمة"
+   ],
+   "counts": {
+    "verse": 3,
+    "word": 2,
+    "grammar": 0,
+    "pattern": 1
+   }
+  },
+  {
+   "id": "u2-l9",
+   "unitId": "u2",
+   "order": 9,
+   "title": {
+    "ur": "الحجرات — آیت ۹",
+    "en": "Al-Hujurat 49:9"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 156,
+    "to": 187
+   },
+   "verseRefs": [
+    {
+     "surah": 49,
+     "ayah": 9
+    }
+   ],
+   "estMinutes": 23,
+   "topics": [
+    {
+     "n": 158,
+     "type": "g",
+     "text": "Dual sign ان / ين vs plural sign ون / ين"
+    },
+    {
+     "n": 162,
+     "type": "p",
+     "text": "اقتتلوا on افتعل: doing something together (اشتراك)"
+    },
+    {
+     "n": 168,
+     "type": "g",
+     "text": "ت at the end of a verb: four kinds (هي، انا، انتَ، انتِ)"
+    },
+    {
+     "n": 169,
+     "type": "g",
+     "text": "Example: كتبت، كتبتُ، كتبتَ، كتبتِ"
+    },
+    {
+     "n": 177,
+     "type": "g",
+     "text": "امر الله: idafa — indefinite then definite noun"
+    }
+   ],
+   "keyWords": [
+    "وان",
+    "طائفتان",
+    "من",
+    "المؤمنين",
+    "اقتتلوا",
+    "فاصلحوا",
+    "بينهما",
+    "فان",
+    "بغت",
+    "احداهما",
+    "على",
+    "الاخرى",
+    "فقاتلوا",
+    "التي",
+    "تبغي",
+    "حتى",
+    "تفيء",
+    "الى",
+    "امر",
+    "الله",
+    "فاءت",
+    "بالعدل",
+    "واقسطوا",
+    "ان",
+    "يحب",
+    "المقسطين",
+    "طائفة",
+    "فرقة",
+    "حزب",
+    "قوم",
+    "امة",
+    "مؤمن",
+    "اقتتل",
+    "افتعل",
+    "كتبت",
+    "بغى",
+    "عدل",
+    "اقسطوا",
+    "قسط",
+    "حب"
+   ],
+   "counts": {
+    "verse": 9,
+    "word": 18,
+    "grammar": 4,
+    "pattern": 1
+   }
+  },
+  {
+   "id": "u2-l10",
+   "unitId": "u2",
+   "order": 10,
+   "title": {
+    "ur": "الحجرات — آیت ۱۰",
+    "en": "Al-Hujurat 49:10"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 188,
+    "to": 202
+   },
+   "verseRefs": [
+    {
+     "surah": 49,
+     "ayah": 10
+    }
+   ],
+   "estMinutes": 13,
+   "topics": [
+    {
+     "n": 189,
+     "type": "g",
+     "text": "انما and other emphasis words: ان، أن، قد، لقد، ل، نون ثقيلة"
+    },
+    {
+     "n": 193,
+     "type": "g",
+     "text": "اخويكم = اخوين + كم: the ن of dual/plural drops before an attached pronoun"
+    },
+    {
+     "n": 194,
+     "type": "g",
+     "text": "Dual and plural endings lose their ن before a pronoun (repeat)"
+    },
+    {
+     "n": 196,
+     "type": "g",
+     "text": "واتقوا الله; alif before a verb in three cases (repeat)"
+    },
+    {
+     "n": 199,
+     "type": "g",
+     "text": "ترحمون = ت + رحم + ون; passive voice (مجهول): يُفعَل، فُعِل، كُتِب"
+    }
+   ],
+   "keyWords": [
+    "انما",
+    "المؤمنون",
+    "اخوة",
+    "فاصلحوا",
+    "بين",
+    "اخويكم",
+    "واتقوا",
+    "الله",
+    "لعلكم",
+    "ترحمون",
+    "قد",
+    "لقد",
+    "اتقوا",
+    "تقوى",
+    "لعل",
+    "كتب"
+   ],
+   "counts": {
+    "verse": 6,
+    "word": 4,
+    "grammar": 5,
+    "pattern": 0
+   }
+  },
+  {
+   "id": "u2-l11",
+   "unitId": "u2",
+   "order": 11,
+   "title": {
+    "ur": "الحجرات — آیت ۱۱",
+    "en": "Al-Hujurat 49:11"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 203,
+    "to": 233
+   },
+   "verseRefs": [
+    {
+     "surah": 49,
+     "ayah": 11
+    }
+   ],
+   "estMinutes": 23,
+   "topics": [
+    {
+     "n": 213,
+     "type": "g",
+     "text": "يكن = ي + كن + ن (feminine plural نون نسوة)"
+    },
+    {
+     "n": 223,
+     "type": "g",
+     "text": "بعد الايمان: idafa — \"after faith\""
+    },
+    {
+     "n": 225,
+     "type": "g",
+     "text": "و، من (whoever), لم: negates the present and gives past meaning; drops weak letters"
+    },
+    {
+     "n": 226,
+     "type": "g",
+     "text": "يتب from تاب، يتوب، توبة; لم يتوب → لم يتب"
+    },
+    {
+     "n": 228,
+     "type": "g",
+     "text": "Present tense: يتوب، تتوب، اتوب، نتوب"
+    },
+    {
+     "n": 229,
+     "type": "g",
+     "text": "Past tense forms: تاب، تابت، تبت، تبنا"
+    }
+   ],
+   "keyWords": [
+    "يا",
+    "ايها",
+    "الذين",
+    "امنوا",
+    "لا",
+    "يسخر",
+    "قوم",
+    "من",
+    "عسى",
+    "ان",
+    "يكونوا",
+    "خيرا",
+    "منهم",
+    "ولا",
+    "نساء",
+    "يكن",
+    "منهن",
+    "تلمزوا",
+    "انفسكم",
+    "تنابزوا",
+    "بالالقاب",
+    "بئس",
+    "الاسم",
+    "الفسوق",
+    "بعد",
+    "الايمان",
+    "ومن",
+    "لم",
+    "يتب",
+    "فاولئك",
+    "هم",
+    "الظالمون",
+    "يكون",
+    "كون",
+    "لمز",
+    "انفس",
+    "يتوب",
+    "تاب",
+    "تتوب",
+    "اتوب"
+   ],
+   "counts": {
+    "verse": 11,
+    "word": 14,
+    "grammar": 6,
+    "pattern": 0
+   }
+  },
+  {
+   "id": "u2-l12",
+   "unitId": "u2",
+   "order": 12,
+   "title": {
+    "ur": "الحجرات — آیت ۱۲",
+    "en": "Al-Hujurat 49:12"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 234,
+    "to": 251
+   },
+   "verseRefs": [
+    {
+     "surah": 49,
+     "ayah": 12
+    }
+   ],
+   "estMinutes": 13,
+   "topics": [
+    {
+     "n": 243,
+     "type": "g",
+     "text": "ايحب = أ (question) + ي + حب: \"does ... like?\""
+    },
+    {
+     "n": 248,
+     "type": "g",
+     "text": "فكرهتموه = ف + كره + تم + و + ه; dual/plural sign drops a letter before a pronoun"
+    },
+    {
+     "n": 250,
+     "type": "p",
+     "text": "ان الله تواب رحيم: تواب on فعّال, رحيم on فعيل"
+    }
+   ],
+   "keyWords": [
+    "يا",
+    "ايها",
+    "الذين",
+    "امنوا",
+    "اجتنبوا",
+    "كثيرا",
+    "من",
+    "الظن",
+    "ان",
+    "بعض",
+    "اثم",
+    "ولا",
+    "تجسسوا",
+    "يغتب",
+    "بعضكم",
+    "بعضا",
+    "ايحب",
+    "احدكم",
+    "ياكل",
+    "لحم",
+    "اخيه",
+    "ميتا",
+    "فكرهتموه",
+    "واتقوا",
+    "الله",
+    "تواب",
+    "رحيم",
+    "غيبة",
+    "يحب",
+    "احد",
+    "ميت",
+    "اتقوا"
+   ],
+   "counts": {
+    "verse": 5,
+    "word": 10,
+    "grammar": 2,
+    "pattern": 1
+   }
+  },
+  {
+   "id": "u2-l13",
+   "unitId": "u2",
+   "order": 13,
+   "title": {
+    "ur": "الحجرات — آیت ۱۳",
+    "en": "Al-Hujurat 49:13"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 252,
+    "to": 266
+   },
+   "verseRefs": [
+    {
+     "surah": 49,
+     "ayah": 13
+    }
+   ],
+   "estMinutes": 13,
+   "topics": [
+    {
+     "n": 260,
+     "type": "p",
+     "text": "اكرمكم = اكرم + كم; pattern افعل: \"most\" — افضل، اكبر، اتقى"
+    },
+    {
+     "n": 261,
+     "type": "p",
+     "text": "Colours on افعل: احمر، ازرق، اسود، ابيض، اخضر"
+    },
+    {
+     "n": 265,
+     "type": "p",
+     "text": "ان الله عليم خبير: both on فعيل"
+    }
+   ],
+   "keyWords": [
+    "يا",
+    "ايها",
+    "الناس",
+    "انا",
+    "خلقناكم",
+    "من",
+    "ذكر",
+    "وانثى",
+    "وجعلناكم",
+    "شعوبا",
+    "وقبائل",
+    "لتعارفوا",
+    "ان",
+    "اكرمكم",
+    "عند",
+    "الله",
+    "اتقاكم",
+    "عليم",
+    "خبير",
+    "خلق",
+    "انثى",
+    "جعلناكم",
+    "جعل",
+    "قبائل",
+    "افعل",
+    "افضل",
+    "اكبر",
+    "احمر",
+    "ازرق",
+    "اسود",
+    "ابيض",
+    "اخضر"
+   ],
+   "counts": {
+    "verse": 5,
+    "word": 7,
+    "grammar": 0,
+    "pattern": 3
+   }
+  },
+  {
+   "id": "u2-l14",
+   "unitId": "u2",
+   "order": 14,
+   "title": {
+    "ur": "الحجرات — آیت ۱۴",
+    "en": "Al-Hujurat 49:14"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 267,
+    "to": 289
+   },
+   "verseRefs": [
+    {
+     "surah": 49,
+     "ayah": 14
+    }
+   ],
+   "estMinutes": 18,
+   "topics": [
+    {
+     "n": 268,
+     "type": "g",
+     "text": "قالت = قال + ت; the four kinds of ت at the end of a past verb"
+    },
+    {
+     "n": 269,
+     "type": "g",
+     "text": "Signs of the present tense with قول (repeat)"
+    },
+    {
+     "n": 272,
+     "type": "g",
+     "text": "تؤمنوا = تؤمن + وا; لم تؤمنوا: لم turns the present into a negative past"
+    },
+    {
+     "n": 276,
+     "type": "g",
+     "text": "لما = لم + ما: \"not yet\""
+    },
+    {
+     "n": 277,
+     "type": "g",
+     "text": "Two uses of لما: \"not yet\" before the present, \"when\" before the past"
+    }
+   ],
+   "keyWords": [
+    "قالت",
+    "الاعراب",
+    "امنا",
+    "قل",
+    "لم",
+    "تؤمنوا",
+    "ولكن",
+    "قولوا",
+    "اسلمنا",
+    "ولما",
+    "يدخل",
+    "الايمان",
+    "في",
+    "قلوبكم",
+    "وان",
+    "تطيعوا",
+    "الله",
+    "ورسوله",
+    "لا",
+    "يلتكم",
+    "من",
+    "اعمالكم",
+    "شيئا",
+    "ان",
+    "غفور",
+    "رحيم",
+    "قال",
+    "يقول",
+    "تقول",
+    "اقول",
+    "نقول",
+    "لكن",
+    "اسلم",
+    "لما",
+    "رسوله"
+   ],
+   "counts": {
+    "verse": 7,
+    "word": 11,
+    "grammar": 5,
+    "pattern": 0
+   }
+  },
+  {
+   "id": "u2-l15",
+   "unitId": "u2",
+   "order": 15,
+   "title": {
+    "ur": "الحجرات — آیت ۱۵",
+    "en": "Al-Hujurat 49:15"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 290,
+    "to": 303
+   },
+   "verseRefs": [
+    {
+     "surah": 49,
+     "ayah": 15
+    }
+   ],
+   "estMinutes": 13,
+   "topics": [
+    {
+     "n": 291,
+     "type": "g",
+     "text": "انما: the strongest emphasis word; المؤمنون; الذين"
+    },
+    {
+     "n": 294,
+     "type": "g",
+     "text": "لم يرتابوا: ارتاب، يرتاب، يرتابون → لم يرتابوا (doubt)"
+    },
+    {
+     "n": 298,
+     "type": "g",
+     "text": "سبيل الله: idafa — \"the way of Allah\""
+    }
+   ],
+   "keyWords": [
+    "انما",
+    "المؤمنون",
+    "الذين",
+    "امنوا",
+    "بالله",
+    "ورسوله",
+    "ثم",
+    "لم",
+    "يرتابوا",
+    "وجاهدوا",
+    "باموالهم",
+    "وانفسهم",
+    "في",
+    "سبيل",
+    "الله",
+    "اولئك",
+    "هم",
+    "الصادقون",
+    "رسوله",
+    "ارتاب",
+    "جاهدوا",
+    "اموال",
+    "انفسهم",
+    "صادق"
+   ],
+   "counts": {
+    "verse": 5,
+    "word": 6,
+    "grammar": 3,
+    "pattern": 0
+   }
+  },
+  {
+   "id": "u2-l16",
+   "unitId": "u2",
+   "order": 16,
+   "title": {
+    "ur": "الحجرات — آیت ۱۶",
+    "en": "Al-Hujurat 49:16"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 304,
+    "to": 314
+   },
+   "verseRefs": [
+    {
+     "surah": 49,
+     "ayah": 16
+    }
+   ],
+   "estMinutes": 8,
+   "topics": [
+    {
+     "n": 305,
+     "type": "g",
+     "text": "قل: sukun on the last letter marks a command; اتعلمون = أ + ت + علم + ون"
+    },
+    {
+     "n": 312,
+     "type": "g",
+     "text": "بكل = ب + كل; the many meanings of ب (with, in, because of, on, about)"
+    }
+   ],
+   "keyWords": [
+    "قل",
+    "اتعلمون",
+    "الله",
+    "بدينكم",
+    "والله",
+    "يعلم",
+    "ما",
+    "في",
+    "السماوات",
+    "وما",
+    "الارض",
+    "بكل",
+    "شيء",
+    "عليم",
+    "دين",
+    "كل"
+   ],
+   "counts": {
+    "verse": 4,
+    "word": 5,
+    "grammar": 2,
+    "pattern": 0
+   }
+  },
+  {
+   "id": "u2-l17",
+   "unitId": "u2",
+   "order": 17,
+   "title": {
+    "ur": "الحجرات — آیت ۱۷",
+    "en": "Al-Hujurat 49:17"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 315,
+    "to": 324
+   },
+   "verseRefs": [
+    {
+     "surah": 49,
+     "ayah": 17
+    }
+   ],
+   "estMinutes": 8,
+   "topics": [
+    {
+     "n": 319,
+     "type": "g",
+     "text": "علي = على + ي (two ي merged by shadda); اسلامكم = اسلام + كم"
+    }
+   ],
+   "keyWords": [
+    "يمنون",
+    "عليك",
+    "ان",
+    "اسلموا",
+    "قل",
+    "لا",
+    "تمنوا",
+    "علي",
+    "اسلامكم",
+    "بل",
+    "الله",
+    "يمن",
+    "عليكم",
+    "هداكم",
+    "للايمان",
+    "كنتم",
+    "صادقين"
+   ],
+   "counts": {
+    "verse": 3,
+    "word": 6,
+    "grammar": 1,
+    "pattern": 0
+   }
+  },
+  {
+   "id": "u2-l18",
+   "unitId": "u2",
+   "order": 18,
+   "title": {
+    "ur": "الحجرات — آیت ۱۸",
+    "en": "Al-Hujurat 49:18"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 325,
+    "to": 330
+   },
+   "verseRefs": [
+    {
+     "surah": 49,
+     "ayah": 18
+    }
+   ],
+   "estMinutes": 8,
+   "topics": [
+    {
+     "n": 327,
+     "type": "g",
+     "text": "غيب السماوات: idafa — \"the unseen of the heavens\""
+    },
+    {
+     "n": 328,
+     "type": "p",
+     "text": "والارض; بصير on فعيل (all-seeing)"
+    }
+   ],
+   "keyWords": [
+    "ان",
+    "الله",
+    "يعلم",
+    "غيب",
+    "السماوات",
+    "والارض",
+    "والله",
+    "بصير",
+    "بما",
+    "تعملون",
+    "الارض"
+   ],
+   "counts": {
+    "verse": 2,
+    "word": 2,
+    "grammar": 1,
+    "pattern": 1
+   }
+  },
+  {
+   "id": "u3-l1",
+   "unitId": "u3",
+   "order": 1,
+   "title": {
+    "ur": "الفاتحہ — آیت ۲",
+    "en": "Al-Fatihah 1:2"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 331,
+    "to": 335
+   },
+   "verseRefs": [
+    {
+     "surah": 1,
+     "ayah": 2
+    }
+   ],
+   "estMinutes": 8,
+   "topics": [
+    {
+     "n": 332,
+     "type": "g",
+     "text": "الحمد = ال + حمد; uses of ال (definite, whole kind)"
+    }
+   ],
+   "keyWords": [
+    "الحمد",
+    "لله",
+    "رب",
+    "العالمين",
+    "الرحمن",
+    "الرحيم",
+    "مالك",
+    "يوم",
+    "الدين",
+    "اياك",
+    "نعبد",
+    "واياك",
+    "نستعين",
+    "اهدنا",
+    "الصراط",
+    "المستقيم"
+   ],
+   "counts": {
+    "verse": 1,
+    "word": 3,
+    "grammar": 1,
+    "pattern": 0
+   }
+  },
+  {
+   "id": "u3-l2",
+   "unitId": "u3",
+   "order": 2,
+   "title": {
+    "ur": "الفاتحہ — آیت ۳",
+    "en": "Al-Fatihah 1:3"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 336,
+    "to": 342
+   },
+   "verseRefs": [
+    {
+     "surah": 1,
+     "ayah": 3
+    }
+   ],
+   "estMinutes": 8,
+   "topics": [
+    {
+     "n": 336,
+     "type": "p",
+     "text": "الرحمن = ال + رحمان; رحم on فعل (repeat of slide 6)"
+    },
+    {
+     "n": 337,
+     "type": "p",
+     "text": "فعل / فاعل / مفعول (repeat of slide 7)"
+    },
+    {
+     "n": 338,
+     "type": "p",
+     "text": "Pattern فعلان (repeat of slide 8)"
+    },
+    {
+     "n": 339,
+     "type": "p",
+     "text": "الرحمن on فعلان (repeat of slide 9)"
+    },
+    {
+     "n": 340,
+     "type": "p",
+     "text": "الرحيم = ال + رحيم on فعيل (repeat of slide 10)"
+    },
+    {
+     "n": 341,
+     "type": "p",
+     "text": "Pattern فعيل: عليم، عظيم (repeat of slide 11)"
+    },
+    {
+     "n": 342,
+     "type": "p",
+     "text": "رحيم on فعيل: lasting mercy"
+    }
+   ],
+   "keyWords": [
+    "الرحمن",
+    "رحم",
+    "راحم",
+    "مرحوم",
+    "طوفان",
+    "طغيان",
+    "غضبان",
+    "فيضان",
+    "الرحيم",
+    "عليم",
+    "عظيم",
+    "رحيم"
+   ],
+   "counts": {
+    "verse": 0,
+    "word": 0,
+    "grammar": 0,
+    "pattern": 7
+   }
+  },
+  {
+   "id": "u3-l3",
+   "unitId": "u3",
+   "order": 3,
+   "title": {
+    "ur": "الفاتحہ — آیت ۴",
+    "en": "Al-Fatihah 1:4"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 343,
+    "to": 344
+   },
+   "verseRefs": [
+    {
+     "surah": 1,
+     "ayah": 4
+    }
+   ],
+   "estMinutes": 5,
+   "topics": [],
+   "keyWords": [
+    "مالك",
+    "يوم",
+    "الدين"
+   ],
+   "counts": {
+    "verse": 1,
+    "word": 1,
+    "grammar": 0,
+    "pattern": 0
+   }
+  },
+  {
+   "id": "u3-l4",
+   "unitId": "u3",
+   "order": 4,
+   "title": {
+    "ur": "الفاتحہ — آیت ۵",
+    "en": "Al-Fatihah 1:5"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 345,
+    "to": 353
+   },
+   "verseRefs": [
+    {
+     "surah": 1,
+     "ayah": 5
+    }
+   ],
+   "estMinutes": 8,
+   "topics": [
+    {
+     "n": 345,
+     "type": "g",
+     "text": "اياك = ايا + ك: \"You alone\"; اياه، اياي"
+    },
+    {
+     "n": 347,
+     "type": "g",
+     "text": "يعبد، تعبد، اعبد، نعبد"
+    },
+    {
+     "n": 348,
+     "type": "g",
+     "text": "Full present-tense table of عبد (هو يعبد … نحن نعبد)"
+    },
+    {
+     "n": 350,
+     "type": "g",
+     "text": "و، اياك (repeat)"
+    },
+    {
+     "n": 352,
+     "type": "g",
+     "text": "است = \"to seek\" (استسقاء); نستعين: \"we seek help\""
+    }
+   ],
+   "keyWords": [
+    "اياك",
+    "نعبد",
+    "عبد",
+    "يعبد",
+    "تعبد",
+    "اعبد",
+    "يعبدون",
+    "تعبدون",
+    "نستعين"
+   ],
+   "counts": {
+    "verse": 2,
+    "word": 2,
+    "grammar": 5,
+    "pattern": 0
+   }
+  },
+  {
+   "id": "u3-l5",
+   "unitId": "u3",
+   "order": 5,
+   "title": {
+    "ur": "الفاتحہ — آیت ۶",
+    "en": "Al-Fatihah 1:6"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 354,
+    "to": 357
+   },
+   "verseRefs": [
+    {
+     "surah": 1,
+     "ayah": 6
+    }
+   ],
+   "estMinutes": 8,
+   "topics": [
+    {
+     "n": 357,
+     "type": "g",
+     "text": "Noun + adjective, both with ال: الصراط المستقيم"
+    }
+   ],
+   "keyWords": [
+    "اهدنا",
+    "الصراط",
+    "المستقيم"
+   ],
+   "counts": {
+    "verse": 0,
+    "word": 3,
+    "grammar": 1,
+    "pattern": 0
+   }
+  },
+  {
+   "id": "u3-l6",
+   "unitId": "u3",
+   "order": 6,
+   "title": {
+    "ur": "الفاتحہ — آیت ۷",
+    "en": "Al-Fatihah 1:7"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 358,
+    "to": 366
+   },
+   "verseRefs": [
+    {
+     "surah": 1,
+     "ayah": 7
+    }
+   ],
+   "estMinutes": 8,
+   "topics": [
+    {
+     "n": 359,
+     "type": "g",
+     "text": "انعم، انعمت (four kinds of ت)"
+    },
+    {
+     "n": 360,
+     "type": "g",
+     "text": "Full past-tense table of انعم"
+    }
+   ],
+   "keyWords": [
+    "صراط",
+    "انعمت",
+    "انعموا",
+    "انعمنا",
+    "عليهم",
+    "الذين",
+    "غير",
+    "المغضوب",
+    "الضالين",
+    "ولا",
+    "الحمد",
+    "لله",
+    "رب",
+    "العالمين",
+    "الرحمن",
+    "الرحيم",
+    "مالك",
+    "يوم",
+    "الدين",
+    "اياك",
+    "نعبد",
+    "واياك",
+    "نستعين",
+    "اهدنا",
+    "الصراط",
+    "المستقيم"
+   ],
+   "counts": {
+    "verse": 4,
+    "word": 3,
+    "grammar": 2,
+    "pattern": 0
+   }
+  },
+  {
+   "id": "u4-l1",
+   "unitId": "u4",
+   "order": 1,
+   "title": {
+    "ur": "الفرقان — آیت ۶۱",
+    "en": "Al-Furqan 25:61"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 367,
+    "to": 375
+   },
+   "verseRefs": [
+    {
+     "surah": 25,
+     "ayah": 61
+    }
+   ],
+   "estMinutes": 8,
+   "topics": [
+    {
+     "n": 369,
+     "type": "g",
+     "text": "جعل (made); يجعل، تجعل، اجعل، نجعل"
+    },
+    {
+     "n": 370,
+     "type": "g",
+     "text": "Past tense of جعل: جعلت، جعلوا، جعلن"
+    }
+   ],
+   "keyWords": [
+    "تبارك",
+    "الذي",
+    "جعل",
+    "في",
+    "السماء",
+    "بروجا",
+    "وجعل",
+    "فيها",
+    "سراجا",
+    "وقمرا",
+    "منيرا",
+    "يجعل",
+    "جعلت",
+    "جعلوا",
+    "قمرا"
+   ],
+   "counts": {
+    "verse": 3,
+    "word": 4,
+    "grammar": 2,
+    "pattern": 0
+   }
+  },
+  {
+   "id": "u4-l2",
+   "unitId": "u4",
+   "order": 2,
+   "title": {
+    "ur": "الفرقان — آیت ۶۲",
+    "en": "Al-Furqan 25:62"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 376,
+    "to": 385
+   },
+   "verseRefs": [
+    {
+     "surah": 25,
+     "ayah": 62
+    }
+   ],
+   "estMinutes": 8,
+   "topics": [
+    {
+     "n": 377,
+     "type": "g",
+     "text": "و، هو; detached pronouns هو، هي، هما، هم، هن (repeat)"
+    },
+    {
+     "n": 382,
+     "type": "g",
+     "text": "اراد (wanted); يريد، تريد، اريد، نريد"
+    }
+   ],
+   "keyWords": [
+    "وهو",
+    "الذي",
+    "جعل",
+    "الليل",
+    "والنهار",
+    "خلفة",
+    "لمن",
+    "اراد",
+    "ان",
+    "يذكر",
+    "او",
+    "شكورا",
+    "هو",
+    "النهار",
+    "يريد"
+   ],
+   "counts": {
+    "verse": 3,
+    "word": 5,
+    "grammar": 2,
+    "pattern": 0
+   }
+  },
+  {
+   "id": "u4-l3",
+   "unitId": "u4",
+   "order": 3,
+   "title": {
+    "ur": "الفرقان — آیت ۶۳",
+    "en": "Al-Furqan 25:63"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 386,
+    "to": 398
+   },
+   "verseRefs": [
+    {
+     "surah": 25,
+     "ayah": 63
+    }
+   ],
+   "estMinutes": 13,
+   "topics": [
+    {
+     "n": 388,
+     "type": "p",
+     "text": "الرحمن = ال + رحمان (repeat)"
+    },
+    {
+     "n": 389,
+     "type": "p",
+     "text": "Pattern فعلان (repeat)"
+    },
+    {
+     "n": 390,
+     "type": "p",
+     "text": "الرحمن on فعلان (repeat)"
+    },
+    {
+     "n": 394,
+     "type": "g",
+     "text": "واذا (when): a past verb after اذا is translated as present; خاطبهم = خاطب + هم"
+    }
+   ],
+   "keyWords": [
+    "وعباد",
+    "الرحمن",
+    "الذين",
+    "يمشون",
+    "على",
+    "الارض",
+    "هونا",
+    "واذا",
+    "خاطبهم",
+    "الجاهلون",
+    "قالوا",
+    "سلاما",
+    "عباد",
+    "طوفان",
+    "غضبان",
+    "مشى",
+    "اذا",
+    "جاهل"
+   ],
+   "counts": {
+    "verse": 4,
+    "word": 5,
+    "grammar": 1,
+    "pattern": 3
+   }
+  },
+  {
+   "id": "u4-l4",
+   "unitId": "u4",
+   "order": 4,
+   "title": {
+    "ur": "الفرقان — آیت ۶۴",
+    "en": "Al-Furqan 25:64"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 399,
+    "to": 406
+   },
+   "verseRefs": [
+    {
+     "surah": 25,
+     "ayah": 64
+    }
+   ],
+   "estMinutes": 8,
+   "topics": [],
+   "keyWords": [
+    "والذين",
+    "يبيتون",
+    "لربهم",
+    "سجدا",
+    "وقياما",
+    "الذين",
+    "بيت",
+    "رب",
+    "قياما"
+   ],
+   "counts": {
+    "verse": 4,
+    "word": 4,
+    "grammar": 0,
+    "pattern": 0
+   }
+  },
+  {
+   "id": "u4-l5",
+   "unitId": "u4",
+   "order": 5,
+   "title": {
+    "ur": "الفرقان — آیت ۶۵",
+    "en": "Al-Furqan 25:65"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 407,
+    "to": 418
+   },
+   "verseRefs": [
+    {
+     "surah": 25,
+     "ayah": 65
+    }
+   ],
+   "estMinutes": 13,
+   "topics": [
+    {
+     "n": 410,
+     "type": "g",
+     "text": "قال، يقول، تقول، اقول، نقول"
+    },
+    {
+     "n": 411,
+     "type": "g",
+     "text": "Past forms: قلت، قلتَ، قلتِ، قالت"
+    },
+    {
+     "n": 412,
+     "type": "g",
+     "text": "ربنا = رب + نا; ربي، ربه، ربها، ربهما، ربهم، ربهن"
+    },
+    {
+     "n": 413,
+     "type": "g",
+     "text": "ربك، ربكما، ربكم، ربكن"
+    },
+    {
+     "n": 415,
+     "type": "g",
+     "text": "عذاب، جهنم; عذاب جهنم: idafa"
+    },
+    {
+     "n": 416,
+     "type": "g",
+     "text": "ان; عذابها = عذاب + ها; pronouns are always definite"
+    }
+   ],
+   "keyWords": [
+    "والذين",
+    "يقولون",
+    "ربنا",
+    "اصرف",
+    "عنا",
+    "عذاب",
+    "جهنم",
+    "ان",
+    "عذابها",
+    "كان",
+    "غراما",
+    "الذين",
+    "قول",
+    "قال",
+    "يقول",
+    "قلت",
+    "قالت",
+    "رب",
+    "ربك",
+    "ربكم"
+   ],
+   "counts": {
+    "verse": 2,
+    "word": 4,
+    "grammar": 6,
+    "pattern": 0
+   }
+  },
+  {
+   "id": "u4-l6",
+   "unitId": "u4",
+   "order": 6,
+   "title": {
+    "ur": "الفرقان — آیت ۶۶",
+    "en": "Al-Furqan 25:66"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 419,
+    "to": 423
+   },
+   "verseRefs": [
+    {
+     "surah": 25,
+     "ayah": 66
+    }
+   ],
+   "estMinutes": 8,
+   "topics": [
+    {
+     "n": 421,
+     "type": "g",
+     "text": "ساءت: the four kinds of ت (repeat with كتب)"
+    }
+   ],
+   "keyWords": [
+    "انها",
+    "ساءت",
+    "مستقرا",
+    "ومقاما",
+    "كتبت",
+    "مقاما"
+   ],
+   "counts": {
+    "verse": 2,
+    "word": 2,
+    "grammar": 1,
+    "pattern": 0
+   }
+  },
+  {
+   "id": "u4-l7",
+   "unitId": "u4",
+   "order": 7,
+   "title": {
+    "ur": "الفرقان — آیت ۶۷",
+    "en": "Al-Furqan 25:67"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 424,
+    "to": 433
+   },
+   "verseRefs": [
+    {
+     "surah": 25,
+     "ayah": 67
+    }
+   ],
+   "estMinutes": 8,
+   "topics": [
+    {
+     "n": 425,
+     "type": "g",
+     "text": "و، الذين، اذا: turns a past verb into present meaning"
+    },
+    {
+     "n": 428,
+     "type": "g",
+     "text": "Negation: لم (past), لن (future), لا (present / prohibition)"
+    },
+    {
+     "n": 429,
+     "type": "g",
+     "text": "يسرفوا = ي + سرف + وا; how لم and اذا change the tense"
+    }
+   ],
+   "keyWords": [
+    "والذين",
+    "اذا",
+    "انفقوا",
+    "لم",
+    "يسرفوا",
+    "ولم",
+    "يقتروا",
+    "وكان",
+    "بين",
+    "ذلك",
+    "قواما",
+    "انفق",
+    "لن",
+    "لا",
+    "اسراف"
+   ],
+   "counts": {
+    "verse": 3,
+    "word": 4,
+    "grammar": 3,
+    "pattern": 0
+   }
+  },
+  {
+   "id": "u4-l8",
+   "unitId": "u4",
+   "order": 8,
+   "title": {
+    "ur": "الفرقان — آیت ۶۸",
+    "en": "Al-Furqan 25:68"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 434,
+    "to": 447
+   },
+   "verseRefs": [
+    {
+     "surah": 25,
+     "ayah": 68
+    }
+   ],
+   "estMinutes": 13,
+   "topics": [
+    {
+     "n": 440,
+     "type": "g",
+     "text": "يقتلون = ي + قتل + ون; قتل، يقتل، يقتلون"
+    },
+    {
+     "n": 441,
+     "type": "g",
+     "text": "النفس = ال + نفس; ال for the whole kind"
+    }
+   ],
+   "keyWords": [
+    "والذين",
+    "لا",
+    "يدعون",
+    "مع",
+    "الله",
+    "الها",
+    "اخر",
+    "ولا",
+    "يقتلون",
+    "النفس",
+    "التي",
+    "حرم",
+    "الا",
+    "بالحق",
+    "يزنون",
+    "ومن",
+    "يفعل",
+    "ذلك",
+    "يلق",
+    "اثاما",
+    "دعا",
+    "قتل",
+    "حق",
+    "من"
+   ],
+   "counts": {
+    "verse": 3,
+    "word": 9,
+    "grammar": 2,
+    "pattern": 0
+   }
+  },
+  {
+   "id": "u4-l9",
+   "unitId": "u4",
+   "order": 9,
+   "title": {
+    "ur": "الفرقان — آیت ۶۹",
+    "en": "Al-Furqan 25:69"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 448,
+    "to": 454
+   },
+   "verseRefs": [
+    {
+     "surah": 25,
+     "ayah": 69
+    }
+   ],
+   "estMinutes": 8,
+   "topics": [
+    {
+     "n": 451,
+     "type": "g",
+     "text": "يوم القيامة: idafa — \"the Day of Resurrection\""
+    }
+   ],
+   "keyWords": [
+    "يضاعف",
+    "له",
+    "العذاب",
+    "يوم",
+    "القيامة",
+    "ويخلد",
+    "فيه",
+    "مهانا",
+    "يخلد",
+    "خلد"
+   ],
+   "counts": {
+    "verse": 2,
+    "word": 4,
+    "grammar": 1,
+    "pattern": 0
+   }
+  },
+  {
+   "id": "u4-l10",
+   "unitId": "u4",
+   "order": 10,
+   "title": {
+    "ur": "الفرقان — آیت ۷۰",
+    "en": "Al-Furqan 25:70"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 455,
+    "to": 467
+   },
+   "verseRefs": [
+    {
+     "surah": 25,
+     "ayah": 70
+    }
+   ],
+   "estMinutes": 13,
+   "topics": [],
+   "keyWords": [
+    "الا",
+    "من",
+    "تاب",
+    "وامن",
+    "وعمل",
+    "عملا",
+    "صالحا",
+    "فاولئك",
+    "يبدل",
+    "الله",
+    "سيئاتهم",
+    "حسنات",
+    "وكان",
+    "غفورا",
+    "رحيما",
+    "امن",
+    "يؤمن",
+    "عمل"
+   ],
+   "counts": {
+    "verse": 6,
+    "word": 7,
+    "grammar": 0,
+    "pattern": 0
+   }
+  },
+  {
+   "id": "u4-l11",
+   "unitId": "u4",
+   "order": 11,
+   "title": {
+    "ur": "الفرقان — آیت ۷۱",
+    "en": "Al-Furqan 25:71"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 468,
+    "to": 473
+   },
+   "verseRefs": [
+    {
+     "surah": 25,
+     "ayah": 71
+    }
+   ],
+   "estMinutes": 8,
+   "topics": [],
+   "keyWords": [
+    "ومن",
+    "تاب",
+    "وعمل",
+    "صالحا",
+    "فانه",
+    "يتوب",
+    "الى",
+    "الله",
+    "متابا",
+    "من",
+    "عمل"
+   ],
+   "counts": {
+    "verse": 2,
+    "word": 4,
+    "grammar": 0,
+    "pattern": 0
+   }
+  },
+  {
+   "id": "u4-l12",
+   "unitId": "u4",
+   "order": 12,
+   "title": {
+    "ur": "الفرقان — آیت ۷۲",
+    "en": "Al-Furqan 25:72"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 474,
+    "to": 482
+   },
+   "verseRefs": [
+    {
+     "surah": 25,
+     "ayah": 72
+    }
+   ],
+   "estMinutes": 8,
+   "topics": [
+    {
+     "n": 477,
+     "type": "g",
+     "text": "الزور (falsehood); و; اذا turns a past verb into present meaning"
+    },
+    {
+     "n": 479,
+     "type": "g",
+     "text": "باللغو = ب + ال + لغو; meanings of ب (repeat)"
+    }
+   ],
+   "keyWords": [
+    "والذين",
+    "لا",
+    "يشهدون",
+    "الزور",
+    "واذا",
+    "مروا",
+    "باللغو",
+    "كراما",
+    "شهد",
+    "اذا",
+    "لغو"
+   ],
+   "counts": {
+    "verse": 3,
+    "word": 4,
+    "grammar": 2,
+    "pattern": 0
+   }
+  },
+  {
+   "id": "u4-l13",
+   "unitId": "u4",
+   "order": 13,
+   "title": {
+    "ur": "الفرقان — آیت ۷۳",
+    "en": "Al-Furqan 25:73"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 483,
+    "to": 490
+   },
+   "verseRefs": [
+    {
+     "surah": 25,
+     "ayah": 73
+    }
+   ],
+   "estMinutes": 8,
+   "topics": [
+    {
+     "n": 484,
+     "type": "g",
+     "text": "و، الذين، اذا (repeat)"
+    },
+    {
+     "n": 485,
+     "type": "g",
+     "text": "ذكروا = ذكر + وا: passive past (they are reminded)"
+    },
+    {
+     "n": 487,
+     "type": "g",
+     "text": "لم يخروا = ي + خر + وا: \"they do not fall\""
+    },
+    {
+     "n": 488,
+     "type": "g",
+     "text": "عليها = على + ها; how لم and اذا together set the tense"
+    }
+   ],
+   "keyWords": [
+    "والذين",
+    "اذا",
+    "ذكروا",
+    "بايات",
+    "ربهم",
+    "لم",
+    "يخروا",
+    "عليها",
+    "صما",
+    "وعميانا",
+    "عميانا"
+   ],
+   "counts": {
+    "verse": 2,
+    "word": 2,
+    "grammar": 4,
+    "pattern": 0
+   }
+  },
+  {
+   "id": "u4-l14",
+   "unitId": "u4",
+   "order": 14,
+   "title": {
+    "ur": "الفرقان — آیت ۷۴",
+    "en": "Al-Furqan 25:74"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 491,
+    "to": 501
+   },
+   "verseRefs": [
+    {
+     "surah": 25,
+     "ayah": 74
+    }
+   ],
+   "estMinutes": 8,
+   "topics": [
+    {
+     "n": 495,
+     "type": "g",
+     "text": "لنا = ل + نا; له، لها، لهما، لهم، لهن، لك، لكم، لي"
+    }
+   ],
+   "keyWords": [
+    "والذين",
+    "يقولون",
+    "ربنا",
+    "هب",
+    "لنا",
+    "من",
+    "ازواجنا",
+    "وذرياتنا",
+    "قرة",
+    "اعين",
+    "واجعلنا",
+    "للمتقين",
+    "اماما",
+    "الذين",
+    "له",
+    "لكم",
+    "لي",
+    "ذرياتنا",
+    "اجعلنا"
+   ],
+   "counts": {
+    "verse": 3,
+    "word": 7,
+    "grammar": 1,
+    "pattern": 0
+   }
+  },
+  {
+   "id": "u4-l15",
+   "unitId": "u4",
+   "order": 15,
+   "title": {
+    "ur": "الفرقان — آیت ۷۵",
+    "en": "Al-Furqan 25:75"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 502,
+    "to": 508
+   },
+   "verseRefs": [
+    {
+     "surah": 25,
+     "ayah": 75
+    }
+   ],
+   "estMinutes": 8,
+   "topics": [
+    {
+     "n": 503,
+     "type": "g",
+     "text": "اولئك; يجزون = ي + جز + ون: passive present (they will be rewarded)"
+    }
+   ],
+   "keyWords": [
+    "اولئك",
+    "يجزون",
+    "الغرفة",
+    "بما",
+    "صبروا",
+    "ويلقون",
+    "فيها",
+    "تحية",
+    "وسلاما",
+    "يلقون",
+    "سلاما"
+   ],
+   "counts": {
+    "verse": 2,
+    "word": 4,
+    "grammar": 1,
+    "pattern": 0
+   }
+  },
+  {
+   "id": "u4-l16",
+   "unitId": "u4",
+   "order": 16,
+   "title": {
+    "ur": "الفرقان — آیت ۷۶",
+    "en": "Al-Furqan 25:76"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 509,
+    "to": 513
+   },
+   "verseRefs": [
+    {
+     "surah": 25,
+     "ayah": 76
+    }
+   ],
+   "estMinutes": 8,
+   "topics": [],
+   "keyWords": [
+    "خالدين",
+    "فيها",
+    "حسنت",
+    "مستقرا",
+    "ومقاما",
+    "مقاما"
+   ],
+   "counts": {
+    "verse": 2,
+    "word": 3,
+    "grammar": 0,
+    "pattern": 0
+   }
+  },
+  {
+   "id": "u4-l17",
+   "unitId": "u4",
+   "order": 17,
+   "title": {
+    "ur": "الفرقان — آیت ۷۷",
+    "en": "Al-Furqan 25:77"
+   },
+   "format": "slides",
+   "status": "draft",
+   "sourceSlides": {
+    "from": 514,
+    "to": 521
+   },
+   "verseRefs": [
+    {
+     "surah": 25,
+     "ayah": 77
+    }
+   ],
+   "estMinutes": 8,
+   "topics": [
+    {
+     "n": 515,
+     "type": "g",
+     "text": "قل: sukun on the last letter marks a command; ما (negation)"
+    }
+   ],
+   "keyWords": [
+    "قل",
+    "ما",
+    "يعبا",
+    "بكم",
+    "ربي",
+    "لولا",
+    "دعاؤكم",
+    "فقد",
+    "كذبتم",
+    "فسوف",
+    "يكون",
+    "لزاما"
+   ],
+   "counts": {
+    "verse": 2,
+    "word": 5,
+    "grammar": 1,
+    "pattern": 0
+   }
+  }
+ ]
+}

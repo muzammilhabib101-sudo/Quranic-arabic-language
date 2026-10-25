@@ -1,0 +1,119 @@
+@import "tailwindcss";
+
+/* ---------- Design tokens (dark theme, see BUILD_PROMPT.md) ---------- */
+:root {
+  --bg: #0f1115;
+  --surface: #171a21;
+  --surface-2: #1f232c;
+  --border: #2a2f3a;
+  --text: #ece9e2;
+  --muted: #a3a8b3;
+  --accent: #d4a64a;
+  --accent-ink: #1a1408;
+  --accent-2: #4fb3a5;
+  --noun: #5fbf8f;
+  --verb: #6fa8dc;
+  --particle: #d4a64a;
+  --wrong: #e07a6b;
+
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-border: var(--border);
+  --color-text: var(--text);
+  --color-muted: var(--muted);
+  --color-accent: var(--accent);
+  --color-accent-ink: var(--accent-ink);
+  --color-accent-2: var(--accent-2);
+  --color-noun: var(--noun);
+  --color-verb: var(--verb);
+  --color-particle: var(--particle);
+  --color-wrong: var(--wrong);
+
+  --font-sans: var(--font-inter), system-ui, sans-serif;
+  --font-urdu: var(--font-nastaliq), serif;
+  --font-arabic: var(--font-amiri), serif;
+  --font-quran: var(--font-hafs), var(--font-amiri), serif;
+}
+
+/* ---------- Comfort settings (set on <html> from the You page) ---------- */
+:root[data-high-contrast] {
+  --bg: #08090c;
+  --surface: #12141a;
+  --surface-2: #1b1e26;
+  --border: #5a6272;
+  --text: #ffffff;
+  --muted: #d3d6dd;
+  --accent: #f0c060;
+  --accent-2: #6fd8c8;
+}
+
+/* Every size is in rem, so this scales all text, Arabic included. */
+:root[data-large-text] {
+  font-size: 118.75%;
+}
+
+:root[data-reduced-motion] *,
+:root[data-reduced-motion] *::before,
+:root[data-reduced-motion] *::after {
+  animation-duration: 0.01ms !important;
+  transition-duration: 0.01ms !important;
+  scroll-behavior: auto !important;
+}
+
+/* ---------- Base ---------- */
+html {
+  background: var(--bg);
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-sans);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Urdu: Nastaliq needs extra height so letters are never clipped */
+:lang(ur) {
+  font-family: var(--font-urdu);
+  line-height: 2.1;
+}
+
+/* Arabic always uses an Arabic font and reads right to left, in any UI language */
+.arabic {
+  font-family: var(--font-arabic);
+  line-height: 1.9;
+  direction: rtl;
+  unicode-bidi: isolate;
+}
+
+.quran {
+  font-family: var(--font-quran);
+  line-height: 2.2;
+  direction: rtl;
+  unicode-bidi: isolate;
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+  border-radius: 6px;
+}
+
+::selection {
+  background: color-mix(in srgb, var(--accent) 35%, transparent);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

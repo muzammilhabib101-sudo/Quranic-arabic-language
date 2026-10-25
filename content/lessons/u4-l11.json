@@ -1,0 +1,165 @@
+{
+ "id": "u4-l11",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الفرقان کی آیت ۷۱ کو لفظ بہ لفظ سمجھیں — سچی توبہ — اور سیکھیں: فَإِنَّهٗ = فَ + إِنَّ + هٗ، يَتُوْبُ — پلٹتا ہے، اور مَتَابًا میں تنوین (بطور)۔",
+  "en": "Understand Al-Furqan 25:71 word by word — true repentance — and learn: فَإِنَّهٗ = فَ + إِنَّ + هٗ, يَتُوْبُ — turns back, and the tanween “as” in مَتَابًا."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "تین حصے ایک لفظ میں", "en": "Three parts in one word" },
+   "body": {
+    "ur": "فَإِنَّهٗ = فَ (پس) + إِنَّ (بیشک) + هٗ (وہ): پس بیشک وہ۔",
+    "en": "فَإِنَّهٗ = فَ (so) + إِنَّ (indeed) + هٗ (he): so indeed he."
+   }
+  },
+  {
+   "title": { "ur": "توبہ — پلٹنا", "en": "Repentance — turning back" },
+   "body": {
+    "ur": "توبہ کا اصل معنی پلٹنا اور رجوع کرنا ہے: يَتُوْبُ إِلَى اللّٰهِ — اللہ کی طرف پلٹتا ہے۔",
+    "en": "The root meaning of توبہ is turning back, returning: يَتُوْبُ إِلَى اللّٰهِ — he turns back to Allah."
+   }
+  }
+ ],
+ "verse": { "surah": 25, "ayah": 71 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "اور جو", "en": "and whoever" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "مَنْ", "role": "noun", "label": { "ur": "جو یا کون", "en": "whoever" } }
+   ],
+   "why": { "ur": "وَ — اور، مَنْ — جو یا کون۔", "en": "وَ — and, مَنْ — whoever." }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "توبہ کرے", "en": "repents" },
+   "parts": [{ "text": "تَابَ", "role": "verb", "label": { "ur": "جس نے توبہ کی", "en": "repented" } }],
+   "why": { "ur": "تَابَ — جس نے توبہ کی۔", "en": "تَابَ — repented." }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "اور عمل کرے", "en": "and does" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "عَمِلَ", "role": "verb", "label": { "ur": "عمل کیا", "en": "did" } }
+   ],
+   "why": { "ur": "عَمِلَ — عمل کیا۔", "en": "عَمِلَ — did." }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "نیک", "en": "righteousness" },
+   "parts": [{ "text": "صَالِح", "role": "noun", "label": { "ur": "صالح", "en": "righteous" } }],
+   "pattern": "فَاعِل",
+   "patternMeaning": { "ur": "کام کرنے والا", "en": "the one who does the action" },
+   "why": { "ur": "صَالِحًا — صالح، نیک۔", "en": "صَالِحًا — righteous, good." }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "تو بیشک وہ", "en": "then indeed he" },
+   "parts": [
+    { "text": "فَ", "role": "particle", "label": { "ur": "پس", "en": "so" } },
+    { "text": "إِنَّ", "role": "particle", "label": { "ur": "بیشک", "en": "indeed" } },
+    { "text": "هٗ", "role": "noun", "label": { "ur": "وہ", "en": "he" } }
+   ],
+   "why": { "ur": "ف (پس) + انّ (بیشک) + ہٗ (وہ): پس بیشک وہ۔", "en": "ف (so) + إنّ (indeed) + هٗ (he): so indeed he." }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "پلٹتا ہے", "en": "turns back" },
+   "parts": [
+    { "text": "يَ", "role": "particle", "label": { "ur": "علامتِ مضارع", "en": "present-tense sign" } },
+    { "text": "تُوْبُ", "role": "verb", "label": { "ur": "توبہ کرنا، پلٹنا", "en": "repent, return" } }
+   ],
+   "why": {
+    "ur": "يَتُوْبُ — وہ توبہ کرتا ہے یا کرے گا؛ پلٹتا، رجوع کرتا ہے یا کرے گا۔",
+    "en": "يَتُوْبُ — he repents; he turns back, returns."
+   }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "کی طرف", "en": "to" },
+   "parts": [{ "text": "إِلٰى", "role": "particle", "label": { "ur": "کی طرف", "en": "towards" } }],
+   "why": { "ur": "إِلٰى — کی طرف۔", "en": "إِلٰى — towards." }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "اللہ", "en": "Allah" },
+   "parts": [{ "text": "اللّٰه", "role": "noun", "label": { "ur": "لفظِ جلالہ", "en": "Allah" } }],
+   "why": { "ur": "اللّٰه — لفظِ جلالہ۔", "en": "اللّٰه — Allah." }
+  },
+  {
+   "position": 9,
+   "meaning": { "ur": "جیسے پلٹنے کا حق ہے", "en": "with true return" },
+   "parts": [
+    { "text": "مَتَاب", "role": "noun", "label": { "ur": "پلٹنا، رجوع", "en": "return" } },
+    { "text": "ا", "role": "particle", "label": { "ur": "بطور", "en": "as" } }
+   ],
+   "why": {
+    "ur": "متاب + ا: بطور — جس طرح توبہ کرنے کا حق ہے۔ فَإِنَّهٗ يَتُوْبُ إِلَى اللّٰهِ مَتَابًا — بیشک وہ اللہ کی طرف اس طرح پلٹتا ہے جس طرح پلٹنے کا حق ہے۔",
+    "en": "متاب + ا: as — the way repentance should truly be. فَإِنَّهٗ يَتُوْبُ إِلَى اللّٰهِ مَتَابًا — he indeed turns to Allah with a true return."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2], "role": "verb", "label": { "ur": "اور جو توبہ کرے", "en": "and whoever repents" } },
+   { "words": [3, 4], "role": "verb", "label": { "ur": "اور نیک عمل کرے", "en": "and does good" } },
+   { "words": [5, 6, 7, 8, 9], "role": "verb", "label": { "ur": "وہ اللہ کی طرف سچے دل سے پلٹتا ہے", "en": "turns to Allah with a true return" } }
+  ],
+  "plain": {
+   "ur": "جو شخص توبہ کر کے نیک اعمال کرتا ہے، بیشک وہ اللہ کی طرف اس طرح پلٹتا ہے جس طرح پلٹنے کا حق ہے۔ یہ پچھلی آیت کی تاکید ہے: توبہ صرف زبان سے نہیں، بلکہ نیک عمل کے ساتھ سچا رجوع ہے۔",
+   "en": "Whoever repents and does good deeds truly turns to Allah as one should. This strengthens the previous verse: repentance is not only words but a real return, shown in good deeds."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "فَإِنَّهٗ = فَ (پس) + إِنَّ (بیشک) + هٗ (وہ) — ایک لفظ میں تین حصے۔",
+   "en": "فَإِنَّهٗ = فَ (so) + إِنَّ (indeed) + هٗ (he) — three parts in one word."
+  },
+  "points": [
+   { "ur": "توبہ — اصل میں پلٹنا اور رجوع کرنا۔", "en": "توبہ — at root, turning back, returning." },
+   { "ur": "مَتَابًا — تنوین بمعنی بطور: جیسے پلٹنے کا حق ہے۔", "en": "مَتَابًا — tanween meaning “as”: a true return." },
+   { "ur": "إِلَى اللّٰهِ — اللہ کی طرف۔", "en": "إِلَى اللّٰهِ — to Allah." }
+  ]
+ },
+ "check": [
+  {
+   "id": "u4-l11-q1",
+   "type": "mcq",
+   "prompt": { "ur": "فَإِنَّهٗ کتنے حصوں سے بنا ہے؟", "en": "How many parts make up فَإِنَّهٗ?" },
+   "options": [
+    { "text": { "ur": "تین: فَ + إِنَّ + هٗ", "en": "three: فَ + إِنَّ + هٗ" } },
+    { "text": { "ur": "دو: فَ + إِنَّهٗ", "en": "two: فَ + إِنَّهٗ" } },
+    { "text": { "ur": "ایک", "en": "one" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "فَ (پس) + إِنَّ (بیشک) + هٗ (وہ): پس بیشک وہ۔", "en": "فَ (so) + إِنَّ (indeed) + هٗ (he): so indeed he." }
+  },
+  {
+   "id": "u4-l11-q2",
+   "type": "mcq",
+   "prompt": { "ur": "توبہ کا اصل معنی کیا ہے؟", "en": "What is the root meaning of توبہ?" },
+   "options": [
+    { "text": { "ur": "پلٹنا، رجوع کرنا", "en": "turning back, returning" } },
+    { "text": { "ur": "رونا", "en": "crying" } },
+    { "text": { "ur": "بھول جانا", "en": "forgetting" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "يَتُوْبُ — پلٹتا، رجوع کرتا ہے: توبہ اللہ کی طرف لوٹنا ہے۔", "en": "يَتُوْبُ — turns back: repentance is returning to Allah." }
+  },
+  {
+   "id": "u4-l11-q3",
+   "type": "mcq",
+   "prompt": { "ur": "إِلَى اللّٰهِ کا کیا مطلب ہے؟", "en": "What does إِلَى اللّٰهِ mean?" },
+   "options": [
+    { "text": { "ur": "اللہ کی طرف", "en": "to Allah" } },
+    { "text": { "ur": "اللہ کے سوا", "en": "other than Allah" } },
+    { "text": { "ur": "اللہ کے ساتھ", "en": "with Allah" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "إِلٰى — کی طرف: اللہ کی طرف۔", "en": "إِلٰى — towards: to Allah." }
+  }
+ ]
+}

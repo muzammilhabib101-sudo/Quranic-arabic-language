@@ -1,0 +1,478 @@
+{
+ "id": "u2-l9",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الحجرات کی نویں آیت کو لفظ بہ لفظ سمجھیں، اور سیکھیں: تثنیہ (دو) کی علامت ان / ین، وزن اِفْتَعَلَ — باہم کرنا (اقْتَتَلُوْا)، فعل کے آخر میں ت کی چار قسمیں، اور شروع کا م — ”والا“ (الْمُقْسِطِيْنَ)۔",
+  "en": "Understand the ninth verse of Surah Al-Hujurat word by word, and learn: the dual sign ان / ین (two), the pattern اِفْتَعَلَ — doing something together (اقْتَتَلُوْا), the four kinds of ت at the end of a verb, and م at the start meaning “one who” (الْمُقْسِطِيْنَ)."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "دو کی علامت", "en": "The sign of “two”" },
+   "body": {
+    "ur": "ان یا ین کسی کلمے کے آخر پر آئے تو تعداد میں دو بتاتا ہے (تثنیہ): طَائِفَة — گروہ، طَائِفَتَانِ — دو گروہ۔ اگر ین کی ی پر زبر ہو (يْنَ) تو یہ جمع کی علامت ہے۔",
+    "en": "ان or ين at the end of a word means two (the dual): طَائِفَة — a group, طَائِفَتَانِ — two groups. If it is يْنَ with a fatha on the ن, it is the plural sign."
+   }
+  },
+  {
+   "title": { "ur": "وزن اِفْتَعَلَ", "en": "The pattern اِفْتَعَلَ" },
+   "body": {
+    "ur": "اس وزن کے کلمات میں اشتراک کا معنی ہوتا ہے، یعنی کام کو باہم مل کر کرنا: قَتَلَ — اس نے قتل کیا، اِقْتَتَلَ — انہوں نے باہم قتال کیا؛ اسی وزن پر اِشْتَرَكَ۔",
+    "en": "Words on this pattern carry the sense of doing something together, with each other: قَتَلَ — he killed, اِقْتَتَلَ — they fought each other; اِشْتَرَكَ (shared) is on the same pattern."
+   }
+  },
+  {
+   "title": { "ur": "آخر کی ت — چار قسمیں", "en": "Final ت — four kinds" },
+   "body": {
+    "ur": "فعل کے آخر پر ت چار طرح آتی ہے: كَتَبَتْ — اس ایک مؤنث نے لکھا، كَتَبْتُ — میں نے لکھا، كَتَبْتَ — تو (مذکر) نے لکھا، كَتَبْتِ — تو (مؤنث) نے لکھا۔",
+    "en": "A ت at the end of a past verb comes four ways: كَتَبَتْ — she wrote, كَتَبْتُ — I wrote, كَتَبْتَ — you (m.) wrote, كَتَبْتِ — you (f.) wrote."
+   }
+  }
+ ],
+ "verse": { "surah": 49, "ayah": 9 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "اور اگر", "en": "and if" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "إِنْ", "role": "particle", "label": { "ur": "اگر", "en": "if" } }
+   ],
+   "why": { "ur": "وَ — اور، إِنْ — اگر (أَنْ — کہ)۔", "en": "وَ — and, إِنْ — if (أَنْ — that)." }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "دو گروہ", "en": "two groups" },
+   "parts": [
+    { "text": "طَائِفَة", "role": "noun", "label": { "ur": "چھوٹا گروہ", "en": "a small group" } },
+    { "text": "انِ", "role": "noun", "label": { "ur": "دو (تثنیہ)", "en": "two (dual)" } }
+   ],
+   "why": {
+    "ur": "طائفہ + ان۔ طَائِفَة سب سے چھوٹا گروہ ہے، اور ان دو کی علامت: طَائِفَتَانِ — دو چھوٹے گروہ۔ گروہوں کے لیے کئی الفاظ ہیں: طَائِفَة — سب سے چھوٹا، فِئَة — اس سے بڑا، شِيْعَة — اس سے بڑا، پھر فِرْقَة، حِزْب، جَمَاعَة، قَوْم اور مِلَّة یا أُمَّة۔",
+    "en": "طائفة + ان. طَائِفَة is the smallest group, and ان means two: طَائِفَتَانِ — two small groups. Arabic has many words for groups: طَائِفَة — the smallest, فِئَة — larger, شِيْعَة — larger still, then فِرْقَة, حِزْب, جَمَاعَة, قَوْم, and مِلَّة or أُمَّة."
+   }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "سے", "en": "of, among" },
+   "parts": [{ "text": "مِنْ", "role": "particle", "label": { "ur": "سے", "en": "from, of" } }],
+   "why": { "ur": "مِنْ — سے۔", "en": "مِنْ — from, of." }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "مومنوں", "en": "the believers" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "مُؤْمِن", "role": "noun", "label": { "ur": "مومن", "en": "believer" } },
+    { "text": "يْنَ", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ال + مومن + ین۔ مومن اردو میں مستعمل ہے، اور ین جمع کی علامت۔ وَإِنْ طَائِفَتَانِ مِنَ الْمُؤْمِنِيْنَ — اور اگر مومنین کے دو گروہ۔",
+    "en": "ال + مؤمن + ين. Urdu uses مومن, and ين is the plural sign. وَإِنْ طَائِفَتَانِ مِنَ الْمُؤْمِنِيْنَ — and if two groups of the believers."
+   }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "باہم لڑ پڑیں", "en": "fight each other" },
+   "parts": [
+    { "text": "اقْتَتَلَ", "role": "verb", "label": { "ur": "باہم قتال کیا", "en": "fought each other" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "pattern": "افْتَعَلَ",
+   "patternMeaning": {
+    "ur": "اشتراک — کام کو باہم مل کر کرنا",
+    "en": "doing something together, with each other"
+   },
+   "why": {
+    "ur": "اقتتل + وا۔ قَتَلَ — اس نے قتل کیا؛ وزن افْتَعَلَ پر اقْتَتَلَ — انہوں نے باہم قتال کیا۔ جتنے کلمات اس وزن پر ہیں ان میں اشتراک کا معنی پایا جاتا ہے۔ وَإِنْ طَائِفَتَانِ مِنَ الْمُؤْمِنِيْنَ اقْتَتَلُوْا — اگر مومنین کے دو گروہ آپس میں لڑ پڑیں۔",
+    "en": "اقتتل + وا. قَتَلَ — he killed; on the pattern افْتَعَلَ, اقْتَتَلَ — they fought one another. Words on this pattern share the sense of doing something together. وَإِنْ طَائِفَتَانِ مِنَ الْمُؤْمِنِيْنَ اقْتَتَلُوْا — if two groups of believers fight each other."
+   }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "تو صلح کرا دو", "en": "then make peace" },
+   "parts": [
+    { "text": "فَ", "role": "particle", "label": { "ur": "پس", "en": "so" } },
+    { "text": "أَصْلِحْ", "role": "verb", "label": { "ur": "صلح کراؤ (حکم)", "en": "make peace (command)" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ف + ا + صلح + وا۔ ف — پس، الف — امر، صلح سے اصلاح (درستگی)، وا — جمع۔ فَأَصْلِحُوْا — پس تم سب صلح کروا دو۔",
+    "en": "ف + ا + صلح + وا. ف — so, the alif — a command, صلح as in اصلاح (putting right), وا — plural. فَأَصْلِحُوْا — so make peace, all of you."
+   }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "ان دونوں کے درمیان", "en": "between the two" },
+   "parts": [
+    { "text": "بَيْنَ", "role": "noun", "label": { "ur": "درمیان", "en": "between" } },
+    { "text": "هُمَا", "role": "noun", "label": { "ur": "دونوں", "en": "the two of them" } }
+   ],
+   "why": {
+    "ur": "بین + هما۔ بین — درمیان (اسمِ نکرہ)، اور هُمَا — دونوں (تمام ضمیریں اسمِ معرفہ ہوتی ہیں)۔ پہلا اسم نکرہ اور دوسرا معرفہ ہو تو ترجمے میں کا، کے، کی لگاتے ہیں: بَيْنَهُمَا — دونوں کے درمیان۔",
+    "en": "بين + هما. بين — between (indefinite), and هُمَا — the two of them (all pronouns are definite). An indefinite noun followed by a definite one is translated with “of”: بَيْنَهُمَا — between the two."
+   }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "پس اگر", "en": "but if" },
+   "parts": [
+    { "text": "فَ", "role": "particle", "label": { "ur": "پس", "en": "so" } },
+    { "text": "إِنْ", "role": "particle", "label": { "ur": "اگر", "en": "if" } }
+   ],
+   "why": { "ur": "ف + إن: پس اگر۔", "en": "ف + إن: so if, but if." }
+  },
+  {
+   "position": 9,
+   "meaning": { "ur": "اس (ایک گروہ) نے زیادتی کی", "en": "it transgressed" },
+   "parts": [
+    { "text": "بَغَ", "role": "verb", "label": { "ur": "زیادتی کرنا", "en": "transgress" } },
+    { "text": "تْ", "role": "noun", "label": { "ur": "وہ ایک مؤنث", "en": "she / it (f.)" } }
+   ],
+   "why": {
+    "ur": "بغ + ت۔ بغی سے باغی — زیادتی و ظلم کرنے والا، اور آخر کی ت غائب مؤنث کی علامت ہے (کیونکہ طَائِفَة مؤنث ہے)۔ بَغَتْ — اس ایک (گروہ) نے بغاوت کی۔ فعل کے آخر کی ت چار طرح آتی ہے: كَتَبَتْ، كَتَبْتُ، كَتَبْتَ، كَتَبْتِ۔",
+    "en": "بغ + ت. From بغی comes باغی — one who transgresses and oppresses, and the final ت marks “she” (because طَائِفَة is feminine). بَغَتْ — it (the group) rebelled. A final ت on a verb comes four ways: كَتَبَتْ, كَتَبْتُ, كَتَبْتَ, كَتَبْتِ."
+   }
+  },
+  {
+   "position": 10,
+   "meaning": { "ur": "ان دونوں میں سے ایک", "en": "one of the two" },
+   "parts": [
+    { "text": "إِحْدٰى", "role": "noun", "label": { "ur": "ایک (مؤنث)", "en": "one (f.)" } },
+    { "text": "هُمَا", "role": "noun", "label": { "ur": "دونوں", "en": "the two" } }
+   ],
+   "why": {
+    "ur": "احدی + هما۔ أَحَد — ایک، اور اس کا مؤنث إِحْدٰى۔ إِحْدٰهُمَا — دونوں میں سے ایک۔",
+    "en": "إحدى + هما. أَحَد — one, and its feminine is إِحْدٰى. إِحْدٰهُمَا — one of the two."
+   }
+  },
+  {
+   "position": 11,
+   "meaning": { "ur": "پر", "en": "against" },
+   "parts": [{ "text": "عَلٰى", "role": "particle", "label": { "ur": "پر، اوپر", "en": "on, against" } }],
+   "why": {
+    "ur": "عَلٰى — پر، اوپر۔ اردو میں: علی الاعلان، علیٰ ہذا القیاس۔",
+    "en": "عَلٰى — on, against. Urdu has علی الاعلان (openly), علیٰ ہذا القیاس (and so on)."
+   }
+  },
+  {
+   "position": 12,
+   "meaning": { "ur": "دوسرے", "en": "the other" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "أُخْرٰى", "role": "noun", "label": { "ur": "دوسرا (مؤنث)", "en": "other (f.)" } }
+   ],
+   "why": {
+    "ur": "اخر + ی: آخر — دوسرا (اور آخر کا عکس اوّل ہے)، اور آخر کی ی مؤنث کی علامت۔ فَإِنْ بَغَتْ إِحْدٰهُمَا عَلَى الْأُخْرٰى — پس اگر ایک گروہ دوسرے پر زیادتی کرے۔",
+    "en": "اخر + ى: other (the opposite of اوّل, first), and the final ى marks the feminine. فَإِنْ بَغَتْ إِحْدٰهُمَا عَلَى الْأُخْرٰى — but if one of them transgresses against the other."
+   }
+  },
+  {
+   "position": 13,
+   "meaning": { "ur": "تو تم سب لڑو", "en": "then fight" },
+   "parts": [
+    { "text": "فَ", "role": "particle", "label": { "ur": "پس", "en": "so" } },
+    { "text": "قَاتِلْ", "role": "verb", "label": { "ur": "قتال کرو", "en": "fight" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ف + قاتل + وا: پس تم سب قتال کرو۔",
+    "en": "ف + قاتل + وا: so fight, all of you."
+   }
+  },
+  {
+   "position": 14,
+   "meaning": { "ur": "اس سے جو", "en": "the one which" },
+   "parts": [{ "text": "الَّتِيْ", "role": "noun", "label": { "ur": "جو (ایک مؤنث)", "en": "which (f.)" } }],
+   "why": {
+    "ur": "الَّتِيْ — جو ایک مؤنث۔ گروہ کے لیے عربی میں طائفہ مؤنث ہے، اس لیے الَّتِيْ کا لفظ استعمال ہوا ہے۔",
+    "en": "الَّتِيْ — which (feminine). طائفة (group) is feminine in Arabic, so الَّتِيْ is used."
+   }
+  },
+  {
+   "position": 15,
+   "meaning": { "ur": "زیادتی کرتا ہے", "en": "transgresses" },
+   "parts": [
+    { "text": "تَ", "role": "particle", "label": { "ur": "مضارع، غائب مؤنث", "en": "present, she/it" } },
+    { "text": "بْغِيْ", "role": "verb", "label": { "ur": "زیادتی کرنا", "en": "transgress" } }
+   ],
+   "why": {
+    "ur": "ت + بغی۔ بَغٰى — اس نے بغاوت کی، يَبْغِيْ — وہ بغاوت کرتا ہے، بغاوت — اردو میں مستعمل۔ یہاں ت مخاطب کی نہیں، بلکہ غائب مؤنث کی علامت ہے (کیونکہ طائفہ مؤنث ہے)۔ فَقَاتِلُوا الَّتِيْ تَبْغِيْ — پس اس گروہ سے لڑو جو بغاوت کرتا ہے۔",
+    "en": "ت + بغي. بَغٰى — he rebelled, يَبْغِيْ — he rebels; Urdu has بغاوت. Here ت does not mean “you” but “she/it” (because طائفة is feminine). فَقَاتِلُوا الَّتِيْ تَبْغِيْ — so fight the group that transgresses."
+   }
+  },
+  {
+   "position": 16,
+   "meaning": { "ur": "یہاں تک کہ", "en": "until" },
+   "parts": [{ "text": "حَتّٰى", "role": "particle", "label": { "ur": "یہاں تک کہ", "en": "until" } }],
+   "why": { "ur": "حَتّٰى — یہاں تک کہ۔", "en": "حَتّٰى — until." }
+  },
+  {
+   "position": 17,
+   "meaning": { "ur": "وہ پلٹ آئے", "en": "it returns" },
+   "parts": [
+    { "text": "تَ", "role": "particle", "label": { "ur": "مؤنث کی علامت", "en": "she/it" } },
+    { "text": "فِيْءَ", "role": "verb", "label": { "ur": "واپس آنا", "en": "return" } }
+   ],
+   "why": {
+    "ur": "ت + فیء۔ فَاءَ — واپس آیا؛ پنجابی میں ”فیر آئے“ اسی معنی میں ہے۔ تَفِيْءَ — وہ گروہ پلٹ آئے۔",
+    "en": "ت + فيء. فَاءَ — he came back; Punjabi “فیر آئے” has the same sense. تَفِيْءَ — the group returns."
+   }
+  },
+  {
+   "position": 18,
+   "meaning": { "ur": "کی طرف", "en": "to" },
+   "parts": [{ "text": "إِلٰى", "role": "particle", "label": { "ur": "کی طرف", "en": "towards" } }],
+   "why": { "ur": "إِلٰى — کی طرف۔", "en": "إِلٰى — towards." }
+  },
+  {
+   "position": 19,
+   "meaning": { "ur": "حکم", "en": "the command" },
+   "parts": [{ "text": "أَمْر", "role": "noun", "label": { "ur": "حکم", "en": "command" } }],
+   "why": {
+    "ur": "أَمْر — حکم (اسمِ نکرہ)؛ اگلا لفظ اللّٰه (اسمِ معرفہ) ہے، اس لیے اضافت۔",
+    "en": "أَمْر — command (indefinite); the next word, Allah, is definite, so it is an idafa."
+   }
+  },
+  {
+   "position": 20,
+   "meaning": { "ur": "اللہ (کے)", "en": "(of) Allah" },
+   "parts": [{ "text": "اللّٰه", "role": "noun", "label": { "ur": "لفظِ جلالہ", "en": "Allah" } }],
+   "why": {
+    "ur": "أَمْرِ اللّٰهِ — اللہ کا حکم؛ دونوں کلمات اردو میں مستعمل ہیں۔ حَتّٰى تَفِيْءَ إِلٰى أَمْرِ اللّٰهِ — یہاں تک کہ وہ اللہ کے حکم کی طرف پلٹ آئیں۔",
+    "en": "أَمْرِ اللّٰهِ — the command of Allah; both words are used in Urdu. حَتّٰى تَفِيْءَ إِلٰى أَمْرِ اللّٰهِ — until it returns to the command of Allah."
+   }
+  },
+  {
+   "position": 21,
+   "meaning": { "ur": "پس اگر", "en": "then if" },
+   "parts": [
+    { "text": "فَ", "role": "particle", "label": { "ur": "پس", "en": "so" } },
+    { "text": "إِنْ", "role": "particle", "label": { "ur": "اگر", "en": "if" } }
+   ],
+   "why": { "ur": "ف + إن: پس اگر۔", "en": "ف + إن: then if." }
+  },
+  {
+   "position": 22,
+   "meaning": { "ur": "وہ پلٹ آیا", "en": "it returned" },
+   "parts": [
+    { "text": "فَاءَ", "role": "verb", "label": { "ur": "پلٹ آیا", "en": "returned" } },
+    { "text": "تْ", "role": "noun", "label": { "ur": "مؤنث کی علامت", "en": "she/it" } }
+   ],
+   "why": {
+    "ur": "فاء + ت۔ فَاءَ — پلٹ آیا، اور ت مؤنث کی علامت: فَإِنْ فَاءَتْ — پس اگر وہ گروہ واپس پلٹ آئے۔",
+    "en": "فاء + ت. فَاءَ — returned, and ت marks the feminine: فَإِنْ فَاءَتْ — then if it returns."
+   }
+  },
+  {
+   "position": 23,
+   "meaning": { "ur": "تو صلح کرا دو", "en": "then make peace" },
+   "parts": [
+    { "text": "فَ", "role": "particle", "label": { "ur": "پس", "en": "so" } },
+    { "text": "أَصْلِحْ", "role": "verb", "label": { "ur": "صلح کراؤ", "en": "make peace" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": { "ur": "فَأَصْلِحُوْا — پس تم سب صلح کروا دو (اوپر دیکھیں)۔", "en": "فَأَصْلِحُوْا — so make peace, all of you (as above)." }
+  },
+  {
+   "position": 24,
+   "meaning": { "ur": "ان دونوں کے درمیان", "en": "between the two" },
+   "parts": [
+    { "text": "بَيْنَ", "role": "noun", "label": { "ur": "درمیان", "en": "between" } },
+    { "text": "هُمَا", "role": "noun", "label": { "ur": "دونوں", "en": "the two" } }
+   ],
+   "why": { "ur": "بَيْنَهُمَا — دونوں کے درمیان۔", "en": "بَيْنَهُمَا — between the two." }
+  },
+  {
+   "position": 25,
+   "meaning": { "ur": "عدل کے ساتھ", "en": "with justice" },
+   "parts": [
+    { "text": "بِ", "role": "particle", "label": { "ur": "کے ساتھ", "en": "with" } },
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "عَدْل", "role": "noun", "label": { "ur": "عدل", "en": "justice" } }
+   ],
+   "why": {
+    "ur": "ب + ال + عدل: عدل کے ساتھ۔ عدل اردو میں مستعمل ہے، اور ال اسے خاص کرتا ہے: وہ عدل جو جھگڑوں کو نمٹانے کے لیے اللہ نے قوانین کی صورت میں بنایا ہے۔ فَأَصْلِحُوْا بَيْنَهُمَا بِالْعَدْلِ — پس ان دونوں گروہوں کے درمیان عدل کے ساتھ صلح کروا دو۔",
+    "en": "ب + ال + عدل: with justice. Urdu uses عدل, and ال makes it specific: the justice Allah has laid down as law for settling disputes. فَأَصْلِحُوْا بَيْنَهُمَا بِالْعَدْلِ — make peace between them with justice."
+   }
+  },
+  {
+   "position": 26,
+   "meaning": { "ur": "اور انصاف کرو", "en": "and be just" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "أَقْسِطْ", "role": "verb", "label": { "ur": "انصاف کرو (حکم)", "en": "be just (command)" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ا + قسط + وا۔ الف امر کا، قسط بمعنی انصاف — نصف نصف کرنا، برابر برابر کرنا (اردو میں قسط مستعمل ہے)، اور وا جمع کی علامت۔ وَأَقْسِطُوْا — اور تم سب انصاف کرو۔",
+    "en": "ا + قسط + وا. The alif is the command alif, قسط means justice — dividing equally, half and half (Urdu has قسط, an instalment), and وا is the plural sign. وَأَقْسِطُوْا — and be just, all of you."
+   }
+  },
+  {
+   "position": 27,
+   "meaning": { "ur": "بیشک", "en": "indeed" },
+   "parts": [{ "text": "إِنَّ", "role": "particle", "label": { "ur": "بیشک", "en": "indeed" } }],
+   "why": { "ur": "إِنَّ — بیشک۔", "en": "إِنَّ — indeed." }
+  },
+  {
+   "position": 28,
+   "meaning": { "ur": "اللہ", "en": "Allah" },
+   "parts": [{ "text": "اللّٰه", "role": "noun", "label": { "ur": "لفظِ جلالہ", "en": "Allah" } }],
+   "why": { "ur": "إِنَّ اللّٰهَ — بیشک اللہ تعالیٰ۔", "en": "إِنَّ اللّٰهَ — indeed Allah." }
+  },
+  {
+   "position": 29,
+   "meaning": { "ur": "پسند کرتا ہے", "en": "loves" },
+   "parts": [
+    { "text": "يُ", "role": "particle", "label": { "ur": "مضارع کی علامت", "en": "present-tense sign" } },
+    { "text": "حِبُّ", "role": "verb", "label": { "ur": "محبت کرنا", "en": "love" } }
+   ],
+   "why": {
+    "ur": "ی + حب: ی مضارع کی علامت، حب اردو میں مستعمل۔ يُحِبُّ — وہ محبت کرتا ہے، تُحِبُّ — تو محبت کرتا ہے، أُحِبُّ — میں محبت کرتا ہوں، نُحِبُّ — ہم محبت کرتے ہیں۔",
+    "en": "ی + حب: ی is the present-tense sign; Urdu uses حب. يُحِبُّ — he loves, تُحِبُّ — you love, أُحِبُّ — I love, نُحِبُّ — we love."
+   }
+  },
+  {
+   "position": 30,
+   "meaning": { "ur": "انصاف کرنے والوں کو", "en": "those who are just" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "مُقْسِط", "role": "noun", "label": { "ur": "انصاف کرنے والا", "en": "one who is just" } },
+    { "text": "يْنَ", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ال + م + قسط + ین۔ کلمے کا آغاز م سے ہو تو ”والا“ مراد ہوتا ہے، جیسے مُطِيْع — اطاعت کرنے والا۔ اسی طرح قسط — انصاف، اور مُقْسِط — انصاف کرنے والا؛ ال کے ساتھ الْمُقْسِطِيْنَ — حقیقی انصاف کرنے والے۔ إِنَّ اللّٰهَ يُحِبُّ الْمُقْسِطِيْنَ — بیشک اللہ انصاف کرنے والوں کو پسند فرماتے ہیں۔",
+    "en": "ال + م + قسط + ين. A word starting with م often means “one who”, like مُطِيْع — one who obeys. So قسط — justice, and مُقْسِط — one who is just; with ال, الْمُقْسِطِيْنَ — those who are truly just. إِنَّ اللّٰهَ يُحِبُّ الْمُقْسِطِيْنَ — indeed Allah loves those who are just."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2, 3, 4, 5], "role": "verb", "label": { "ur": "اگر مومنوں کے دو گروہ آپس میں لڑ پڑیں", "en": "if two groups of believers fight" } },
+   { "words": [6, 7], "role": "verb", "label": { "ur": "تو ان میں صلح کرا دو", "en": "make peace between them" } },
+   { "words": [8, 9, 10, 11, 12], "role": "verb", "label": { "ur": "پھر اگر ایک دوسرے پر زیادتی کرے", "en": "but if one transgresses against the other" } },
+   { "words": [13, 14, 15], "role": "verb", "label": { "ur": "تو زیادتی کرنے والے سے لڑو", "en": "fight the one that transgresses" } },
+   { "words": [16, 17, 18, 19, 20], "role": "verb", "label": { "ur": "یہاں تک کہ وہ اللہ کے حکم کی طرف پلٹ آئے", "en": "until it returns to Allah's command" } },
+   { "words": [21, 22, 23, 24, 25], "role": "verb", "label": { "ur": "پھر پلٹ آئے تو عدل سے صلح کرا دو", "en": "then if it returns, make peace with justice" } },
+   { "words": [26], "role": "verb", "label": { "ur": "اور انصاف کرو", "en": "and be just" } },
+   { "words": [27, 28, 29, 30], "role": "verb", "label": { "ur": "بیشک اللہ انصاف کرنے والوں کو پسند کرتا ہے", "en": "indeed Allah loves the just" } }
+  ],
+  "plain": {
+   "ur": "اور اگر مومنین کے دو گروہ آپس میں لڑ پڑیں تو ان کے درمیان صلح کروا دو۔ پھر اگر ایک گروہ دوسرے پر زیادتی کرے تو زیادتی کرنے والے گروہ سے لڑو یہاں تک کہ وہ اللہ کے حکم کی طرف پلٹ آئے۔ پھر اگر وہ پلٹ آئے تو ان دونوں کے درمیان عدل کے ساتھ صلح کروا دو اور انصاف کرو۔ بیشک اللہ تعالیٰ انصاف کرنے والوں کو پسند فرماتے ہیں۔ یہ آیت قدم بہ قدم چلتی ہے، اور ہر نیا قدم فَ (پس) سے شروع ہوتا ہے۔",
+   "en": "And if two groups of the believers fight, make peace between them. But if one of them transgresses against the other, fight the one that transgresses until it returns to the command of Allah. Then if it returns, make peace between them with justice, and be just. Indeed Allah loves those who are just. The verse moves step by step, and each new step begins with فَ (so)."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "وزن افْتَعَلَ میں اشتراک کا معنی ہوتا ہے — کام کو باہم کرنا: قَتَلَ ← اقْتَتَلَ (باہم لڑے)۔",
+   "en": "The pattern افْتَعَلَ means doing something together: قَتَلَ (killed) → اقْتَتَلَ (fought each other)."
+  },
+  "points": [
+   {
+    "ur": "ان / ین — دو (تثنیہ): طَائِفَتَانِ — دو گروہ۔",
+    "en": "ان / ين — two (the dual): طَائِفَتَانِ — two groups."
+   },
+   {
+    "ur": "فعل کے آخر کی ت: بَغَتْ — اس (مؤنث) نے؛ گروہ (طائفہ) مؤنث ہے، اس لیے بَغَتْ، تَبْغِيْ اور الَّتِيْ۔",
+    "en": "A final ت on a verb: بَغَتْ — she/it did; طائفة (group) is feminine, hence بَغَتْ, تَبْغِيْ and الَّتِيْ."
+   },
+   {
+    "ur": "شروع کا م — ”والا“: مُقْسِط — انصاف کرنے والا۔",
+    "en": "م at the start — “one who”: مُقْسِط — one who is just."
+   }
+  ]
+ },
+ "check": [
+  {
+   "id": "u2-l9-q1",
+   "type": "mcq",
+   "prompt": { "ur": "طَائِفَتَانِ کے آخر میں ان کیا بتاتا ہے؟", "en": "What does the ان at the end of طَائِفَتَانِ tell us?" },
+   "options": [
+    { "text": { "ur": "دو (تثنیہ)", "en": "two (dual)" } },
+    { "text": { "ur": "بہت سے (جمع)", "en": "many (plural)" } },
+    { "text": { "ur": "ایک", "en": "one" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "ان / ین کلمے کے آخر پر دو کی علامت ہے: طَائِفَتَانِ — دو گروہ۔",
+    "en": "ان / ين at the end of a word means two: طَائِفَتَانِ — two groups."
+   }
+  },
+  {
+   "id": "u2-l9-q2",
+   "type": "mcq",
+   "prompt": { "ur": "اقْتَتَلُوْا کا کیا مطلب ہے؟", "en": "What does اقْتَتَلُوْا mean?" },
+   "options": [
+    { "text": { "ur": "انہوں نے قتل کیا", "en": "they killed" } },
+    { "text": { "ur": "وہ آپس میں لڑ پڑے", "en": "they fought each other" } },
+    { "text": { "ur": "تم لڑو", "en": "fight!" } }
+   ],
+   "answer": 1,
+   "explanation": {
+    "ur": "وزن افْتَعَلَ اشتراک کا معنی دیتا ہے: اقْتَتَلُوْا — انہوں نے باہم قتال کیا۔",
+    "en": "The pattern افْتَعَلَ means doing something together: اقْتَتَلُوْا — they fought one another."
+   }
+  },
+  {
+   "id": "u2-l9-q3",
+   "type": "mcq",
+   "prompt": { "ur": "بَغَتْ میں آخر کی ت کیا بتاتی ہے؟", "en": "What does the final ت in بَغَتْ show?" },
+   "options": [
+    { "text": { "ur": "میں", "en": "I" } },
+    { "text": { "ur": "تم سب", "en": "you all" } },
+    { "text": { "ur": "وہ ایک مؤنث (گروہ)", "en": "she / it (the group, f.)" } }
+   ],
+   "answer": 2,
+   "explanation": {
+    "ur": "یہ غائب مؤنث کی علامت ہے، کیونکہ طائفہ (گروہ) مؤنث ہے: بَغَتْ — اس گروہ نے زیادتی کی۔",
+    "en": "It marks “she/it”, because طائفة (group) is feminine: بَغَتْ — the group transgressed."
+   }
+  },
+  {
+   "id": "u2-l9-q4",
+   "type": "mcq",
+   "prompt": { "ur": "كَتَبْتُ کا کیا مطلب ہے؟", "en": "What does كَتَبْتُ mean?" },
+   "arabic": "كَتَبْتُ",
+   "options": [
+    { "text": { "ur": "میں نے لکھا", "en": "I wrote" } },
+    { "text": { "ur": "اس (مؤنث) نے لکھا", "en": "she wrote" } },
+    { "text": { "ur": "تو (مذکر) نے لکھا", "en": "you (m.) wrote" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "تُ (پیش) — میں: كَتَبْتُ — میں نے لکھا۔ كَتَبَتْ — اس مؤنث نے، كَتَبْتَ — تو مذکر نے۔",
+    "en": "تُ (damma) — I: كَتَبْتُ — I wrote. كَتَبَتْ — she wrote, كَتَبْتَ — you (m.) wrote."
+   }
+  },
+  {
+   "id": "u2-l9-q5",
+   "type": "mcq",
+   "prompt": { "ur": "الْمُقْسِطِيْنَ کون ہیں؟", "en": "Who are الْمُقْسِطِيْنَ?" },
+   "options": [
+    { "text": { "ur": "زیادتی کرنے والے", "en": "the transgressors" } },
+    { "text": { "ur": "انصاف کرنے والے", "en": "those who are just" } },
+    { "text": { "ur": "لڑنے والے", "en": "those who fight" } }
+   ],
+   "answer": 1,
+   "explanation": {
+    "ur": "شروع کا م ”والا“ کے معنی دیتا ہے: مُقْسِط — انصاف کرنے والا، ین — جمع۔",
+    "en": "A م at the start means “one who”: مُقْسِط — one who is just, ين — plural."
+   }
+  },
+  {
+   "id": "u2-l9-q6",
+   "type": "mcq",
+   "prompt": { "ur": "یہاں الَّتِيْ (مؤنث) کیوں آیا ہے؟", "en": "Why is the feminine الَّتِيْ used here?" },
+   "options": [
+    { "text": { "ur": "کیونکہ طائفہ (گروہ) مؤنث ہے", "en": "Because طائفة (group) is feminine" } },
+    { "text": { "ur": "کیونکہ یہ عورتوں کا ذکر ہے", "en": "Because it speaks of women" } },
+    { "text": { "ur": "کیونکہ یہ جمع ہے", "en": "Because it is plural" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "گروہ کے لیے عربی میں طائفہ مؤنث ہے، اس لیے الَّتِيْ، بَغَتْ اور تَبْغِيْ — سب مؤنث۔",
+    "en": "طائفة (group) is feminine in Arabic, so الَّتِيْ, بَغَتْ and تَبْغِيْ are all feminine."
+   }
+  }
+ ]
+}

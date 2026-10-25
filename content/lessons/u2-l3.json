@@ -1,0 +1,338 @@
+{
+ "id": "u2-l3",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الحجرات کی تیسری آیت کو لفظ بہ لفظ سمجھیں، اور فعل کے زمانے پہچاننا سیکھیں: مضارع کی علامتیں (ی، ت، ا، ن)، مستقبل کے لیے س اور سَوْف، اور ماضی۔",
+  "en": "Understand the third verse of Surah Al-Hujurat word by word, and learn to tell a verb's time: the present-tense signs (ی، ت، ا، ن), س and سَوْفَ for the future, and the past."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "مضارع کی علامتیں", "en": "Present-tense signs" },
+   "body": {
+    "ur": "اگر کوئی فعل ی، ت، ا یا ن سے شروع ہو تو وہ فعلِ مضارع ہے — زمانہ حال یا مستقبل: يَقُوْلُ — وہ کہتا ہے، تَقُوْلُ — تم کہتے ہو، أَقُوْلُ — میں کہتا ہوں، نَقُوْلُ — ہم کہتے ہیں۔",
+    "en": "A verb that starts with ی، ت، ا or ن is a present-tense verb — now or later: يَقُوْلُ — he says, تَقُوْلُ — you say, أَقُوْلُ — I say, نَقُوْلُ — we say."
+   }
+  },
+  {
+   "title": { "ur": "س اور سَوْفَ", "en": "س and سَوْفَ" },
+   "body": {
+    "ur": "مضارع سے پہلے س لگ جائے تو صرف قریب کا مستقبل: سَيَغُضُّ — وہ پست کرے گا۔ س کی بجائے سَوْفَ ہو تو دور کا مستقبل۔",
+    "en": "س before a present-tense verb makes it the near future: سَيَغُضُّ — he will lower. سَوْفَ instead of س means the further future."
+   }
+  },
+  {
+   "title": { "ur": "ماضی", "en": "The past" },
+   "body": {
+    "ur": "جس فعل کے شروع میں مضارع کی علامت نہ ہو، اس کا ترجمہ ماضی میں کرتے ہیں: امْتَحَنَ — اس نے جانچ لیا۔",
+    "en": "A verb without a present-tense sign at the start is translated in the past: امْتَحَنَ — he tested."
+   }
+  }
+ ],
+ "verse": { "surah": 49, "ayah": 3 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "بیشک", "en": "indeed" },
+   "parts": [{ "text": "إِنَّ", "role": "particle", "label": { "ur": "بیشک، یقیناً", "en": "indeed" } }],
+   "why": {
+    "ur": "ن پر شد ہو تو الف پر زبر ہو یا زیر، دونوں حالتوں میں معنی یقیناً یا بیشک ہی ہیں۔",
+    "en": "With a shadda on the ن, the meaning is “indeed”, whether the alif has a fatha or a kasra."
+   }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "وہ سب جو", "en": "those who" },
+   "parts": [{ "text": "الَّذِيْنَ", "role": "noun", "label": { "ur": "جو سب اشخاص", "en": "those who" } }],
+   "why": {
+    "ur": "اسمِ موصول: جو سب اشخاص۔",
+    "en": "A relative word: those who."
+   }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "پست رکھتے ہیں", "en": "lower" },
+   "parts": [
+    { "text": "يَ", "role": "particle", "label": { "ur": "مضارع کی علامت (وہ)", "en": "present-tense sign (he/they)" } },
+    { "text": "غُضُّ", "role": "verb", "label": { "ur": "پست کرنا", "en": "lower" } },
+    { "text": "وْنَ", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ی + غض + ون۔ شروع کی ی بتاتی ہے کہ یہ فعلِ مضارع ہے، یعنی زمانہ حال یا مستقبل۔ غَضَّ — اس نے پست کیا، يَغُضُّ — وہ پست کرتا ہے یا کرے گا، يَغُضُّوْنَ — وہ سب پست کرتے ہیں یا کریں گے۔ مضارع سے پہلے س یا سَوْفَ نہ ہو تو ترجمہ حال میں کرتے ہیں۔",
+    "en": "ی + غض + ون. The ی at the start shows a present-tense verb — now or later. غَضَّ — he lowered, يَغُضُّ — he lowers, يَغُضُّوْنَ — they lower. Without س or سَوْفَ in front, we translate it in the present."
+   }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "اپنی آوازیں", "en": "their voices" },
+   "parts": [
+    { "text": "أَصْوَاتَ", "role": "noun", "label": { "ur": "آوازیں", "en": "voices" } },
+    { "text": "هُمْ", "role": "noun", "label": { "ur": "ان سب کی", "en": "their" } }
+   ],
+   "why": {
+    "ur": "صوت (آواز) کی جمع اصوات، اور آخر میں هُمْ — ان سب کی: ان کی آوازیں۔ صوت بمعنی آواز اردو میں مستعمل ہے۔ إِنَّ الَّذِيْنَ يَغُضُّوْنَ أَصْوَاتَهُمْ — بیشک وہ سب جو اپنی آوازوں کو پست رکھتے ہیں۔",
+    "en": "اصوات, the plural of صوت (voice), with هُمْ — their: their voices. صوت is used in Urdu too. إِنَّ الَّذِيْنَ يَغُضُّوْنَ أَصْوَاتَهُمْ — indeed those who lower their voices."
+   }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "پاس، نزدیک", "en": "in the presence of" },
+   "parts": [{ "text": "عِنْدَ", "role": "noun", "label": { "ur": "پاس، قریب", "en": "near, with" } }],
+   "why": {
+    "ur": "عِنْدَ — پاس، قریب، نزدیک۔ یہ ظرفِ زمان و مکان ہے، یعنی جگہ یا وقت بتاتا ہے۔",
+    "en": "عِنْدَ — near, with, in the presence of. It tells place or time."
+   }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "رسول", "en": "the Messenger" },
+   "parts": [{ "text": "رَسُوْلِ", "role": "noun", "label": { "ur": "رسول", "en": "messenger" } }],
+   "why": {
+    "ur": "رسول — اردو میں بھی مستعمل۔ اس پر ال نہیں اور اگلا لفظ اللّٰه ہے، اس لیے یہ اضافت ہے۔",
+    "en": "رسول — used in Urdu too. It has no ال and the next word is Allah, so the two form an idafa."
+   }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "اللہ (کے)", "en": "(of) Allah" },
+   "parts": [{ "text": "اللّٰه", "role": "noun", "label": { "ur": "لفظِ جلالہ", "en": "the name of Allah" } }],
+   "why": {
+    "ur": "رَسُوْلِ اللّٰهِ — اللہ کے رسول: صَوْتِ النَّبِيِّ کی طرح اضافت ہے، اس لیے ترجمے میں ”کے“ لگتا ہے۔ عِنْدَ رَسُوْلِ اللّٰهِ — اللہ کے رسول کے نزدیک۔",
+    "en": "رَسُوْلِ اللّٰهِ — the Messenger of Allah: an idafa like صَوْتِ النَّبِيِّ, translated with “of”. عِنْدَ رَسُوْلِ اللّٰهِ — in the presence of the Messenger of Allah."
+   }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "یہی لوگ", "en": "those" },
+   "parts": [{ "text": "أُولٰئِكَ", "role": "noun", "label": { "ur": "وہ سب (مذکر)", "en": "those (men)" } }],
+   "why": {
+    "ur": "أُولٰئِكَ — وہ سب؛ یہ ذٰلِكَ اور ذَاكَ (وہ) کی جمع ہے، اور دور کی طرف اشارہ کرتا ہے۔",
+    "en": "أُولٰئِكَ — those; it is the plural of ذٰلِكَ and ذَاكَ (that), pointing to something at a distance."
+   }
+  },
+  {
+   "position": 9,
+   "meaning": { "ur": "وہ لوگ جن کے", "en": "the ones whose" },
+   "parts": [{ "text": "الَّذِيْنَ", "role": "noun", "label": { "ur": "جو سب اشخاص", "en": "those who" } }],
+   "why": {
+    "ur": "اسمِ موصول: جو سب اشخاص۔ أُولٰئِكَ الَّذِيْنَ — یہی وہ لوگ ہیں جن کے۔",
+    "en": "A relative word: those who. أُولٰئِكَ الَّذِيْنَ — they are the ones whose."
+   }
+  },
+  {
+   "position": 10,
+   "meaning": { "ur": "جانچ لیا، آزمایا", "en": "tested" },
+   "parts": [{ "text": "امْتَحَنَ", "role": "verb", "label": { "ur": "امتحان لیا", "en": "tested" } }],
+   "why": {
+    "ur": "امْتَحَنَ — امتحان لیا، آزمایا، جانچا۔ امتحان کا لفظ اردو میں عام ہے۔ اس کا ترجمہ ماضی میں کریں گے، کیونکہ کلمے سے پہلے مضارع کی علامت (ی، ت، ا، ن) نہیں لگی ہوئی۔",
+    "en": "امْتَحَنَ — tested, examined. امتحان (exam) is an everyday Urdu word. We translate it in the past, because there is no present-tense sign (ی، ت، ا، ن) at its start."
+   }
+  },
+  {
+   "position": 11,
+   "meaning": { "ur": "اللہ نے", "en": "Allah" },
+   "parts": [{ "text": "اللّٰه", "role": "noun", "label": { "ur": "لفظِ جلالہ", "en": "the name of Allah" } }],
+   "why": {
+    "ur": "امْتَحَنَ اللّٰهُ — اللہ نے جانچ لیا، امتحان لے لیا۔",
+    "en": "امْتَحَنَ اللّٰهُ — Allah has tested."
+   }
+  },
+  {
+   "position": 12,
+   "meaning": { "ur": "ان کے دلوں کو", "en": "their hearts" },
+   "parts": [
+    { "text": "قُلُوْبَ", "role": "noun", "label": { "ur": "دل (جمع)", "en": "hearts" } },
+    { "text": "هُمْ", "role": "noun", "label": { "ur": "ان سب کے", "en": "their" } }
+   ],
+   "why": {
+    "ur": "قُلُوْب، قَلْب کی جمع ہے، یعنی دل۔ آخر میں هُمْ — ان سب کے: ان سب کے دل۔",
+    "en": "قُلُوْب is the plural of قَلْب, heart. With هُمْ — their: their hearts."
+   }
+  },
+  {
+   "position": 13,
+   "meaning": { "ur": "تقویٰ کے لیے", "en": "for righteousness" },
+   "parts": [
+    { "text": "لِلْ", "role": "particle", "label": { "ur": "کے لیے", "en": "for" } },
+    { "text": "تَقْوٰى", "role": "noun", "label": { "ur": "تقویٰ", "en": "God-consciousness" } }
+   ],
+   "why": {
+    "ur": "لل + تقویٰ۔ دو لام (لل) اکٹھے آ جائیں تو ان کا معنی ہوتا ہے ”کے لیے“۔ اگر ایک لام آئے تو سیاق و سباق سے دیکھتے ہیں کہ وہ لامِ تعلیل (کے لیے) ہے یا لامِ لازم (یقیناً)۔",
+    "en": "لل + تقویٰ. When two lams (لل) come together they mean “for”. With a single lam, the context shows whether it means “for” or “surely”."
+   }
+  },
+  {
+   "position": 14,
+   "meaning": { "ur": "ان کے لیے", "en": "for them" },
+   "parts": [
+    { "text": "لَ", "role": "particle", "label": { "ur": "کے لیے", "en": "for" } },
+    { "text": "هُمْ", "role": "noun", "label": { "ur": "ان سب", "en": "them" } }
+   ],
+   "why": {
+    "ur": "ل + هُمْ = ان سب کے لیے۔",
+    "en": "ل + هُمْ = for them."
+   }
+  },
+  {
+   "position": 15,
+   "meaning": { "ur": "مغفرت، بخشش", "en": "forgiveness" },
+   "parts": [{ "text": "مَغْفِرَة", "role": "noun", "label": { "ur": "مغفرت", "en": "forgiveness" } }],
+   "why": {
+    "ur": "مَغْفِرَة — مغفرت، جو اردو میں بھی مستعمل ہے۔ عربی میں آخر کی گول ة لکھتے ہیں، اور اردو میں اسے کھلی ت سے لکھتے ہیں: مغفرت۔",
+    "en": "مَغْفِرَة — forgiveness; Urdu has مغفرت. Arabic writes a round ة at the end, which Urdu writes as an open ت: مغفرت."
+   }
+  },
+  {
+   "position": 16,
+   "meaning": { "ur": "اور اجر", "en": "and a reward" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "أَجْر", "role": "noun", "label": { "ur": "اجر، ثواب", "en": "reward" } }
+   ],
+   "why": {
+    "ur": "أَجْر — ثواب، معاوضہ، مزدوری، بدلہ۔ اجر کا لفظ اردو میں مستعمل ہے۔",
+    "en": "أَجْر — reward, wage, recompense. اجر is used in Urdu."
+   }
+  },
+  {
+   "position": 17,
+   "meaning": { "ur": "بڑا، عظیم", "en": "great" },
+   "parts": [{ "text": "عَظِيْم", "role": "noun", "label": { "ur": "بڑا، شاندار", "en": "great" } }],
+   "pattern": "فَعِيْل",
+   "patternMeaning": {
+    "ur": "ہمیشگی — ایسی صفت جو ہمیشہ رہے اور ذات کا حصہ ہو",
+    "en": "permanence — a lasting quality that is part of what something is"
+   },
+   "why": {
+    "ur": "عَظِيْم — بڑا، شاندار، اہم؛ اردو میں بھی مستعمل۔ یہ وزن فَعِيْل پر ہے، جیسے رَحِيْم اور عَلِيْم۔ أَجْرٌ عَظِيْمٌ — بڑا اجر۔",
+    "en": "عَظِيْم — great, magnificent; used in Urdu too. It is on the pattern فَعِيْل, like رَحِيْم and عَلِيْم. أَجْرٌ عَظِيْمٌ — a great reward."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2], "role": "particle", "label": { "ur": "بیشک جو لوگ", "en": "indeed those who" } },
+   { "words": [3, 4], "role": "verb", "label": { "ur": "اپنی آوازیں پست رکھتے ہیں", "en": "lower their voices" } },
+   { "words": [5, 6, 7], "role": "noun", "label": { "ur": "اللہ کے رسول کے پاس", "en": "in the presence of the Messenger of Allah" } },
+   { "words": [8, 9], "role": "noun", "label": { "ur": "یہی وہ لوگ ہیں جن کے", "en": "they are the ones whose" } },
+   { "words": [10, 11, 12], "role": "verb", "label": { "ur": "دل اللہ نے جانچ لیے", "en": "hearts Allah has tested" } },
+   { "words": [13], "role": "noun", "label": { "ur": "تقویٰ کے لیے", "en": "for righteousness" } },
+   { "words": [14, 15], "role": "noun", "label": { "ur": "ان کے لیے مغفرت ہے", "en": "for them is forgiveness" } },
+   { "words": [16, 17], "role": "noun", "label": { "ur": "اور بڑا اجر", "en": "and a great reward" } }
+  ],
+  "plain": {
+   "ur": "پہلا حصہ ایک خوبی بتاتا ہے: بیشک جو لوگ اللہ کے رسول ﷺ کے پاس اپنی آوازیں پست رکھتے ہیں۔ دوسرا حصہ ان کی تعریف ہے: یہی وہ لوگ ہیں جن کے دلوں کو اللہ نے تقویٰ کے لیے جانچ لیا ہے۔ اور آخر میں ان کا انعام: ان کے لیے مغفرت اور بڑا اجر ہے۔ يَغُضُّوْنَ مضارع ہے (وہ رکھتے ہیں)، جبکہ امْتَحَنَ ماضی ہے (اس نے جانچ لیا)۔",
+   "en": "The first part names a quality: indeed those who lower their voices in the presence of the Messenger of Allah ﷺ. The second praises them: they are the ones whose hearts Allah has tested for righteousness. And finally their reward: for them is forgiveness and a great reward. يَغُضُّوْنَ is present (they lower), while امْتَحَنَ is past (He tested)."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "فعل ی، ت، ا یا ن سے شروع ہو تو وہ فعلِ مضارع ہے — زمانہ حال یا مستقبل۔ یہ علامت نہ ہو تو ترجمہ ماضی میں۔",
+   "en": "A verb starting with ی، ت، ا or ن is present tense — now or later. Without that sign, translate it in the past."
+  },
+  "points": [
+   {
+    "ur": "ی — وہ، ت — تو / تم، ا — میں، ن — ہم: يَكْتُبُ، تَكْتُبُ، أَكْتُبُ، نَكْتُبُ۔",
+    "en": "ی — he, ت — you, ا — I, ن — we: يَكْتُبُ, تَكْتُبُ, أَكْتُبُ, نَكْتُبُ."
+   },
+   {
+    "ur": "مضارع سے پہلے س — قریب کا مستقبل (سَيَغُضُّ)، سَوْفَ — دور کا مستقبل۔",
+    "en": "س before a present-tense verb — the near future (سَيَغُضُّ); سَوْفَ — the further future."
+   },
+   {
+    "ur": "عربی کی گول ة اردو میں کھلی ت بن جاتی ہے: مَغْفِرَة ← مغفرت۔",
+    "en": "Arabic's round ة becomes an open ت in Urdu: مَغْفِرَة becomes مغفرت."
+   }
+  ]
+ },
+ "check": [
+  {
+   "id": "u2-l3-q1",
+   "type": "mcq",
+   "prompt": { "ur": "يَغُضُّوْنَ کے شروع کی ي کیا بتاتی ہے؟", "en": "What does the ي at the start of يَغُضُّوْنَ show?" },
+   "options": [
+    { "text": { "ur": "فعلِ مضارع — حال یا مستقبل", "en": "a present-tense verb — now or later" } },
+    { "text": { "ur": "فعلِ ماضی", "en": "a past-tense verb" } },
+    { "text": { "ur": "حکم (امر)", "en": "a command" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "ی، ت، ا، ن مضارع کی علامتیں ہیں؛ ی کا مطلب ہے ”وہ“: يَغُضُّوْنَ — وہ سب پست رکھتے ہیں۔",
+    "en": "ی، ت، ا، ن are present-tense signs; ی means “he/they”: يَغُضُّوْنَ — they lower."
+   }
+  },
+  {
+   "id": "u2-l3-q2",
+   "type": "mcq",
+   "prompt": { "ur": "نَقُوْلُ کا کیا مطلب ہے؟", "en": "What does نَقُوْلُ mean?" },
+   "arabic": "نَقُوْلُ",
+   "options": [
+    { "text": { "ur": "میں کہتا ہوں", "en": "I say" } },
+    { "text": { "ur": "ہم کہتے ہیں", "en": "we say" } },
+    { "text": { "ur": "تم کہتے ہو", "en": "you say" } }
+   ],
+   "answer": 1,
+   "explanation": {
+    "ur": "شروع کا ن — ہم: نَقُوْلُ — ہم کہتے ہیں یا کہیں گے۔ میں کے لیے أَقُوْلُ اور تم کے لیے تَقُوْلُ۔",
+    "en": "ن at the start means “we”: نَقُوْلُ — we say. “I say” is أَقُوْلُ and “you say” is تَقُوْلُ."
+   }
+  },
+  {
+   "id": "u2-l3-q3",
+   "type": "mcq",
+   "prompt": { "ur": "سَيَغُضُّ کا کیا مطلب ہے؟", "en": "What does سَيَغُضُّ mean?" },
+   "arabic": "سَيَغُضُّ",
+   "options": [
+    { "text": { "ur": "اس نے پست کیا", "en": "he lowered" } },
+    { "text": { "ur": "وہ پست نہیں کرتا", "en": "he does not lower" } },
+    { "text": { "ur": "وہ (جلد) پست کرے گا", "en": "he will (soon) lower" } }
+   ],
+   "answer": 2,
+   "explanation": {
+    "ur": "مضارع سے پہلے س آ جائے تو ترجمہ صرف قریب کے مستقبل میں ہوتا ہے: وہ پست کرے گا۔",
+    "en": "س before a present-tense verb makes it the near future: he will lower."
+   }
+  },
+  {
+   "id": "u2-l3-q4",
+   "type": "mcq",
+   "prompt": { "ur": "امْتَحَنَ کا ترجمہ ماضی میں کیوں کرتے ہیں؟", "en": "Why is امْتَحَنَ translated in the past?" },
+   "options": [
+    { "text": { "ur": "اس کے شروع میں مضارع کی علامت نہیں", "en": "It has no present-tense sign at the start" } },
+    { "text": { "ur": "اس کے آخر میں جمع کی علامت ہے", "en": "It has a plural sign at the end" } },
+    { "text": { "ur": "اس سے پہلے لَا ہے", "en": "لَا comes before it" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "امْتَحَنَ کے شروع میں ی، ت، ا یا ن نہیں، اس لیے یہ ماضی ہے: اللہ نے جانچ لیا۔",
+    "en": "امْتَحَنَ has no ی، ت، ا or ن at the start, so it is past: Allah tested."
+   }
+  },
+  {
+   "id": "u2-l3-q5",
+   "type": "mcq",
+   "prompt": { "ur": "قُلُوْب کس لفظ کی جمع ہے؟", "en": "قُلُوْب is the plural of which word?" },
+   "arabic": "قُلُوْب",
+   "options": [{ "ar": "قَلَم" }, { "ar": "قَلْب" }, { "ar": "قَوْل" }],
+   "answer": 1,
+   "explanation": {
+    "ur": "قُلُوْب، قَلْب (دل) کی جمع ہے: قُلُوْبَهُمْ — ان کے دل۔",
+    "en": "قُلُوْب is the plural of قَلْب (heart): قُلُوْبَهُمْ — their hearts."
+   }
+  },
+  {
+   "id": "u2-l3-q6",
+   "type": "mcq",
+   "prompt": { "ur": "لِلتَّقْوٰى میں دو لام (لل) کا کیا معنی ہے؟", "en": "What do the two lams (لل) in لِلتَّقْوٰى mean?" },
+   "options": [
+    { "text": { "ur": "یقیناً", "en": "surely" } },
+    { "text": { "ur": "کے لیے", "en": "for" } },
+    { "text": { "ur": "اور", "en": "and" } }
+   ],
+   "answer": 1,
+   "explanation": {
+    "ur": "دو لام اکٹھے آئیں تو معنی ”کے لیے“ ہوتا ہے: لِلتَّقْوٰى — تقویٰ کے لیے۔",
+    "en": "Two lams together mean “for”: لِلتَّقْوٰى — for righteousness."
+   }
+  }
+ ]
+}

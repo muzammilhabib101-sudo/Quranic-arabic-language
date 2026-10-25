@@ -1,0 +1,342 @@
+{
+ "id": "u2-l13",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الحجرات کی تیرہویں آیت کو لفظ بہ لفظ سمجھیں — تمام انسان ایک مرد اور ایک عورت سے — اور سیکھیں: نَا (ہم) کی ضمیر (خَلَقْنَاكُمْ)، خَلَقَ اور جَعَلَ کا فرق، اور وزن أَفْعَل — سب سے زیادہ (أَكْرَم، أَتْقٰى) اور رنگوں کے نام۔",
+  "en": "Understand the thirteenth verse of Surah Al-Hujurat word by word — all people from one man and one woman — and learn: the pronoun نَا (we) in خَلَقْنَاكُمْ, the difference between خَلَقَ and جَعَلَ, and the pattern أَفْعَل — “the most” (أَكْرَم, أَتْقٰى) and the names of colours."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "خَلَقَ اور جَعَلَ", "en": "خَلَقَ and جَعَلَ" },
+   "body": {
+    "ur": "خَلَقَ سے مراد ہے عدم سے وجود بخشنا، یعنی نہ ہونے سے پیدا کرنا؛ اور جَعَلَ سے مراد ہے موجود چیز کو نئی شکل دینا۔",
+    "en": "خَلَقَ means bringing into being from nothing; جَعَلَ means giving something that already exists a new form."
+   }
+  },
+  {
+   "title": { "ur": "وزن أَفْعَل", "en": "The pattern أَفْعَل" },
+   "body": {
+    "ur": "اس وزن پر آنے والے تمام کلمات میں ”سب سے زیادہ“ کے معنی پائے جاتے ہیں: أَفْضَل — سب سے زیادہ فضیلت والا، أَكْبَر — سب سے بڑا (اللّٰهُ أَكْبَرُ)، أَتْقٰى — سب سے زیادہ تقوے والا۔",
+    "en": "All words on this pattern mean “the most”: أَفْضَل — the most excellent, أَكْبَر — the greatest (اللّٰهُ أَكْبَرُ), أَتْقٰى — the most God-conscious."
+   }
+  },
+  {
+   "title": { "ur": "رنگ بھی أَفْعَل پر", "en": "Colours are أَفْعَل too" },
+   "body": {
+    "ur": "تمام رنگ وزن أَفْعَل پر آتے ہیں: أَحْمَر — سرخ، أَزْرَق — نیلا، أَسْوَد — کالا، أَبْيَض — سفید، أَخْضَر — سبز۔",
+    "en": "All colours come on أَفْعَل: أَحْمَر — red, أَزْرَق — blue, أَسْوَد — black, أَبْيَض — white, أَخْضَر — green."
+   }
+  }
+ ],
+ "verse": { "surah": 49, "ayah": 13 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "اے", "en": "O" },
+   "parts": [
+    { "text": "يَا", "role": "particle", "label": { "ur": "اے", "en": "O" } },
+    { "text": "أَيُّ", "role": "noun", "label": { "ur": "اے (توجہ)", "en": "O you" } },
+    { "text": "هَا", "role": "particle", "label": { "ur": "تنبیہ", "en": "attention" } }
+   ],
+   "why": { "ur": "حرفِ ندا — اے۔", "en": "A calling word — O." }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "لوگو", "en": "people" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "نَّاس", "role": "noun", "label": { "ur": "لوگ", "en": "people" } }
+   ],
+   "why": {
+    "ur": "النَّاس — لوگ؛ اردو میں عوام الناس۔ پچھلی آیات میں ”اے ایمان والو“ تھا، یہاں ”اے لوگو“ — یعنی تمام بنی نوع انسان سے خطاب ہے۔",
+    "en": "النَّاس — people; Urdu has عوام الناس (the general public). The earlier verses said “O you who believe”; here it is “O people” — all of humanity is addressed."
+   }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "بیشک ہم نے", "en": "indeed We" },
+   "parts": [
+    { "text": "إِنَّ", "role": "particle", "label": { "ur": "بیشک", "en": "indeed" } },
+    { "text": "ا", "role": "noun", "label": { "ur": "ہم (نَا)", "en": "We (نَا)" } }
+   ],
+   "why": {
+    "ur": "إِنَّ + نَا = إِنَّا: بیشک ہم۔ (دو ن ملنے سے ایک ن لکھا جاتا ہے۔)",
+    "en": "إِنَّ + نَا = إِنَّا: indeed We. (The two ن letters merge into one.)"
+   }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "ہم نے تم سب کو پیدا کیا", "en": "We created you" },
+   "parts": [
+    { "text": "خَلَقْ", "role": "verb", "label": { "ur": "پیدا کیا", "en": "created" } },
+    { "text": "نَا", "role": "noun", "label": { "ur": "ہم نے", "en": "We" } },
+    { "text": "كُمْ", "role": "noun", "label": { "ur": "تم سب کو", "en": "you (all)" } }
+   ],
+   "why": {
+    "ur": "خلق + نا + كُم۔ خَلَقَ — پیدا کیا (خلق اردو میں مستعمل)، نَا — ہم نے، كُمْ — تم سب کو۔ خَلَقْنَاكُمْ — تم سب کو ہم ہی نے پیدا کیا۔ يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ — اے بنی نوع انسان! ہم ہی نے تم کو پیدا کیا ہے۔",
+    "en": "خلق + نا + كُم. خَلَقَ — created (Urdu خلق), نَا — We, كُمْ — you all. خَلَقْنَاكُمْ — We created you. يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ — O mankind, indeed We created you."
+   }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "سے", "en": "from" },
+   "parts": [{ "text": "مِنْ", "role": "particle", "label": { "ur": "سے", "en": "from" } }],
+   "why": { "ur": "مِنْ — سے۔", "en": "مِنْ — from." }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "ایک مذکر", "en": "a male" },
+   "parts": [{ "text": "ذَكَر", "role": "noun", "label": { "ur": "مذکر", "en": "male" } }],
+   "why": {
+    "ur": "ذَكَر — مذکر (اردو میں مستعمل)؛ تنوین کی وجہ سے: ایک مذکر۔",
+    "en": "ذَكَر — male (Urdu مذکر); because of the tanween: a male."
+   }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "اور ایک مؤنث", "en": "and a female" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "أُنْثٰى", "role": "noun", "label": { "ur": "مؤنث", "en": "female" } }
+   ],
+   "why": {
+    "ur": "أُنْثٰى — مؤنث (اردو میں مستعمل)۔ مِنْ ذَكَرٍ وَّأُنْثٰى — ایک مذکر اور ایک مؤنث سے۔",
+    "en": "أُنْثٰى — female (Urdu مؤنث). مِنْ ذَكَرٍ وَّأُنْثٰى — from a male and a female."
+   }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "اور ہم نے تمہیں بنایا", "en": "and We made you" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "جَعَلْ", "role": "verb", "label": { "ur": "بنایا", "en": "made" } },
+    { "text": "نَا", "role": "noun", "label": { "ur": "ہم نے", "en": "We" } },
+    { "text": "كُمْ", "role": "noun", "label": { "ur": "تم سب کو", "en": "you" } }
+   ],
+   "why": {
+    "ur": "جعل + نا + كُم: ہم ہی نے بنایا تم سب کو (جعل — بنایا، اردو میں مستعمل)۔ خَلَقَ سے مراد ہے عدم سے وجود بخشنا، اور جَعَلَ سے مراد موجود کو نئی شکل دینا۔",
+    "en": "جعل + نا + كُم: We made you (جعل — made; Urdu has جعل). خَلَقَ is creating from nothing; جَعَلَ is giving what exists a new form."
+   }
+  },
+  {
+   "position": 9,
+   "meaning": { "ur": "قومیں", "en": "nations" },
+   "parts": [{ "text": "شُعُوْب", "role": "noun", "label": { "ur": "شعبے، خاندان", "en": "peoples, branches" } }],
+   "why": {
+    "ur": "شُعُوْب — شعبہ، حصہ، قسم، خاندان: بڑی قومیں۔",
+    "en": "شُعُوْب — branches, divisions, kinds, families: great nations."
+   }
+  },
+  {
+   "position": 10,
+   "meaning": { "ur": "اور قبیلے", "en": "and tribes" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "قَبَائِل", "role": "noun", "label": { "ur": "قبیلے", "en": "tribes" } }
+   ],
+   "why": {
+    "ur": "قبائل — قبیلہ کی جمع (اردو میں مستعمل)۔",
+    "en": "قبائل — plural of قبیلہ, tribe (used in Urdu)."
+   }
+  },
+  {
+   "position": 11,
+   "meaning": { "ur": "تاکہ ایک دوسرے کو پہچانو", "en": "so that you know one another" },
+   "parts": [
+    { "text": "لِ", "role": "particle", "label": { "ur": "کے لیے (تعلیل)", "en": "so that" } },
+    { "text": "تَعَارَفُ", "role": "verb", "label": { "ur": "پہچان", "en": "know each other" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ل (تعلیل — کے لیے) + تعارف (پہچان؛ اردو میں تعارف) + وا (جمع): تاکہ تم ایک دوسرے کو پہچان سکو۔",
+    "en": "ل (purpose — so that) + تعارف (getting to know; Urdu تعارف, introduction) + وا (plural): so that you may know one another."
+   }
+  },
+  {
+   "position": 12,
+   "meaning": { "ur": "بیشک", "en": "indeed" },
+   "parts": [{ "text": "إِنَّ", "role": "particle", "label": { "ur": "بیشک", "en": "indeed" } }],
+   "why": { "ur": "إِنَّ — بیشک۔", "en": "إِنَّ — indeed." }
+  },
+  {
+   "position": 13,
+   "meaning": { "ur": "تم میں سب سے زیادہ عزت والا", "en": "the most noble of you" },
+   "parts": [
+    { "text": "أَكْرَمَ", "role": "noun", "label": { "ur": "سب سے زیادہ عزت والا", "en": "most noble" } },
+    { "text": "كُمْ", "role": "noun", "label": { "ur": "تم سب میں", "en": "of you" } }
+   ],
+   "pattern": "أَفْعَل",
+   "patternMeaning": { "ur": "سب سے زیادہ", "en": "the most" },
+   "why": {
+    "ur": "اکرم + كُم۔ مکرم — عزت والا، باوقار؛ اور وزن أَفْعَل پر أَكْرَم — سب سے زیادہ عزت والا۔ أَكْرَمَكُمْ — تم میں سے سب سے زیادہ عزت والا۔",
+    "en": "أكرم + كُم. مکرم — honoured, dignified; on the pattern أَفْعَل, أَكْرَم — the most honoured. أَكْرَمَكُمْ — the most noble of you."
+   }
+  },
+  {
+   "position": 14,
+   "meaning": { "ur": "نزدیک", "en": "in the sight of" },
+   "parts": [{ "text": "عِنْدَ", "role": "noun", "label": { "ur": "پاس، قریب", "en": "near, with" } }],
+   "why": { "ur": "عِنْدَ — پاس، قریب، نزدیک۔", "en": "عِنْدَ — near, with, in the sight of." }
+  },
+  {
+   "position": 15,
+   "meaning": { "ur": "اللہ (کے)", "en": "(of) Allah" },
+   "parts": [{ "text": "اللّٰه", "role": "noun", "label": { "ur": "لفظِ جلالہ", "en": "Allah" } }],
+   "why": { "ur": "عِنْدَ اللّٰهِ — اللہ کے نزدیک۔", "en": "عِنْدَ اللّٰهِ — in the sight of Allah." }
+  },
+  {
+   "position": 16,
+   "meaning": { "ur": "تم میں سب سے زیادہ متقی", "en": "the most God-conscious of you" },
+   "parts": [
+    { "text": "أَتْقٰى", "role": "noun", "label": { "ur": "سب سے زیادہ ڈرنے والا", "en": "most God-fearing" } },
+    { "text": "كُمْ", "role": "noun", "label": { "ur": "تم سب میں", "en": "of you" } }
+   ],
+   "pattern": "أَفْعَل",
+   "patternMeaning": { "ur": "سب سے زیادہ", "en": "the most" },
+   "why": {
+    "ur": "اتقیٰ + كُم۔ وزن أَفْعَل پر أَتْقٰى — سب سے زیادہ ڈرنے والا؛ أَتْقٰكُمْ — تم میں سے سب سے زیادہ ڈرنے والا۔ إِنَّ أَكْرَمَكُمْ عِنْدَ اللّٰهِ أَتْقٰكُمْ — یقیناً اللہ کے حضور تم میں سب سے زیادہ باوقار وہ ہے جو سب سے زیادہ متقی ہے۔",
+    "en": "أتقى + كُم. On the pattern أَفْعَل, أَتْقٰى — the most God-fearing; أَتْقٰكُمْ — the most God-fearing of you. إِنَّ أَكْرَمَكُمْ عِنْدَ اللّٰهِ أَتْقٰكُمْ — the most noble of you in Allah's sight is the most God-conscious."
+   }
+  },
+  {
+   "position": 17,
+   "meaning": { "ur": "بیشک", "en": "indeed" },
+   "parts": [{ "text": "إِنَّ", "role": "particle", "label": { "ur": "بیشک", "en": "indeed" } }],
+   "why": { "ur": "إِنَّ — بیشک؛ بار بار آنے والا کلمہ۔", "en": "إِنَّ — indeed; a word that comes again and again." }
+  },
+  {
+   "position": 18,
+   "meaning": { "ur": "اللہ", "en": "Allah" },
+   "parts": [{ "text": "اللّٰه", "role": "noun", "label": { "ur": "لفظِ جلالہ", "en": "Allah" } }],
+   "why": { "ur": "إِنَّ اللّٰهَ — بیشک اللہ تعالیٰ۔", "en": "إِنَّ اللّٰهَ — indeed Allah." }
+  },
+  {
+   "position": 19,
+   "meaning": { "ur": "جاننے والا", "en": "All-Knowing" },
+   "parts": [{ "text": "عَلِيْم", "role": "noun", "label": { "ur": "ہمیشہ جاننے والا", "en": "always knowing" } }],
+   "pattern": "فَعِيْل",
+   "patternMeaning": { "ur": "ہمیشہ کی ذاتی صفت", "en": "a lasting quality of who one is" },
+   "why": { "ur": "عَلِيْم — جاننے والا، وزن فَعِيْل پر؛ اردو میں مستعمل۔", "en": "عَلِيْم — All-Knowing, on فَعِيْل; used in Urdu." }
+  },
+  {
+   "position": 20,
+   "meaning": { "ur": "باخبر", "en": "All-Aware" },
+   "parts": [{ "text": "خَبِيْر", "role": "noun", "label": { "ur": "باخبر", "en": "fully aware" } }],
+   "pattern": "فَعِيْل",
+   "patternMeaning": { "ur": "ہمیشہ کی ذاتی صفت", "en": "a lasting quality of who one is" },
+   "why": {
+    "ur": "خَبِيْر — باخبر، وزن فَعِيْل پر؛ خبر اردو میں مستعمل۔ إِنَّ اللّٰهَ عَلِيْمٌ خَبِيْرٌ — بیشک اللہ سب سے زیادہ جاننے والے اور باخبر ہیں۔",
+    "en": "خَبِيْر — All-Aware, on فَعِيْل; Urdu has خبر. إِنَّ اللّٰهَ عَلِيْمٌ خَبِيْرٌ — indeed Allah is All-Knowing, All-Aware."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2], "role": "particle", "label": { "ur": "اے لوگو", "en": "O mankind" } },
+   { "words": [3, 4, 5, 6, 7], "role": "verb", "label": { "ur": "ہم نے تمہیں ایک مرد اور ایک عورت سے پیدا کیا", "en": "We created you from a male and a female" } },
+   { "words": [8, 9, 10], "role": "verb", "label": { "ur": "اور تمہیں قومیں اور قبیلے بنایا", "en": "and made you nations and tribes" } },
+   { "words": [11], "role": "verb", "label": { "ur": "تاکہ ایک دوسرے کو پہچانو", "en": "so that you may know one another" } },
+   { "words": [12, 13, 14, 15, 16], "role": "noun", "label": { "ur": "اللہ کے نزدیک سب سے عزت والا سب سے متقی ہے", "en": "the most noble with Allah is the most God-conscious" } },
+   { "words": [17, 18, 19, 20], "role": "noun", "label": { "ur": "بیشک اللہ علیم، خبیر ہے", "en": "indeed Allah is All-Knowing, All-Aware" } }
+  ],
+  "plain": {
+   "ur": "اے بنی نوع انسان! بیشک ہم نے تمہیں ایک مرد اور ایک عورت سے پیدا فرمایا، پھر تمہاری قومیں اور برادریاں بنائیں تاکہ تم ایک دوسرے کو پہچان سکو۔ یقیناً اللہ کے حضور تم میں سب سے زیادہ باوقار وہ ہے جو سب سے زیادہ متقی ہے۔ بیشک اللہ سب سے زیادہ جاننے والا اور باخبر ہے۔ یعنی قومیں پہچان کے لیے ہیں، فخر کے لیے نہیں؛ عزت کا معیار صرف تقویٰ ہے۔",
+   "en": "O mankind! We created you from a male and a female, and made you nations and tribes so that you may know one another. The most noble of you in the sight of Allah is the most God-conscious. Indeed Allah is All-Knowing, All-Aware. Nations are for recognising one another, not for pride; the only measure of honour is God-consciousness."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "وزن أَفْعَل — سب سے زیادہ: أَكْرَم (سب سے عزت والا)، أَتْقٰى (سب سے متقی)، أَكْبَر (سب سے بڑا)۔",
+   "en": "The pattern أَفْعَل — the most: أَكْرَم (most noble), أَتْقٰى (most God-conscious), أَكْبَر (greatest)."
+  },
+  "points": [
+   {
+    "ur": "نَا — ہم: خَلَقْنَاكُمْ = خلق + نا (ہم نے) + كُم (تم کو)۔",
+    "en": "نَا — we: خَلَقْنَاكُمْ = خلق + نا (We) + كُم (you)."
+   },
+   {
+    "ur": "خَلَقَ — عدم سے پیدا کرنا؛ جَعَلَ — موجود کو نئی شکل دینا۔",
+    "en": "خَلَقَ — creating from nothing; جَعَلَ — reshaping what exists."
+   },
+   {
+    "ur": "رنگ بھی أَفْعَل پر: أَحْمَر، أَزْرَق، أَسْوَد، أَبْيَض، أَخْضَر۔",
+    "en": "Colours are on أَفْعَل too: أَحْمَر, أَزْرَق, أَسْوَد, أَبْيَض, أَخْضَر."
+   }
+  ]
+ },
+ "check": [
+  {
+   "id": "u2-l13-q1",
+   "type": "mcq",
+   "prompt": { "ur": "خَلَقْنَاكُمْ میں نَا کا کیا مطلب ہے؟", "en": "What does نَا mean in خَلَقْنَاكُمْ?" },
+   "options": [
+    { "text": { "ur": "ہم نے", "en": "We" } },
+    { "text": { "ur": "تم نے", "en": "you" } },
+    { "text": { "ur": "انہوں نے", "en": "they" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "خلق + نا (ہم نے) + كُم (تم سب کو): ہم نے تم سب کو پیدا کیا۔",
+    "en": "خلق + نا (We) + كُم (you all): We created you."
+   }
+  },
+  {
+   "id": "u2-l13-q2",
+   "type": "mcq",
+   "prompt": { "ur": "خَلَقَ اور جَعَلَ میں کیا فرق ہے؟", "en": "What is the difference between خَلَقَ and جَعَلَ?" },
+   "options": [
+    { "text": { "ur": "خَلَقَ — عدم سے پیدا کرنا؛ جَعَلَ — موجود کو نئی شکل دینا", "en": "خَلَقَ — create from nothing; جَعَلَ — reshape what exists" } },
+    { "text": { "ur": "دونوں بالکل ایک ہیں", "en": "They are exactly the same" } },
+    { "text": { "ur": "خَلَقَ — توڑنا؛ جَعَلَ — جوڑنا", "en": "خَلَقَ — break; جَعَلَ — join" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "خلق سے مراد عدم سے وجود بخشنا، اور جعل سے مراد موجود کو نئی شکل دی۔",
+    "en": "خلق means bringing into being from nothing; جعل means giving what exists a new form."
+   }
+  },
+  {
+   "id": "u2-l13-q3",
+   "type": "mcq",
+   "prompt": { "ur": "أَكْرَم کس وزن پر ہے؟", "en": "Which pattern is أَكْرَم on?" },
+   "arabic": "أَكْرَم",
+   "options": [{ "ar": "فَعِيْل" }, { "ar": "أَفْعَل" }, { "ar": "فَاعِل" }],
+   "answer": 1,
+   "explanation": {
+    "ur": "أَكْرَم وزن أَفْعَل پر ہے — سب سے زیادہ عزت والا۔",
+    "en": "أَكْرَم is on أَفْعَل — the most noble."
+   }
+  },
+  {
+   "id": "u2-l13-q4",
+   "type": "mcq",
+   "prompt": { "ur": "أَحْمَر کا کیا معنی ہے؟", "en": "What does أَحْمَر mean?" },
+   "arabic": "أَحْمَر",
+   "options": [
+    { "text": { "ur": "سرخ", "en": "red" } },
+    { "text": { "ur": "نیلا", "en": "blue" } },
+    { "text": { "ur": "سبز", "en": "green" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "رنگ وزن أَفْعَل پر آتے ہیں: أَحْمَر — سرخ، أَزْرَق — نیلا، أَخْضَر — سبز۔",
+    "en": "Colours come on أَفْعَل: أَحْمَر — red, أَزْرَق — blue, أَخْضَر — green."
+   }
+  },
+  {
+   "id": "u2-l13-q5",
+   "type": "mcq",
+   "prompt": { "ur": "آیت کے مطابق اللہ کے نزدیک سب سے عزت والا کون ہے؟", "en": "According to the verse, who is most noble in Allah's sight?" },
+   "options": [
+    { "text": { "ur": "جو سب سے زیادہ متقی ہے", "en": "the most God-conscious" } },
+    { "text": { "ur": "جس کا قبیلہ سب سے بڑا ہے", "en": "the one with the biggest tribe" } },
+    { "text": { "ur": "جو سب سے امیر ہے", "en": "the richest" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "إِنَّ أَكْرَمَكُمْ عِنْدَ اللّٰهِ أَتْقٰكُمْ — عزت کا معیار تقویٰ ہے؛ قومیں اور قبیلے صرف پہچان کے لیے ہیں۔",
+    "en": "إِنَّ أَكْرَمَكُمْ عِنْدَ اللّٰهِ أَتْقٰكُمْ — honour is measured by God-consciousness; nations and tribes are only for knowing one another."
+   }
+  }
+ ]
+}

@@ -1,0 +1,299 @@
+{
+ "id": "u4-l8",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الفرقان کی آیت ۶۸ کو لفظ بہ لفظ سمجھیں — تین بڑے گناہوں سے بچنا — اور سیکھیں: إِلٰهًا = إِلٰه + ا (بطور)، ال برائے جنس (النَّفْس)، إِلَّا (سوائے)، اور مَنْ يَفْعَلْ — جو کوئی کرے۔",
+  "en": "Understand Al-Furqan 25:68 word by word — avoiding three great sins — and learn: إِلٰهًا = إِلٰه + ا (as), ال for a whole kind (النَّفْس), إِلَّا (except), and مَنْ يَفْعَلْ — whoever does."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "ال کے دو کام", "en": "Two jobs of ال" },
+   "body": {
+    "ur": "کبھی ال کلمے کے شروع میں اسمِ معرفہ بنانے کے لیے آتا ہے، اور کبھی جنس کی تمام اقسام و انواع کے لیے۔ یہاں النَّفْس میں ال برائے جنس ہے: ہر جان۔",
+    "en": "ال sometimes makes a word definite, and sometimes covers every type of a kind. In النَّفْس it covers the kind: every soul."
+   }
+  },
+  {
+   "title": { "ur": "إِلَّا", "en": "إِلَّا" },
+   "body": {
+    "ur": "إِلَّا — سوائے، مگر: إِلَّا بِالْحَقِّ — سوائے حق کے۔",
+    "en": "إِلَّا — except: إِلَّا بِالْحَقِّ — except by right."
+   }
+  }
+ ],
+ "verse": { "surah": 25, "ayah": 68 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "اور وہ جو", "en": "and those who" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "الَّذِيْنَ", "role": "noun", "label": { "ur": "جو اشخاص", "en": "those who" } }
+   ],
+   "why": { "ur": "وَ — اور، الَّذِيْنَ — جو اشخاص۔", "en": "وَ — and, الَّذِيْنَ — those who." }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "نہیں", "en": "do not" },
+   "parts": [{ "text": "لَا", "role": "particle", "label": { "ur": "نفی + منع", "en": "not" } }],
+   "why": { "ur": "لَا — نفی اور منع کے لیے۔", "en": "لَا — not; also forbidding." }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "پکارتے", "en": "call upon" },
+   "parts": [
+    { "text": "يَ", "role": "particle", "label": { "ur": "علامتِ مضارع", "en": "present-tense sign" } },
+    { "text": "دْعُ", "role": "verb", "label": { "ur": "دعا، پکارا", "en": "call, pray" } },
+    { "text": "وْنَ", "role": "noun", "label": { "ur": "علامتِ جمع", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ی + دع + ون۔ دعا — پکارا (اس نے پکارا)؛ يَدْعُوْنَ — وہ سب پکارتے ہیں یا پکاریں گے۔",
+    "en": "ی + دع + ون. دعا — called upon; يَدْعُوْنَ — they call upon."
+   }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "ساتھ", "en": "with" },
+   "parts": [{ "text": "مَعَ", "role": "noun", "label": { "ur": "میں، کے ساتھ", "en": "with" } }],
+   "why": { "ur": "مَعَ — کے ساتھ؛ اردو میں: مع اہل و عیال تشریف لائیں۔", "en": "مَعَ — with; Urdu says “مع اہل و عیال” (with family)." }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "اللہ کے", "en": "Allah" },
+   "parts": [{ "text": "اللّٰه", "role": "noun", "label": { "ur": "لفظِ جلالہ", "en": "Allah" } }],
+   "why": { "ur": "اللّٰه — لفظِ جلالہ۔", "en": "اللّٰه — Allah." }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "کوئی معبود", "en": "a god" },
+   "parts": [
+    { "text": "إِلٰه", "role": "noun", "label": { "ur": "معبود", "en": "god" } },
+    { "text": "ا", "role": "particle", "label": { "ur": "بطور", "en": "as" } }
+   ],
+   "why": { "ur": "الٰہ + ا: الٰہ — معبود، اور ا — بطور: بطور معبود۔", "en": "إله + ا: إله — a god, and ا — as: as a god." }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "دوسرا", "en": "other" },
+   "parts": [{ "text": "آخَر", "role": "noun", "label": { "ur": "دوسرا", "en": "other" } }],
+   "why": {
+    "ur": "آخَر — دوسرے۔ وَالَّذِيْنَ لَا يَدْعُوْنَ مَعَ اللّٰهِ إِلٰهًا آخَرَ — اور جو اشخاص اللہ کے ساتھ کسی اور کو بطور معبود نہیں پکارتے۔",
+    "en": "آخَر — other. وَالَّذِيْنَ لَا يَدْعُوْنَ مَعَ اللّٰهِ إِلٰهًا آخَرَ — those who do not call upon another god besides Allah."
+   }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "اور نہیں", "en": "and do not" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "لَا", "role": "particle", "label": { "ur": "نفی", "en": "not" } }
+   ],
+   "why": { "ur": "وَلَا — اور نہیں۔", "en": "وَلَا — and not." }
+  },
+  {
+   "position": 9,
+   "meaning": { "ur": "قتل کرتے", "en": "kill" },
+   "parts": [
+    { "text": "يَ", "role": "particle", "label": { "ur": "علامتِ مضارع", "en": "present-tense sign" } },
+    { "text": "قْتُلُ", "role": "verb", "label": { "ur": "قتل کرنا", "en": "kill" } },
+    { "text": "وْنَ", "role": "noun", "label": { "ur": "علامتِ جمع", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ی + قتل + ون (قتل اردو میں مستعمل)۔ قَتَلَ — اس نے قتل کیا، يَقْتُلُ — وہ قتل کرتا ہے، يَقْتُلُوْنَ — وہ سب قتل کرتے ہیں۔",
+    "en": "ی + قتل + ون (Urdu قتل). قَتَلَ — he killed, يَقْتُلُ — he kills, يَقْتُلُوْنَ — they kill."
+   }
+  },
+  {
+   "position": 10,
+   "meaning": { "ur": "کسی جان کو", "en": "the soul" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "برائے جنس", "en": "the whole kind" } },
+    { "text": "نَّفْس", "role": "noun", "label": { "ur": "جان", "en": "soul, life" } }
+   ],
+   "why": {
+    "ur": "ال + نفس: نفس جان کے لیے اردو میں مستعمل ہے۔ کبھی ال اسمِ معرفہ بنانے کے لیے آتا ہے، اور کبھی برائے جنس — تمام اقسام و انواع کے لیے؛ یہاں ال برائے جنس ہے۔",
+    "en": "ال + نفس: soul, life (Urdu نفس). ال sometimes makes a word definite and sometimes covers a whole kind; here it covers every soul."
+   }
+  },
+  {
+   "position": 11,
+   "meaning": { "ur": "جو", "en": "which" },
+   "parts": [{ "text": "الَّتِيْ", "role": "noun", "label": { "ur": "جو ایک مؤنث", "en": "which (f.)" } }],
+   "why": { "ur": "الَّتِيْ — جو ایک مؤنث (النَّفْس مؤنث ہے)۔", "en": "الَّتِيْ — which (f.), since النَّفْس is feminine." }
+  },
+  {
+   "position": 12,
+   "meaning": { "ur": "حرام ٹھہرائی", "en": "made sacred" },
+   "parts": [{ "text": "حَرَّمَ", "role": "verb", "label": { "ur": "حرام ٹھہرائی، روک دی", "en": "forbade" } }],
+   "why": { "ur": "حَرَّمَ — حرام ٹھہرائی، حرمت والی بنائی، روک دی۔", "en": "حَرَّمَ — made sacred, forbade." }
+  },
+  {
+   "position": 13,
+   "meaning": { "ur": "اللہ نے", "en": "Allah" },
+   "parts": [{ "text": "اللّٰه", "role": "noun", "label": { "ur": "لفظِ جلالہ", "en": "Allah" } }],
+   "why": { "ur": "حَرَّمَ اللّٰهُ — اللہ نے حرام ٹھہرائی۔", "en": "حَرَّمَ اللّٰهُ — Allah has made sacred." }
+  },
+  {
+   "position": 14,
+   "meaning": { "ur": "سوائے", "en": "except" },
+   "parts": [{ "text": "إِلَّا", "role": "particle", "label": { "ur": "سوائے", "en": "except" } }],
+   "why": { "ur": "إِلَّا — سوائے۔", "en": "إِلَّا — except." }
+  },
+  {
+   "position": 15,
+   "meaning": { "ur": "حق کے ساتھ", "en": "by right" },
+   "parts": [
+    { "text": "بِ", "role": "particle", "label": { "ur": "کے ساتھ", "en": "with" } },
+    { "text": "ال", "role": "particle", "label": { "ur": "اسمِ معرفہ", "en": "the" } },
+    { "text": "حَقّ", "role": "noun", "label": { "ur": "حق، انصاف", "en": "right, justice" } }
+   ],
+   "why": {
+    "ur": "ب + ال + حق۔ حق اردو میں مستعمل ہے — معنی صداقت، فرض، یقین، انصاف، اور اللہ کا نام۔ إِلَّا بِالْحَقِّ — سوائے حق کے۔",
+    "en": "ب + ال + حق. Urdu uses حق — truth, duty, certainty, justice, and a name of Allah. إِلَّا بِالْحَقِّ — except by right."
+   }
+  },
+  {
+   "position": 16,
+   "meaning": { "ur": "اور نہ", "en": "and do not" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "لَا", "role": "particle", "label": { "ur": "نفی + منع", "en": "not" } }
+   ],
+   "why": { "ur": "وَلَا — اور نہ۔", "en": "وَلَا — and not." }
+  },
+  {
+   "position": 17,
+   "meaning": { "ur": "زنا کرتے", "en": "commit adultery" },
+   "parts": [
+    { "text": "يَ", "role": "particle", "label": { "ur": "علامتِ مضارع", "en": "present-tense sign" } },
+    { "text": "زْنُ", "role": "verb", "label": { "ur": "زنا، بدکاری", "en": "commit adultery" } },
+    { "text": "وْنَ", "role": "noun", "label": { "ur": "علامتِ جمع", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ی + زن + ون: زنا — بدکاری۔ يَزْنُوْنَ — وہ زنا کرتے ہیں؛ وَلَا يَزْنُوْنَ — اور نہ وہ زنا کے مرتکب ہوتے ہیں۔",
+    "en": "ی + زن + ون: زنا — adultery. يَزْنُوْنَ — they commit adultery; وَلَا يَزْنُوْنَ — nor do they commit adultery."
+   }
+  },
+  {
+   "position": 18,
+   "meaning": { "ur": "اور جو کوئی", "en": "and whoever" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "مَنْ", "role": "noun", "label": { "ur": "جو یا کون", "en": "whoever" } }
+   ],
+   "why": { "ur": "مَنْ — جو یا کون۔", "en": "مَنْ — whoever, who." }
+  },
+  {
+   "position": 19,
+   "meaning": { "ur": "کرے", "en": "does" },
+   "parts": [
+    { "text": "يَ", "role": "particle", "label": { "ur": "علامتِ مضارع", "en": "present-tense sign" } },
+    { "text": "فْعَلْ", "role": "verb", "label": { "ur": "فعل کرنا", "en": "do" } }
+   ],
+   "why": { "ur": "يَفْعَلْ — وہ فعل کرتا ہے، کرے۔", "en": "يَفْعَلْ — he does, does it." }
+  },
+  {
+   "position": 20,
+   "meaning": { "ur": "ایسا", "en": "that" },
+   "parts": [{ "text": "ذٰلِكَ", "role": "noun", "label": { "ur": "اسمِ اشارہ بعید", "en": "that (far)" } }],
+   "why": { "ur": "ذٰلِكَ — اسمِ اشارہ بعید کے لیے: وہ، ایسا۔", "en": "ذٰلِكَ — pointing far: that." }
+  },
+  {
+   "position": 21,
+   "meaning": { "ur": "ملے گا", "en": "will meet" },
+   "parts": [
+    { "text": "يَ", "role": "particle", "label": { "ur": "علامتِ مضارع", "en": "present-tense sign" } },
+    { "text": "لْقَ", "role": "verb", "label": { "ur": "ملاقات کی، پایا", "en": "meet, find" } }
+   ],
+   "why": {
+    "ur": "ی + لق: لِقَاء — ملاقات کی، پایا اور ملا۔ يَلْقَ — اس سے ملتا ہے یا ملے گا (ملاقات اردو میں مستعمل)۔",
+    "en": "ی + لق: لِقَاء — meeting, finding. يَلْقَ — will meet, will find (Urdu ملاقات)."
+   }
+  },
+  {
+   "position": 22,
+   "meaning": { "ur": "گناہ کی سزا", "en": "the penalty" },
+   "parts": [{ "text": "أَثَام", "role": "noun", "label": { "ur": "گناہ (کی سزا)", "en": "penalty for sin" } }],
+   "why": {
+    "ur": "أَثَامًا — اثم سے، یعنی گناہ؛ اور أَثَام جہنم کی ایک وادی کا نام بھی ہے۔ وَمَنْ يَّفْعَلْ ذٰلِكَ يَلْقَ أَثَامًا — اور جو یہ کرے گا اسے گناہ (کی سزا) ملے گی۔",
+    "en": "أَثَامًا — from إثم, sin; أَثَام is also said to be the name of a valley in Hell. وَمَنْ يَّفْعَلْ ذٰلِكَ يَلْقَ أَثَامًا — and whoever does that will meet the penalty."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2, 3, 4, 5, 6], "role": "verb", "label": { "ur": "جو اللہ کے ساتھ کسی معبود کو نہیں پکارتے", "en": "who do not call upon another god" } },
+   { "words": [8, 9, 10, 11, 12, 13], "role": "verb", "label": { "ur": "اور اس جان کو قتل نہیں کرتے جسے اللہ نے حرام کیا", "en": "nor kill the soul Allah made sacred" } },
+   { "words": [14, 15], "role": "particle", "label": { "ur": "سوائے حق کے", "en": "except by right" } },
+   { "words": [16, 17], "role": "verb", "label": { "ur": "اور زنا نہیں کرتے", "en": "nor commit adultery" } },
+   { "words": [18, 19, 20, 21, 22], "role": "verb", "label": { "ur": "جو یہ کرے گا وہ سزا پائے گا", "en": "whoever does that will meet the penalty" } }
+  ],
+  "plain": {
+   "ur": "اور جو اللہ کے ساتھ کسی اور معبود کو نہیں پکارتے، اور اللہ کی حرام کردہ کسی جان کو ناحق قتل نہیں کرتے، اور نہ زنا کرتے ہیں — اور جو یہ کرے گا اسے گناہ (کی سزا) ملے گی۔ رحمٰن کے بندے تین بڑے گناہوں سے بچتے ہیں: شرک، ناحق قتل، اور زنا۔",
+   "en": "And those who do not call upon another god besides Allah, nor kill the soul Allah has made sacred except by right, nor commit adultery — and whoever does that will meet the penalty. The servants of the Most Merciful avoid three great sins: associating partners with Allah, unjust killing, and adultery."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "ال کبھی معرفہ کے لیے اور کبھی پوری جنس کے لیے: النَّفْس — ہر جان۔",
+   "en": "ال sometimes makes a word definite and sometimes covers the whole kind: النَّفْس — every soul."
+  },
+  "points": [
+   { "ur": "إِلٰهًا = إِلٰه + ا (بطور): بطور معبود۔", "en": "إِلٰهًا = إِلٰه + ا (as): as a god." },
+   { "ur": "إِلَّا — سوائے؛ مَعَ — کے ساتھ؛ آخَر — دوسرا۔", "en": "إِلَّا — except; مَعَ — with; آخَر — other." },
+   { "ur": "مَنْ يَفْعَلْ ذٰلِكَ — جو کوئی ایسا کرے۔", "en": "مَنْ يَفْعَلْ ذٰلِكَ — whoever does that." }
+  ]
+ },
+ "check": [
+  {
+   "id": "u4-l8-q1",
+   "type": "mcq",
+   "prompt": { "ur": "إِلَّا کا کیا معنی ہے؟", "en": "What does إِلَّا mean?" },
+   "arabic": "إِلَّا",
+   "options": [
+    { "text": { "ur": "سوائے", "en": "except" } },
+    { "text": { "ur": "کی طرف", "en": "towards" } },
+    { "text": { "ur": "اگر", "en": "if" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "إِلَّا — سوائے؛ إِلٰى — کی طرف؛ إِنْ — اگر۔", "en": "إِلَّا — except; إِلٰى — towards; إِنْ — if." }
+  },
+  {
+   "id": "u4-l8-q2",
+   "type": "mcq",
+   "prompt": { "ur": "مَعَ کا کیا معنی ہے؟", "en": "What does مَعَ mean?" },
+   "arabic": "مَعَ",
+   "options": [
+    { "text": { "ur": "کے ساتھ", "en": "with" } },
+    { "text": { "ur": "بغیر", "en": "without" } },
+    { "text": { "ur": "پہلے", "en": "before" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "مَعَ — کے ساتھ (مع اہل و عیال)۔", "en": "مَعَ — with (Urdu مع اہل و عیال)." }
+  },
+  {
+   "id": "u4-l8-q3",
+   "type": "mcq",
+   "prompt": { "ur": "يَدْعُوْنَ کا کیا مطلب ہے؟", "en": "What does يَدْعُوْنَ mean?" },
+   "options": [
+    { "text": { "ur": "وہ سب پکارتے ہیں", "en": "they call upon" } },
+    { "text": { "ur": "وہ قتل کرتے ہیں", "en": "they kill" } },
+    { "text": { "ur": "وہ خرچ کرتے ہیں", "en": "they spend" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "ی + دع (دعا، پکارنا) + ون: وہ سب پکارتے ہیں۔", "en": "ی + دع (call, pray) + ون: they call upon." }
+  },
+  {
+   "id": "u4-l8-q4",
+   "type": "mcq",
+   "prompt": { "ur": "النَّفْس میں ال یہاں کیا بتاتا ہے؟", "en": "What does ال show in النَّفْس here?" },
+   "options": [
+    { "text": { "ur": "پوری جنس — ہر جان", "en": "the whole kind — every soul" } },
+    { "text": { "ur": "ایک خاص شخص", "en": "one particular person" } },
+    { "text": { "ur": "جمع", "en": "plural" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "یہاں ال برائے جنس ہے: تمام اقسام و انواع — ہر جان۔", "en": "Here ال covers the whole kind: every soul." }
+  }
+ ]
+}

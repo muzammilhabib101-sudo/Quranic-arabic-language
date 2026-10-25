@@ -1,0 +1,211 @@
+{
+ "id": "u4-l14",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الفرقان کی آیت ۷۴ کو لفظ بہ لفظ سمجھیں — گھر والوں کے لیے دعا — اور سیکھیں: هَبْ (عطا کر دیجیے)، لَنَا (ہمارے لیے)، قُرَّةَ أَعْيُنٍ (آنکھوں کی ٹھنڈک)۔",
+  "en": "Understand Al-Furqan 25:74 word by word — a prayer for one's family — and learn: هَبْ (grant), لَنَا (for us), قُرَّةَ أَعْيُنٍ (comfort of the eyes)."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "امر — حکم، درخواست یا دعا", "en": "Command form — order, request or prayer" },
+   "body": {
+    "ur": "فعلِ امر چھوٹے سے کہا جائے تو حکم، بڑے سے کہا جائے تو درخواست، اور خالق سے کہا جائے تو دعا ہے۔ هَبْ — عطا کر دیجیے (اردو: ہبہ)؛ اِجْعَلْ — بنا دیجیے۔",
+    "en": "A command said to a junior is an order, to a senior a request, and to the Creator a prayer. هَبْ — grant (Urdu: ہبہ, gift); اِجْعَلْ — make."
+   }
+  },
+  {
+   "title": { "ur": "لام + ضمیر", "en": "لام + pronoun" },
+   "body": {
+    "ur": "لِ — کے لیے۔ ضمیر کے ساتھ: لَهٗ — اس کے لیے، لَهُمْ — ان کے لیے، لِيْ — میرے لیے، لَنَا — ہمارے لیے۔",
+    "en": "لِ — for. With pronouns: لَهٗ — for him, لَهُمْ — for them, لِيْ — for me, لَنَا — for us."
+   }
+  }
+ ],
+ "verse": { "surah": 25, "ayah": 74 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "اور وہ لوگ جو", "en": "and those who" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "الَّذِيْنَ", "role": "noun", "label": { "ur": "وہ لوگ جو", "en": "those who" } }
+   ],
+   "why": { "ur": "وَ — اور، الَّذِيْنَ — وہ سب جو۔", "en": "وَ — and, الَّذِيْنَ — those who." }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "دعا کرتے ہیں", "en": "say (pray)" },
+   "parts": [
+    { "text": "يَ", "role": "particle", "label": { "ur": "علامتِ مضارع", "en": "present-tense sign" } },
+    { "text": "قُوْلُ", "role": "verb", "label": { "ur": "کہنا", "en": "say" } },
+    { "text": "وْنَ", "role": "noun", "label": { "ur": "وہ سب", "en": "they" } }
+   ],
+   "why": {
+    "ur": "يَقُوْلُوْنَ — وہ کہتے ہیں۔ یہاں وہ اپنے رب سے کہتے ہیں، اس لیے مطلب ہے: وہ دعائیں کرتے ہیں۔",
+    "en": "يَقُوْلُوْنَ — they say. Here they speak to their Lord, so it means: they pray."
+   }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "اے ہمارے رب", "en": "our Lord" },
+   "parts": [
+    { "text": "رَبَّ", "role": "noun", "label": { "ur": "اے رب", "en": "O Lord" } },
+    { "text": "نَا", "role": "noun", "label": { "ur": "ہمارے", "en": "our" } }
+   ],
+   "why": { "ur": "رب + نا: اے ہمارے رب۔ رب پر زبر پکار (اے) کی وجہ سے ہے۔", "en": "رب + نا: our Lord. The fatha on رب is because He is being called." }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "عطا کر دیجیے", "en": "grant" },
+   "parts": [{ "text": "هَبْ", "role": "verb", "label": { "ur": "عطا کر، بخش دے (امر)", "en": "grant (command)" } }],
+   "why": { "ur": "هَبْ — فعلِ امر: عطا کر دیجیے، بخش دیجیے۔ اردو کا لفظ ہبہ (تحفہ) اسی سے ہے۔", "en": "هَبْ — command: grant, give. The Urdu word ہبہ (gift) comes from it." }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "ہمیں، ہمارے لیے", "en": "to us" },
+   "parts": [
+    { "text": "لَ", "role": "particle", "label": { "ur": "کے لیے", "en": "for" } },
+    { "text": "نَا", "role": "noun", "label": { "ur": "ہم", "en": "us" } }
+   ],
+   "why": { "ur": "ل + نا: ہمارے لیے۔ ضمیر کے ساتھ لام پر زبر آتا ہے: لَهٗ، لَهُمْ، لَنَا۔", "en": "ل + نا: for us. With a pronoun the lam takes a fatha: لَهٗ, لَهُمْ, لَنَا." }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "سے", "en": "from" },
+   "parts": [{ "text": "مِنْ", "role": "particle", "label": { "ur": "سے، میں سے", "en": "from" } }],
+   "why": { "ur": "مِنْ — سے، میں سے۔", "en": "مِنْ — from." }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "ہمارے جوڑوں (شریکِ حیات)", "en": "our spouses" },
+   "parts": [
+    { "text": "أَزْوَاجِ", "role": "noun", "label": { "ur": "جوڑے", "en": "spouses" } },
+    { "text": "نَا", "role": "noun", "label": { "ur": "ہمارے", "en": "our" } }
+   ],
+   "why": {
+    "ur": "ازواج — زوج کی جمع: جوڑے۔ مرد کے لیے بیوی اور عورت کے لیے شوہر — ہمارے شریکِ سفر۔",
+    "en": "ازواج — plural of زوج: pairs, spouses. For a man his wife, for a woman her husband — our life partners."
+   }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "اور ہماری اولاد", "en": "and our offspring" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "ذُرِّيَّاتِ", "role": "noun", "label": { "ur": "اولاد، نسل", "en": "offspring" } },
+    { "text": "نَا", "role": "noun", "label": { "ur": "ہماری", "en": "our" } }
+   ],
+   "why": { "ur": "ذریات — ذریت کی جمع: اولاد، نسل (جیسے ذریتِ آدم)۔", "en": "ذریات — plural of ذریت: offspring, descendants (as in ذریتِ آدم, Adam's children)." }
+  },
+  {
+   "position": 9,
+   "meaning": { "ur": "ٹھنڈک", "en": "comfort" },
+   "parts": [{ "text": "قُرَّةَ", "role": "noun", "label": { "ur": "ٹھنڈک، تازگی", "en": "coolness, comfort" } }],
+   "why": { "ur": "قُرَّة — ٹھنڈک، تازگی، آسودگی۔", "en": "قُرَّة — coolness, freshness, contentment." }
+  },
+  {
+   "position": 10,
+   "meaning": { "ur": "آنکھوں کی", "en": "of the eyes" },
+   "parts": [{ "text": "أَعْيُن", "role": "noun", "label": { "ur": "آنکھیں", "en": "eyes" } }],
+   "why": {
+    "ur": "اعین — عین (آنکھ) کی جمع۔ قُرَّةَ أَعْيُنٍ — آنکھوں کی ٹھنڈک: ایسے گھر والے جنہیں دیکھ کر دل خوش ہو۔",
+    "en": "اعین — plural of عین (eye). قُرَّةَ أَعْيُنٍ — comfort of the eyes: family that gladdens the heart to see."
+   }
+  },
+  {
+   "position": 11,
+   "meaning": { "ur": "اور ہمیں بنا دیجیے", "en": "and make us" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "اجْعَلْ", "role": "verb", "label": { "ur": "بنا دے (امر)", "en": "make (command)" } },
+    { "text": "نَا", "role": "noun", "label": { "ur": "ہمیں", "en": "us" } }
+   ],
+   "why": { "ur": "و + اجعل + نا: اور ہمیں بنا دیجیے۔ اجعل بھی امر ہے، یہاں دعا۔", "en": "و + اجعل + نا: and make us. اجعل is also a command — here a prayer." }
+  },
+  {
+   "position": 12,
+   "meaning": { "ur": "متقیوں کے لیے", "en": "for the righteous" },
+   "parts": [
+    { "text": "لِلْ", "role": "particle", "label": { "ur": "کے لیے", "en": "for" } },
+    { "text": "مُتَّقِيْنَ", "role": "noun", "label": { "ur": "متقی لوگ", "en": "the God-conscious" } }
+   ],
+   "why": { "ur": "لل + متقین: اتقیاء (اللہ سے ڈرنے والوں) کے لیے۔", "en": "لل + متقین: for those who are mindful of Allah." }
+  },
+  {
+   "position": 13,
+   "meaning": { "ur": "پیشوا", "en": "a leader" },
+   "parts": [
+    { "text": "إِمَام", "role": "noun", "label": { "ur": "پیشوا، سربراہ", "en": "leader" } },
+    { "text": "ا", "role": "particle", "label": { "ur": "حالت", "en": "state" } }
+   ],
+   "why": {
+    "ur": "امام + ا (حالت): پیشوا، سربراہ۔ وَاجْعَلْنَا لِلْمُتَّقِيْنَ إِمَامًا — ہمیں متقیوں کا پیشوا بنا دیجیے۔",
+    "en": "امام + ا (state): leader, guide. وَاجْعَلْنَا لِلْمُتَّقِيْنَ إِمَامًا — make us leaders of the righteous."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2, 3], "role": "verb", "label": { "ur": "اور جو دعا کرتے ہیں: اے ہمارے رب", "en": "and who pray: our Lord" } },
+   { "words": [4, 5, 6, 7, 8], "role": "verb", "label": { "ur": "ہمیں ہمارے جوڑوں اور اولاد سے عطا کر", "en": "grant us from our spouses and children" } },
+   { "words": [9, 10], "role": "noun", "label": { "ur": "آنکھوں کی ٹھنڈک", "en": "comfort of the eyes" } },
+   { "words": [11, 12, 13], "role": "verb", "label": { "ur": "اور ہمیں متقیوں کا پیشوا بنا", "en": "and make us leaders of the righteous" } }
+  ],
+  "plain": {
+   "ur": "رحمٰن کے بندے دعا کرتے ہیں: اے ہمارے رب! ہمیں ہماری بیویوں اور اولاد کی طرف سے آنکھوں کی ٹھنڈک عطا فرما، اور ہمیں پرہیزگاروں کا پیشوا بنا دے۔",
+   "en": "The servants of the Most Merciful pray: Our Lord, grant us from our spouses and children the comfort of our eyes, and make us leaders of the righteous."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "امر خالق سے کہا جائے تو دعا ہے: هَبْ — عطا کر دیجیے، اِجْعَلْ — بنا دیجیے۔",
+   "en": "A command addressed to the Creator is a prayer: هَبْ — grant, اِجْعَلْ — make."
+  },
+  "points": [
+   { "ur": "لَنَا — ہمارے لیے؛ لَهٗ — اس کے لیے؛ لِيْ — میرے لیے۔", "en": "لَنَا — for us; لَهٗ — for him; لِيْ — for me." },
+   { "ur": "قُرَّةَ أَعْيُنٍ — آنکھوں کی ٹھنڈک۔", "en": "قُرَّةَ أَعْيُنٍ — comfort of the eyes." },
+   { "ur": "أَزْوَاج — جوڑے، ذُرِّيَّات — اولاد، إِمَام — پیشوا۔", "en": "أَزْوَاج — spouses, ذُرِّيَّات — offspring, إِمَام — leader." }
+  ]
+ },
+ "check": [
+  {
+   "id": "u4-l14-q1",
+   "type": "mcq",
+   "prompt": { "ur": "هَبْ کا کیا مطلب ہے؟", "en": "What does هَبْ mean?" },
+   "arabic": "هَبْ",
+   "options": [
+    { "text": { "ur": "عطا کر دیجیے", "en": "grant" } },
+    { "text": { "ur": "معاف کر دیجیے", "en": "forgive" } },
+    { "text": { "ur": "بنا دیجیے", "en": "make" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "هَبْ — عطا کر دیجیے (ہبہ)۔ بنا دیجیے — اِجْعَلْ۔", "en": "هَبْ — grant (ہبہ, gift). “Make” is اِجْعَلْ." }
+  },
+  {
+   "id": "u4-l14-q2",
+   "type": "mcq",
+   "prompt": { "ur": "قُرَّةَ أَعْيُنٍ کا کیا مطلب ہے؟", "en": "What does قُرَّةَ أَعْيُنٍ mean?" },
+   "arabic": "قُرَّةَ أَعْيُنٍ",
+   "options": [
+    { "text": { "ur": "آنکھوں کی ٹھنڈک", "en": "comfort of the eyes" } },
+    { "text": { "ur": "آنکھوں کے آنسو", "en": "tears of the eyes" } },
+    { "text": { "ur": "آنکھوں کی روشنی", "en": "light of the eyes" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "قُرَّة — ٹھنڈک، أَعْيُن — آنکھیں۔", "en": "قُرَّة — coolness, أَعْيُن — eyes." }
+  },
+  {
+   "id": "u4-l14-q3",
+   "type": "mcq",
+   "prompt": { "ur": "لَنَا کا کیا مطلب ہے؟", "en": "What does لَنَا mean?" },
+   "arabic": "لَنَا",
+   "options": [
+    { "text": { "ur": "ہمارے لیے", "en": "for us" } },
+    { "text": { "ur": "ان کے لیے", "en": "for them" } },
+    { "text": { "ur": "میرے لیے", "en": "for me" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "ل + نا: ہمارے لیے۔ ان کے لیے — لَهُمْ، میرے لیے — لِيْ۔", "en": "ل + نا: for us. For them — لَهُمْ, for me — لِيْ." }
+  }
+ ]
+}

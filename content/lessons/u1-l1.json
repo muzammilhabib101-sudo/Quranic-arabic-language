@@ -1,0 +1,400 @@
+{
+ "id": "u1-l1",
+ "status": "draft",
+ "goal": {
+  "ur": "بسم اللہ کے چاروں الفاظ کو پہچانیں: ہر لفظ کن حصوں سے بنا ہے، اس کا مادّہ اور وزن کیا ہے، اور الرَّحْمٰن اور الرَّحِيْم میں کیا فرق ہے۔",
+  "en": "Recognise the four words of the Bismillah: what parts each word is built from, its root and pattern, and the difference between الرَّحْمٰن and الرَّحِيْم."
+ },
+ "concepts": [
+  {
+   "title": {
+    "ur": "لفظ کے حصے",
+    "en": "Words have parts"
+   },
+   "body": {
+    "ur": "عربی کا ایک لفظ کئی حصوں سے مل کر بن سکتا ہے، جیسے بِسْمِ = بِ + اسْم۔",
+    "en": "One Arabic word can be built from several parts — for example بِسْمِ = بِ + اسْم."
+   }
+  },
+  {
+   "title": {
+    "ur": "مادّہ",
+    "en": "The root"
+   },
+   "body": {
+    "ur": "الرَّحْمٰن اور الرَّحِيْم دونوں ایک ہی مادّے ر ح م سے ہیں، جس میں رحم کا معنی ہے۔",
+    "en": "الرَّحْمٰن and الرَّحِيْم both come from the same root, ر ح م, which carries the meaning of mercy."
+   }
+  },
+  {
+   "title": {
+    "ur": "وزن",
+    "en": "The pattern (wazan)"
+   },
+   "body": {
+    "ur": "ہر عربی لفظ کسی وزن (سانچے) پر ہوتا ہے۔ ایک وزن کے سب الفاظ کے معنی میں ایک بات مشترک ہوتی ہے، جسے قدرِ مشترک کہتے ہیں۔",
+    "en": "Every Arabic word follows a pattern (wazan). All words on one pattern share a common shade of meaning."
+   }
+  }
+ ],
+ "verse": {
+  "surah": 1,
+  "ayah": 1
+ },
+ "words": [
+  {
+   "position": 1,
+   "meaning": {
+    "ur": "نام کے ساتھ / نام سے",
+    "en": "with the name"
+   },
+   "parts": [
+    {
+     "text": "بِ",
+     "role": "particle",
+     "label": {
+      "ur": "کے ساتھ",
+      "en": "with"
+     }
+    },
+    {
+     "text": "اسْم",
+     "role": "noun",
+     "label": {
+      "ur": "نام",
+      "en": "name"
+     }
+    }
+   ],
+   "why": {
+    "ur": "یہ لفظ اصل میں بِ + اسْم ہے۔ اسْم کے شروع میں الف صرف اس لیے ہے کہ عربی کا کوئی لفظ ساکن حرف (سْ) سے شروع نہیں ہو سکتا۔ جب آگے بِ آ گیا تو الف کی ضرورت نہ رہی اور وہ لکھنے سے گر گیا: بِسْمِ۔ اسم کا لفظ اردو میں بھی استعمال ہوتا ہے۔",
+    "en": "This word is really بِ + اسْم. The alif at the start of اسْم is only there because no Arabic word can begin with a letter carrying sukun (سْ). Once بِ comes in front, the alif is no longer needed and drops from the writing: بِسْمِ. The word اسم is used in Urdu too."
+   }
+  },
+  {
+   "position": 2,
+   "meaning": {
+    "ur": "اللہ (کے)",
+    "en": "(of) Allah"
+   },
+   "parts": [
+    {
+     "text": "ال",
+     "role": "particle",
+     "label": {
+      "ur": "خاص کرنے والا (the)",
+      "en": "the"
+     }
+    },
+    {
+     "text": "إِلٰه",
+     "role": "noun",
+     "label": {
+      "ur": "معبود",
+      "en": "one who is worshipped"
+     }
+    }
+   ],
+   "why": {
+    "ur": "لفظ اللہ کی اصل اِلٰہ (معبود) ہے۔ اس پر ال لگا، جو انگریزی کے the کی طرح کسی چیز کو خاص کر دیتا ہے۔ یوں اللّٰه کا مطلب ہوا: وہی ایک معبود۔",
+    "en": "The word Allah goes back to إِلٰه (one who is worshipped). ال is added, which — like English “the” — makes it specific. So اللّٰه means: the one true God."
+   }
+  },
+  {
+   "position": 3,
+   "meaning": {
+    "ur": "بے حد مہربان",
+    "en": "the Most Gracious"
+   },
+   "parts": [
+    {
+     "text": "ال",
+     "role": "particle",
+     "label": {
+      "ur": "خاص",
+      "en": "the"
+     }
+    },
+    {
+     "text": "رَحْمٰن",
+     "role": "noun",
+     "label": {
+      "ur": "جوش سے رحم کرنے والا",
+      "en": "overflowing in mercy"
+     }
+    }
+   ],
+   "pattern": "فَعْلَان",
+   "patternMeaning": {
+    "ur": "جوش، قوت اور اپنی حدوں سے باہر نکل آنا — جیسے طُوفَان، طُغْیَان، غَضْبَان، فَیْضَان",
+    "en": "force and overflowing beyond limits — like طُوفَان (a storm flood) and غَضْبَان (furious)"
+   },
+   "why": {
+    "ur": "رَحِمَ (اس نے رحم کیا) کو وزن فَعْلَان پر لے جائیں تو رَحْمٰن بنتا ہے۔ اس وزن میں جوش اور زور ہوتا ہے، جیسے طوفان کا پانی اپنی حدوں سے باہر نکل آتا ہے۔ یعنی ایسا رحم کرنے والا جس کا رحم پورے جوش سے امڈ آتا ہے اور راستے کی ہر رکاوٹ کو توڑ دیتا ہے۔",
+    "en": "Put رَحِمَ (he showed mercy) on the pattern فَعْلَان and you get رَحْمٰن. This pattern carries force and overflow — like floodwater bursting its banks. So رَحْمٰن is the One whose mercy pours out with full force and breaks through every obstacle."
+   }
+  },
+  {
+   "position": 4,
+   "meaning": {
+    "ur": "نہایت رحم والا",
+    "en": "the Most Merciful"
+   },
+   "parts": [
+    {
+     "text": "ال",
+     "role": "particle",
+     "label": {
+      "ur": "خاص",
+      "en": "the"
+     }
+    },
+    {
+     "text": "رَحِيْم",
+     "role": "noun",
+     "label": {
+      "ur": "ہمیشہ رحم کرنے والا",
+      "en": "always merciful"
+     }
+    }
+   ],
+   "pattern": "فَعِيْل",
+   "patternMeaning": {
+    "ur": "ہمیشگی — ایسی صفت جو ازل سے ابد تک ہو اور ذات کا حصہ ہو — جیسے عَلِيْم، عَظِيْم",
+    "en": "permanence — a quality that is always there and part of who one is — like عَلِيْم (all-knowing) and عَظِيْم (supreme)"
+   },
+   "why": {
+    "ur": "رَحِمَ کو وزن فَعِيْل پر لے جائیں تو رَحِيْم بنتا ہے۔ اس وزن کی صفت ہمیشہ رہتی ہے، اور کسی اور وجہ سے نہیں بلکہ ذات کی وجہ سے ہوتی ہے۔ یعنی ایسا رحم کرنے والا جس کا رحم ازل سے ابد تک ہے۔",
+    "en": "Put رَحِمَ on the pattern فَعِيْل and you get رَحِيْم. A quality on this pattern lasts forever and comes from the One Himself, not from any outside cause. So رَحِيْم is the One whose mercy has no beginning and no end."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   {
+    "text": "بِ",
+    "role": "particle",
+    "label": {
+     "ur": "کے ساتھ",
+     "en": "with"
+    }
+   },
+   {
+    "text": "اسْمِ",
+    "role": "noun",
+    "label": {
+     "ur": "نام",
+     "en": "the name"
+    }
+   },
+   {
+    "role": "noun",
+    "label": {
+     "ur": "اللہ کا",
+     "en": "of Allah"
+    },
+    "words": [
+     2
+    ]
+   },
+   {
+    "role": "noun",
+    "label": {
+     "ur": "بے حد مہربان",
+     "en": "the Most Gracious"
+    },
+    "words": [
+     3
+    ]
+   },
+   {
+    "role": "noun",
+    "label": {
+     "ur": "نہایت رحم والا",
+     "en": "the Most Merciful"
+    },
+    "words": [
+     4
+    ]
+   }
+  ],
+  "plain": {
+   "ur": "بِ (کے ساتھ) + اسْمِ (نام) + اللّٰهِ (اللہ کا) = اللہ کے نام کے ساتھ۔ اسْم پر ال نہیں اور اللّٰه پر ال ہے، اس لیے ترجمے میں ”کا“ لگتا ہے۔ پھر اللہ کی دو صفات آتی ہیں: الرَّحْمٰن، جس کا رحم جوش سے امڈتا ہے، اور الرَّحِيْم، جس کا رحم ہمیشہ رہتا ہے۔",
+   "en": "بِ (with) + اسْمِ (name) + اللّٰهِ (of Allah) = with the name of Allah. اسْم has no ال while اللّٰه does, so we translate with “of”. Then come two qualities of Allah: الرَّحْمٰن, whose mercy overflows, and الرَّحِيْم, whose mercy never ends."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "عربی کا ہر لفظ کسی وزن پر ہوتا ہے، اور وزن بدلنے سے معنی کا رنگ بدل جاتا ہے۔",
+   "en": "Every Arabic word sits on a pattern, and changing the pattern changes the colour of the meaning."
+  },
+  "points": [
+   {
+    "ur": "بِسْمِ = بِ (کے ساتھ) + اسْم (نام)۔ بِ آنے پر اسْم کا الف گر جاتا ہے۔",
+    "en": "بِسْمِ = بِ (with) + اسْم (name). When بِ comes in front, the alif of اسْم drops."
+   },
+   {
+    "ur": "وزن فَعْلَان (رَحْمٰن): جوش اور زور سے امڈنے والی صفت۔",
+    "en": "Pattern فَعْلَان (رَحْمٰن): a quality that pours out with force."
+   },
+   {
+    "ur": "وزن فَعِيْل (رَحِيْم): ہمیشہ رہنے والی، ذاتی صفت۔",
+    "en": "Pattern فَعِيْل (رَحِيْم): a lasting quality that belongs to who one is."
+   }
+  ]
+ },
+ "check": [
+  {
+   "id": "u1-l1-q1",
+   "type": "mcq",
+   "prompt": {
+    "ur": "بِسْمِ میں بِ کا کیا معنی ہے؟",
+    "en": "What does بِ mean in بِسْمِ?"
+   },
+   "options": [
+    {
+     "text": {
+      "ur": "کے ساتھ",
+      "en": "with"
+     }
+    },
+    {
+     "text": {
+      "ur": "کے بغیر",
+      "en": "without"
+     }
+    },
+    {
+     "text": {
+      "ur": "سے پہلے",
+      "en": "before"
+     }
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "بِ ایک حرف ہے جس کا معنی ”کے ساتھ“ ہے: بِسْمِ = نام کے ساتھ۔",
+    "en": "بِ is a particle meaning “with”: بِسْمِ = with the name."
+   }
+  },
+  {
+   "id": "u1-l1-q2",
+   "type": "mcq",
+   "prompt": {
+    "ur": "اسْم کے شروع میں الف کیوں ہوتا ہے؟",
+    "en": "Why does اسْم start with an alif?"
+   },
+   "options": [
+    {
+     "text": {
+      "ur": "کیونکہ لفظ ساکن حرف سے شروع نہیں ہو سکتا",
+      "en": "Because a word cannot begin with a letter carrying sukun"
+     }
+    },
+    {
+     "text": {
+      "ur": "جمع بنانے کے لیے",
+      "en": "To make it plural"
+     }
+    },
+    {
+     "text": {
+      "ur": "مؤنث بنانے کے لیے",
+      "en": "To make it feminine"
+     }
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "اسْم کا پہلا اصلی حرف سْ ساکن ہے، اس لیے بولنے کے لیے آگے الف لگتا ہے۔ بِ آ جائے تو یہ الف گر جاتا ہے۔",
+    "en": "The first real letter, سْ, carries sukun, so an alif is added to make it sayable. When بِ comes in front, the alif drops."
+   }
+  },
+  {
+   "id": "u1-l1-q3",
+   "type": "mcq",
+   "prompt": {
+    "ur": "رَحِيْم کس وزن پر ہے؟",
+    "en": "Which pattern is رَحِيْم on?"
+   },
+   "arabic": "رَحِيْم",
+   "options": [
+    {
+     "ar": "فَعِيْل"
+    },
+    {
+     "ar": "فَعْلَان"
+    },
+    {
+     "ar": "فَاعِل"
+    },
+    {
+     "ar": "مَفْعُوْل"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "رَحِيْم وزن فَعِيْل پر ہے، جیسے عَلِيْم اور عَظِيْم — ہمیشہ رہنے والی صفت۔",
+    "en": "رَحِيْم is on فَعِيْل, like عَلِيْم and عَظِيْم — a lasting quality."
+   }
+  },
+  {
+   "id": "u1-l1-q4",
+   "type": "mcq",
+   "prompt": {
+    "ur": "کس وزن کے الفاظ میں جوش اور حد سے بڑھ جانے کا معنی ہوتا ہے، جیسے طُوفَان؟",
+    "en": "Which pattern carries force and overflowing, as in طُوفَان?"
+   },
+   "options": [
+    {
+     "ar": "فَعِيْل"
+    },
+    {
+     "ar": "فَعْلَان"
+    },
+    {
+     "ar": "مَفْعُوْل"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "ur": "وزن فَعْلَان میں جوش اور زور ہوتا ہے: طُوفَان، غَضْبَان — اور الرَّحْمٰن۔",
+    "en": "The pattern فَعْلَان carries force: طُوفَان, غَضْبَان — and الرَّحْمٰن."
+   }
+  },
+  {
+   "id": "u1-l1-q5",
+   "type": "mcq",
+   "prompt": {
+    "ur": "رَاحِم کا کیا معنی ہے؟",
+    "en": "What does رَاحِم mean?"
+   },
+   "arabic": "رَاحِم",
+   "options": [
+    {
+     "text": {
+      "ur": "رحم کرنے والا",
+      "en": "one who shows mercy"
+     }
+    },
+    {
+     "text": {
+      "ur": "جس پر رحم کیا گیا",
+      "en": "one who is shown mercy"
+     }
+    },
+    {
+     "text": {
+      "ur": "اس نے رحم کیا",
+      "en": "he showed mercy"
+     }
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "وزن فَاعِل کام کرنے والے کو بتاتا ہے: رَاحِم = رحم کرنے والا۔ مَرْحُوْم (مَفْعُوْل) وہ ہے جس پر رحم کیا گیا، اور رَحِمَ (فَعَلَ) کا معنی ہے ”اس نے رحم کیا“۔",
+    "en": "The pattern فَاعِل names the one doing the action: رَاحِم = one who shows mercy. مَرْحُوْم (مَفْعُوْل) is the one shown mercy, and رَحِمَ (فَعَلَ) means “he showed mercy”."
+   }
+  }
+ ]
+}

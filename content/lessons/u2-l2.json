@@ -1,0 +1,410 @@
+{
+ "id": "u2-l2",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الحجرات کی دوسری آیت کو لفظ بہ لفظ سمجھیں، اور سیکھیں: ”تم“ کی ضمیریں (كَ، كُمْ…)، فعل کے شروع میں ت (مخاطب کی علامت)، اضافت — صَوْتِ النَّبِيِّ، اور لام کے دو معنی۔",
+  "en": "Understand the second verse of Surah Al-Hujurat word by word, and learn: the “you” pronouns (كَ, كُمْ…), the ت at the start of a verb (the sign of “you”), idafa — صَوْتِ النَّبِيِّ, and the two meanings of لام."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "”تم“ کی ضمیریں", "en": "The “you” pronouns" },
+   "body": {
+    "ur": "كَ — تم ایک مذکر کا، كِ — تم ایک مؤنث کا، كُمَا — تم دونوں کا، كُمْ — تم سب مذکر کا، كُنَّ — تم سب مؤنث کا۔ قَلَمُكَ — یہ قلم تیرا ہے۔",
+    "en": "كَ — your (one man), كِ — your (one woman), كُمَا — your (two), كُمْ — your (all, men), كُنَّ — your (all, women). قَلَمُكَ — this is your pen."
+   }
+  },
+  {
+   "title": { "ur": "اضافت", "en": "Idafa (possession)" },
+   "body": {
+    "ur": "دو اسم ساتھ ساتھ آئیں، پہلے پر ال نہ ہو اور دوسرے پر ال ہو، تو ترجمہ کرتے ہوئے کا، کے یا کی لگاتے ہیں: صَوْتِ النَّبِيِّ — نبی کی آواز۔",
+    "en": "When two nouns come together, the first without ال and the second with it, we translate with “of”: صَوْتِ النَّبِيِّ — the voice of the Prophet."
+   }
+  },
+  {
+   "title": { "ur": "عربی حرکات اردو املا میں", "en": "Arabic vowels in Urdu spelling" },
+   "body": {
+    "ur": "جہاں عرب زبر لگاتے ہیں وہاں ہم اردو تلفظ میں (ا) لکھتے ہیں، زیر کی جگہ (ی) اور پیش کی جگہ (و): شُعُر ← شعور۔",
+    "en": "Where Arabic writes a fatha, Urdu spelling often writes ا; for a kasra, ی; for a damma, و: شُعُر becomes شعور."
+   }
+  }
+ ],
+ "verse": { "surah": 49, "ayah": 2 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "اے", "en": "O" },
+   "parts": [
+    { "text": "يَا", "role": "particle", "label": { "ur": "اے (پکارنا)", "en": "O (calling)" } },
+    { "text": "أَيُّ", "role": "noun", "label": { "ur": "اے (توجہ دلانا)", "en": "O you (attention)" } },
+    { "text": "هَا", "role": "particle", "label": { "ur": "تنبیہ", "en": "attention" } }
+   ],
+   "why": {
+    "ur": "حرفِ ندا — کسی کو اہمیت سے پکارنے کے لیے۔ پچھلے سبق (آیت ۱) میں تفصیل سے پڑھا۔",
+    "en": "A calling word, used to call someone to something important. Covered in detail in the previous lesson (verse 1)."
+   }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "وہ سب جو", "en": "those who" },
+   "parts": [{ "text": "الَّذِيْنَ", "role": "noun", "label": { "ur": "جو سب اشخاص", "en": "those who" } }],
+   "why": {
+    "ur": "اسمِ موصول: جو سب اشخاص۔ ایک مذکر کے لیے الَّذِيْ اور ایک مؤنث کے لیے الَّتِيْ۔",
+    "en": "A relative word: those who. For one man الَّذِيْ, for one woman الَّتِيْ."
+   }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "ایمان لائے", "en": "believed" },
+   "parts": [
+    { "text": "آمَنَ", "role": "verb", "label": { "ur": "وہ ایمان لایا", "en": "he believed" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "آمَنَ + وا (جمع کی علامت) = وہ سب ایمان لائے۔ يَا أَيُّهَا الَّذِيْنَ آمَنُوْا — اے اہلِ ایمان۔",
+    "en": "آمَنَ + وا (plural sign) = they all believed. يَا أَيُّهَا الَّذِيْنَ آمَنُوْا — O you who believe."
+   }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "نہ", "en": "do not" },
+   "parts": [{ "text": "لَا", "role": "particle", "label": { "ur": "نفی / منع", "en": "no / do not" } }],
+   "why": {
+    "ur": "لَا حرفِ نفی ہے اور منع کرنے کے لیے بھی آتا ہے: لاجواب، لاتعداد، لازوال۔",
+    "en": "لَا negates, and also forbids: لاجواب, لاتعداد, لازوال in Urdu."
+   }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "تم سب بلند کرو", "en": "you all raise" },
+   "parts": [
+    { "text": "تَ", "role": "particle", "label": { "ur": "مخاطب کی علامت (تم)", "en": "sign of “you”" } },
+    { "text": "رْفَعُ", "role": "verb", "label": { "ur": "بلند کرنا", "en": "raise" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ت + رفع + وا: شروع کی ت مخاطب کی علامت ہے، یعنی ”تم“۔ رفع کا معنی بلند کرنا ہے، اور یہ اردو میں بھی آتا ہے: رفع یدین، سطحِ مرتفع، رفیع الشان۔ تَرْفَعُوْا — تم سب بلند کرتے ہو یا کرو گے؛ لَا تَرْفَعُوْا — تم سب بلند نہ کرو۔",
+    "en": "ت + رفع + وا: the ت at the start is the sign of “you”. رفع means to raise, and Urdu uses it too: رفع یدین, سطحِ مرتفع, رفیع الشان. تَرْفَعُوْا — you all raise; لَا تَرْفَعُوْا — do not raise, all of you."
+   }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "اپنی آوازیں", "en": "your voices" },
+   "parts": [
+    { "text": "أَصْوَاتَ", "role": "noun", "label": { "ur": "آوازیں", "en": "voices" } },
+    { "text": "كُمْ", "role": "noun", "label": { "ur": "تم سب کی", "en": "your (all)" } }
+   ],
+   "why": {
+    "ur": "صَوْت آواز کو کہتے ہیں (اردو میں بھی صوت مستعمل ہے)، اور اس کی جمع أَصْوَات — آوازیں۔ آخر میں كُمْ: تم سب کی۔ یوں أَصْوَاتَكُمْ — تم سب کی آوازیں، یعنی تمہاری آوازیں۔",
+    "en": "صَوْت means voice (صوت is used in Urdu too), and its plural is أَصْوَات — voices. Then كُمْ: of you all. So أَصْوَاتَكُمْ — your voices."
+   }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "اوپر، بڑھ کر", "en": "above" },
+   "parts": [{ "text": "فَوْقَ", "role": "noun", "label": { "ur": "اوپر", "en": "above" } }],
+   "why": {
+    "ur": "فَوْقَ کا معنی اوپر یا بڑھ کر ہے۔ اسی سے اردو کا لفظ فوقیت ہے — ایک کو دوسرے پر ترجیح دینا۔",
+    "en": "فَوْقَ means above or beyond. Urdu فوقیت (precedence, superiority) comes from it."
+   }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "آواز", "en": "the voice" },
+   "parts": [{ "text": "صَوْتِ", "role": "noun", "label": { "ur": "آواز", "en": "voice" } }],
+   "why": {
+    "ur": "صَوْت — آواز۔ اس پر ال نہیں، اور اگلے لفظ پر ال ہے، اس لیے یہ اضافت ہے۔",
+    "en": "صَوْت — voice. It has no ال while the next word has one, so the two form an idafa."
+   }
+  },
+  {
+   "position": 9,
+   "meaning": { "ur": "نبی (کی)", "en": "(of) the Prophet" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "نَبِيّ", "role": "noun", "label": { "ur": "نبی", "en": "prophet" } }
+   ],
+   "why": {
+    "ur": "ال لگانے سے خاص نبی مراد ہیں ﷺ۔ صَوْتِ (بغیر ال) + النَّبِيِّ (ال کے ساتھ) = نبی کی آواز — اضافت میں ”کی“ لگتی ہے۔ نبی اور صوت دونوں اردو میں استعمال ہوتے ہیں۔ فَوْقَ صَوْتِ النَّبِيِّ: نبی کی آواز سے زیادہ بلند۔",
+    "en": "With ال it means the Prophet ﷺ specifically. صَوْتِ (no ال) + النَّبِيِّ (with ال) = the voice of the Prophet — idafa adds “of”. Both نبی and صوت are used in Urdu. فَوْقَ صَوْتِ النَّبِيِّ: above the voice of the Prophet."
+   }
+  },
+  {
+   "position": 10,
+   "meaning": { "ur": "اور نہ", "en": "and do not" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "لَا", "role": "particle", "label": { "ur": "نفی / منع", "en": "do not" } }
+   ],
+   "why": {
+    "ur": "وَ — اور، لَا — منع۔ وَلَا — اور نہ۔",
+    "en": "وَ — and, لَا — do not. وَلَا — and do not."
+   }
+  },
+  {
+   "position": 11,
+   "meaning": { "ur": "تم سب آواز بلند کرو", "en": "you all speak loudly" },
+   "parts": [
+    { "text": "تَ", "role": "particle", "label": { "ur": "مخاطب کی علامت", "en": "sign of “you”" } },
+    { "text": "جْهَرُ", "role": "verb", "label": { "ur": "آواز بلند کرنا", "en": "be loud" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ت + جهر + وا۔ جہر کا معنی آواز بلند کرنا ہے: جن نمازوں میں امام بلند آواز سے قراءت کرتے ہیں انہیں جہری نمازیں کہتے ہیں۔ تَجْهَرُ — تم آواز بلند کرتے ہو، تَجْهَرُوْا — تم سب آواز بلند کرتے ہو، لَا تَجْهَرُوْا — تم سب آواز بلند نہ کرو۔",
+    "en": "ت + جهر + وا. جهر means to raise the voice: prayers in which the imam recites aloud are called جہری prayers. تَجْهَرُ — you are loud, تَجْهَرُوْا — you all are loud, لَا تَجْهَرُوْا — do not be loud, all of you."
+   }
+  },
+  {
+   "position": 12,
+   "meaning": { "ur": "اس کے لیے", "en": "to him" },
+   "parts": [
+    { "text": "لَ", "role": "particle", "label": { "ur": "کے لیے", "en": "for, to" } },
+    { "text": "هٗ", "role": "noun", "label": { "ur": "اس ایک مذکر", "en": "him" } }
+   ],
+   "why": {
+    "ur": "ل + ہٗ = اس کے لیے۔ لام دو طرح آتا ہے: لامِ تعلیل — ”کے لیے“، اور لامِ لازم — ”یقیناً“۔ سیاق و سباق سے پتا چلتا ہے کہ یہاں کون سا معنی ہے، اور ٹھیک معنی سے ہی صحیح جملہ بنتا ہے۔ یہاں لامِ تعلیل ہے۔",
+    "en": "ل + هٗ = to him. لام comes in two ways: the لام of purpose — “for, to”, and the لام of emphasis — “surely”. The context shows which one is meant, and only the right one gives a correct sentence. Here it is “to”."
+   }
+  },
+  {
+   "position": 13,
+   "meaning": { "ur": "گفتگو میں", "en": "in speech" },
+   "parts": [
+    { "text": "بِ", "role": "particle", "label": { "ur": "میں", "en": "in" } },
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "قَوْل", "role": "noun", "label": { "ur": "بات، گفتگو", "en": "speech" } }
+   ],
+   "why": {
+    "ur": "ب + ال + قول: قول کا معنی بات یا گفتگو ہے (اردو میں بھی قول آتا ہے)۔ بِالْقَوْلِ — اپنی گفتگو میں۔ وَلَا تَجْهَرُوْا لَهٗ بِالْقَوْلِ — اپنی گفتگو میں ان کے حضور اونچی آواز میں نہ بولو۔",
+    "en": "ب + ال + قول: قول means speech or words (Urdu has قول too). بِالْقَوْلِ — in your speech. وَلَا تَجْهَرُوْا لَهٗ بِالْقَوْلِ — do not speak loudly to him."
+   }
+  },
+  {
+   "position": 14,
+   "meaning": { "ur": "اونچی آواز کی طرح", "en": "like the loudness" },
+   "parts": [
+    { "text": "كَ", "role": "particle", "label": { "ur": "کی مانند", "en": "like" } },
+    { "text": "جَهْر", "role": "noun", "label": { "ur": "آواز بلند کرنا", "en": "loudness" } }
+   ],
+   "why": {
+    "ur": "ك + جہر۔ کلمے کے شروع میں ک آئے تو یہ حرفِ تشبیہ ہے، جس کے معنی ہیں: کی مانند، مثل، جیسے کہ۔ كَجَهْرِ — جس طرح تم اونچی آواز میں بولتے ہو۔",
+    "en": "ك + جهر. A ك at the start of a word is the particle of comparison: like, as. كَجَهْرِ — as you speak loudly."
+   }
+  },
+  {
+   "position": 15,
+   "meaning": { "ur": "تمہارے بعض", "en": "some of you" },
+   "parts": [
+    { "text": "بَعْضِ", "role": "noun", "label": { "ur": "بعض، کچھ", "en": "some" } },
+    { "text": "كُمْ", "role": "noun", "label": { "ur": "تم سب کے", "en": "of you" } }
+   ],
+   "why": {
+    "ur": "بعض + كُم: تمہارے بعض۔ بعض کا لفظ ”چند، کچھ“ کے معنی میں اردو میں بھی آتا ہے۔",
+    "en": "بعض + كُم: some of you. Urdu uses بعض in the same sense: a few, some."
+   }
+  },
+  {
+   "position": 16,
+   "meaning": { "ur": "بعض کے لیے", "en": "to others" },
+   "parts": [
+    { "text": "لِ", "role": "particle", "label": { "ur": "کے لیے", "en": "to" } },
+    { "text": "بَعْض", "role": "noun", "label": { "ur": "بعض", "en": "some" } }
+   ],
+   "why": {
+    "ur": "ل + بعض: بعض کے لیے۔ بَعْضِكُمْ لِبَعْضٍ — تمہارے بعض، بعض کے لیے — یعنی آپس میں ایک دوسرے کے لیے۔ كَجَهْرِ بَعْضِكُمْ لِبَعْضٍ: جس طرح تم آپس میں ایک دوسرے کے ساتھ اونچی آواز میں بولتے ہو۔",
+    "en": "ل + بعض: to some. بَعْضِكُمْ لِبَعْضٍ — some of you to others — that is, to one another. كَجَهْرِ بَعْضِكُمْ لِبَعْضٍ: as you speak loudly to one another."
+   }
+  },
+  {
+   "position": 17,
+   "meaning": { "ur": "کہ (کہیں ایسا نہ ہو کہ)", "en": "lest" },
+   "parts": [{ "text": "أَنْ", "role": "particle", "label": { "ur": "کہ", "en": "that" } }],
+   "why": {
+    "ur": "پہلے پڑھا تھا کہ ن پر شد ہو (إِنَّ، أَنَّ) تو معنی بیشک یا یقیناً ہوتے ہیں۔ اگر ن پر سکون ہو اور الف پر زبر ہو (أَنْ) تو معنی ”کہ“ ہوتا ہے، اور زیر ہو (إِنْ) تو ”اگر“۔ یہاں أَنْ کا مطلب ہے: کہیں ایسا نہ ہو کہ۔",
+    "en": "We learnt that with a shadda on the ن (إِنَّ, أَنَّ) the meaning is “indeed”. With a sukun on the ن and a fatha on the alif (أَنْ) it means “that”; with a kasra (إِنْ) it means “if”. Here أَنْ means: lest."
+   }
+  },
+  {
+   "position": 18,
+   "meaning": { "ur": "ضائع ہو جائیں", "en": "become worthless" },
+   "parts": [{ "text": "تَحْبَطَ", "role": "verb", "label": { "ur": "رائیگاں جانا، برباد ہونا", "en": "be wasted" } }],
+   "why": {
+    "ur": "تَحْبَطَ — عمل کا رائیگاں جانا، برباد ہونا۔ اردو میں مخبوط الحواس — جس کے حواس ضائع ہو جائیں — اسی سے ہے، البتہ اردو میں ح کی بجائے خ استعمال ہوتا ہے۔",
+    "en": "تَحْبَطَ — for deeds to be wasted, to come to nothing. Urdu مخبوط الحواس (one who has lost his senses) is related, though Urdu writes خ instead of ح."
+   }
+  },
+  {
+   "position": 19,
+   "meaning": { "ur": "تمہارے اعمال", "en": "your deeds" },
+   "parts": [
+    { "text": "أَعْمَالُ", "role": "noun", "label": { "ur": "اعمال", "en": "deeds" } },
+    { "text": "كُمْ", "role": "noun", "label": { "ur": "تم سب کے", "en": "your" } }
+   ],
+   "why": {
+    "ur": "اعمال، عمل کی جمع ہے (اردو میں بھی مستعمل)۔ + كُم: تمہارے اعمال۔ أَنْ تَحْبَطَ أَعْمَالُكُمْ — کہیں ایسا نہ ہو کہ تمہارے اعمال ضائع ہو جائیں۔",
+    "en": "اعمال is the plural of عمل (deed), used in Urdu too. + كُم: your deeds. أَنْ تَحْبَطَ أَعْمَالُكُمْ — lest your deeds be wasted."
+   }
+  },
+  {
+   "position": 20,
+   "meaning": { "ur": "اور تم سب", "en": "while you" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "أَنْتُمْ", "role": "noun", "label": { "ur": "تم سب", "en": "you (all)" } }
+   ],
+   "why": {
+    "ur": "وَ — اور، أَنْتُمْ — تم سب۔ الگ ضمیریں: أَنْتَ (تو، ایک مذکر)، أَنْتِ (تو، ایک مؤنث)، أَنْتُمَا (تم دونوں)، أَنْتُمْ (تم سب مذکر)، أَنْتُنَّ (تم سب مؤنث)۔",
+    "en": "وَ — and, أَنْتُمْ — you (all). The separate pronouns: أَنْتَ (you, a man), أَنْتِ (you, a woman), أَنْتُمَا (you two), أَنْتُمْ (you all, men), أَنْتُنَّ (you all, women)."
+   }
+  },
+  {
+   "position": 21,
+   "meaning": { "ur": "نہ", "en": "not" },
+   "parts": [{ "text": "لَا", "role": "particle", "label": { "ur": "نفی", "en": "not" } }],
+   "why": {
+    "ur": "لَا — نفی: نہیں۔",
+    "en": "لَا — not."
+   }
+  },
+  {
+   "position": 22,
+   "meaning": { "ur": "تم سب شعور رکھتے ہو", "en": "you perceive" },
+   "parts": [
+    { "text": "تَ", "role": "particle", "label": { "ur": "مخاطب کی علامت", "en": "sign of “you”" } },
+    { "text": "شْعُرُ", "role": "verb", "label": { "ur": "شعور رکھنا", "en": "perceive" } },
+    { "text": "وْنَ", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ت + شعر + ون۔ شُعُر سے اردو کا لفظ شعور ہے، یعنی سمجھ: جہاں عربی میں پیش ہے وہاں اردو میں و لکھتے ہیں۔ تَشْعُرُ — تو شعور رکھتا ہے، تَشْعُرُوْنَ — تم سب شعور رکھتے ہو، لَا تَشْعُرُوْنَ — تم سب شعور نہیں رکھتے، یعنی تمہیں خبر بھی نہ ہو۔",
+    "en": "ت + شعر + ون. From شُعُر comes Urdu شعور, awareness: where Arabic has a damma, Urdu writes و. تَشْعُرُ — you perceive, تَشْعُرُوْنَ — you all perceive, لَا تَشْعُرُوْنَ — you do not perceive, that is, without your even knowing."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2, 3], "role": "particle", "label": { "ur": "اے ایمان والو (پکار)", "en": "O you who believe (a call)" } },
+   { "words": [4, 5, 6], "role": "verb", "label": { "ur": "اپنی آوازیں بلند نہ کرو", "en": "do not raise your voices" } },
+   { "words": [7, 8, 9], "role": "noun", "label": { "ur": "نبی کی آواز سے اوپر", "en": "above the voice of the Prophet" } },
+   { "words": [10, 11, 12, 13], "role": "verb", "label": { "ur": "اور ان سے اونچی آواز میں بات نہ کرو", "en": "and do not speak loudly to him" } },
+   { "words": [14, 15, 16], "role": "noun", "label": { "ur": "جیسے آپس میں ایک دوسرے سے", "en": "as you do with one another" } },
+   { "words": [17, 18, 19], "role": "verb", "label": { "ur": "کہیں تمہارے اعمال ضائع نہ ہو جائیں", "en": "lest your deeds be wasted" } },
+   { "words": [20, 21, 22], "role": "verb", "label": { "ur": "اور تمہیں خبر بھی نہ ہو", "en": "without your knowing" } }
+  ],
+  "plain": {
+   "ur": "پہلے پکار: اے ایمان والو۔ پھر دو منع: نبی ﷺ کی آواز سے اپنی آوازیں بلند نہ کرو، اور ان سے اس طرح اونچی آواز میں بات نہ کرو جس طرح تم آپس میں ایک دوسرے سے کرتے ہو۔ آخر میں وجہ: کہیں ایسا نہ ہو کہ تمہارے اعمال ضائع ہو جائیں اور تمہیں خبر بھی نہ ہو۔",
+   "en": "First the call: O you who believe. Then two prohibitions: do not raise your voices above the voice of the Prophet ﷺ, and do not speak loudly to him as you do to one another. Finally the reason: lest your deeds be wasted without your even knowing."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "فعل کے شروع میں ت مخاطب کی علامت ہے، یعنی ”تم“: تَرْفَعُوْا، تَجْهَرُوْا، تَشْعُرُوْنَ۔",
+   "en": "A ت at the start of a verb is the sign of “you”: تَرْفَعُوْا, تَجْهَرُوْا, تَشْعُرُوْنَ."
+  },
+  "points": [
+   {
+    "ur": "”تم“ کی جڑی ضمیریں: كَ، كِ، كُمَا، كُمْ، كُنَّ — اور الگ: أَنْتَ، أَنْتِ، أَنْتُمَا، أَنْتُمْ، أَنْتُنَّ۔",
+    "en": "Attached “you” pronouns: كَ, كِ, كُمَا, كُمْ, كُنَّ — and separate ones: أَنْتَ, أَنْتِ, أَنْتُمَا, أَنْتُمْ, أَنْتُنَّ."
+   },
+   {
+    "ur": "اضافت: پہلے اسم پر ال نہیں، دوسرے پر ال ہے — ترجمے میں کا، کے، کی: صَوْتِ النَّبِيِّ — نبی کی آواز۔",
+    "en": "Idafa: no ال on the first noun, ال on the second — translate with “of”: صَوْتِ النَّبِيِّ — the voice of the Prophet."
+   },
+   {
+    "ur": "شروع کا كَ تشبیہ کے لیے ہے — کی مانند: كَجَهْرِ۔ لام کے دو معنی ہیں: ”کے لیے“ اور ”یقیناً“۔",
+    "en": "A ك at the start compares — like: كَجَهْرِ. لام has two meanings: “for” and “surely”."
+   }
+  ]
+ },
+ "check": [
+  {
+   "id": "u2-l2-q1",
+   "type": "mcq",
+   "prompt": { "ur": "تَرْفَعُوْا کے شروع میں ت کیا بتاتا ہے؟", "en": "What does the ت at the start of تَرْفَعُوْا tell us?" },
+   "options": [
+    { "text": { "ur": "مخاطب — ”تم“", "en": "“you” are being addressed" } },
+    { "text": { "ur": "متکلم — ”میں“", "en": "“I” am speaking" } },
+    { "text": { "ur": "جمع", "en": "plural" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "فعل کے شروع میں ت مخاطب کی علامت ہے۔ جمع کی علامت آخر میں وا ہے۔",
+    "en": "A ت at the start of a verb is the sign of “you”. The plural sign is the وا at the end."
+   }
+  },
+  {
+   "id": "u2-l2-q2",
+   "type": "mcq",
+   "prompt": { "ur": "صَوْتِ النَّبِيِّ کا ترجمہ کیا ہے؟", "en": "How is صَوْتِ النَّبِيِّ translated?" },
+   "options": [
+    { "text": { "ur": "نبی اور آواز", "en": "the Prophet and a voice" } },
+    { "text": { "ur": "نبی کی آواز", "en": "the voice of the Prophet" } },
+    { "text": { "ur": "آواز والا نبی", "en": "the Prophet with a voice" } }
+   ],
+   "answer": 1,
+   "explanation": {
+    "ur": "پہلے اسم (صَوْت) پر ال نہیں اور دوسرے (النَّبِيّ) پر ال ہے — یہ اضافت ہے، ترجمے میں ”کی“ لگتی ہے۔",
+    "en": "The first noun (صَوْت) has no ال and the second (النَّبِيّ) has one — that is idafa, translated with “of”."
+   }
+  },
+  {
+   "id": "u2-l2-q3",
+   "type": "mcq",
+   "prompt": { "ur": "أَصْوَاتَكُمْ میں كُمْ کا کیا مطلب ہے؟", "en": "What does كُمْ mean in أَصْوَاتَكُمْ?" },
+   "options": [
+    { "text": { "ur": "ان سب کی", "en": "their" } },
+    { "text": { "ur": "ہم سب کی", "en": "our" } },
+    { "text": { "ur": "تم سب کی", "en": "your (all)" } }
+   ],
+   "answer": 2,
+   "explanation": {
+    "ur": "كُمْ — تم سب کا / کی۔ ان سب کے لیے هُمْ آتا ہے اور ہم سب کے لیے نَا۔",
+    "en": "كُمْ — your (all of you). “Their” is هُمْ and “our” is نَا."
+   }
+  },
+  {
+   "id": "u2-l2-q4",
+   "type": "mcq",
+   "prompt": { "ur": "كَجَهْرِ کے شروع میں كَ کا کیا معنی ہے؟", "en": "What does the كَ at the start of كَجَهْرِ mean?" },
+   "options": [
+    { "text": { "ur": "کی مانند، جیسے", "en": "like, as" } },
+    { "text": { "ur": "کے لیے", "en": "for" } },
+    { "text": { "ur": "اور", "en": "and" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "شروع کا ك حرفِ تشبیہ ہے: کی مانند، مثل، جیسے کہ۔ ”کے لیے“ لام کا معنی ہے اور ”اور“ وَ کا۔",
+    "en": "A ك at the start is the particle of comparison: like, as. “For” is لام, and “and” is وَ."
+   }
+  },
+  {
+   "id": "u2-l2-q5",
+   "type": "mcq",
+   "prompt": { "ur": "لَا تَشْعُرُوْنَ کا کیا مطلب ہے؟", "en": "What does لَا تَشْعُرُوْنَ mean?" },
+   "options": [
+    { "text": { "ur": "تم سب شعور رکھو", "en": "be aware, all of you" } },
+    { "text": { "ur": "تم سب شعور نہیں رکھتے", "en": "you do not perceive" } },
+    { "text": { "ur": "وہ سب شعور رکھتے ہیں", "en": "they perceive" } }
+   ],
+   "answer": 1,
+   "explanation": {
+    "ur": "ت (تم) + شعر (شعور) + ون (جمع)، اور آگے لَا: تم سب شعور نہیں رکھتے — یعنی تمہیں خبر بھی نہ ہو۔",
+    "en": "ت (you) + شعر (awareness) + ون (plural), with لَا: you do not perceive — you would not even know."
+   }
+  },
+  {
+   "id": "u2-l2-q6",
+   "type": "mcq",
+   "prompt": { "ur": "جَهْر کا کیا معنی ہے؟", "en": "What does جَهْر mean?" },
+   "arabic": "جَهْر",
+   "options": [
+    { "text": { "ur": "آواز بلند کرنا", "en": "raising the voice" } },
+    { "text": { "ur": "خاموش رہنا", "en": "keeping quiet" } },
+    { "text": { "ur": "جلدی کرنا", "en": "hurrying" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "جہر — آواز بلند کرنا۔ اسی لیے جن نمازوں میں امام بلند آواز سے قراءت کرتے ہیں انہیں جہری نمازیں کہتے ہیں۔",
+    "en": "جهر — raising the voice. That is why prayers in which the imam recites aloud are called جہری prayers."
+   }
+  }
+ ]
+}

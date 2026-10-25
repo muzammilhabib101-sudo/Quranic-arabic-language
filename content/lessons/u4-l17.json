@@ -1,0 +1,193 @@
+{
+ "id": "u4-l17",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الفرقان کی آیت ۷۷ کو لفظ بہ لفظ سمجھیں — دعا کی اہمیت — اور سیکھیں: قُلْ (کہہ دیجیے)، لَوْلَا (اگر نہ ہوتی)، فَقَدْ (تو یقیناً)، اور فَسَوْفَ (تو عنقریب)۔",
+  "en": "Understand Al-Furqan 25:77 word by word — the worth of prayer — and learn: قُلْ (say), لَوْلَا (if not for), فَقَدْ (then indeed), and فَسَوْفَ (so soon)."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "لَوْلَا — اگر نہ ہوتا", "en": "لَوْلَا — if not for" },
+   "body": {
+    "ur": "لَوْ — اگر، لَا — نہ: لَوْلَا — اگر نہ ہوتی۔ لَوْلَا دُعَاؤُكُمْ — اگر تمہاری دعا نہ ہوتی۔",
+    "en": "لَوْ — if, لَا — not: لَوْلَا — if not for. لَوْلَا دُعَاؤُكُمْ — if not for your prayer."
+   }
+  },
+  {
+   "title": { "ur": "قَدْ اور سَوْفَ", "en": "قَدْ and سَوْفَ" },
+   "body": {
+    "ur": "ماضی سے پہلے قَدْ — یقیناً، تحقیق (کام ہو چکا)۔ مضارع سے پہلے سَوْفَ — عنقریب (کام ہوگا)۔ دونوں کے ساتھ فَ — پس، تو۔",
+    "en": "قَدْ before a past verb — indeed, already. سَوْفَ before a present verb — soon, will. Both here take فَ — so, then."
+   }
+  }
+ ],
+ "verse": { "surah": 25, "ayah": 77 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "کہہ دیجیے", "en": "say" },
+   "parts": [{ "text": "قُلْ", "role": "verb", "label": { "ur": "کہو (امر)", "en": "say (command)" } }],
+   "why": { "ur": "قُلْ — فعلِ امر، آخر پر سکون: کہہ دیجیے۔ نبی ﷺ سے خطاب ہے۔", "en": "قُلْ — command, ending in sukun: say. It addresses the Prophet ﷺ." }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "نہیں", "en": "not" },
+   "parts": [{ "text": "مَا", "role": "particle", "label": { "ur": "نفی", "en": "not" } }],
+   "why": { "ur": "مَا — یہاں نفی کے لیے: نہیں۔", "en": "مَا — here for negation: not." }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "پرواہ کرتا", "en": "care" },
+   "parts": [
+    { "text": "يَ", "role": "particle", "label": { "ur": "علامتِ مضارع", "en": "present-tense sign" } },
+    { "text": "عْبَأُ", "role": "verb", "label": { "ur": "پرواہ کرنا", "en": "care" } }
+   ],
+   "why": { "ur": "عَبَأَ — اس نے پرواہ کی۔ مَا يَعْبَأُ — پرواہ نہیں کرتا۔", "en": "عَبَأَ — he cared. مَا يَعْبَأُ — does not care." }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "تمہاری", "en": "for you" },
+   "parts": [
+    { "text": "بِ", "role": "particle", "label": { "ur": "کے متعلق", "en": "about" } },
+    { "text": "كُمْ", "role": "noun", "label": { "ur": "تم سب", "en": "you all" } }
+   ],
+   "why": { "ur": "ب + کم: تمہارے متعلق، تمہاری۔", "en": "ب + كم: about you, for you." }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "میرا رب", "en": "my Lord" },
+   "parts": [
+    { "text": "رَبِّ", "role": "noun", "label": { "ur": "رب", "en": "Lord" } },
+    { "text": "يْ", "role": "noun", "label": { "ur": "میرا", "en": "my" } }
+   ],
+   "why": { "ur": "رب + ی: میرا رب۔ مَا يَعْبَأُ بِكُمْ رَبِّيْ — میرا رب تمہاری کوئی پرواہ نہیں کرتا۔", "en": "رب + ي: my Lord. مَا يَعْبَأُ بِكُمْ رَبِّيْ — my Lord would not care for you." }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "اگر نہ ہوتی", "en": "if not for" },
+   "parts": [{ "text": "لَوْلَا", "role": "particle", "label": { "ur": "اگر نہ", "en": "if not" } }],
+   "why": { "ur": "لو (اگر) + لا (نہ): اگر نہ ہوتی۔", "en": "لو (if) + لا (not): if not for." }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "تمہاری دعا", "en": "your prayer" },
+   "parts": [
+    { "text": "دُعَاؤُ", "role": "noun", "label": { "ur": "دعا، پکار", "en": "prayer, call" } },
+    { "text": "كُمْ", "role": "noun", "label": { "ur": "تم سب کی", "en": "your" } }
+   ],
+   "why": { "ur": "دعاء + کم: تمہاری دعائیں، تمہاری پکاریں۔", "en": "دعاء + كم: your prayers, your calling on Him." }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "تو یقیناً", "en": "but indeed" },
+   "parts": [
+    { "text": "فَ", "role": "particle", "label": { "ur": "پس", "en": "so" } },
+    { "text": "قَدْ", "role": "particle", "label": { "ur": "یقیناً", "en": "indeed" } }
+   ],
+   "why": { "ur": "ف (پس) + قد (یقیناً): پس یقیناً۔", "en": "ف (so) + قد (indeed): so indeed." }
+  },
+  {
+   "position": 9,
+   "meaning": { "ur": "تم جھٹلا چکے", "en": "you have denied" },
+   "parts": [
+    { "text": "كَذَّبْ", "role": "verb", "label": { "ur": "جھٹلایا", "en": "denied" } },
+    { "text": "تُمْ", "role": "noun", "label": { "ur": "تم سب نے", "en": "you all" } }
+   ],
+   "why": { "ur": "کذب + تم: تم سب نے جھٹلایا۔ فَقَدْ كَذَّبْتُمْ — تو تم جھٹلا چکے ہو۔", "en": "كذب + تم: you all denied. فَقَدْ كَذَّبْتُمْ — so you have already denied." }
+  },
+  {
+   "position": 10,
+   "meaning": { "ur": "تو عنقریب", "en": "so soon" },
+   "parts": [
+    { "text": "فَ", "role": "particle", "label": { "ur": "پس", "en": "so" } },
+    { "text": "سَوْفَ", "role": "particle", "label": { "ur": "عنقریب", "en": "soon" } }
+   ],
+   "why": { "ur": "ف + سوف: پس عنقریب۔", "en": "ف + سوف: so soon." }
+  },
+  {
+   "position": 11,
+   "meaning": { "ur": "ہوگا", "en": "will be" },
+   "parts": [
+    { "text": "يَ", "role": "particle", "label": { "ur": "علامتِ مضارع", "en": "present-tense sign" } },
+    { "text": "كُوْنُ", "role": "verb", "label": { "ur": "ہونا", "en": "be" } }
+   ],
+   "why": { "ur": "يَكُوْنُ — ہوگا۔ سَوْفَ کے ساتھ: عنقریب ہوگا۔", "en": "يَكُوْنُ — will be. With سَوْفَ: soon will be." }
+  },
+  {
+   "position": 12,
+   "meaning": { "ur": "چمٹ جانے والا", "en": "inevitable" },
+   "parts": [
+    { "text": "لِزَام", "role": "noun", "label": { "ur": "لازم، چمٹنے والا", "en": "clinging, inevitable" } },
+    { "text": "ا", "role": "particle", "label": { "ur": "تنوین", "en": "tanween" } }
+   ],
+   "why": {
+    "ur": "لزام — لازم، چمٹ جانے والا (اردو: لازم)۔ فَسَوْفَ يَكُوْنُ لِزَامًا — تو عنقریب (یہ جھٹلانا) تم سے چمٹ جانے والا ہوگا۔",
+    "en": "لزام — binding, clinging (Urdu: لازم). فَسَوْفَ يَكُوْنُ لِزَامًا — so soon (this denial) will cling to you."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2, 3, 4, 5], "role": "verb", "label": { "ur": "کہہ دیجیے: میرا رب تمہاری پرواہ نہ کرتا", "en": "say: my Lord would not care for you" } },
+   { "words": [6, 7], "role": "particle", "label": { "ur": "اگر تمہاری دعا نہ ہوتی", "en": "if not for your prayer" } },
+   { "words": [8, 9], "role": "verb", "label": { "ur": "پس تم جھٹلا چکے", "en": "but you have denied" } },
+   { "words": [10, 11, 12], "role": "verb", "label": { "ur": "تو عنقریب وہ چمٹ جانے والا ہوگا", "en": "so soon it will cling to you" } }
+  ],
+  "plain": {
+   "ur": "اے نبی ﷺ! کہہ دیجیے: اگر تمہاری دعا (اللہ کو پکارنا) نہ ہوتی تو میرا رب تمہاری کوئی پرواہ نہ کرتا۔ تم تو جھٹلا چکے ہو، تو عنقریب اس کا انجام تم سے چمٹ جانے والا ہوگا۔ یوں سورت کا اختتام اس بات پر ہوتا ہے کہ بندے کی قدر اس کی دعا اور بندگی سے ہے۔",
+   "en": "Say: my Lord would not care for you were it not for your prayer to Him. But you have denied, so soon its outcome will cling to you. The surah ends by showing that a servant's worth lies in calling on Allah."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "لَوْلَا = لَوْ (اگر) + لَا (نہ): اگر نہ ہوتا۔",
+   "en": "لَوْلَا = لَوْ (if) + لَا (not): if not for."
+  },
+  "points": [
+   { "ur": "قَدْ + ماضی — یقیناً ہو چکا: فَقَدْ كَذَّبْتُمْ۔", "en": "قَدْ + past — indeed already: فَقَدْ كَذَّبْتُمْ." },
+   { "ur": "سَوْفَ + مضارع — عنقریب ہوگا: فَسَوْفَ يَكُوْنُ۔", "en": "سَوْفَ + present — soon will be: فَسَوْفَ يَكُوْنُ." },
+   { "ur": "قُلْ — کہہ دیجیے؛ مَا — نہیں؛ لِزَام — لازم، چمٹنے والا۔", "en": "قُلْ — say; مَا — not; لِزَام — binding, clinging." }
+  ]
+ },
+ "check": [
+  {
+   "id": "u4-l17-q1",
+   "type": "mcq",
+   "prompt": { "ur": "لَوْلَا کا کیا مطلب ہے؟", "en": "What does لَوْلَا mean?" },
+   "arabic": "لَوْلَا",
+   "options": [
+    { "text": { "ur": "اگر نہ ہوتا", "en": "if not for" } },
+    { "text": { "ur": "ضرور", "en": "surely" } },
+    { "text": { "ur": "کبھی نہیں", "en": "never" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "لو (اگر) + لا (نہ): اگر نہ ہوتا۔", "en": "لو (if) + لا (not): if not for." }
+  },
+  {
+   "id": "u4-l17-q2",
+   "type": "mcq",
+   "prompt": { "ur": "فَسَوْفَ کا کیا مطلب ہے؟", "en": "What does فَسَوْفَ mean?" },
+   "arabic": "فَسَوْفَ",
+   "options": [
+    { "text": { "ur": "تو عنقریب", "en": "so soon" } },
+    { "text": { "ur": "تو یقیناً", "en": "so indeed" } },
+    { "text": { "ur": "اگر نہ", "en": "if not" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "ف + سوف: پس عنقریب۔ تو یقیناً — فَقَدْ۔", "en": "ف + سوف: so soon. “So indeed” is فَقَدْ." }
+  },
+  {
+   "id": "u4-l17-q3",
+   "type": "mcq",
+   "prompt": { "ur": "كَذَّبْتُمْ کا کیا مطلب ہے؟", "en": "What does كَذَّبْتُمْ mean?" },
+   "arabic": "كَذَّبْتُمْ",
+   "options": [
+    { "text": { "ur": "تم سب نے جھٹلایا", "en": "you all denied" } },
+    { "text": { "ur": "انہوں نے جھٹلایا", "en": "they denied" } },
+    { "text": { "ur": "میں نے جھٹلایا", "en": "I denied" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "کذب + تم: تم سب نے جھٹلایا۔", "en": "كذب + تم: you all denied." }
+  }
+ ]
+}

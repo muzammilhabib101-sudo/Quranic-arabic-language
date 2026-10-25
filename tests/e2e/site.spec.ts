@@ -1,0 +1,72 @@
+import { expect, test } from "@playwright/test";
+import { readJson, watchErrors } from "./helpers";
+
+type CourseMap = { lessons: { id: string; sourceSlides: { from: number; to: number } }[] };
+const map = readJson<CourseMap>("content/course-map.json");
+const slideCount = readJson<{ count: number }>("content/slides.json").count;
+
+test("/ sends a new visitor to Urdu", async ({ page }) => {
+  await page.goto("/");
+  await expect(page).toHaveURL(/\/ur\/$/);
+});
+
+test("switching language flips direction and strings but not the Arabic", async ({ page }) => {
+  const noErrors = watchErrors(page);
+  await page.goto("/ur/lesson/u2-l3/");
+  const verse = await page.locator(".quran").first().innerText();
+  await expect(page.locator("html")).toHaveAttribute("lang", "ur");
+  await expect(page.locator("html")).toHaveAttribute("dir", "rtl");
+
+  await page.getByRole("link", { name: "زبان انگریزی میں بدلیں" }).click();
+  await expect(page).toHaveURL(/\/en\/lesson\/u2-l3\/$/);
+  await expect(page.locator("html")).toHaveAttribute("lang", "en");
+  await expect(page.locator("html")).toHaveAttribute("dir", "ltr");
+  await expect(page.locator(".quran").first()).toHaveText(verse);
+  noErrors();
+});
+
+test("the course page links every lesson, and every lesson links its slides", async ({ page }) => {
+  await page.goto("/en/course/");
+  for (const l of map.lessons) {
+    await expect(page.locator(`a[href="/en/lesson/${l.id}/"]`).first()).toBeAttached();
+  }
+  await page.goto("/en/lesson/u2-l3/");
+  const { from } = map.lessons.find((l) => l.id === "u2-l3")!.sourceSlides;
+  await expect(page.locator(`a[href="/en/slides/${from}/"]`).first()).toBeAttached();
+});
+
+test("every slide page and image is published", async ({ request }) => {
+  for (let n = 1; n <= slideCount; n++) {
+    const file = String(n).padStart(3, "0");
+    expect((await request.get(`/ur/slides/${n}/`)).status(), `slide ${n}`).toBe(200);
+    expect((await request.head(`/slides/${file}.webp`)).status(), `image ${n}`).toBe(200);
+  }
+});
+
+test("slides move with the arrow keys (mirrored in Urdu)", async ({ page }) => {
+  await page.goto("/ur/slides/1/");
+  await page.keyboard.press("ArrowLeft");
+  await expect(page).toHaveURL(/\/ur\/slides\/2\/$/);
+  await page.goto("/en/slides/2/");
+  await page.keyboard.press("ArrowLeft");
+  await expect(page).toHaveURL(/\/en\/slides\/1\/$/);
+});
+
+test("review pages are not published", async ({ request }) => {
+  expect((await request.get("/ur/review/")).status()).toBe(404);
+  expect((await request.get("/en/review/u1-l1/")).status()).toBe(404);
+});
+
+test("the footer links to the credits, which name the Quran sources", async ({ page }) => {
+  await page.goto("/en/");
+  await page.locator("footer").getByRole("link", { name: "Credits" }).click();
+  await expect(page).toHaveURL(/\/en\/credits\/$/);
+  await expect(page.locator("main")).toContainText("Tanzil Quran Text");
+  await expect(page.getByRole("link", { name: "Visit Quranic Arabic Corpus" })).toHaveAttribute("href", "https://corpus.quran.com");
+});
+
+test("search finds a word in both scripts", async ({ page }) => {
+  await page.goto("/en/search/");
+  await page.getByRole("searchbox").fill("رحيم");
+  await expect(page.locator("main")).toContainText(/Bismillah|بسم/);
+});

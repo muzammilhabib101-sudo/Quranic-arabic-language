@@ -1,0 +1,203 @@
+{
+ "id": "u4-l5",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الفرقان کی آیت ۶۵ کو لفظ بہ لفظ سمجھیں — جہنم سے پناہ کی دعا — اور سیکھیں: يَقُوْلُوْنَ کا ”دعا“ کے معنی میں آنا، رَبّ کے ساتھ تمام ضمیریں (رَبَّنَا، رَبِّيْ، رَبُّكَ…)، امر اصْرِفْ، اور اضافت عَذَابَ جَهَنَّمَ۔",
+  "en": "Understand Al-Furqan 25:65 word by word — the prayer for protection from Hell — and learn: يَقُوْلُوْنَ meaning “they pray”, رَبّ with every pronoun (رَبَّنَا, رَبِّيْ, رَبُّكَ…), the command اصْرِفْ, and the idafa عَذَابَ جَهَنَّمَ."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "رَبّ + ضمیریں", "en": "رَبّ with pronouns" },
+   "body": {
+    "ur": "رَبِّيْ — میرا رب، رَبُّهٗ — اس کا رب، رَبُّهَا — اس مؤنث کا رب، رَبُّهُمَا — ان دو کا رب، رَبُّهُمْ — ان سب کا رب، رَبُّهُنَّ — ان سب مؤنث کا رب؛ رَبُّكَ — تیرا رب، رَبُّكُمْ — تم سب کا رب؛ رَبَّنَا — ہمارا رب۔",
+    "en": "رَبِّيْ — my Lord, رَبُّهٗ — his Lord, رَبُّهَا — her Lord, رَبُّهُمَا — their (two) Lord, رَبُّهُمْ — their Lord, رَبُّهُنَّ — their (f.) Lord; رَبُّكَ — your Lord, رَبُّكُمْ — your (pl.) Lord; رَبَّنَا — our Lord."
+   }
+  },
+  {
+   "title": { "ur": "قول — کہنا یا دعا", "en": "قول — saying or praying" },
+   "body": {
+    "ur": "اپنے سے چھوٹے کو کہنا حکم ہے، بڑے کو کہنا التماس اور درخواست، ہمسر کو کہنا کہنا ہے، اور خالق کو کہنا دعا کہلاتا ہے: يَقُوْلُوْنَ — یہاں: وہ دعائیں کرتے ہیں۔",
+    "en": "Saying something to a junior is an order, to a senior a request, to an equal simply speech, and to the Creator a prayer: يَقُوْلُوْنَ here means “they pray”."
+   }
+  }
+ ],
+ "verse": { "surah": 25, "ayah": 65 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "اور وہ جو", "en": "and those who" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "الَّذِيْنَ", "role": "noun", "label": { "ur": "جو اشخاص", "en": "those who" } }
+   ],
+   "why": { "ur": "وَ — اور، الَّذِيْنَ — جو اشخاص۔", "en": "وَ — and, الَّذِيْنَ — those who." }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "دعائیں کرتے ہیں", "en": "say, pray" },
+   "parts": [
+    { "text": "يَ", "role": "particle", "label": { "ur": "علامتِ مضارع", "en": "present-tense sign" } },
+    { "text": "قُوْلُ", "role": "verb", "label": { "ur": "کہنا، بات", "en": "say" } },
+    { "text": "وْنَ", "role": "noun", "label": { "ur": "علامتِ جمع", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ی + قول + ون۔ قول — کہنا، بات؛ قُوْلُ — وہ کہتا ہے یا کہے گا۔ مخلوق خالق کو کہے تو اس سے مراد ہے دعا کرنا: يَقُوْلُوْنَ — وہ دعائیں کرتے ہیں۔ قَالَ — اس ایک مذکر نے کہا، يَقُوْلُ — وہ کہتا ہے، تَقُوْلُ — تم کہتے ہو، أَقُوْلُ — میں کہتا ہوں، نَقُوْلُ — ہم کہتے ہیں۔",
+    "en": "ی + قول + ون. قول — saying; when the creature speaks to the Creator, it means praying: يَقُوْلُوْنَ — they pray. قَالَ — he said, يَقُوْلُ — he says, تَقُوْلُ — you say, أَقُوْلُ — I say, نَقُوْلُ — we say."
+   }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "اے ہمارے رب", "en": "our Lord" },
+   "parts": [
+    { "text": "رَبَّ", "role": "noun", "label": { "ur": "پالنہار، رب", "en": "Lord" } },
+    { "text": "نَا", "role": "noun", "label": { "ur": "ہمارے", "en": "our" } }
+   ],
+   "why": {
+    "ur": "رب + نا: ہمارے پروردگار۔ رب کے ساتھ ضمیریں: رَبِّيْ (میرا رب)، رَبُّهٗ، رَبُّهَا، رَبُّهُمَا، رَبُّهُمْ، رَبُّهُنَّ، رَبُّكَ، رَبُّكُمْ۔",
+    "en": "رب + نا: our Lord. رب with pronouns: رَبِّيْ (my Lord), رَبُّهٗ, رَبُّهَا, رَبُّهُمَا, رَبُّهُمْ, رَبُّهُنَّ, رَبُّكَ, رَبُّكُمْ."
+   }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "ہٹا دے، پھیر دے", "en": "avert" },
+   "parts": [
+    { "text": "ا", "role": "particle", "label": { "ur": "علامتِ فعلِ امر", "en": "command sign" } },
+    { "text": "صْرِفْ", "role": "verb", "label": { "ur": "پھیرنا، دور کرنا", "en": "turn away" } }
+   ],
+   "why": {
+    "ur": "ا + صرف۔ الف علامتِ فعلِ امر، صرف — پھیرنا، لوٹانا، دور کرنا (اردو میں صرفِ نظر کرنا — نظر سے دور کرنا)۔ اصْرِفْ — ہٹا دے، پھیر دے۔",
+    "en": "ا + صرف. The alif marks a command; صرف — turning away, removing (Urdu صرفِ نظر — to overlook). اصْرِفْ — avert, turn away."
+   }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "ہم سے", "en": "from us" },
+   "parts": [
+    { "text": "عَنْ", "role": "particle", "label": { "ur": "سے", "en": "from" } },
+    { "text": "نَا", "role": "noun", "label": { "ur": "ہم", "en": "us" } }
+   ],
+   "why": { "ur": "عن + نا: ہم سے۔", "en": "عن + نا: from us." }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "عذاب", "en": "the punishment" },
+   "parts": [{ "text": "عَذَاب", "role": "noun", "label": { "ur": "عذاب (اسمِ نکرہ)", "en": "punishment" } }],
+   "why": { "ur": "عَذَاب — عذاب؛ اردو میں یہ کلمہ مستعمل ہے۔", "en": "عَذَاب — punishment; used in Urdu." }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "جہنم کا", "en": "of Hell" },
+   "parts": [{ "text": "جَهَنَّم", "role": "noun", "label": { "ur": "جہنم (اسمِ معرفہ)", "en": "Hell" } }],
+   "why": {
+    "ur": "جَهَنَّم — جہنم (ایک وادی کا نام، اسمِ معرفہ)۔ عَذَابَ جَهَنَّمَ — جہنم کا عذاب: دو اسم ساتھ ساتھ لکھے ہوں، پہلا نکرہ اور دوسرا معرفہ، تو ترجمہ کرتے ہوئے کا، کے، کی کا اضافہ کرتے ہیں۔",
+    "en": "جَهَنَّم — Hell (a proper name, definite). عَذَابَ جَهَنَّمَ — the punishment of Hell: indefinite then definite takes “of”."
+   }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "بیشک", "en": "indeed" },
+   "parts": [{ "text": "إِنَّ", "role": "particle", "label": { "ur": "بیشک", "en": "indeed" } }],
+   "why": { "ur": "إِنَّ — بیشک۔", "en": "إِنَّ — indeed." }
+  },
+  {
+   "position": 9,
+   "meaning": { "ur": "اس کا عذاب", "en": "its punishment" },
+   "parts": [
+    { "text": "عَذَابَ", "role": "noun", "label": { "ur": "عذاب", "en": "punishment" } },
+    { "text": "هَا", "role": "noun", "label": { "ur": "اس ایک مؤنث کا", "en": "its (f.)" } }
+   ],
+   "why": {
+    "ur": "عذاب + ہا: اس کا عذاب۔ هَا مؤنث کی ضمیر ہے (جہنم کی طرف)، اور تمام ضمائر اسمِ معرفہ ہوتے ہیں — اس لیے یہ بھی اضافت ہے۔",
+    "en": "عذاب + ها: its punishment. هَا is the feminine pronoun (referring to Hell), and all pronouns are definite — so this too is an idafa."
+   }
+  },
+  {
+   "position": 10,
+   "meaning": { "ur": "ہے", "en": "is" },
+   "parts": [{ "text": "كَانَ", "role": "verb", "label": { "ur": "ہوتا ہے", "en": "is" } }],
+   "why": { "ur": "كَانَ — ہوتا ہے، ہے۔", "en": "كَانَ — is." }
+  },
+  {
+   "position": 11,
+   "meaning": { "ur": "چمٹ جانے والا", "en": "lasting, inseparable" },
+   "parts": [{ "text": "غَرَام", "role": "noun", "label": { "ur": "سختی، مصیبت، ہلاکت", "en": "lasting torment" } }],
+   "why": {
+    "ur": "غَرَامًا — سختی، مصیبت، ہلاکت، جرمانہ؛ ایسی چیز جو چمٹ جائے اور جان نہ چھوڑے۔ إِنَّ عَذَابَهَا كَانَ غَرَامًا — بیشک اس کا عذاب بڑا جان لیوا ہے۔",
+    "en": "غَرَامًا — hardship, ruin, a penalty; something that clings and never lets go. إِنَّ عَذَابَهَا كَانَ غَرَامًا — indeed its punishment is lasting."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2], "role": "verb", "label": { "ur": "اور جو دعا کرتے ہیں", "en": "and those who pray" } },
+   { "words": [3, 4, 5], "role": "verb", "label": { "ur": "اے ہمارے رب، ہم سے پھیر دے", "en": "our Lord, avert from us" } },
+   { "words": [6, 7], "role": "noun", "label": { "ur": "جہنم کا عذاب", "en": "the punishment of Hell" } },
+   { "words": [8, 9, 10, 11], "role": "noun", "label": { "ur": "بیشک اس کا عذاب چمٹ جانے والا ہے", "en": "indeed its punishment is lasting" } }
+  ],
+  "plain": {
+   "ur": "اور جو دعائیں کرتے ہیں: اے ہمارے رب! عذابِ جہنم کو ہم سے دور رکھ، بے شک اس کا عذاب بڑا جان لیوا ہے۔ رات کی عبادت کے بعد بھی رحمٰن کے بندے اپنے عمل پر بھروسہ نہیں کرتے بلکہ اللہ سے پناہ مانگتے ہیں۔",
+   "en": "And those who pray: Our Lord, avert from us the punishment of Hell; indeed its punishment is lasting. Even after their night worship, the servants of the Most Merciful do not rely on their deeds but seek refuge in Allah."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "مخلوق خالق سے کچھ کہے تو وہ دعا ہے: يَقُوْلُوْنَ — وہ دعائیں کرتے ہیں؛ اصْرِفْ (امر) — ہٹا دے۔",
+   "en": "When a creature speaks to the Creator it is a prayer: يَقُوْلُوْنَ — they pray; اصْرِفْ (command form) — avert."
+  },
+  "points": [
+   { "ur": "رَبَّنَا — ہمارے رب؛ رَبِّيْ — میرے رب؛ رَبُّكُمْ — تمہارے رب۔", "en": "رَبَّنَا — our Lord; رَبِّيْ — my Lord; رَبُّكُمْ — your Lord." },
+   { "ur": "عَذَابَ جَهَنَّمَ — اضافت: جہنم کا عذاب۔", "en": "عَذَابَ جَهَنَّمَ — idafa: the punishment of Hell." },
+   { "ur": "عَنَّا = عَنْ + نَا — ہم سے۔", "en": "عَنَّا = عَنْ + نَا — from us." }
+  ]
+ },
+ "check": [
+  {
+   "id": "u4-l5-q1",
+   "type": "mcq",
+   "prompt": { "ur": "رَبَّنَا کا کیا مطلب ہے؟", "en": "What does رَبَّنَا mean?" },
+   "options": [
+    { "text": { "ur": "ہمارے رب", "en": "our Lord" } },
+    { "text": { "ur": "میرے رب", "en": "my Lord" } },
+    { "text": { "ur": "ان کے رب", "en": "their Lord" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "رب + نا (ہمارے): ہمارے رب۔ میرے رب — رَبِّيْ، ان کے رب — رَبُّهُمْ۔", "en": "رب + نا (our): our Lord. My Lord — رَبِّيْ, their Lord — رَبُّهُمْ." }
+  },
+  {
+   "id": "u4-l5-q2",
+   "type": "mcq",
+   "prompt": { "ur": "یہاں يَقُوْلُوْنَ سے کیا مراد ہے؟", "en": "What does يَقُوْلُوْنَ mean here?" },
+   "options": [
+    { "text": { "ur": "وہ دعائیں کرتے ہیں", "en": "they pray" } },
+    { "text": { "ur": "وہ حکم دیتے ہیں", "en": "they command" } },
+    { "text": { "ur": "وہ سوال کرتے ہیں", "en": "they ask questions" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "مخلوق خالق کو کہے تو اس سے مراد دعا ہے: وہ دعائیں کرتے ہیں۔", "en": "When creatures speak to the Creator, it means prayer: they pray." }
+  },
+  {
+   "id": "u4-l5-q3",
+   "type": "mcq",
+   "prompt": { "ur": "اصْرِفْ کے شروع میں الف کیا بتاتا ہے؟", "en": "What does the alif at the start of اصْرِفْ show?" },
+   "options": [
+    { "text": { "ur": "فعلِ امر", "en": "a command" } },
+    { "text": { "ur": "سوال", "en": "a question" } },
+    { "text": { "ur": "میں", "en": "I" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "الف علامتِ فعلِ امر ہے: اصْرِفْ — ہٹا دے (یہاں دعا)۔", "en": "The alif marks a command: اصْرِفْ — avert (here, a prayer)." }
+  },
+  {
+   "id": "u4-l5-q4",
+   "type": "mcq",
+   "prompt": { "ur": "عَنَّا کا کیا مطلب ہے؟", "en": "What does عَنَّا mean?" },
+   "options": [
+    { "text": { "ur": "ہم سے", "en": "from us" } },
+    { "text": { "ur": "ہمارے لیے", "en": "for us" } },
+    { "text": { "ur": "ہم پر", "en": "upon us" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "عَنْ (سے) + نَا (ہم): ہم سے۔ ہمارے لیے — لَنَا، ہم پر — عَلَيْنَا۔", "en": "عَنْ (from) + نَا (us): from us. For us — لَنَا, upon us — عَلَيْنَا." }
+  }
+ ]
+}

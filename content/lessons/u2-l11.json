@@ -1,0 +1,529 @@
+{
+ "id": "u2-l11",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الحجرات کی گیارہویں آیت کو لفظ بہ لفظ سمجھیں، اور سیکھیں: عَسٰى (ممکن ہے)، نونِ نسواں (يَكُنَّ)، بِئْسَ اور نِعْمَ، اور لَمْ — جو مضارع کو ماضی کی نفی بنا دیتا ہے اور حروفِ علت گرا دیتا ہے (يَتُوْبُ ← لَمْ يَتُبْ)۔",
+  "en": "Understand the eleventh verse of Surah Al-Hujurat word by word, and learn: عَسٰى (it may be), the feminine plural ن (يَكُنَّ), بِئْسَ and نِعْمَ, and لَمْ — which turns a present verb into a negative past and drops its weak letter (يَتُوْبُ → لَمْ يَتُبْ)."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "قوم اور نساء", "en": "قوم and نساء" },
+   "body": {
+    "ur": "اس آیت میں قَوْم سے مراد مرد ہیں اور نِسَاء سے عورتیں — دونوں اسمِ اجتماعی ہیں، یعنی گروہ کے نام۔",
+    "en": "Here قَوْم means men and نِسَاء means women — both are collective nouns, names for a group."
+   }
+  },
+  {
+   "title": { "ur": "لَمْ", "en": "لَمْ" },
+   "body": {
+    "ur": "لَمْ مضارع سے پہلے آ کر نفی کرتا ہے اور ماضی کے معنی دیتا ہے۔ یہ اگلے کلمے کے آخری حرف پر سکون دیتا ہے، اور اگر اس میں حروفِ علت (ا، و، ی) ہوں تو وہ گر جاتے ہیں: يَتُوْبُ ← لَمْ يَتُبْ (اس نے توبہ نہیں کی)۔",
+    "en": "لَمْ before a present verb negates it and gives a past meaning. It puts a sukun on the verb's last letter, and if the verb has a weak letter (ا, و, ی) it drops: يَتُوْبُ → لَمْ يَتُبْ (he did not repent)."
+   }
+  },
+  {
+   "title": { "ur": "بِئْسَ اور نِعْمَ", "en": "بِئْسَ and نِعْمَ" },
+   "body": {
+    "ur": "بِئْسَ — بہت ہی برا ہے؛ اس کے برعکس نِعْمَ — بہت ہی اچھا ہے۔",
+    "en": "بِئْسَ — how bad it is; its opposite نِعْمَ — how good it is."
+   }
+  }
+ ],
+ "verse": { "surah": 49, "ayah": 11 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "اے", "en": "O" },
+   "parts": [
+    { "text": "يَا", "role": "particle", "label": { "ur": "اے", "en": "O" } },
+    { "text": "أَيُّ", "role": "noun", "label": { "ur": "اے (توجہ)", "en": "O you" } },
+    { "text": "هَا", "role": "particle", "label": { "ur": "تنبیہ", "en": "attention" } }
+   ],
+   "why": { "ur": "حرفِ ندا — يَا أَيُّهَا الَّذِيْنَ آمَنُوْا: اے اہلِ ایمان۔", "en": "A calling word — يَا أَيُّهَا الَّذِيْنَ آمَنُوْا: O you who believe." }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "وہ سب جو", "en": "those who" },
+   "parts": [{ "text": "الَّذِيْنَ", "role": "noun", "label": { "ur": "جو سب", "en": "those who" } }],
+   "why": { "ur": "اسمِ موصول: جو سب اشخاص۔", "en": "A relative word: those who." }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "ایمان لائے", "en": "believed" },
+   "parts": [
+    { "text": "آمَنَ", "role": "verb", "label": { "ur": "ایمان لایا", "en": "believed" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": { "ur": "آمَنَ + وا: وہ سب ایمان لائے۔", "en": "آمَنَ + وا: they all believed." }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "نہ", "en": "let not" },
+   "parts": [{ "text": "لَا", "role": "particle", "label": { "ur": "نفی / منع", "en": "do not" } }],
+   "why": { "ur": "لَا — حرفِ نفی، اردو میں مستعمل۔", "en": "لَا — not; used in Urdu." }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "مذاق اڑائے", "en": "ridicule" },
+   "parts": [
+    { "text": "يَ", "role": "particle", "label": { "ur": "مضارع کی علامت", "en": "present-tense sign" } },
+    { "text": "سْخَرْ", "role": "verb", "label": { "ur": "مذاق اڑانا", "en": "mock" } }
+   ],
+   "why": {
+    "ur": "اسی سے مسخرہ اور تمسخر — دونوں اردو میں مستعمل ہیں۔ يَسْخَرُ — وہ مذاق اڑاتا ہے یا اڑائے گا؛ لَا يَسْخَرْ — وہ مذاق نہ اڑائے۔",
+    "en": "From it come Urdu مسخرہ (clown) and تمسخر (mockery). يَسْخَرُ — he mocks; لَا يَسْخَرْ — let him not mock."
+   }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "کوئی قوم", "en": "a people" },
+   "parts": [{ "text": "قَوْم", "role": "noun", "label": { "ur": "قوم (مرد)", "en": "people (men)" } }],
+   "why": {
+    "ur": "قَوْمٌ — کوئی قوم (تنوین کی وجہ سے عام)؛ یہاں مرد مراد ہیں۔",
+    "en": "قَوْمٌ — some people (general, because of the tanween); here it means men."
+   }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "سے", "en": "of" },
+   "parts": [{ "text": "مِنْ", "role": "particle", "label": { "ur": "سے", "en": "of" } }],
+   "why": { "ur": "مِنْ — سے۔", "en": "مِنْ — of, from." }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "کسی قوم کا", "en": "another people" },
+   "parts": [{ "text": "قَوْم", "role": "noun", "label": { "ur": "کسی قوم", "en": "some people" } }],
+   "why": {
+    "ur": "قَوْمٍ — کسی قوم۔ لَا يَسْخَرْ قَوْمٌ مِّنْ قَوْمٍ — کوئی قوم کسی قوم سے تمسخر نہ کرے۔",
+    "en": "قَوْمٍ — another people. لَا يَسْخَرْ قَوْمٌ مِّنْ قَوْمٍ — let no people mock another people."
+   }
+  },
+  {
+   "position": 9,
+   "meaning": { "ur": "ممکن ہے", "en": "perhaps" },
+   "parts": [{ "text": "عَسٰى", "role": "verb", "label": { "ur": "ممکن ہے، شاید", "en": "it may be" } }],
+   "why": {
+    "ur": "عَسٰى — ممکن ہے، امید ہے، عجب نہیں، شاید کہ۔",
+    "en": "عَسٰى — it may be, it is hoped, it is not unlikely, perhaps."
+   }
+  },
+  {
+   "position": 10,
+   "meaning": { "ur": "کہ", "en": "that" },
+   "parts": [{ "text": "أَنْ", "role": "particle", "label": { "ur": "کہ", "en": "that" } }],
+   "why": { "ur": "أَنْ — کہ۔", "en": "أَنْ — that." }
+  },
+  {
+   "position": 11,
+   "meaning": { "ur": "وہ سب ہوں", "en": "they may be" },
+   "parts": [
+    { "text": "يَ", "role": "particle", "label": { "ur": "مضارع کی علامت", "en": "present-tense sign" } },
+    { "text": "كُوْنُ", "role": "verb", "label": { "ur": "ہونا", "en": "be" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ی + کون + وا۔ کَوْن — ہونا (”اے کون و مکاں کے مالک“ — کون سے مراد موجودات ہیں)۔ يَكُوْنُ — وہ ہوتا ہے، يَكُوْنُوْا — وہ سب ہوں۔ عَسٰى أَنْ يَكُوْنُوْا — ممکن ہے کہ وہ سب ہوں۔",
+    "en": "ی + کون + وا. کَوْن — being (as in “کون و مکاں” — all that exists). يَكُوْنُ — he is, يَكُوْنُوْا — they may be. عَسٰى أَنْ يَكُوْنُوْا — it may be that they are."
+   }
+  },
+  {
+   "position": 12,
+   "meaning": { "ur": "بہتر", "en": "better" },
+   "parts": [{ "text": "خَيْر", "role": "noun", "label": { "ur": "بہتر، خیر", "en": "better" } }],
+   "why": { "ur": "خَيْرًا — بہتر۔", "en": "خَيْرًا — better." }
+  },
+  {
+   "position": 13,
+   "meaning": { "ur": "ان سے", "en": "than them" },
+   "parts": [
+    { "text": "مِنْ", "role": "particle", "label": { "ur": "سے", "en": "than" } },
+    { "text": "هُمْ", "role": "noun", "label": { "ur": "وہ سب", "en": "them" } }
+   ],
+   "why": { "ur": "من + هُم: ان سب سے۔", "en": "من + هُم: than them." }
+  },
+  {
+   "position": 14,
+   "meaning": { "ur": "اور نہ", "en": "and not" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "لَا", "role": "particle", "label": { "ur": "نہ", "en": "not" } }
+   ],
+   "why": { "ur": "وَلَا — اور نہ۔", "en": "وَلَا — and not." }
+  },
+  {
+   "position": 15,
+   "meaning": { "ur": "عورتیں", "en": "women" },
+   "parts": [{ "text": "نِسَاء", "role": "noun", "label": { "ur": "عورتیں", "en": "women" } }],
+   "why": {
+    "ur": "نِسَاء — عورتیں؛ اسی سے نسواں، جو اردو میں مستعمل ہے۔",
+    "en": "نِسَاء — women; Urdu نسواں comes from it."
+   }
+  },
+  {
+   "position": 16,
+   "meaning": { "ur": "سے", "en": "of" },
+   "parts": [{ "text": "مِنْ", "role": "particle", "label": { "ur": "سے", "en": "of" } }],
+   "why": { "ur": "مِنْ — سے۔", "en": "مِنْ — of." }
+  },
+  {
+   "position": 17,
+   "meaning": { "ur": "عورتوں کا", "en": "other women" },
+   "parts": [{ "text": "نِسَاء", "role": "noun", "label": { "ur": "عورتیں", "en": "women" } }],
+   "why": {
+    "ur": "وَلَا نِسَاءٌ مِّنْ نِسَاءٍ — اور نہ عورتیں دوسری عورتوں کا مذاق اڑائیں۔",
+    "en": "وَلَا نِسَاءٌ مِّنْ نِسَاءٍ — nor let women mock other women."
+   }
+  },
+  {
+   "position": 18,
+   "meaning": { "ur": "ممکن ہے", "en": "perhaps" },
+   "parts": [{ "text": "عَسٰى", "role": "verb", "label": { "ur": "ممکن ہے", "en": "it may be" } }],
+   "why": { "ur": "عَسٰى — ممکن ہے۔", "en": "عَسٰى — it may be." }
+  },
+  {
+   "position": 19,
+   "meaning": { "ur": "کہ", "en": "that" },
+   "parts": [{ "text": "أَنْ", "role": "particle", "label": { "ur": "کہ", "en": "that" } }],
+   "why": { "ur": "أَنْ — کہ۔", "en": "أَنْ — that." }
+  },
+  {
+   "position": 20,
+   "meaning": { "ur": "وہ سب (عورتیں) ہوں", "en": "they (women) may be" },
+   "parts": [
+    { "text": "يَ", "role": "particle", "label": { "ur": "مضارع کی علامت", "en": "present-tense sign" } },
+    { "text": "كُنْ", "role": "verb", "label": { "ur": "ہونا", "en": "be" } },
+    { "text": "نَ", "role": "noun", "label": { "ur": "نونِ نسواں", "en": "feminine plural ن" } }
+   ],
+   "why": {
+    "ur": "ی + کن + ن۔ آخر کا ن نونِ نسواں ہے — وہ سب عورتیں۔ دو حروف (نْ + نَ) کو اکٹھا لکھنے کے لیے ان پر شد لکھی جاتی ہے: يَكُنَّ — وہ سب عورتیں ہوں۔",
+    "en": "ی + کن + ن. The final ن is the feminine plural ن — they (women). Two ن letters written together take a shadda: يَكُنَّ — they (women) may be."
+   }
+  },
+  {
+   "position": 21,
+   "meaning": { "ur": "بہتر", "en": "better" },
+   "parts": [{ "text": "خَيْر", "role": "noun", "label": { "ur": "بہتر", "en": "better" } }],
+   "why": { "ur": "خَيْرًا — بہتر۔", "en": "خَيْرًا — better." }
+  },
+  {
+   "position": 22,
+   "meaning": { "ur": "ان (عورتوں) سے", "en": "than them (women)" },
+   "parts": [
+    { "text": "مِنْ", "role": "particle", "label": { "ur": "سے", "en": "than" } },
+    { "text": "هُنَّ", "role": "noun", "label": { "ur": "وہ سب عورتیں", "en": "them (women)" } }
+   ],
+   "why": {
+    "ur": "من + هُنَّ: ان سب عورتوں سے۔ عَسٰى أَنْ يَكُنَّ خَيْرًا مِّنْهُنَّ — ممکن ہے وہ سب ان عورتوں سے بہتر ہوں۔",
+    "en": "من + هُنَّ: than them (women). عَسٰى أَنْ يَكُنَّ خَيْرًا مِّنْهُنَّ — it may be that they are better than them."
+   }
+  },
+  {
+   "position": 23,
+   "meaning": { "ur": "اور نہ", "en": "and do not" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "لَا", "role": "particle", "label": { "ur": "نہ", "en": "do not" } }
+   ],
+   "why": { "ur": "وَلَا — اور نہ۔", "en": "وَلَا — and do not." }
+  },
+  {
+   "position": 24,
+   "meaning": { "ur": "طعنے دو", "en": "find fault" },
+   "parts": [
+    { "text": "تَ", "role": "particle", "label": { "ur": "مخاطب کی علامت", "en": "sign of “you”" } },
+    { "text": "لْمِزُ", "role": "verb", "label": { "ur": "عیب لگانا", "en": "find fault" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ت + لمز + وا۔ لمز — بدگوئی کرنا، عیب لگانا، طعنہ دینا، عیب کی طرف آنکھ سے اشارہ کرنا۔ لَا تَلْمِزُوْا — تم سب طعنے نہ دو۔",
+    "en": "ت + لمز + وا. لمز — to speak ill of, find fault, taunt, or hint at someone's faults with a look. لَا تَلْمِزُوْا — do not taunt, all of you."
+   }
+  },
+  {
+   "position": 25,
+   "meaning": { "ur": "اپنے آپ کو", "en": "yourselves" },
+   "parts": [
+    { "text": "أَنْفُسَ", "role": "noun", "label": { "ur": "جانیں (نفس کی جمع)", "en": "selves" } },
+    { "text": "كُمْ", "role": "noun", "label": { "ur": "تمہاری", "en": "your" } }
+   ],
+   "why": {
+    "ur": "انفس (نفس کی جمع — جانیں) + كُم: تمہاری جانیں۔ وَلَا تَلْمِزُوْا أَنْفُسَكُمْ — تم اپنے آپ کو طعنے نہ دو، یعنی تم ایک دوسرے کو طعنے نہ دو۔",
+    "en": "انفس (plural of نفس — selves) + كُم: yourselves. وَلَا تَلْمِزُوْا أَنْفُسَكُمْ — do not taunt yourselves, that is, one another."
+   }
+  },
+  {
+   "position": 26,
+   "meaning": { "ur": "اور نہ", "en": "and do not" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "لَا", "role": "particle", "label": { "ur": "نہ", "en": "do not" } }
+   ],
+   "why": { "ur": "وَلَا — اور نہ۔", "en": "وَلَا — and do not." }
+  },
+  {
+   "position": 27,
+   "meaning": { "ur": "ایک دوسرے کو برے ناموں سے پکارو", "en": "call each other names" },
+   "parts": [
+    { "text": "تَ", "role": "particle", "label": { "ur": "مخاطب کی علامت", "en": "sign of “you”" } },
+    { "text": "نَابَزُ", "role": "verb", "label": { "ur": "چڑانے والے نام سے پکارنا", "en": "call by nicknames" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ت + نابز + وا۔ تَنَابَزُوْا — تم ایک دوسرے کو چڑنے والے (الٹے) ناموں سے پکارو؛ لَا تَنَابَزُوْا — ایسے ناموں سے نہ پکارو۔",
+    "en": "ت + نابز + وا. تَنَابَزُوْا — calling one another by hurtful nicknames; لَا تَنَابَزُوْا — do not call one another such names."
+   }
+  },
+  {
+   "position": 28,
+   "meaning": { "ur": "القاب سے", "en": "by nicknames" },
+   "parts": [
+    { "text": "بِ", "role": "particle", "label": { "ur": "کے بدلے، سے", "en": "with, by" } },
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "أَلْقَاب", "role": "noun", "label": { "ur": "القاب (لقب کی جمع)", "en": "titles, nicknames" } }
+   ],
+   "why": {
+    "ur": "ب + ال + القاب۔ القاب لقب کی جمع ہے (اردو میں مستعمل)۔ وَلَا تَنَابَزُوْا بِالْأَلْقَابِ — اور تم اچھے ناموں کے بدلے چڑنے والے (الٹے ناموں) سے نہ پکارو۔",
+    "en": "ب + ال + القاب. القاب is the plural of لقب (title), used in Urdu. وَلَا تَنَابَزُوْا بِالْأَلْقَابِ — and do not call one another by hurtful nicknames."
+   }
+  },
+  {
+   "position": 29,
+   "meaning": { "ur": "بہت ہی برا ہے", "en": "how bad is" },
+   "parts": [{ "text": "بِئْسَ", "role": "verb", "label": { "ur": "بہت برا", "en": "how bad" } }],
+   "why": {
+    "ur": "بِئْسَ — بہت ہی برا ہے؛ اس کے برعکس نِعْمَ — بہت ہی اچھا ہے۔",
+    "en": "بِئْسَ — how bad it is; its opposite is نِعْمَ — how good it is."
+   }
+  },
+  {
+   "position": 30,
+   "meaning": { "ur": "نام", "en": "the name" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "اسْم", "role": "noun", "label": { "ur": "نام، شہرت", "en": "name, reputation" } }
+   ],
+   "why": {
+    "ur": "الاسم — نام پیدا کرنا، شہرت پانا (اسم کا لفظ بسم اللہ کے سبق میں پڑھا)۔",
+    "en": "الاسم — the name, making a name for oneself (we met اسم in the Bismillah lesson)."
+   }
+  },
+  {
+   "position": 31,
+   "meaning": { "ur": "فسق", "en": "of defiance" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "فُسُوْق", "role": "noun", "label": { "ur": "گناہ پر اصرار", "en": "persisting in sin" } }
+   ],
+   "why": {
+    "ur": "فسق — گناہ پر اصرار کرنا۔ الِاسْمُ الْفُسُوْقُ — فسق والی شہرت۔",
+    "en": "فسق — persisting in sin. الِاسْمُ الْفُسُوْقُ — a name for wickedness."
+   }
+  },
+  {
+   "position": 32,
+   "meaning": { "ur": "بعد", "en": "after" },
+   "parts": [{ "text": "بَعْدَ", "role": "noun", "label": { "ur": "بعد", "en": "after" } }],
+   "why": {
+    "ur": "بَعْد — بعد (اسمِ نکرہ)؛ اگلا لفظ الْإِيْمَان (اسمِ معرفہ) ہے: اضافت۔",
+    "en": "بَعْد — after (indefinite); the next word, الْإِيْمَان, is definite: an idafa."
+   }
+  },
+  {
+   "position": 33,
+   "meaning": { "ur": "ایمان (کے)", "en": "faith" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "إِيْمَان", "role": "noun", "label": { "ur": "ایمان", "en": "faith" } }
+   ],
+   "why": {
+    "ur": "بَعْدَ الْإِيْمَانِ — ایمان کے بعد؛ ترجمہ کرتے ہوئے کا، کے، کی کا اضافہ کیا جاتا ہے۔ بِئْسَ الِاسْمُ الْفُسُوْقُ بَعْدَ الْإِيْمَانِ — ایمان لے آنے کے بعد فسق میں نام پیدا کرنا بہت ہی برا ہے۔",
+    "en": "بَعْدَ الْإِيْمَانِ — after faith; idafa adds “of”. بِئْسَ الِاسْمُ الْفُسُوْقُ بَعْدَ الْإِيْمَانِ — how bad is a name for wickedness after faith."
+   }
+  },
+  {
+   "position": 34,
+   "meaning": { "ur": "اور جو کوئی", "en": "and whoever" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "مَنْ", "role": "noun", "label": { "ur": "جو کوئی", "en": "whoever" } }
+   ],
+   "why": { "ur": "وَ — اور، مَنْ — جو کوئی، کون۔", "en": "وَ — and, مَنْ — whoever, who." }
+  },
+  {
+   "position": 35,
+   "meaning": { "ur": "نہ", "en": "did not" },
+   "parts": [{ "text": "لَمْ", "role": "particle", "label": { "ur": "نفی (ماضی)", "en": "not (past)" } }],
+   "why": {
+    "ur": "لَمْ مضارع سے پہلے آنے والا حرف ہے جو نفی کرتا ہے اور ماضی کے معنی دیتا ہے۔ یہ اپنے بعد والے کلمے کے آخری حرف پر سکون دیتا ہے، اور اگر کلمے میں حروفِ علت (ا، و، ی) ہوں تو وہ حذف ہو جاتے ہیں۔",
+    "en": "لَمْ comes before a present verb, negates it and gives a past meaning. It puts a sukun on the next word's last letter, and any weak letter (ا, و, ی) in that word drops."
+   }
+  },
+  {
+   "position": 36,
+   "meaning": { "ur": "توبہ کی", "en": "repent" },
+   "parts": [
+    { "text": "يَ", "role": "particle", "label": { "ur": "مضارع کی علامت", "en": "present-tense sign" } },
+    { "text": "تُبْ", "role": "verb", "label": { "ur": "توبہ کرنا", "en": "repent" } }
+   ],
+   "why": {
+    "ur": "تَابَ — اس نے توبہ کی، يَتُوْبُ — وہ توبہ کرتا ہے، تَوْبَة — توبہ۔ لَمْ کی وجہ سے آخری حرف ساکن ہوا اور حرفِ علت (و) گر گیا: يَتُوْبُ ← لَمْ يَتُبْ۔ وَمَنْ لَّمْ يَتُبْ — اور جس نے توبہ نہیں کی۔",
+    "en": "تَابَ — he repented, يَتُوْبُ — he repents, تَوْبَة — repentance. Because of لَمْ the last letter takes a sukun and the weak letter (و) drops: يَتُوْبُ → لَمْ يَتُبْ. وَمَنْ لَّمْ يَتُبْ — and whoever did not repent."
+   }
+  },
+  {
+   "position": 37,
+   "meaning": { "ur": "تو یہی لوگ", "en": "then those" },
+   "parts": [
+    { "text": "فَ", "role": "particle", "label": { "ur": "پس", "en": "then" } },
+    { "text": "أُولٰئِكَ", "role": "noun", "label": { "ur": "وہ سب", "en": "those" } }
+   ],
+   "why": { "ur": "ف + اولئک: پس وہ سب۔", "en": "ف + أولئك: then those." }
+  },
+  {
+   "position": 38,
+   "meaning": { "ur": "وہی", "en": "they" },
+   "parts": [{ "text": "هُمُ", "role": "noun", "label": { "ur": "وہ سب", "en": "they" } }],
+   "why": {
+    "ur": "هُمْ — وہ سب۔ جب دو مختلف مگر ہم معنی حروف اکٹھے آ جائیں (أُولٰئِكَ هُمُ) تو معنی میں زور پیدا ہوتا ہے: پس وہی۔",
+    "en": "هُمْ — they. When two different words of the same meaning come together (أُولٰئِكَ هُمُ), they add emphasis: they and none other."
+   }
+  },
+  {
+   "position": 39,
+   "meaning": { "ur": "ظالم", "en": "the wrongdoers" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص (اصل)", "en": "the (true)" } },
+    { "text": "ظَالِم", "role": "noun", "label": { "ur": "ظالم", "en": "wrongdoer" } },
+    { "text": "وْنَ", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "pattern": "فَاعِل",
+   "patternMeaning": { "ur": "کام کرنے والا", "en": "the one who does the action" },
+   "why": {
+    "ur": "ال + ظالم + ون: اصل ظالم۔ فَأُولٰئِكَ هُمُ الظَّالِمُوْنَ — پس درحقیقت وہی لوگ ظالم ہیں۔",
+    "en": "ال + ظالم + ون: the true wrongdoers. فَأُولٰئِكَ هُمُ الظَّالِمُوْنَ — then it is they who are the wrongdoers."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2, 3], "role": "particle", "label": { "ur": "اے ایمان والو", "en": "O you who believe" } },
+   { "words": [4, 5, 6, 7, 8], "role": "verb", "label": { "ur": "کوئی قوم کسی قوم کا مذاق نہ اڑائے", "en": "let no people mock another" } },
+   { "words": [9, 10, 11, 12, 13], "role": "verb", "label": { "ur": "ممکن ہے وہ ان سے بہتر ہوں", "en": "they may be better than them" } },
+   { "words": [14, 15, 16, 17], "role": "noun", "label": { "ur": "اور نہ عورتیں عورتوں کا", "en": "nor women other women" } },
+   { "words": [18, 19, 20, 21, 22], "role": "verb", "label": { "ur": "ممکن ہے وہ ان سے بہتر ہوں", "en": "they may be better than them" } },
+   { "words": [23, 24, 25], "role": "verb", "label": { "ur": "اور ایک دوسرے کو طعنے نہ دو", "en": "and do not taunt one another" } },
+   { "words": [26, 27, 28], "role": "verb", "label": { "ur": "اور برے ناموں سے نہ پکارو", "en": "nor call one another names" } },
+   { "words": [29, 30, 31, 32, 33], "role": "verb", "label": { "ur": "ایمان کے بعد فسق کا نام بہت برا ہے", "en": "how bad is wickedness after faith" } },
+   { "words": [34, 35, 36], "role": "verb", "label": { "ur": "اور جس نے توبہ نہ کی", "en": "and whoever does not repent" } },
+   { "words": [37, 38, 39], "role": "noun", "label": { "ur": "وہی ظالم ہیں", "en": "it is they who are the wrongdoers" } }
+  ],
+  "plain": {
+   "ur": "اے اہلِ ایمان! مرد دوسرے مردوں کا مذاق نہ اڑائیں — ہو سکتا ہے وہ ان سے بہتر ہوں — اور نہ عورتیں دوسری عورتوں کا مذاق اڑائیں — ہو سکتا ہے وہ ان سے بہتر ہوں۔ آپس میں ایک دوسرے پر طعن (عیب جوئی) نہ کریں اور ایک دوسرے کو برے ناموں سے نہ پکاریں۔ ایمان لانے کے بعد فسق میں نام پیدا کرنا بہت ہی برا ہے، اور جو توبہ نہ کریں وہی لوگ ظالم ہیں۔",
+   "en": "O you who believe! Let no men mock other men — they may be better than them — and no women mock other women — they may be better than them. Do not find fault with one another or call one another hurtful names. How bad is a name for wickedness after faith! And whoever does not repent — it is they who are the wrongdoers."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "لَمْ مضارع کو ماضی کی نفی بنا دیتا ہے، آخری حرف ساکن کرتا ہے، اور حرفِ علت گرا دیتا ہے: يَتُوْبُ ← لَمْ يَتُبْ (اس نے توبہ نہیں کی)۔",
+   "en": "لَمْ turns a present verb into a negative past, puts a sukun on the last letter, and drops a weak letter: يَتُوْبُ → لَمْ يَتُبْ (he did not repent)."
+  },
+  "points": [
+   {
+    "ur": "عَسٰى أَنْ — ممکن ہے کہ۔",
+    "en": "عَسٰى أَنْ — it may be that."
+   },
+   {
+    "ur": "نونِ نسواں: يَكُنَّ — وہ سب عورتیں ہوں؛ مِنْهُنَّ — ان سب عورتوں سے۔",
+    "en": "The feminine plural ن: يَكُنَّ — they (women) may be; مِنْهُنَّ — than them (women)."
+   },
+   {
+    "ur": "بِئْسَ — بہت برا، نِعْمَ — بہت اچھا۔",
+    "en": "بِئْسَ — how bad, نِعْمَ — how good."
+   }
+  ]
+ },
+ "check": [
+  {
+   "id": "u2-l11-q1",
+   "type": "mcq",
+   "prompt": { "ur": "عَسٰى کا کیا معنی ہے؟", "en": "What does عَسٰى mean?" },
+   "arabic": "عَسٰى",
+   "options": [
+    { "text": { "ur": "ممکن ہے، شاید", "en": "it may be, perhaps" } },
+    { "text": { "ur": "ہرگز نہیں", "en": "never" } },
+    { "text": { "ur": "بیشک", "en": "indeed" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "عَسٰى — ممکن ہے، امید ہے، شاید کہ۔",
+    "en": "عَسٰى — it may be, it is hoped, perhaps."
+   }
+  },
+  {
+   "id": "u2-l11-q2",
+   "type": "mcq",
+   "prompt": { "ur": "يَكُنَّ کے آخر میں نَّ کیا بتاتا ہے؟", "en": "What does the نَّ at the end of يَكُنَّ show?" },
+   "options": [
+    { "text": { "ur": "وہ سب عورتیں (نونِ نسواں)", "en": "they, women (feminine plural)" } },
+    { "text": { "ur": "وہ سب مرد", "en": "they, men" } },
+    { "text": { "ur": "ہم", "en": "we" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "نونِ نسواں عورتوں کی جمع بتاتا ہے: يَكُنَّ — وہ سب عورتیں ہوں۔ مردوں کے لیے يَكُوْنُوْا۔",
+    "en": "The feminine plural ن means “they (women)”: يَكُنَّ — they may be. For men it is يَكُوْنُوْا."
+   }
+  },
+  {
+   "id": "u2-l11-q3",
+   "type": "mcq",
+   "prompt": { "ur": "لَمْ يَتُبْ کا کیا مطلب ہے؟", "en": "What does لَمْ يَتُبْ mean?" },
+   "options": [
+    { "text": { "ur": "وہ توبہ کرتا ہے", "en": "he repents" } },
+    { "text": { "ur": "اس نے توبہ نہیں کی", "en": "he did not repent" } },
+    { "text": { "ur": "توبہ کرو", "en": "repent!" } }
+   ],
+   "answer": 1,
+   "explanation": {
+    "ur": "لَمْ مضارع کو ماضی کی نفی بنا دیتا ہے: يَتُوْبُ (وہ توبہ کرتا ہے) ← لَمْ يَتُبْ (اس نے توبہ نہیں کی)۔",
+    "en": "لَمْ turns a present verb into a negative past: يَتُوْبُ (he repents) → لَمْ يَتُبْ (he did not repent)."
+   }
+  },
+  {
+   "id": "u2-l11-q4",
+   "type": "mcq",
+   "prompt": { "ur": "يَتُوْبُ سے لَمْ يَتُبْ بنا تو کون سا حرف گر گیا؟", "en": "From يَتُوْبُ to لَمْ يَتُبْ, which letter dropped?" },
+   "options": [{ "ar": "و" }, { "ar": "ت" }, { "ar": "ب" }],
+   "answer": 0,
+   "explanation": {
+    "ur": "لَمْ آخری حرف کو ساکن کرتا ہے اور حرفِ علت (و) گر جاتا ہے: يَتُبْ۔",
+    "en": "لَمْ puts a sukun on the last letter and the weak letter (و) drops: يَتُبْ."
+   }
+  },
+  {
+   "id": "u2-l11-q5",
+   "type": "mcq",
+   "prompt": { "ur": "بِئْسَ کا الٹ کون سا لفظ ہے؟", "en": "What is the opposite of بِئْسَ?" },
+   "options": [{ "ar": "نِعْمَ" }, { "ar": "عَسٰى" }, { "ar": "لَمْ" }],
+   "answer": 0,
+   "explanation": {
+    "ur": "بِئْسَ — بہت ہی برا ہے؛ نِعْمَ — بہت ہی اچھا ہے۔",
+    "en": "بِئْسَ — how bad; نِعْمَ — how good."
+   }
+  },
+  {
+   "id": "u2-l11-q6",
+   "type": "mcq",
+   "prompt": { "ur": "اس آیت میں قَوْم سے کون مراد ہیں؟", "en": "In this verse, who does قَوْم refer to?" },
+   "options": [
+    { "text": { "ur": "مرد", "en": "men" } },
+    { "text": { "ur": "عورتیں", "en": "women" } },
+    { "text": { "ur": "بچے", "en": "children" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "یہاں قَوْم سے مرد مراد ہیں اور نِسَاء سے عورتیں — دونوں اسمِ اجتماعی ہیں۔",
+    "en": "Here قَوْم means men and نِسَاء women — both are collective nouns."
+   }
+  }
+ ]
+}

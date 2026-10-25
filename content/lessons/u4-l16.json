@@ -1,0 +1,138 @@
+{
+ "id": "u4-l16",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الفرقان کی آیت ۷۶ کو لفظ بہ لفظ سمجھیں — جنت کا ہمیشہ کا گھر — اور سیکھیں: خَالِدِيْنَ (ہمیشہ رہنے والے)، حَسُنَتْ (وہ اچھی ہے)، اور مُسْتَقَرّ اور مُقَام کا فرق۔",
+  "en": "Understand Al-Furqan 25:76 word by word — the everlasting home — and learn: خَالِدِيْنَ (abiding forever), حَسُنَتْ (it is good), and the difference between مُسْتَقَرّ and مُقَام."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "آیت ۶۶ کا الٹ", "en": "The opposite of verse 66" },
+   "body": {
+    "ur": "آیت ۶۶ میں جہنم کے بارے میں آیا: إِنَّهَا سَاءَتْ مُسْتَقَرًّا وَمُقَامًا — وہ بُرا ٹھکانہ ہے۔ یہاں جنت کے بارے میں: حَسُنَتْ مُسْتَقَرًّا وَمُقَامًا — وہ اچھا ٹھکانہ ہے۔",
+    "en": "Verse 66 said of Hell: إِنَّهَا سَاءَتْ مُسْتَقَرًّا وَمُقَامًا — an evil abode. Here, of Paradise: حَسُنَتْ مُسْتَقَرًّا وَمُقَامًا — an excellent abode."
+   }
+  },
+  {
+   "title": { "ur": "عارضی اور مستقل ٹھکانہ", "en": "Temporary and permanent home" },
+   "body": {
+    "ur": "مُسْتَقَرّ — ٹھہرنے کی جگہ (عارضی ٹھکانہ)؛ مُقَام — رہنے کی جگہ (مستقل)۔ جنت دونوں طرح سے بہترین ہے۔",
+    "en": "مُسْتَقَرّ — a place to stay (temporary); مُقَام — a place to live (permanent). Paradise is the best of both."
+   }
+  }
+ ],
+ "verse": { "surah": 25, "ayah": 76 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "ہمیشہ رہیں گے", "en": "abiding forever" },
+   "parts": [
+    { "text": "خَالِد", "role": "noun", "label": { "ur": "ہمیشہ رہنے والا", "en": "one who abides" } },
+    { "text": "يْنَ", "role": "particle", "label": { "ur": "جمع", "en": "plural" } }
+   ],
+   "pattern": "فَاعِل",
+   "patternMeaning": { "ur": "کام کرنے والا", "en": "the one who does the action" },
+   "why": { "ur": "خالد + ین: ہمیشہ رہنے والے — وہ ہمیشہ رہیں گے۔", "en": "خالد + ين: those who abide — they will stay forever." }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "اس میں", "en": "in it" },
+   "parts": [
+    { "text": "فِيْ", "role": "particle", "label": { "ur": "میں", "en": "in" } },
+    { "text": "هَا", "role": "noun", "label": { "ur": "اس (مؤنث)", "en": "it (f.)" } }
+   ],
+   "why": { "ur": "فی + ہا: اس میں — الغرفة (بالاخانہ) میں۔", "en": "في + ها: in it — the high chamber." }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "وہ اچھی ہے", "en": "excellent is it" },
+   "parts": [
+    { "text": "حَسُنَ", "role": "verb", "label": { "ur": "اچھا ہوا", "en": "was good" } },
+    { "text": "تْ", "role": "particle", "label": { "ur": "وہ (مؤنث)", "en": "she / it (f.)" } }
+   ],
+   "why": {
+    "ur": "حسن + ت: وہ اچھی ہے۔ ت مؤنث کی علامت ہے کیونکہ الغرفة مؤنث ہے۔ (حسن اردو میں بھی ہے۔)",
+    "en": "حسن + ت: it is good. The ت marks the feminine, because الغرفة is feminine. (Urdu has حسن, beauty.)"
+   }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "ٹھکانہ", "en": "as a dwelling" },
+   "parts": [
+    { "text": "مُسْتَقَرّ", "role": "noun", "label": { "ur": "ٹھہرنے کی جگہ", "en": "place of stay" } },
+    { "text": "ا", "role": "particle", "label": { "ur": "بطور", "en": "as" } }
+   ],
+   "why": { "ur": "مستقر — ٹھہرنے کی جگہ، عارضی ٹھکانہ۔ تنوین: بطور ٹھکانہ۔", "en": "مستقر — a place to stay, a temporary home. The tanween: as a dwelling." }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "اور رہنے کی جگہ", "en": "and as a residence" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "مُقَام", "role": "noun", "label": { "ur": "رہنے کی جگہ", "en": "residence" } },
+    { "text": "ا", "role": "particle", "label": { "ur": "بطور", "en": "as" } }
+   ],
+   "why": { "ur": "مقام — رہنے کی جگہ، مستقل ٹھکانہ۔", "en": "مقام — a place to live, a permanent home." }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2], "role": "noun", "label": { "ur": "وہ اس میں ہمیشہ رہیں گے", "en": "abiding in it forever" } },
+   { "words": [3, 4, 5], "role": "verb", "label": { "ur": "کیا ہی اچھا ٹھکانہ اور رہنے کی جگہ ہے", "en": "excellent as a dwelling and residence" } }
+  ],
+  "plain": {
+   "ur": "وہ اس بالاخانے میں ہمیشہ رہیں گے۔ وہ ٹھہرنے اور رہنے کی کیا ہی اچھی جگہ ہے — جہنم کے بالکل الٹ، جسے آیت ۶۶ میں بُرا ٹھکانہ کہا گیا۔",
+   "en": "They will abide there forever. How excellent it is as a dwelling and a residence — the exact opposite of Hell, called an evil abode in verse 66."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "حَسُنَتْ — اچھی ہے (جنت)؛ سَاءَتْ — بُری ہے (جہنم)۔",
+   "en": "حَسُنَتْ — it is good (Paradise); سَاءَتْ — it is evil (Hell)."
+  },
+  "points": [
+   { "ur": "خَالِدِيْنَ — ہمیشہ رہنے والے۔", "en": "خَالِدِيْنَ — abiding forever." },
+   { "ur": "مُسْتَقَرّ — عارضی ٹھکانہ؛ مُقَام — مستقل۔", "en": "مُسْتَقَرّ — temporary home; مُقَام — permanent." },
+   { "ur": "فعل کے آخر میں تْ — مؤنث کی علامت۔", "en": "A تْ at the end of a verb marks the feminine." }
+  ]
+ },
+ "check": [
+  {
+   "id": "u4-l16-q1",
+   "type": "mcq",
+   "prompt": { "ur": "خَالِدِيْنَ کا کیا مطلب ہے؟", "en": "What does خَالِدِيْنَ mean?" },
+   "arabic": "خَالِدِيْنَ",
+   "options": [
+    { "text": { "ur": "ہمیشہ رہنے والے", "en": "abiding forever" } },
+    { "text": { "ur": "داخل ہونے والے", "en": "entering" } },
+    { "text": { "ur": "نکلنے والے", "en": "leaving" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "خالد + ین: ہمیشہ رہنے والے۔", "en": "خالد + ين: those who abide forever." }
+  },
+  {
+   "id": "u4-l16-q2",
+   "type": "mcq",
+   "prompt": { "ur": "حَسُنَتْ میں تْ کیا بتاتا ہے؟", "en": "What does the تْ in حَسُنَتْ show?" },
+   "options": [
+    { "text": { "ur": "مؤنث — الغرفة کے لیے", "en": "feminine — for الغرفة" } },
+    { "text": { "ur": "جمع", "en": "plural" } },
+    { "text": { "ur": "میں نے", "en": "“I”" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "ت مؤنث کی علامت ہے کیونکہ بالاخانہ (الغرفة) مؤنث ہے۔", "en": "ت marks the feminine, because الغرفة (the chamber) is feminine." }
+  },
+  {
+   "id": "u4-l16-q3",
+   "type": "mcq",
+   "prompt": { "ur": "اس آیت کا الٹ کس آیت میں ہے؟", "en": "Which verse is the opposite of this one?" },
+   "options": [
+    { "text": { "ur": "آیت ۶۶ — سَاءَتْ مُسْتَقَرًّا وَمُقَامًا", "en": "verse 66 — سَاءَتْ مُسْتَقَرًّا وَمُقَامًا" } },
+    { "text": { "ur": "آیت ۷۱", "en": "verse 71" } },
+    { "text": { "ur": "آیت ۶۳", "en": "verse 63" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "آیت ۶۶ میں جہنم بُرا ٹھکانہ؛ یہاں جنت اچھا ٹھکانہ۔", "en": "Verse 66: Hell is an evil abode; here Paradise is an excellent one." }
+  }
+ ]
+}

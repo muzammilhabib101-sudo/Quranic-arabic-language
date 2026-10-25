@@ -1,0 +1,199 @@
+{
+ "id": "u4-l1",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الفرقان کی آیت ۶۱ کو لفظ بہ لفظ سمجھیں، اور سیکھیں: جَعَلَ (بنایا) کا ماضی اور مضارع، الَّذِيْ (جو — مذکر)، اور فِيْهَا میں ضمیر هَا (مؤنث) — السَّمَاء مؤنث ہے۔",
+  "en": "Understand Al-Furqan 25:61 word by word, and learn: the past and present of جَعَلَ (made), الَّذِيْ (who — masculine), and the pronoun هَا (feminine) in فِيْهَا — السَّمَاء is feminine."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "جَعَلَ — ماضی", "en": "جَعَلَ — past" },
+   "body": {
+    "ur": "جَعَلْتُ — میں نے بنایا، جَعَلْتَ — تم ایک مذکر نے، جَعَلْتِ — تم ایک مؤنث نے، جَعَلَتْ — اس ایک مؤنث نے، جَعَلُوْا — ان سب مذکر نے، جَعَلْنَ — ان سب مؤنث نے۔",
+    "en": "جَعَلْتُ — I made, جَعَلْتَ — you (m.), جَعَلْتِ — you (f.), جَعَلَتْ — she, جَعَلُوْا — they (m.), جَعَلْنَ — they (f.)."
+   }
+  },
+  {
+   "title": { "ur": "جَعَلَ — مضارع", "en": "جَعَلَ — present" },
+   "body": {
+    "ur": "يَجْعَلُ — وہ بناتا ہے یا بنائے گا، تَجْعَلُ — آپ بناتے ہیں، أَجْعَلُ — میں بناتا ہوں، نَجْعَلُ — ہم بناتے ہیں۔",
+    "en": "يَجْعَلُ — he makes, تَجْعَلُ — you make, أَجْعَلُ — I make, نَجْعَلُ — we make."
+   }
+  }
+ ],
+ "verse": { "surah": 25, "ayah": 61 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "بڑی برکت والا ہے", "en": "blessed is" },
+   "parts": [{ "text": "تَبَارَكَ", "role": "verb", "label": { "ur": "مبارک ہے", "en": "blessed" } }],
+   "why": {
+    "ur": "تَبَارَكَ — مبارک ہے، بڑی برکت والا ہے، بڑا نفع دینے والا ہے۔ متبرک — یعنی بڑا نفع دینے والا — اردو میں مستعمل ہے۔",
+    "en": "تَبَارَكَ — blessed, full of blessing, of great benefit. Urdu uses متبرک (blessed) from the same root."
+   }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "وہ ذات جو", "en": "the One who" },
+   "parts": [{ "text": "الَّذِيْ", "role": "noun", "label": { "ur": "جو ہستی (مذکر)", "en": "who (m.)" } }],
+   "why": { "ur": "الَّذِيْ — جو ہستی؛ مذکر کے لیے استعمال ہوتا ہے۔", "en": "الَّذِيْ — the One who; used for the masculine." }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "بنائے", "en": "placed, made" },
+   "parts": [{ "text": "جَعَلَ", "role": "verb", "label": { "ur": "بنایا", "en": "made" } }],
+   "why": {
+    "ur": "جَعَلَ — بنایا (جعل اردو میں مستعمل)۔ يَجْعَلُ — وہ بناتا ہے یا بنائے گا، تَجْعَلُ — آپ بناتے ہیں، أَجْعَلُ — میں بناتا ہوں، نَجْعَلُ — ہم بناتے ہیں۔",
+    "en": "جَعَلَ — made (Urdu جعل). يَجْعَلُ — he makes, تَجْعَلُ — you make, أَجْعَلُ — I make, نَجْعَلُ — we make."
+   }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "میں", "en": "in" },
+   "parts": [{ "text": "فِيْ", "role": "particle", "label": { "ur": "میں", "en": "in" } }],
+   "why": { "ur": "فِيْ — میں؛ اردو میں فی الحقیقت۔", "en": "فِيْ — in; Urdu فی الحقیقت." }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "آسمان", "en": "the sky" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "علامتِ معرفہ", "en": "the" } },
+    { "text": "سَّمَاء", "role": "noun", "label": { "ur": "آسمان، بلندی", "en": "sky, height" } }
+   ],
+   "why": {
+    "ur": "ال + سماء: آسمان، بلندی؛ ال علامتِ معرفہ ہے۔ اردو میں: ”اے ارض و سماء کے مالک“۔",
+    "en": "ال + سماء: the sky, the heights; ال makes it definite. Urdu says “O Owner of earth and sky (ارض و سماء)”."
+   }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "برج", "en": "great stars" },
+   "parts": [{ "text": "بُرُوْج", "role": "noun", "label": { "ur": "برج، مینار، قلعے", "en": "towers, constellations" } }],
+   "why": {
+    "ur": "بُرُوْج — برج، مینار، قلعہ، ستون، گنبد؛ یہاں آسمان کے بڑے ستارے اور برج۔",
+    "en": "بُرُوْج — towers, fortresses, domes; here the great stars and constellations of the sky."
+   }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "اور بنایا", "en": "and placed" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "جَعَلَ", "role": "verb", "label": { "ur": "بنایا", "en": "made" } }
+   ],
+   "why": { "ur": "وَ — اور، جَعَلَ — بنایا۔", "en": "وَ — and, جَعَلَ — made." }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "اس میں", "en": "in it" },
+   "parts": [
+    { "text": "فِيْ", "role": "particle", "label": { "ur": "میں", "en": "in" } },
+    { "text": "هَا", "role": "noun", "label": { "ur": "اس (مؤنث)", "en": "it (f.)" } }
+   ],
+   "why": {
+    "ur": "فی + ہا: اس میں (آسمان میں)۔ هَا مؤنث کی ضمیر ہے، کیونکہ السَّمَاء مؤنث ہے۔",
+    "en": "في + ها: in it (the sky). هَا is the feminine pronoun, because السَّمَاء is feminine."
+   }
+  },
+  {
+   "position": 9,
+   "meaning": { "ur": "چراغ (سورج)", "en": "a lamp (the sun)" },
+   "parts": [{ "text": "سِرَاج", "role": "noun", "label": { "ur": "سورج، چراغ، دِیا", "en": "lamp, sun" } }],
+   "why": { "ur": "سِرَاج — سورج، چراغ، دِیا؛ اردو میں مستعمل (سراج)۔", "en": "سِرَاج — lamp, the sun; Urdu has سراج." }
+  },
+  {
+   "position": 10,
+   "meaning": { "ur": "اور چاند", "en": "and a moon" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "قَمَر", "role": "noun", "label": { "ur": "چاند", "en": "moon" } }
+   ],
+   "why": { "ur": "قَمَر — چاند؛ اردو میں مستعمل (قمری مہینے)۔", "en": "قَمَر — moon; Urdu has قمر (قمری, lunar)." }
+  },
+  {
+   "position": 11,
+   "meaning": { "ur": "روشن", "en": "shining" },
+   "parts": [{ "text": "مُنِيْر", "role": "noun", "label": { "ur": "منور، روشن", "en": "shining" } }],
+   "why": {
+    "ur": "مُنِيْر — منور، روشن، چمکدار، خوش رنگ؛ اردو میں مستعمل۔ وَجَعَلَ فِيْهَا سِرَاجًا وَّقَمَرًا مُّنِيْرًا — اور اس میں روشن سورج اور چمکتا چاند بنایا۔",
+    "en": "مُنِيْر — shining, bright; used in Urdu. وَجَعَلَ فِيْهَا سِرَاجًا وَّقَمَرًا مُّنِيْرًا — and placed in it a lamp and a shining moon."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2], "role": "verb", "label": { "ur": "بڑی برکت والا ہے وہ جس نے", "en": "blessed is He who" } },
+   { "words": [3, 4, 5, 6], "role": "verb", "label": { "ur": "آسمان میں برج بنائے", "en": "placed great stars in the sky" } },
+   { "words": [7, 8, 9], "role": "verb", "label": { "ur": "اور اس میں چراغ (سورج) رکھا", "en": "and placed in it a lamp" } },
+   { "words": [10, 11], "role": "noun", "label": { "ur": "اور روشن چاند", "en": "and a shining moon" } }
+  ],
+  "plain": {
+   "ur": "وہ بڑی برکت والا ہے جس نے آسمان میں برج بنائے، اور اس میں چراغ (چمکتا سورج) اور منور چاند بنایا۔ یہاں سے سورۃ الفرقان کا وہ حصہ شروع ہوتا ہے جو ”عباد الرحمٰن“ — رحمٰن کے بندوں — کی صفات بیان کرتا ہے؛ پہلے اللہ کی قدرت کی نشانیاں دکھائی جاتی ہیں۔",
+   "en": "Blessed is He who placed great stars in the sky, and placed in it a lamp (the blazing sun) and a shining moon. Here begins the part of Al-Furqan that describes “the servants of the Most Merciful”; first come signs of Allah's power."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "ضمیر اپنے اسم کی جنس کے مطابق آتی ہے: السَّمَاء مؤنث ہے، اس لیے فِيْهَا (اس مؤنث میں)۔",
+   "en": "A pronoun matches its noun's gender: السَّمَاء is feminine, so فِيْهَا (in it, f.)."
+  },
+  "points": [
+   { "ur": "جَعَلَ — بنایا؛ يَجْعَلُ، تَجْعَلُ، أَجْعَلُ، نَجْعَلُ۔", "en": "جَعَلَ — made; يَجْعَلُ, تَجْعَلُ, أَجْعَلُ, نَجْعَلُ." },
+   { "ur": "الَّذِيْ — جو (مذکر)؛ الَّتِيْ — جو (مؤنث)۔", "en": "الَّذِيْ — who (m.); الَّتِيْ — who (f.)." },
+   { "ur": "سِرَاج — سورج، چراغ؛ قَمَر — چاند؛ مُنِيْر — روشن۔", "en": "سِرَاج — lamp, sun; قَمَر — moon; مُنِيْر — shining." }
+  ]
+ },
+ "check": [
+  {
+   "id": "u4-l1-q1",
+   "type": "mcq",
+   "prompt": { "ur": "فِيْهَا میں هَا (مؤنث) کیوں ہے؟", "en": "Why is the feminine هَا used in فِيْهَا?" },
+   "options": [
+    { "text": { "ur": "کیونکہ السَّمَاء مؤنث ہے", "en": "Because السَّمَاء is feminine" } },
+    { "text": { "ur": "کیونکہ یہ جمع ہے", "en": "Because it is plural" } },
+    { "text": { "ur": "کیونکہ یہ سوال ہے", "en": "Because it is a question" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "هَا آسمان کی طرف لوٹتی ہے، اور السَّمَاء مؤنث ہے۔", "en": "هَا refers to the sky, and السَّمَاء is feminine." }
+  },
+  {
+   "id": "u4-l1-q2",
+   "type": "mcq",
+   "prompt": { "ur": "جَعَلُوْا کا کیا مطلب ہے؟", "en": "What does جَعَلُوْا mean?" },
+   "arabic": "جَعَلُوْا",
+   "options": [
+    { "text": { "ur": "ان سب نے بنایا", "en": "they made" } },
+    { "text": { "ur": "میں نے بنایا", "en": "I made" } },
+    { "text": { "ur": "وہ بناتا ہے", "en": "he makes" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "جَعَلَ + وا (جمع): ان سب مذکر نے بنایا۔ میں نے — جَعَلْتُ۔", "en": "جَعَلَ + وا (plural): they made. “I made” is جَعَلْتُ." }
+  },
+  {
+   "id": "u4-l1-q3",
+   "type": "mcq",
+   "prompt": { "ur": "قَمَر کا کیا معنی ہے؟", "en": "What does قَمَر mean?" },
+   "arabic": "قَمَر",
+   "options": [
+    { "text": { "ur": "چاند", "en": "moon" } },
+    { "text": { "ur": "سورج", "en": "sun" } },
+    { "text": { "ur": "ستارہ", "en": "star" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "قَمَر — چاند؛ سورج کے لیے یہاں سِرَاج آیا ہے۔", "en": "قَمَر — moon; here the sun is called سِرَاج." }
+  },
+  {
+   "id": "u4-l1-q4",
+   "type": "mcq",
+   "prompt": { "ur": "نَجْعَلُ کا کیا مطلب ہے؟", "en": "What does نَجْعَلُ mean?" },
+   "arabic": "نَجْعَلُ",
+   "options": [
+    { "text": { "ur": "ہم بناتے ہیں", "en": "we make" } },
+    { "text": { "ur": "میں بناتا ہوں", "en": "I make" } },
+    { "text": { "ur": "آپ بناتے ہیں", "en": "you make" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "شروع کا ن — ہم: نَجْعَلُ — ہم بناتے ہیں۔", "en": "ن at the start — we: نَجْعَلُ — we make." }
+  }
+ ]
+}

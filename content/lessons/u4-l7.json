@@ -1,0 +1,205 @@
+{
+ "id": "u4-l7",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الفرقان کی آیت ۶۷ کو لفظ بہ لفظ سمجھیں — خرچ میں اعتدال — اور سیکھیں: نفی کے تین حروف لَمْ، لَنْ، لَا؛ اور جب شروع میں إِذَا ہو اور پھر لَمْ آئے تو ترجمہ کیسے بدلتا ہے۔",
+  "en": "Understand Al-Furqan 25:67 word by word — balance in spending — and learn: the three negatives لَمْ, لَنْ, لَا; and how the translation changes when إِذَا comes first and لَمْ follows."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "نفی کے تین حروف", "en": "Three negatives" },
+   "body": {
+    "ur": "لَمْ — نفی کرتا ہے، مضارع سے پہلے آتا ہے اور فعل کو ماضی میں بدل دیتا ہے؛ لَنْ — نفی کرتا ہے، مضارع سے پہلے آتا ہے اور اسے مستقبل میں بدل دیتا ہے؛ لَا — نہیں، منع کرنے کے لیے۔",
+    "en": "لَمْ — negates and turns a present verb into the past; لَنْ — negates and turns it into the future; لَا — not, also used to forbid."
+   }
+  },
+  {
+   "title": { "ur": "إِذَا + لَمْ", "en": "إِذَا + لَمْ" },
+   "body": {
+    "ur": "لَمْ نے مضارع کی ماضی میں نفی کر دی، مگر شروع میں إِذَا نے اس ماضی کو پھر مضارع میں بدل دیا: لَمْ يُسْرِفُوْا — وہ فضول خرچی نہیں کرتے۔",
+    "en": "لَمْ makes the present a negative past, but إِذَا at the start turns that past back into the present: لَمْ يُسْرِفُوْا — they do not overspend."
+   }
+  }
+ ],
+ "verse": { "surah": 25, "ayah": 67 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "اور وہ جو", "en": "and those who" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "الَّذِيْنَ", "role": "noun", "label": { "ur": "جو اشخاص", "en": "those who" } }
+   ],
+   "why": { "ur": "وَ — اور، الَّذِيْنَ — جو اشخاص۔", "en": "وَ — and, الَّذِيْنَ — those who." }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "جب", "en": "when" },
+   "parts": [{ "text": "إِذَا", "role": "noun", "label": { "ur": "جب", "en": "when" } }],
+   "why": {
+    "ur": "إِذَا — جب؛ ماضی سے پہلے آتا ہے اور اسے مضارع میں بدل دیتا ہے۔",
+    "en": "إِذَا — when; before a past verb it turns it into the present."
+   }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "وہ خرچ کرتے ہیں", "en": "they spend" },
+   "parts": [
+    { "text": "أَنْفَقَ", "role": "verb", "label": { "ur": "خرچ کیا (ماضی)", "en": "spent (past)" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "علامتِ جمع", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "انفق + وا: انفاق کیا، خرچ کیا۔ ماضی سے پہلے إِذَا آیا ہے، اس لیے ترجمہ مضارع میں کریں گے: وہ سب جب خرچ کرتے ہیں۔ وَالَّذِيْنَ إِذَا أَنْفَقُوْا — وہ لوگ جب خرچ کرتے ہیں۔",
+    "en": "أنفق + وا: spent (Urdu انفاق). إِذَا comes before the past verb, so we translate in the present: when they spend. وَالَّذِيْنَ إِذَا أَنْفَقُوْا — those who, when they spend."
+   }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "نہیں", "en": "not" },
+   "parts": [{ "text": "لَمْ", "role": "particle", "label": { "ur": "نفی", "en": "not" } }],
+   "why": {
+    "ur": "لَمْ — نفی کے لیے؛ مضارع سے پہلے آتا ہے اور فعل کو ماضی میں بدل دیتا ہے۔ لَنْ — مضارع کو مستقبل کی نفی بنا دیتا ہے؛ لَا — نہیں، منع کرنا۔",
+    "en": "لَمْ — negation; before a present verb it gives a past meaning. لَنْ — negates the future; لَا — not, forbidding."
+   }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "اسراف کرتے", "en": "overspend" },
+   "parts": [
+    { "text": "يُ", "role": "particle", "label": { "ur": "فعلِ مضارع کی علامت", "en": "present-tense sign" } },
+    { "text": "سْرِفُ", "role": "verb", "label": { "ur": "اسراف، فضول خرچی", "en": "waste" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "علامتِ جمع", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ی + سرف + وا: اسراف — فضول خرچی۔ چونکہ پہلے لَمْ کا استعمال ہوا، اس نے مضارع کی ماضی میں نفی کر دی؛ اور شروع میں إِذَا نے اس ماضی کو پھر مضارع میں بدل دیا۔ لَمْ يُسْرِفُوْا — وہ فضول خرچی نہیں کرتے۔",
+    "en": "ی + سرف + وا: اسراف — wasteful spending. لَمْ made it a negative past, and إِذَا at the start turned it back to the present. لَمْ يُسْرِفُوْا — they do not overspend."
+   }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "اور نہیں", "en": "and not" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "لَمْ", "role": "particle", "label": { "ur": "نفی", "en": "not" } }
+   ],
+   "why": { "ur": "وَ — اور، لَمْ — نفی۔", "en": "وَ — and, لَمْ — not." }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "بخل کرتے", "en": "are stingy" },
+   "parts": [
+    { "text": "يَ", "role": "particle", "label": { "ur": "مضارع کی علامت", "en": "present-tense sign" } },
+    { "text": "قْتُرُ", "role": "verb", "label": { "ur": "تنگی سے گزارہ کرنا", "en": "be stingy" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "علامتِ جمع", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ی + قتر + وا۔ قتر — تنگی سے گزارہ کرنا، چمٹ جانا، بخل کرنا؛ قطرہ قطرہ کر کے جمع کرنا بخل کی طرف اشارہ ہے۔ یہاں بھی لَمْ اور إِذَا کی وجہ سے: لَمْ يَقْتُرُوْا — وہ بخل نہیں کرتے۔",
+    "en": "ی + قتر + وا. قتر — living narrowly, clinging, being stingy; gathering drop by drop. Again because of لَمْ and إِذَا: لَمْ يَقْتُرُوْا — they are not stingy."
+   }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "اور ہوتا ہے", "en": "and is" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "كَانَ", "role": "verb", "label": { "ur": "ہوتا ہے", "en": "is" } }
+   ],
+   "why": { "ur": "كَانَ — ہوتا ہے۔", "en": "كَانَ — is." }
+  },
+  {
+   "position": 9,
+   "meaning": { "ur": "درمیان", "en": "between" },
+   "parts": [{ "text": "بَيْنَ", "role": "noun", "label": { "ur": "درمیان میں", "en": "between" } }],
+   "why": { "ur": "بَيْنَ — درمیان میں۔", "en": "بَيْنَ — between." }
+  },
+  {
+   "position": 10,
+   "meaning": { "ur": "اس کے", "en": "that" },
+   "parts": [{ "text": "ذٰلِكَ", "role": "noun", "label": { "ur": "وہ (اسمِ اشارہ دور کے لیے)", "en": "that (far)" } }],
+   "why": { "ur": "ذٰلِكَ — اسمِ اشارہ دور کے لیے: وہ۔", "en": "ذٰلِكَ — a pointing word for something far: that." }
+  },
+  {
+   "position": 11,
+   "meaning": { "ur": "اعتدال", "en": "moderate" },
+   "parts": [{ "text": "قَوَام", "role": "noun", "label": { "ur": "سیدھی سادھی گزران، میانہ روی", "en": "balance" } }],
+   "why": {
+    "ur": "قَوَامًا — سیدھی سادھی گزران، اعتدال، میانہ روی۔ وَكَانَ بَيْنَ ذٰلِكَ قَوَامًا — بلکہ ان کا خرچ دونوں انتہاؤں کے درمیان اعتدال پر قائم ہوتا ہے۔",
+    "en": "قَوَامًا — a simple, upright way of living, moderation. وَكَانَ بَيْنَ ذٰلِكَ قَوَامًا — their spending stays balanced between the two extremes."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2, 3], "role": "verb", "label": { "ur": "اور وہ جب خرچ کرتے ہیں", "en": "and when they spend" } },
+   { "words": [4, 5], "role": "verb", "label": { "ur": "تو فضول خرچی نہیں کرتے", "en": "they do not overspend" } },
+   { "words": [6, 7], "role": "verb", "label": { "ur": "اور نہ بخل کرتے ہیں", "en": "nor are they stingy" } },
+   { "words": [8, 9, 10, 11], "role": "noun", "label": { "ur": "بلکہ ان کے درمیان اعتدال پر رہتے ہیں", "en": "but keep a balance between" } }
+  ],
+  "plain": {
+   "ur": "اور وہ لوگ جب خرچ کرتے ہیں تو نہ اسراف کرتے ہیں اور نہ بخل، بلکہ ان کا خرچ دونوں انتہاؤں کے درمیان اعتدال پر قائم ہوتا ہے۔ رحمٰن کے بندوں کی ایک اور صفت: میانہ روی۔",
+   "en": "And those who, when they spend, neither overspend nor are stingy, but keep a balance between the two. Another quality of the servants of the Most Merciful: moderation."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "لَمْ — ماضی کی نفی، لَنْ — مستقبل کی نفی، لَا — نہیں / منع۔",
+   "en": "لَمْ — negative past, لَنْ — negative future, لَا — not / forbidding."
+  },
+  "points": [
+   { "ur": "إِذَا شروع میں ہو تو لَمْ والا ماضی پھر مضارع بن جاتا ہے: لَمْ يُسْرِفُوْا — وہ فضول خرچی نہیں کرتے۔", "en": "With إِذَا first, the لَمْ-past becomes present again: لَمْ يُسْرِفُوْا — they do not overspend." },
+   { "ur": "اسراف — فضول خرچی؛ قتر — بخل؛ قَوَام — اعتدال۔", "en": "اسراف — waste; قتر — stinginess; قَوَام — balance." },
+   { "ur": "ذٰلِكَ — وہ (دور کے لیے اشارہ)۔", "en": "ذٰلِكَ — that (pointing far)." }
+  ]
+ },
+ "check": [
+  {
+   "id": "u4-l7-q1",
+   "type": "mcq",
+   "prompt": { "ur": "لَنْ مضارع کو کس زمانے کی نفی بناتا ہے؟", "en": "لَنْ turns a present verb into a negative of which time?" },
+   "options": [
+    { "text": { "ur": "مستقبل", "en": "the future" } },
+    { "text": { "ur": "ماضی", "en": "the past" } },
+    { "text": { "ur": "کوئی نہیں", "en": "none" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "لَنْ — مستقبل کی نفی؛ لَمْ — ماضی کی نفی۔", "en": "لَنْ — negative future; لَمْ — negative past." }
+  },
+  {
+   "id": "u4-l7-q2",
+   "type": "mcq",
+   "prompt": { "ur": "لَمْ يُسْرِفُوْا کا ترجمہ یہاں کیا ہے؟", "en": "How is لَمْ يُسْرِفُوْا translated here?" },
+   "options": [
+    { "text": { "ur": "وہ فضول خرچی نہیں کرتے", "en": "they do not overspend" } },
+    { "text": { "ur": "انہوں نے کبھی خرچ نہیں کیا", "en": "they never spent" } },
+    { "text": { "ur": "فضول خرچی کرو", "en": "overspend!" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "لَمْ نے ماضی بنایا، مگر شروع کے إِذَا نے پھر مضارع کر دیا: وہ فضول خرچی نہیں کرتے۔", "en": "لَمْ makes it past, but إِذَا at the start makes it present again: they do not overspend." }
+  },
+  {
+   "id": "u4-l7-q3",
+   "type": "mcq",
+   "prompt": { "ur": "قَوَام کا کیا معنی ہے؟", "en": "What does قَوَام mean?" },
+   "arabic": "قَوَام",
+   "options": [
+    { "text": { "ur": "اعتدال، میانہ روی", "en": "balance, moderation" } },
+    { "text": { "ur": "فضول خرچی", "en": "waste" } },
+    { "text": { "ur": "بخل", "en": "stinginess" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "قَوَام — سیدھی سادھی گزران، اعتدال۔", "en": "قَوَام — a balanced, upright way: moderation." }
+  },
+  {
+   "id": "u4-l7-q4",
+   "type": "mcq",
+   "prompt": { "ur": "أَنْفَقُوْا کا کیا مطلب ہے؟", "en": "What does أَنْفَقُوْا mean?" },
+   "options": [
+    { "text": { "ur": "انہوں نے خرچ کیا", "en": "they spent" } },
+    { "text": { "ur": "انہوں نے جمع کیا", "en": "they saved" } },
+    { "text": { "ur": "انہوں نے مانگا", "en": "they asked" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "انفق (خرچ کیا — انفاق) + وا (جمع): انہوں نے خرچ کیا۔", "en": "أنفق (spent — Urdu انفاق) + وا (plural): they spent." }
+  }
+ ]
+}

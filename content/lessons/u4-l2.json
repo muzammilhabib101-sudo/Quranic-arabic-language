@@ -1,0 +1,212 @@
+{
+ "id": "u4-l2",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الفرقان کی آیت ۶۲ کو لفظ بہ لفظ سمجھیں، اور سیکھیں: الگ ضمیریں هُوَ، هِيَ، هُمَا، هُمْ، هُنَّ؛ أَرَادَ (چاہا) کا مضارع؛ اور يَذَّكَّرَ میں مضارع کی علامت۔",
+  "en": "Understand Al-Furqan 25:62 word by word, and learn: the separate pronouns هُوَ, هِيَ, هُمَا, هُمْ, هُنَّ; the present of أَرَادَ (wanted); and the present-tense sign in يَذَّكَّرَ."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "الگ ضمیریں", "en": "Separate pronouns" },
+   "body": {
+    "ur": "هُوَ — وہ ایک مذکر، هِيَ — وہ ایک مؤنث، هُمَا — وہ دو مذکر یا دو مؤنث، هُمْ — وہ سب مذکر، هُنَّ — وہ سب مؤنث۔",
+    "en": "هُوَ — he, هِيَ — she, هُمَا — they two, هُمْ — they (m.), هُنَّ — they (f.)."
+   }
+  },
+  {
+   "title": { "ur": "أَرَادَ — چاہنا", "en": "أَرَادَ — to want" },
+   "body": {
+    "ur": "أَرَادَ — اس نے چاہا؛ يُرِيْدُ — وہ چاہتا ہے یا چاہے گا، تُرِيْدُ — آپ چاہتے ہیں، أُرِيْدُ — میں چاہتا ہوں، نُرِيْدُ — ہم چاہتے ہیں۔ ارادہ اردو میں مستعمل ہے۔",
+    "en": "أَرَادَ — he wanted; يُرِيْدُ — he wants, تُرِيْدُ — you want, أُرِيْدُ — I want, نُرِيْدُ — we want. Urdu has ارادہ (intention)."
+   }
+  }
+ ],
+ "verse": { "surah": 25, "ayah": 62 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "اور وہ", "en": "and He" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "هُوَ", "role": "noun", "label": { "ur": "وہ (مذکر)", "en": "He" } }
+   ],
+   "why": {
+    "ur": "وَ — اور، هُوَ — وہ (ایک مذکر)۔ باقی ضمیریں: هِيَ — وہ ایک مؤنث، هُمَا — وہ دونوں، هُمْ — وہ سب مذکر، هُنَّ — وہ سب مؤنث۔",
+    "en": "وَ — and, هُوَ — He (one, m.). The others: هِيَ — she, هُمَا — they two, هُمْ — they (m.), هُنَّ — they (f.)."
+   }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "وہی ہے جو", "en": "the One who" },
+   "parts": [{ "text": "الَّذِيْ", "role": "noun", "label": { "ur": "جو ایک شخص", "en": "who" } }],
+   "why": { "ur": "الَّذِيْ — جو ایک شخص۔", "en": "الَّذِيْ — who (one, m.)." }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "اس نے بنایا", "en": "made" },
+   "parts": [{ "text": "جَعَلَ", "role": "verb", "label": { "ur": "بنایا", "en": "made" } }],
+   "why": { "ur": "جَعَلَ — اس نے بنایا۔", "en": "جَعَلَ — He made." }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "رات", "en": "the night" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "لَّيْل", "role": "noun", "label": { "ur": "رات", "en": "night" } }
+   ],
+   "why": { "ur": "اللَّيْل — رات؛ اردو میں مستعمل (لیل و نہار)۔", "en": "اللَّيْل — night; Urdu has لیل و نہار (night and day)." }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "اور دن", "en": "and the day" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "نَّهَار", "role": "noun", "label": { "ur": "دن", "en": "day" } }
+   ],
+   "why": { "ur": "النَّهَار — دن، نہار؛ اردو میں مستعمل۔", "en": "النَّهَار — day; Urdu نہار." }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "ایک دوسرے کا جانشین", "en": "following one another" },
+   "parts": [{ "text": "خِلْفَة", "role": "noun", "label": { "ur": "ایک دوسرے کے پیچھے آنے والا", "en": "succession" } }],
+   "why": {
+    "ur": "خِلْفَة — ایک دوسرے کے پیچھے آنے والا، جانشین؛ اسی سے خلیفہ۔ وَهُوَ الَّذِيْ جَعَلَ اللَّيْلَ وَالنَّهَارَ خِلْفَةً — اور وہی ہے جس نے رات اور دن کو ایک دوسرے کا جانشین بنایا۔",
+    "en": "خِلْفَة — one following another, succession; خلیفہ (successor) comes from it. وَهُوَ الَّذِيْ جَعَلَ اللَّيْلَ وَالنَّهَارَ خِلْفَةً — and He is the One who made night and day follow one another."
+   }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "اس کے لیے جو", "en": "for whoever" },
+   "parts": [
+    { "text": "لِ", "role": "particle", "label": { "ur": "کے لیے", "en": "for" } },
+    { "text": "مَنْ", "role": "noun", "label": { "ur": "جو، کون", "en": "whoever" } }
+   ],
+   "why": { "ur": "ل + مَنْ: اس کے لیے جو (مَنْ — جو / کون)۔", "en": "ل + مَنْ: for whoever (مَنْ — who, whoever)." }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "چاہے", "en": "wants" },
+   "parts": [{ "text": "أَرَادَ", "role": "verb", "label": { "ur": "ارادہ، چاہا", "en": "wanted" } }],
+   "why": {
+    "ur": "أَرَادَ — اس نے چاہا (ارادہ)۔ يُرِيْدُ — وہ چاہتا ہے، تُرِيْدُ — آپ چاہتے ہیں، أُرِيْدُ — میں چاہتا ہوں، نُرِيْدُ — ہم چاہتے ہیں۔",
+    "en": "أَرَادَ — he wanted (Urdu ارادہ). يُرِيْدُ — he wants, تُرِيْدُ — you want, أُرِيْدُ — I want, نُرِيْدُ — we want."
+   }
+  },
+  {
+   "position": 9,
+   "meaning": { "ur": "کہ", "en": "to" },
+   "parts": [{ "text": "أَنْ", "role": "particle", "label": { "ur": "کہ", "en": "that" } }],
+   "why": { "ur": "أَنْ — کہ۔", "en": "أَنْ — that, to." }
+  },
+  {
+   "position": 10,
+   "meaning": { "ur": "یاد دہانی حاصل کرے", "en": "remember" },
+   "parts": [
+    { "text": "يَ", "role": "particle", "label": { "ur": "علامتِ مضارع", "en": "present-tense sign" } },
+    { "text": "ذَّكَّرَ", "role": "verb", "label": { "ur": "یاد کیا", "en": "remember" } }
+   ],
+   "why": {
+    "ur": "ی + ذکر: ی علامتِ مضارع، ذَكَرَ — یاد کیا۔ يَذَّكَّرَ — وہ یاد کرتا ہے یا یاد کرے گا، نصیحت پکڑے۔",
+    "en": "ی + ذكر: ی is the present-tense sign, ذَكَرَ — remembered. يَذَّكَّرَ — he remembers, takes heed."
+   }
+  },
+  {
+   "position": 11,
+   "meaning": { "ur": "یا", "en": "or" },
+   "parts": [{ "text": "أَوْ", "role": "particle", "label": { "ur": "یا", "en": "or" } }],
+   "why": { "ur": "أَوْ — یا۔", "en": "أَوْ — or." }
+  },
+  {
+   "position": 12,
+   "meaning": { "ur": "چاہے", "en": "wants" },
+   "parts": [{ "text": "أَرَادَ", "role": "verb", "label": { "ur": "ارادہ", "en": "wanted" } }],
+   "why": { "ur": "أَرَادَ — ارادہ کیا۔", "en": "أَرَادَ — wanted." }
+  },
+  {
+   "position": 13,
+   "meaning": { "ur": "شکرگزار ہونا", "en": "to be grateful" },
+   "parts": [{ "text": "شُكُوْر", "role": "noun", "label": { "ur": "شکرگزاری", "en": "gratitude" } }],
+   "why": {
+    "ur": "شُكُوْر — شکرگزاری؛ اردو میں مشکور مستعمل ہے۔ لِمَنْ أَرَادَ أَنْ يَّذَّكَّرَ أَوْ أَرَادَ شُكُوْرًا — ان کے لیے جو یاد دہانی حاصل کرنا اور مشکور ہونا چاہیں۔",
+    "en": "شُكُوْر — gratitude; Urdu has مشکور (grateful). لِمَنْ أَرَادَ أَنْ يَّذَّكَّرَ أَوْ أَرَادَ شُكُوْرًا — for whoever wants to remember or wants to be grateful."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2, 3], "role": "verb", "label": { "ur": "اور وہی ہے جس نے بنایا", "en": "and He is the One who made" } },
+   { "words": [4, 5, 6], "role": "noun", "label": { "ur": "رات اور دن کو ایک دوسرے کے پیچھے", "en": "night and day in succession" } },
+   { "words": [7, 8, 9, 10], "role": "verb", "label": { "ur": "اس کے لیے جو نصیحت لینا چاہے", "en": "for whoever wants to remember" } },
+   { "words": [11, 12, 13], "role": "verb", "label": { "ur": "یا شکرگزار ہونا چاہے", "en": "or wants to be grateful" } }
+  ],
+  "plain": {
+   "ur": "اور وہی ہے جس نے رات اور دن کو ایک دوسرے کا جانشین بنایا، ان کے لیے جو یاد دہانی حاصل کرنا اور مشکور ہونا چاہیں۔ دن رات کا آنا جانا ہر شخص کے لیے نشانی ہے — مگر اس سے فائدہ وہی اٹھاتا ہے جو سوچنا اور شکر کرنا چاہے۔",
+   "en": "And He is the One who made night and day follow one another, for whoever wants to remember or to be grateful. The coming and going of night and day is a sign for everyone — but only those who want to reflect and give thanks benefit from it."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "الگ ضمیریں: هُوَ، هِيَ، هُمَا، هُمْ، هُنَّ — وہ (مذکر)، وہ (مؤنث)، وہ دونوں، وہ سب (مذکر)، وہ سب (مؤنث)۔",
+   "en": "Separate pronouns: هُوَ, هِيَ, هُمَا, هُمْ, هُنَّ — he, she, they two, they (m.), they (f.)."
+  },
+  "points": [
+   { "ur": "أَرَادَ — چاہا؛ يُرِيْدُ، تُرِيْدُ، أُرِيْدُ، نُرِيْدُ۔", "en": "أَرَادَ — wanted; يُرِيْدُ, تُرِيْدُ, أُرِيْدُ, نُرِيْدُ." },
+   { "ur": "اللَّيْل — رات، النَّهَار — دن؛ خِلْفَة — ایک دوسرے کے پیچھے۔", "en": "اللَّيْل — night, النَّهَار — day; خِلْفَة — in succession." },
+   { "ur": "أَوْ — یا؛ لِمَنْ — اس کے لیے جو۔", "en": "أَوْ — or; لِمَنْ — for whoever." }
+  ]
+ },
+ "check": [
+  {
+   "id": "u4-l2-q1",
+   "type": "mcq",
+   "prompt": { "ur": "هُنَّ کا کیا مطلب ہے؟", "en": "What does هُنَّ mean?" },
+   "arabic": "هُنَّ",
+   "options": [
+    { "text": { "ur": "وہ سب (مؤنث)", "en": "they (f.)" } },
+    { "text": { "ur": "وہ ایک (مذکر)", "en": "he" } },
+    { "text": { "ur": "وہ دونوں", "en": "they two" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "هُنَّ — وہ سب مؤنث؛ هُوَ — وہ ایک مذکر؛ هُمَا — وہ دونوں۔", "en": "هُنَّ — they (f.); هُوَ — he; هُمَا — they two." }
+  },
+  {
+   "id": "u4-l2-q2",
+   "type": "mcq",
+   "prompt": { "ur": "أُرِيْدُ کا کیا مطلب ہے؟", "en": "What does أُرِيْدُ mean?" },
+   "arabic": "أُرِيْدُ",
+   "options": [
+    { "text": { "ur": "میں چاہتا ہوں", "en": "I want" } },
+    { "text": { "ur": "اس نے چاہا", "en": "he wanted" } },
+    { "text": { "ur": "ہم چاہتے ہیں", "en": "we want" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "شروع کا أ — میں: أُرِيْدُ — میں چاہتا ہوں۔", "en": "أ at the start — I: أُرِيْدُ — I want." }
+  },
+  {
+   "id": "u4-l2-q3",
+   "type": "mcq",
+   "prompt": { "ur": "اللَّيْل کا کیا معنی ہے؟", "en": "What does اللَّيْل mean?" },
+   "options": [
+    { "text": { "ur": "رات", "en": "night" } },
+    { "text": { "ur": "دن", "en": "day" } },
+    { "text": { "ur": "صبح", "en": "morning" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "اللَّيْل — رات، النَّهَار — دن۔", "en": "اللَّيْل — night, النَّهَار — day." }
+  },
+  {
+   "id": "u4-l2-q4",
+   "type": "mcq",
+   "prompt": { "ur": "أَوْ کا کیا معنی ہے؟", "en": "What does أَوْ mean?" },
+   "arabic": "أَوْ",
+   "options": [
+    { "text": { "ur": "یا", "en": "or" } },
+    { "text": { "ur": "اور", "en": "and" } },
+    { "text": { "ur": "اگر", "en": "if" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "أَوْ — یا؛ اور — وَ؛ اگر — إِنْ یا لَوْ۔", "en": "أَوْ — or; “and” is وَ; “if” is إِنْ or لَوْ." }
+  }
+ ]
+}

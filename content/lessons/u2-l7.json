@@ -1,0 +1,452 @@
+{
+ "id": "u2-l7",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الحجرات کی ساتویں آیت کو لفظ بہ لفظ سمجھیں، اور سیکھیں: امر کا الف (اعْلَمُوْا)، شروع کا م — ”والا“ (مُطِيْع)، وزن فَعَّلَ — شد سے معنی میں شدت (حَبَّبَ، كَرَّهَ)، اور لامِ لازم (لَعَنِتُّمْ)۔",
+  "en": "Understand the seventh verse of Surah Al-Hujurat word by word, and learn: the command alif (اعْلَمُوْا), a م at the start meaning “one who” (مُطِيْع), the pattern فَعَّلَ — a shadda that intensifies (حَبَّبَ, كَرَّهَ), and the لام of emphasis (لَعَنِتُّمْ)."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "امر کا الف", "en": "The command alif" },
+   "body": {
+    "ur": "کلمے سے پہلے الف صرف تین حالتوں میں آتا ہے: متکلم (أَكْتُبُ — میں لکھتا ہوں)، استفہام (أَأَكْتُبُ — کیا میں لکھتا ہوں؟) اور امر (اُكْتُبْ — لکھو)۔ اعْلَمُوْا میں الف امر کا ہے۔",
+    "en": "An alif comes before a word in only three cases: “I” (أَكْتُبُ — I write), a question (أَأَكْتُبُ — do I write?) and a command (اُكْتُبْ — write!). In اعْلَمُوْا the alif is the command alif."
+   }
+  },
+  {
+   "title": { "ur": "شروع کا م — ”والا“", "en": "م at the start — “one who”" },
+   "body": {
+    "ur": "کلمے کے شروع میں م ہو تو اکثر ”والے“ کے معنی دیتا ہے: مُطِيْع — اطاعت کرنے والا۔",
+    "en": "A م at the start of a word often means “one who does”: مُطِيْع — one who obeys."
+   }
+  },
+  {
+   "title": { "ur": "وزن فَعَّلَ", "en": "The pattern فَعَّلَ" },
+   "body": {
+    "ur": "درمیانی حرف پر شد آ جائے تو معنی میں شدت آ جاتی ہے: قَتَلَ — اس نے قتل کیا، قَتَّلَ — ٹکڑے ٹکڑے کر دیا؛ حُبّ — محبت، حَبَّبَ — بہت زیادہ محبوب بنا دیا۔",
+    "en": "A shadda on the middle letter intensifies the meaning: قَتَلَ — he killed, قَتَّلَ — he cut to pieces; حُبّ — love, حَبَّبَ — he made deeply beloved."
+   }
+  }
+ ],
+ "verse": { "surah": 49, "ayah": 7 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "اور تم سب جان لو", "en": "and know (all of you)" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "اعْلَمُ", "role": "verb", "label": { "ur": "جانو (حکم)", "en": "know (command)" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "و + ا + علم + وا۔ الف امر کی علامت ہے، عِلْم — جاننا، اور وا جمع کی علامت۔ اعْلَمُوْا — تم سب جانو۔",
+    "en": "و + ا + علم + وا. The alif marks a command, عِلْم — knowing, and وا is the plural sign. اعْلَمُوْا — know, all of you."
+   }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "کہ بیشک", "en": "that" },
+   "parts": [{ "text": "أَنَّ", "role": "particle", "label": { "ur": "بیشک، یقیناً", "en": "indeed, that" } }],
+   "why": {
+    "ur": "ن پر شد ہو تو الف پر زبر ہو یا زیر، معنی یقیناً یا بیشک ہی ہیں۔",
+    "en": "With a shadda on the ن, the meaning is “indeed”, whatever the vowel on the alif."
+   }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "تم میں", "en": "among you" },
+   "parts": [
+    { "text": "فِيْ", "role": "particle", "label": { "ur": "میں", "en": "in" } },
+    { "text": "كُمْ", "role": "noun", "label": { "ur": "تمہارے", "en": "you" } }
+   ],
+   "why": {
+    "ur": "فی + كُم: تم میں ہیں۔ کلمہ فی اردو میں بھی استعمال ہوتا ہے: فی الحقیقت، فی الفور۔",
+    "en": "فی + كُم: among you. Urdu uses فی too: فی الحقیقت (in reality), فی الفور (at once)."
+   }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "رسول", "en": "the Messenger" },
+   "parts": [{ "text": "رَسُوْلَ", "role": "noun", "label": { "ur": "رسول", "en": "messenger" } }],
+   "why": {
+    "ur": "رسول — اس پر ال نہیں اور اگلا لفظ اللّٰه ہے: اضافت۔",
+    "en": "رسول — no ال, and the next word is Allah: an idafa."
+   }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "اللہ (کے)", "en": "(of) Allah" },
+   "parts": [{ "text": "اللّٰه", "role": "noun", "label": { "ur": "لفظِ جلالہ", "en": "Allah" } }],
+   "why": {
+    "ur": "رَسُوْلَ اللّٰهِ — اللہ کے رسول۔ وَاعْلَمُوْا أَنَّ فِيْكُمْ رَسُوْلَ اللّٰهِ — خوب جان رکھو کہ تمہارے اندر اللہ کے رسول موجود ہیں۔",
+    "en": "رَسُوْلَ اللّٰهِ — the Messenger of Allah. وَاعْلَمُوْا أَنَّ فِيْكُمْ رَسُوْلَ اللّٰهِ — and know that among you is the Messenger of Allah."
+   }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "اگر", "en": "if" },
+   "parts": [{ "text": "لَوْ", "role": "particle", "label": { "ur": "اگر", "en": "if" } }],
+   "why": { "ur": "لَوْ — اگر۔", "en": "لَوْ — if." }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "وہ تمہاری اطاعت کرتے", "en": "he were to obey you" },
+   "parts": [
+    { "text": "يُ", "role": "particle", "label": { "ur": "مضارع کی علامت", "en": "present-tense sign" } },
+    { "text": "طِيْعُ", "role": "verb", "label": { "ur": "اطاعت کرنا", "en": "obey" } },
+    { "text": "كُمْ", "role": "noun", "label": { "ur": "تمہاری", "en": "you" } }
+   ],
+   "why": {
+    "ur": "ی + طیع + كُم۔ ی مضارع کی علامت، طیع سے مُطِيْع — اطاعت کرنے والا (شروع کا م ”والے“ کے معنی دیتا ہے)، اور كُم — تمہاری۔ يُطِيْعُ — وہ اطاعت کرتا ہے، تُطِيْعُ — تو اطاعت کرتا ہے، أُطِيْعُ — میں اطاعت کرتا ہوں، نُطِيْعُ — ہم اطاعت کرتے ہیں۔ لَوْ يُطِيْعُكُمْ — اگر وہ تمہاری اطاعت کرتے۔",
+    "en": "ی + طیع + كُم. ی is the present-tense sign; from طیع comes مُطِيْع — one who obeys (a م at the start means “one who”); كُم — you. يُطِيْعُ — he obeys, تُطِيْعُ — you obey, أُطِيْعُ — I obey, نُطِيْعُ — we obey. لَوْ يُطِيْعُكُمْ — if he were to obey you."
+   }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "میں", "en": "in" },
+   "parts": [{ "text": "فِيْ", "role": "particle", "label": { "ur": "میں", "en": "in" } }],
+   "why": { "ur": "فِيْ — میں (اردو میں فی الحقیقت)۔", "en": "فِيْ — in (Urdu فی الحقیقت)." }
+  },
+  {
+   "position": 9,
+   "meaning": { "ur": "بہت سے", "en": "much" },
+   "parts": [{ "text": "كَثِيْر", "role": "noun", "label": { "ur": "زیادہ تر", "en": "much, many" } }],
+   "why": {
+    "ur": "كَثِيْر — زیادہ، بہت؛ اردو میں کثیر مستعمل ہے (کثیر تعداد)۔",
+    "en": "كَثِيْر — much, many; Urdu uses کثیر (کثیر تعداد — a large number)."
+   }
+  },
+  {
+   "position": 10,
+   "meaning": { "ur": "سے", "en": "of" },
+   "parts": [{ "text": "مِنْ", "role": "particle", "label": { "ur": "سے", "en": "from, of" } }],
+   "why": {
+    "ur": "مِنْ — سے۔ اردو میں منجانب (کی طرف سے) اسی سے ہے۔",
+    "en": "مِنْ — from, of. Urdu منجانب (on behalf of) comes from it."
+   }
+  },
+  {
+   "position": 11,
+   "meaning": { "ur": "معاملات", "en": "the matters" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "أَمْر", "role": "noun", "label": { "ur": "کام، معاملہ", "en": "matter" } }
+   ],
+   "why": {
+    "ur": "الامر — کام، معاملات؛ اردو میں امور (امورِ کشمیر، امورِ داخلہ)۔ لَوْ يُطِيْعُكُمْ فِيْ كَثِيْرٍ مِّنَ الْأَمْرِ — اگر بہت سارے معاملات میں تمہاری اطاعت کریں۔",
+    "en": "الامر — matters, affairs; Urdu has امور (امورِ داخلہ — internal affairs). لَوْ يُطِيْعُكُمْ فِيْ كَثِيْرٍ مِّنَ الْأَمْرِ — if he obeyed you in many matters."
+   }
+  },
+  {
+   "position": 12,
+   "meaning": { "ur": "تم یقیناً مشکل میں پڑ جاتے", "en": "you would surely be in difficulty" },
+   "parts": [
+    { "text": "لَ", "role": "particle", "label": { "ur": "یقیناً (لامِ لازم)", "en": "surely" } },
+    { "text": "عَنِتْ", "role": "verb", "label": { "ur": "مشکل میں پڑنا", "en": "fall into hardship" } },
+    { "text": "تُمْ", "role": "noun", "label": { "ur": "تم", "en": "you (all)" } }
+   ],
+   "why": {
+    "ur": "ل + عنت + تم۔ ل لامِ لازم ہے — یقیناً۔ عنت: ہلاکت و دشواری میں ڈالنا، چیز کا خراب ہونا اور ٹوٹ جانا — اردو اور پنجابی میں کہتے ہیں ”اس نے عنت مچائی“، یعنی مشکل۔ لَعَنِتُّمْ — یقیناً تم ہی مشکل میں پڑ جاؤ گے۔",
+    "en": "ل + عنت + تم. ل is the لام of emphasis — surely. عنت: hardship, ruin, things breaking down — Urdu and Punjabi say “he caused عنت”, meaning trouble. لَعَنِتُّمْ — you yourselves would surely fall into hardship."
+   }
+  },
+  {
+   "position": 13,
+   "meaning": { "ur": "اور لیکن", "en": "but" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "لٰكِنَّ", "role": "particle", "label": { "ur": "لیکن", "en": "but" } }
+   ],
+   "why": {
+    "ur": "وَ — اور، لٰكِنَّ — لیکن؛ دونوں اردو میں مستعمل۔",
+    "en": "وَ — and, لٰكِنَّ — but; Urdu uses both (لیکن)."
+   }
+  },
+  {
+   "position": 14,
+   "meaning": { "ur": "اللہ", "en": "Allah" },
+   "parts": [{ "text": "اللّٰه", "role": "noun", "label": { "ur": "لفظِ جلالہ", "en": "Allah" } }],
+   "why": { "ur": "وَلٰكِنَّ اللّٰهَ — لیکن اللہ نے۔", "en": "وَلٰكِنَّ اللّٰهَ — but Allah." }
+  },
+  {
+   "position": 15,
+   "meaning": { "ur": "بہت زیادہ محبوب بنا دیا", "en": "has endeared" },
+   "parts": [{ "text": "حَبَّبَ", "role": "verb", "label": { "ur": "محبوب بنا دیا", "en": "made beloved" } }],
+   "why": {
+    "ur": "حَبَّبَ وزن فَعَّلَ پر ہے: حُبّ (محبت، پسند، چاہنا — حب کا کلمہ اردو میں مستعمل) سے، اور درمیانی حرف پر شد آنے سے معنی میں شدت آ گئی: بہت زیادہ محبوب بنا دیا۔ جیسے قَتَلَ — اس نے قتل کیا، اور قَتَّلَ — ٹکڑے ٹکڑے کر دیا۔",
+    "en": "حَبَّبَ is on the pattern فَعَّلَ: from حُبّ (love — Urdu حب), with a shadda on the middle letter that intensifies it: made deeply beloved. Like قَتَلَ — he killed, and قَتَّلَ — he cut to pieces."
+   }
+  },
+  {
+   "position": 16,
+   "meaning": { "ur": "تمہاری طرف", "en": "to you" },
+   "parts": [
+    { "text": "إِلَيْ", "role": "particle", "label": { "ur": "کی طرف", "en": "towards" } },
+    { "text": "كُمُ", "role": "noun", "label": { "ur": "تمہاری", "en": "you" } }
+   ],
+   "why": { "ur": "إِلٰى + كُم: تمہاری طرف۔", "en": "إِلٰى + كُم: towards you." }
+  },
+  {
+   "position": 17,
+   "meaning": { "ur": "ایمان", "en": "the faith" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "إِيْمَان", "role": "noun", "label": { "ur": "ایمان", "en": "faith" } }
+   ],
+   "why": {
+    "ur": "ال + ایمان: اصل ایمان؛ ایمان کا لفظ اردو میں مستعمل ہے۔ وَلٰكِنَّ اللّٰهَ حَبَّبَ إِلَيْكُمُ الْإِيْمَانَ — لیکن اللہ نے حقیقی ایمان کو تمہارے لیے محبوب بنا دیا۔",
+    "en": "ال + ایمان: true faith; Urdu uses ایمان. وَلٰكِنَّ اللّٰهَ حَبَّبَ إِلَيْكُمُ الْإِيْمَانَ — but Allah has made faith beloved to you."
+   }
+  },
+  {
+   "position": 18,
+   "meaning": { "ur": "اور اسے سجا دیا", "en": "and made it beautiful" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "زَيَّنَ", "role": "verb", "label": { "ur": "زینت بنا دیا", "en": "adorned" } },
+    { "text": "هٗ", "role": "noun", "label": { "ur": "اس کو", "en": "it" } }
+   ],
+   "why": {
+    "ur": "زین + ہٗ: اسے زینت بنا دیا، سنوارا، سجایا؛ زینت اردو میں مستعمل۔ یہاں بھی درمیانی حرف پر شد ہے (زَيَّنَ)۔",
+    "en": "زین + هٗ: adorned it, made it beautiful; Urdu زینت. Again a shadda on the middle letter (زَيَّنَ)."
+   }
+  },
+  {
+   "position": 19,
+   "meaning": { "ur": "میں", "en": "in" },
+   "parts": [{ "text": "فِيْ", "role": "particle", "label": { "ur": "میں", "en": "in" } }],
+   "why": { "ur": "فِيْ — میں۔", "en": "فِيْ — in." }
+  },
+  {
+   "position": 20,
+   "meaning": { "ur": "تمہارے دلوں", "en": "your hearts" },
+   "parts": [
+    { "text": "قُلُوْبِ", "role": "noun", "label": { "ur": "دل (جمع)", "en": "hearts" } },
+    { "text": "كُمْ", "role": "noun", "label": { "ur": "تمہارے", "en": "your" } }
+   ],
+   "why": {
+    "ur": "قلوب (قلب کی جمع — دل) + كُم: تمہارے دلوں میں۔ وَزَيَّنَهٗ فِيْ قُلُوْبِكُمْ — اور اسے تمہارے دلوں کی زینت بنا دیا۔",
+    "en": "قلوب (plural of قلب — heart) + كُم: in your hearts. وَزَيَّنَهٗ فِيْ قُلُوْبِكُمْ — and made it beautiful in your hearts."
+   }
+  },
+  {
+   "position": 21,
+   "meaning": { "ur": "اور ناپسندیدہ بنا دیا", "en": "and made hateful" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "كَرَّهَ", "role": "verb", "label": { "ur": "ناپسندیدہ بنا دیا", "en": "made hateful" } }
+   ],
+   "why": {
+    "ur": "كَرَّهَ وزن فَعَّلَ پر — بہت زیادہ کراہت؛ قابلِ نفرت، ناپسندیدہ بنا دیا۔ کراہت کا لفظ اردو میں مستعمل ہے۔",
+    "en": "كَرَّهَ on the pattern فَعَّلَ — strong dislike; made hateful, detestable. Urdu has کراہت (aversion)."
+   }
+  },
+  {
+   "position": 22,
+   "meaning": { "ur": "تمہاری طرف", "en": "to you" },
+   "parts": [
+    { "text": "إِلَيْ", "role": "particle", "label": { "ur": "کی طرف", "en": "towards" } },
+    { "text": "كُمُ", "role": "noun", "label": { "ur": "تمہاری", "en": "you" } }
+   ],
+   "why": { "ur": "إِلَيْكُمُ — تمہاری طرف، تمہارے لیے۔", "en": "إِلَيْكُمُ — towards you, for you." }
+  },
+  {
+   "position": 23,
+   "meaning": { "ur": "کفر", "en": "disbelief" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "كُفْر", "role": "noun", "label": { "ur": "کفر", "en": "disbelief" } }
+   ],
+   "why": { "ur": "الْكُفْر — اصل کفر۔", "en": "الْكُفْر — disbelief itself." }
+  },
+  {
+   "position": 24,
+   "meaning": { "ur": "اور فسق", "en": "and defiance" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "فُسُوْق", "role": "noun", "label": { "ur": "نافرمانی پر اصرار", "en": "defiance" } }
+   ],
+   "why": {
+    "ur": "الْفُسُوْق — اصل نافرمانی پر اصرار؛ اسی سے فَاسِق، جو پچھلی آیت میں آیا۔",
+    "en": "الْفُسُوْق — persisting in disobedience; فَاسِق in the previous verse comes from it."
+   }
+  },
+  {
+   "position": 25,
+   "meaning": { "ur": "اور نافرمانی", "en": "and disobedience" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "عِصْيَان", "role": "noun", "label": { "ur": "نافرمانی، گناہ", "en": "disobedience" } }
+   ],
+   "why": {
+    "ur": "الْعِصْيَان — نافرمانی، گناہ؛ اسی سے عاصی — گناہگار (اردو میں مستعمل)۔ وَكَرَّهَ إِلَيْكُمُ الْكُفْرَ وَالْفُسُوْقَ وَالْعِصْيَانَ — اور کفر، فسق اور گناہ کو تمہارے لیے قابلِ نفرت بنا دیا۔",
+    "en": "الْعِصْيَان — disobedience, sin; from it comes عاصی — a sinner (used in Urdu). وَكَرَّهَ إِلَيْكُمُ الْكُفْرَ وَالْفُسُوْقَ وَالْعِصْيَانَ — and made disbelief, defiance and disobedience hateful to you."
+   }
+  },
+  {
+   "position": 26,
+   "meaning": { "ur": "یہی لوگ", "en": "those" },
+   "parts": [{ "text": "أُولٰئِكَ", "role": "noun", "label": { "ur": "وہ سب", "en": "those" } }],
+   "why": { "ur": "أُولٰئِكَ — وہ سب (ذٰلِكَ کی جمع)۔", "en": "أُولٰئِكَ — those (plural of ذٰلِكَ)." }
+  },
+  {
+   "position": 27,
+   "meaning": { "ur": "وہی", "en": "they are" },
+   "parts": [{ "text": "هُمُ", "role": "noun", "label": { "ur": "وہ سب", "en": "they" } }],
+   "why": {
+    "ur": "هُمْ — وہ سب۔ أُولٰئِكَ هُمُ — وہ ہی لوگ: ایک ہی معنی کے دو الفاظ ساتھ آئے تو بات میں زور آ گیا۔",
+    "en": "هُمْ — they. أُولٰئِكَ هُمُ — they, they alone: two words of the same meaning together add emphasis."
+   }
+  },
+  {
+   "position": 28,
+   "meaning": { "ur": "ہدایت یافتہ", "en": "the rightly guided" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "رَاشِد", "role": "noun", "label": { "ur": "ہدایت یافتہ", "en": "rightly guided" } },
+    { "text": "وْنَ", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "pattern": "فَاعِل",
+   "patternMeaning": {
+    "ur": "کام کرنے والا",
+    "en": "the one who does the action"
+   },
+   "why": {
+    "ur": "ال + راشد + ون: ہدایت یافتہ، بھلائی پانے والے۔ أُولٰئِكَ هُمُ الرَّاشِدُوْنَ — وہی لوگ دراصل ہدایت یافتہ ہیں۔",
+    "en": "ال + راشد + ون: the rightly guided. أُولٰئِكَ هُمُ الرَّاشِدُوْنَ — they are the ones who are truly guided."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2, 3, 4, 5], "role": "verb", "label": { "ur": "اور جان لو کہ تم میں اللہ کے رسول ہیں", "en": "and know that among you is the Messenger of Allah" } },
+   { "words": [6, 7, 8, 9, 10, 11], "role": "verb", "label": { "ur": "اگر وہ بہت سے معاملات میں تمہاری بات مانیں", "en": "if he obeyed you in many matters" } },
+   { "words": [12], "role": "verb", "label": { "ur": "تو تم مشکل میں پڑ جاؤ", "en": "you would surely suffer" } },
+   { "words": [13, 14, 15, 16, 17], "role": "verb", "label": { "ur": "لیکن اللہ نے ایمان تمہارا محبوب بنا دیا", "en": "but Allah has made faith beloved to you" } },
+   { "words": [18, 19, 20], "role": "verb", "label": { "ur": "اور اسے تمہارے دلوں میں سجا دیا", "en": "and beautified it in your hearts" } },
+   { "words": [21, 22, 23, 24, 25], "role": "verb", "label": { "ur": "اور کفر، فسق، نافرمانی کو ناپسندیدہ بنا دیا", "en": "and made disbelief, defiance and disobedience hateful" } },
+   { "words": [26, 27, 28], "role": "noun", "label": { "ur": "یہی لوگ ہدایت یافتہ ہیں", "en": "those are the rightly guided" } }
+  ],
+  "plain": {
+   "ur": "خوب جان رکھو کہ تمہارے درمیان اللہ کے رسول ﷺ موجود ہیں۔ اگر وہ اکثر معاملات میں تمہاری بات مان لیں تو تم خود ہی مشکلات میں گرفتار ہو جاؤ۔ لیکن اللہ نے تمہیں ایمان کی محبت دی اور اسے تمہارے دلوں کی زینت بنا دیا، اور کفر، فسق اور نافرمانی کو تمہارے لیے ناپسندیدہ بنا دیا — یہی لوگ ہدایت یافتہ ہیں۔ آیت میں دو بار وزن فَعَّلَ آیا ہے: حَبَّبَ اور كَرَّهَ — ایک محبت میں شدت، دوسرا نفرت میں۔",
+   "en": "Know that the Messenger of Allah ﷺ is among you. If he followed you in most matters, you yourselves would fall into hardship. But Allah gave you love of faith and made it beautiful in your hearts, and made disbelief, defiance and disobedience hateful to you — those are the rightly guided. The pattern فَعَّلَ appears twice: حَبَّبَ and كَرَّهَ — one intensifies love, the other dislike."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "وزن فَعَّلَ: درمیانی حرف پر شد سے معنی میں شدت آتی ہے — حَبَّبَ (بہت محبوب بنایا)، كَرَّهَ (بہت ناپسندیدہ بنایا)، قَتَّلَ (ٹکڑے ٹکڑے کر دیا)۔",
+   "en": "The pattern فَعَّلَ: a shadda on the middle letter intensifies the meaning — حَبَّبَ (made deeply beloved), كَرَّهَ (made hateful), قَتَّلَ (cut to pieces)."
+  },
+  "points": [
+   {
+    "ur": "اعْلَمُوْا کا الف امر کا ہے — تم سب جان لو۔",
+    "en": "The alif of اعْلَمُوْا is the command alif — know, all of you."
+   },
+   {
+    "ur": "شروع کا م — ”والا“: مُطِيْع — اطاعت کرنے والا۔",
+    "en": "م at the start — “one who”: مُطِيْع — one who obeys."
+   },
+   {
+    "ur": "لَعَنِتُّمْ کا ل لامِ لازم ہے — یقیناً تم ہی مشکل میں پڑ جاتے۔",
+    "en": "The ل of لَعَنِتُّمْ is the لام of emphasis — you would surely fall into hardship."
+   }
+  ]
+ },
+ "check": [
+  {
+   "id": "u2-l7-q1",
+   "type": "mcq",
+   "prompt": { "ur": "اعْلَمُوْا کے شروع میں الف کیوں ہے؟", "en": "Why does اعْلَمُوْا start with an alif?" },
+   "options": [
+    { "text": { "ur": "امر (حکم) کی علامت", "en": "It marks a command" } },
+    { "text": { "ur": "متکلم — ”میں“", "en": "It means “I”" } },
+    { "text": { "ur": "سوال کی علامت", "en": "It marks a question" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "اعْلَمُوْا — تم سب جان لو: یہ حکم ہے، اس لیے الف امر کا ہے۔",
+    "en": "اعْلَمُوْا — know, all of you: a command, so the alif is the command alif."
+   }
+  },
+  {
+   "id": "u2-l7-q2",
+   "type": "mcq",
+   "prompt": { "ur": "مُطِيْع کا کیا مطلب ہے؟", "en": "What does مُطِيْع mean?" },
+   "arabic": "مُطِيْع",
+   "options": [
+    { "text": { "ur": "اس نے اطاعت کی", "en": "he obeyed" } },
+    { "text": { "ur": "اطاعت کرنے والا", "en": "one who obeys" } },
+    { "text": { "ur": "اطاعت کرو", "en": "obey!" } }
+   ],
+   "answer": 1,
+   "explanation": {
+    "ur": "شروع کا م ”والے“ کے معنی دیتا ہے: مُطِيْع — اطاعت کرنے والا۔",
+    "en": "A م at the start means “one who”: مُطِيْع — one who obeys."
+   }
+  },
+  {
+   "id": "u2-l7-q3",
+   "type": "mcq",
+   "prompt": { "ur": "حَبَّبَ کا کیا مطلب ہے؟", "en": "What does حَبَّبَ mean?" },
+   "arabic": "حَبَّبَ",
+   "options": [
+    { "text": { "ur": "اس نے محبت کی", "en": "he loved" } },
+    { "text": { "ur": "محبت کرنے والا", "en": "one who loves" } },
+    { "text": { "ur": "بہت زیادہ محبوب بنا دیا", "en": "made deeply beloved" } }
+   ],
+   "answer": 2,
+   "explanation": {
+    "ur": "وزن فَعَّلَ — درمیانی حرف پر شد سے شدت: حَبَّبَ — بہت زیادہ محبوب بنا دیا۔",
+    "en": "The pattern فَعَّلَ — a shadda on the middle letter intensifies: حَبَّبَ — made deeply beloved."
+   }
+  },
+  {
+   "id": "u2-l7-q4",
+   "type": "mcq",
+   "prompt": { "ur": "قَتَّلَ کا کیا مطلب ہے؟", "en": "What does قَتَّلَ mean?" },
+   "arabic": "قَتَّلَ",
+   "options": [
+    { "text": { "ur": "اس نے قتل کیا", "en": "he killed" } },
+    { "text": { "ur": "ٹکڑے ٹکڑے کر دیا", "en": "he cut to pieces" } },
+    { "text": { "ur": "وہ قتل ہوا", "en": "he was killed" } }
+   ],
+   "answer": 1,
+   "explanation": {
+    "ur": "قَتَلَ — اس نے قتل کیا؛ شد کے ساتھ قَتَّلَ — ٹکڑے ٹکڑے کر دیا۔",
+    "en": "قَتَلَ — he killed; with the shadda, قَتَّلَ — he cut to pieces."
+   }
+  },
+  {
+   "id": "u2-l7-q5",
+   "type": "mcq",
+   "prompt": { "ur": "فِيْكُمْ کا کیا مطلب ہے؟", "en": "What does فِيْكُمْ mean?" },
+   "options": [
+    { "text": { "ur": "تم میں", "en": "among you" } },
+    { "text": { "ur": "تمہاری طرف", "en": "towards you" } },
+    { "text": { "ur": "ان میں", "en": "among them" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "فی (میں) + كُم (تم): تم میں۔ تمہاری طرف کے لیے إِلَيْكُمْ۔",
+    "en": "فی (in) + كُم (you): among you. “Towards you” is إِلَيْكُمْ."
+   }
+  },
+  {
+   "id": "u2-l7-q6",
+   "type": "mcq",
+   "prompt": { "ur": "الرَّاشِدُوْنَ کون ہیں؟", "en": "Who are الرَّاشِدُوْنَ?" },
+   "options": [
+    { "text": { "ur": "نافرمان لوگ", "en": "the disobedient" } },
+    { "text": { "ur": "مشکل میں پڑنے والے", "en": "those in hardship" } },
+    { "text": { "ur": "ہدایت یافتہ لوگ", "en": "the rightly guided" } }
+   ],
+   "answer": 2,
+   "explanation": {
+    "ur": "ال + راشد (ہدایت یافتہ) + ون (جمع): ہدایت یافتہ لوگ۔",
+    "en": "ال + راشد (guided) + ون (plural): the rightly guided."
+   }
+  }
+ ]
+}

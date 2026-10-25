@@ -1,0 +1,472 @@
+{
+  "meta": {
+    "title": "Quranic Arabic",
+    "description": "Learn the Arabic of the Quran word by word — roots, patterns and meanings, explained simply in Urdu and English."
+  },
+  "site": {
+    "name": "Quranic Arabic",
+    "tagline": "Understand the Quran, word by word",
+    "skipToContent": "Skip to content",
+    "credits": "Credits",
+    "footerNote": "Free to use. No account, no tracking."
+  },
+  "nav": {
+    "label": "Main navigation",
+    "home": "Home",
+    "course": "Course",
+    "practice": "Practice",
+    "words": "Dictionary",
+    "progress": "Progress",
+    "me": "You"
+  },
+  "language": {
+    "switchTo": "اردو",
+    "switchLabel": "Change language to Urdu"
+  },
+  "home": {
+    "greeting": "Assalamu alaikum",
+    "intro": "Learn the Arabic of the Quran one word at a time — its roots, patterns and meanings, explained simply.",
+    "start": "Start the course",
+    "continueTitle": "Continue learning",
+    "startTitle": "Begin here",
+    "continueAt": "Continue — slide {k} of {total}",
+    "continueStep": "Continue — step {k} of {total}",
+    "startLesson": "Start lesson",
+    "allDone": "You have finished every lesson. Well done!",
+    "progressLabel": "Course progress",
+    "lessons": "Lessons",
+    "streak": "Day streak",
+    "slidesSeen": "Slides studied",
+    "unitsTitle": "Your course",
+    "unitLessons": "{done} of {total} lessons",
+    "featuresTitle": "How it works",
+    "features": {
+      "learn": {
+        "title": "Learn word by word",
+        "body": "Each verse is broken into its words, with the root, the pattern and the meaning of every word."
+      },
+      "practice": {
+        "title": "Practise after every lesson",
+        "body": "Short, friendly exercises. No timers and no negative marks — every answer is explained."
+      },
+      "progress": {
+        "title": "See your progress",
+        "body": "Your progress stays in this browser. No account is needed."
+      }
+    },
+    "previewTitle": "A taste of what you will learn",
+    "previewPattern": "Pattern",
+    "previewBody": "رَحِيْمٌ follows the pattern فَعِيْلٌ. Words on this pattern describe a quality that is lasting and part of who someone is — like عَلِيْمٌ (all-knowing) and عَظِيْمٌ (supreme).",
+    "roles": {
+      "noun": "Noun",
+      "verb": "Verb",
+      "particle": "Particle"
+    },
+    "dueTitle": "Today's practice",
+    "dueBody": "{n} words due for review",
+    "dueNone": "No review due — practise a lesson",
+    "toPractice": "Go to practice"
+  },
+  "course": {
+    "intro": "Four units and {lessons} lessons. Each lesson takes one verse and explains it word by word.",
+    "continue": "Continue: {lesson}",
+    "start": "Start the course",
+    "unit": "Unit {n}",
+    "unitMeta": "{lessons} lessons · about {minutes} min",
+    "unitMetaOne": "1 lesson · about {minutes} min",
+    "lessonMeta": "{slides} slides · {minutes} min",
+    "done": "Finished",
+    "percent": "{p}% done",
+    "notStarted": "Not started"
+  },
+  "lesson": {
+    "back": "Course",
+    "unit": "Unit {n}",
+    "verse": "The verse",
+    "translationBy": "Translation: {name}",
+    "translator": "Saheeh International",
+    "slides": "Slides in this lesson",
+    "slideMeta": "{slides} slides · about {minutes} min",
+    "start": "Start lesson",
+    "continue": "Continue — slide {k} of {total}",
+    "again": "Go through it again",
+    "done": "Lesson finished",
+    "next": "Next lesson",
+    "seen": "Viewed",
+    "draft": "Draft · awaiting review",
+    "draftHint": "This lesson was written from the original slides and is waiting for a teacher to check it.",
+    "originalSlides": "Original slides",
+    "startText": "Start lesson",
+    "continueStep": "Continue — step {k} of {total}",
+    "againText": "Go through the lesson again"
+  },
+  "slides": {
+    "title": "Slide {n}",
+    "counter": "Slide {k} of {total}",
+    "prev": "Previous",
+    "next": "Next",
+    "fullscreen": "Full screen",
+    "exitFullscreen": "Exit full screen",
+    "goTo": "Go to slide",
+    "go": "Go",
+    "alt": "Course slide {n}: Arabic words with an Urdu explanation",
+    "hint": "Use the arrow keys or swipe to move between slides.",
+    "lessonDone": "You finished this lesson",
+    "nextLesson": "Next lesson",
+    "courseDone": "You have reached the end of the course.",
+    "toLesson": "Lesson overview",
+    "practise": "Practise this lesson"
+  },
+  "progress": {
+    "empty": "You haven't started yet. Your progress will appear here.",
+    "startCta": "Start lesson 1",
+    "lessonsDone": "Lessons finished",
+    "slidesSeen": "Slides studied",
+    "streak": "Day streak",
+    "activeDays": "Days of learning",
+    "week": "This week",
+    "byUnit": "By unit",
+    "unitLessons": "{done} of {total} lessons",
+    "accuracy": "Practice accuracy",
+    "reviewQueue": "Review queue",
+    "queueEmpty": "No words scheduled yet. Practise a lesson to start your review queue.",
+    "dueToday": "Due today",
+    "dueTomorrow": "Tomorrow",
+    "dueIn": "In {n} days",
+    "later": "Later",
+    "words": "{n} words",
+    "confidence": "How confident you are",
+    "strong": "Strong",
+    "getting": "Getting there",
+    "weak": "Needs review",
+    "notYet": "Not practised yet",
+    "reviewNow": "Review now"
+  },
+  "me": {
+    "language": "Language",
+    "comfort": "Comfort",
+    "largeText": "Large text",
+    "largeTextHint": "Makes all text bigger, Arabic included.",
+    "highContrast": "High contrast",
+    "highContrastHint": "Brighter text and borders.",
+    "reducedMotion": "Reduce motion",
+    "reducedMotionHint": "Turns off animations.",
+    "transliteration": "Show transliteration",
+    "transliterationHint": "Shows how Arabic words sound, in Latin letters. Used in text lessons.",
+    "savedWords": "Saved words",
+    "backup": "Backup",
+    "backupHint": "Your progress is kept only in this browser. Save a backup file to move it to another device or browser.",
+    "export": "Save backup",
+    "import": "Load backup",
+    "importOk": "Backup loaded.",
+    "importBad": "That file is not a valid backup. Nothing was changed.",
+    "reset": "Reset progress",
+    "resetConfirm": "Delete all progress in this browser? Your settings are kept.",
+    "resetDone": "Progress cleared.",
+    "privacyTitle": "Privacy",
+    "privacy": "Your progress is stored in this browser. No account is needed, and nothing is sent anywhere.",
+    "savedEmpty": "You haven't saved any words yet. In a lesson, tap a word and choose “Save word”.",
+    "remove": "Remove",
+    "fromLesson": "From: {lesson}"
+  },
+  "player": {
+    "exit": "Exit lesson",
+    "step": "Step {k} of {total}",
+    "original": "Original slides",
+    "help": "Need a hand?",
+    "helpBody": "Take each step at your own pace — nothing is timed. Tap any coloured word to see its meaning, root and pattern. The original slides are always one tap away. In the quick check, a wrong answer is never a problem: you will see why, and the question comes back once more at the end.",
+    "close": "Close",
+    "steps": {
+      "learn": "What you will learn",
+      "read": "Read it first",
+      "words": "Word by word",
+      "connect": "How the words connect",
+      "remember": "Remember this",
+      "check": "Quick check"
+    },
+    "back": "Back",
+    "next": "Continue",
+    "goal": "Your goal",
+    "play": "Play recitation",
+    "pause": "Pause",
+    "speed": "Speed",
+    "reciter": "Recitation: Mishary Rashid Alafasy",
+    "translit": "Transliteration",
+    "tapWord": "Tap a word to see what it means and how it is built.",
+    "meaning": "Meaning",
+    "root": "Root",
+    "pattern": "Pattern",
+    "parts": "Built from",
+    "why": "Why it is like this",
+    "playWord": "Play word",
+    "save": "Save word",
+    "saved": "Saved",
+    "plain": "In plain words",
+    "rule": "Key rule",
+    "question": "Question {k} of {total}",
+    "again": "Once more",
+    "correct": "That's right!",
+    "notQuite": "Not quite — here's why",
+    "nextQuestion": "Next question",
+    "finish": "Finish lesson",
+    "doneTitle": "Lesson complete",
+    "doneBody": "Well done! You answered {right} of {total} questions right on the first try.",
+    "nextLesson": "Next lesson",
+    "backToLesson": "Back to the lesson page",
+    "englishSoon": "English coming soon — shown in Urdu for now.",
+    "draft": "Draft · awaiting review",
+    "practise": "Practise this lesson"
+  },
+  "practice": {
+    "hubIntro": "Short, friendly exercises from the words you have met. Nothing is timed and nothing is lost — every answer is explained.",
+    "today": "Today's review",
+    "dueCount": "{n} words are due for review",
+    "dueOne": "1 word is due for review",
+    "dueNone": "Nothing is due right now.",
+    "nextDue": "Next review: {when}",
+    "noCards": "Words you practise are scheduled for review here, at just the right time to remember them.",
+    "startReview": "Start review",
+    "byLesson": "Practise a lesson",
+    "unitReview": "Unit review",
+    "unitReviewHint": "A mixed set from the lessons you have studied in this unit.",
+    "modes": "Practise one kind of exercise",
+    "practised": "Practised",
+    "practiseLesson": "Practise this lesson",
+    "practiseLessonHint": "A short set of exercises on the words of this verse.",
+    "metNone": "You haven't started a lesson yet, so these come from the first lesson.",
+    "loading": "Preparing your exercises…",
+    "loadError": "The exercises could not be loaded. Check your connection and try again.",
+    "retry": "Try again",
+    "exit": "Exit practice",
+    "item": "Exercise {k} of {total}",
+    "again": "Once more",
+    "check": "Check",
+    "next": "Next",
+    "finish": "Finish",
+    "correct": "That's right!",
+    "notQuite": "Not quite — here's why",
+    "viewInLesson": "View in lesson",
+    "play": "Play",
+    "playAgain": "Play again",
+    "doneTitle": "Practice complete",
+    "doneBody": "You got {right} of {total} right on the first try.",
+    "doneReview": "The words are now scheduled for review — they will come back when it's time.",
+    "practiseAgain": "Practise again",
+    "backToPractice": "Back to practice",
+    "emptyReview": "Nothing to review right now. Come back later, or practise a lesson.",
+    "types": {
+      "meaning": {
+        "name": "Word meaning",
+        "hint": "Choose what an Arabic word means.",
+        "prompt": "What does this word mean?"
+      },
+      "match": {
+        "name": "Match",
+        "hint": "Match words to their meanings.",
+        "prompt": "Match each word to its meaning."
+      },
+      "pattern": {
+        "name": "Pattern (وزن)",
+        "hint": "Find the pattern a word is built on.",
+        "prompt": "Which pattern is this word on?"
+      },
+      "root": {
+        "name": "Root letters",
+        "hint": "Find the three root letters.",
+        "prompt": "Which are the root letters of this word?"
+      },
+      "anatomy": {
+        "name": "Word parts",
+        "hint": "Split a word into its parts.",
+        "prompt": "What is each part of this word?"
+      },
+      "role": {
+        "name": "Noun, verb or particle",
+        "hint": "Tell the three kinds of word apart.",
+        "prompt": "Is the highlighted word a noun, a verb or a particle?"
+      },
+      "fill": {
+        "name": "Missing word",
+        "hint": "Choose the word that completes the verse.",
+        "prompt": "Which word fills the gap?"
+      },
+      "translate": {
+        "name": "Build the meaning",
+        "hint": "Put word meanings in the order of the Arabic.",
+        "prompt": "Tap the meanings in the order of the Arabic words."
+      },
+      "listen": {
+        "name": "Listen and choose",
+        "hint": "Hear a word and pick it out.",
+        "prompt": "Listen, then choose the word you heard."
+      },
+      "flashcard": {
+        "name": "Flashcards",
+        "hint": "Remember, then rate yourself.",
+        "prompt": "Do you remember this word?"
+      }
+    },
+    "exp": {
+      "meaning": "{ar} means “{m}”.",
+      "root": "{ar} comes from the root {root}.",
+      "sameRoot": "Other words from this root in the course: {list}.",
+      "pattern": "{ar} is on the pattern {p}: {pm}",
+      "role": "{ar} is a {role}.",
+      "fill": "The missing word is {ar} — “{m}”.",
+      "listen": "You heard {ar} — “{m}”.",
+      "translate": "In order: {list}",
+      "match": "Correct pairs are shown in green.",
+      "anatomy": "{ar} = {parts}",
+      "roles": {
+        "noun": "A noun (اسم) names a person, thing, place or quality.",
+        "verb": "A verb (فعل) is an action in a time — past, present or future.",
+        "particle": "A particle (حرف) is a small linking word that makes full sense only with other words."
+      }
+    },
+    "seg": {
+      "pre": "Attached particle",
+      "stem": "Main word",
+      "suf": "Pronoun or ending",
+      "prefixes": {
+        "ب": "with, by",
+        "و": "and",
+        "ف": "so, then",
+        "ل": "for",
+        "ال": "the",
+        "ك": "like",
+        "س": "will",
+        "أ": "question: is…?",
+        "ي": "O (calling)",
+        "يا": "O (calling)"
+      },
+      "persons": {
+        "1S": "I, me, my",
+        "1P": "we, us, our",
+        "2MS": "you",
+        "2FS": "you (f.)",
+        "2D": "you two",
+        "2MP": "you all",
+        "2FP": "you all (f.)",
+        "3MS": "he, him, his",
+        "3FS": "she, her, it",
+        "3D": "both of them",
+        "3MD": "both of them",
+        "3FD": "both of them (f.)",
+        "3MP": "they, them, their",
+        "3FP": "they, them (f.)"
+      }
+    },
+    "flash": {
+      "show": "Show answer",
+      "again": "Again",
+      "hard": "Hard",
+      "good": "Good",
+      "easy": "Easy",
+      "rateHint": "How well did you remember it?"
+    },
+    "translate": {
+      "yourOrder": "Your order",
+      "clear": "Clear"
+    },
+    "match": {
+      "pick": "Tap a word, then its meaning."
+    },
+    "when": {
+      "today": "today",
+      "tomorrow": "tomorrow",
+      "days": "in {n} days"
+    }
+  },
+  "words": {
+    "intro": "All {entries} words of the course, grouped under their {roots} roots. Tap the speaker to hear a word, or the verse number to open its lesson.",
+    "search": "Search Arabic, Urdu or English",
+    "kind": "Kind of word",
+    "pattern": "Pattern",
+    "allRoles": "All kinds",
+    "allPatterns": "All patterns",
+    "root": "Root",
+    "noRoot": "Particles, pronouns and names (no root)",
+    "count": "{n}× in the course",
+    "results": "{n} words",
+    "none": "No words match.",
+    "play": "Play",
+    "inLesson": "Open lesson for verse"
+  },
+  "search": {
+    "title": "Search",
+    "label": "Search",
+    "placeholder": "Search words, meanings and lessons…",
+    "hint": "Type Arabic with or without harakat, Urdu or English.",
+    "results": "{n} results",
+    "none": "Nothing found for “{q}”.",
+    "unavailable": "Search works on the built site. Run npm run build, then open the site from the out folder."
+  },
+  "review": {
+    "title": "Lesson review",
+    "intro": "Check each transcribed lesson against its original slides. Corrections are made in content/lessons/<id>.json; when a lesson is right, set \"status\": \"reviewed\" and add \"reviewedBy\".",
+    "status": "Status",
+    "draft": "Draft",
+    "reviewed": "Reviewed",
+    "slides": "Original slides",
+    "words": "Words",
+    "check": "Quick check",
+    "answer": "Answer",
+    "open": "Open the lesson",
+    "noEnglish": "English missing",
+    "lessons": "Text lessons",
+    "slidesOnly": "{n} lessons are still slides only.",
+    "goal": "Goal",
+    "concepts": "Concepts",
+    "connect": "How the words connect · Remember this"
+  },
+  "pages": {
+    "course": {
+      "title": "Course",
+      "body": "All units and lessons, with your progress in each."
+    },
+    "practice": {
+      "title": "Practice",
+      "body": "Short, friendly exercises from the words you have met. Nothing is timed and nothing is lost — every answer is explained."
+    },
+    "words": {
+      "title": "Dictionary",
+      "body": "Every word from the course, with its root and pattern."
+    },
+    "progress": {
+      "title": "Progress",
+      "body": "Lessons finished, slides studied and your learning days."
+    },
+    "me": {
+      "title": "You",
+      "body": "Language, comfort settings and your backup."
+    }
+  },
+  "credits": {
+    "title": "Credits",
+    "intro": "This site is built on the work of many people. Every verse and word of the Quran shown here comes from the verified sources below; none of it is typed by hand or read from the slides.",
+    "sections": {
+      "course": "The course",
+      "quran": "Quran text",
+      "meanings": "Translations and word meanings",
+      "grammar": "Grammar data",
+      "audio": "Recitation",
+      "fonts": "Fonts",
+      "software": "Software"
+    },
+    "items": {
+      "course": "The lessons follow an Urdu PowerPoint course on Quranic Arabic (521 slides). The original slides are shown with every lesson. The text lessons were written from these slides and are drafts until a teacher has checked them.",
+      "kfgqpc": "The verses are shown in the Madinah Mushaf (Hafs) text of the King Fahd Glorious Quran Printing Complex, obtained through the Quran.com API. The text is never altered.",
+      "tanzil": "Tanzil Quran Text (Uthmani), Copyright © 2007–2024 Tanzil Project, License: Creative Commons Attribution 3.0. Used as the reference text for search and for checking every verse.",
+      "saheeh": "English verse translation.",
+      "jalandhari": "Urdu verse translation.",
+      "quranCom": "Word-by-word English and Urdu meanings, transliteration and word recitations, through the Quran.com API. One Urdu word meaning (25:68, word 17) is corrected on this site.",
+      "corpus": "Roots, lemmas, parts of speech and word segments, from the Quranic Arabic Corpus by Kais Dukes (version 0.4, with corrections by mustafa0x), used under the GNU General Public License.",
+      "alafasy": "Verse recitations by Mishary Rashid Alafasy (128 kbps), from EveryAyah.com.",
+      "hafsFont": "KFGQPC Uthmanic Script Hafs font, by the King Fahd Glorious Quran Printing Complex.",
+      "otherFonts": "Amiri, Noto Nastaliq Urdu and Inter, under the SIL Open Font License (from Google Fonts, hosted on this site).",
+      "software": "Next.js, React, Tailwind CSS, Zustand, ts-fsrs (spaced repetition), Pagefind (search) and Phosphor Icons — all open-source."
+    },
+    "mistakes": "Found a mistake? Please tell a teacher or the site owner. Corrections to lessons are welcome; the Quran text itself always comes from the sources above.",
+    "visit": "Visit {name}"
+  }
+}

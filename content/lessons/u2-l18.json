@@ -1,0 +1,203 @@
+{
+ "id": "u2-l18",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الحجرات کی آخری (اٹھارہویں) آیت کو لفظ بہ لفظ سمجھیں، اور سیکھیں: غَيْبَ السَّمٰوٰتِ میں اضافت، بَصِيْر — وزن فَعِيْل، اور بِمَا — اس کے متعلق جو۔",
+  "en": "Understand the last (eighteenth) verse of Surah Al-Hujurat word by word, and learn: the idafa in غَيْبَ السَّمٰوٰتِ, بَصِيْر on the pattern فَعِيْل, and بِمَا — about whatever."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "اضافت ایک بار پھر", "en": "Idafa once more" },
+   "body": {
+    "ur": "غَيْب (پوشیدہ — اسمِ نکرہ) + السَّمٰوٰت (اسمِ معرفہ) = آسمانوں کی پوشیدہ باتیں۔ ترجمہ کرتے ہوئے کا، کی، کے کا اضافہ ہوتا ہے۔",
+    "en": "غَيْب (the unseen — indefinite) + السَّمٰوٰت (definite) = the unseen of the heavens. Idafa is translated with “of”."
+   }
+  },
+  {
+   "title": { "ur": "سورت کا خلاصہ", "en": "The surah in one line" },
+   "body": {
+    "ur": "سورۃ الحجرات ادب، بھائی چارے اور سچے ایمان کی تعلیم دیتی ہے؛ اور آخر میں یاد دلاتی ہے کہ اللہ سب کچھ جانتا اور دیکھتا ہے۔",
+    "en": "Surah Al-Hujurat teaches manners, brotherhood and true faith, and ends by reminding us that Allah knows and sees everything."
+   }
+  }
+ ],
+ "verse": { "surah": 49, "ayah": 18 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "بیشک", "en": "indeed" },
+   "parts": [{ "text": "إِنَّ", "role": "particle", "label": { "ur": "بیشک", "en": "indeed" } }],
+   "why": { "ur": "إِنَّ — بیشک۔", "en": "إِنَّ — indeed." }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "اللہ", "en": "Allah" },
+   "parts": [{ "text": "اللّٰه", "role": "noun", "label": { "ur": "لفظِ جلالہ", "en": "Allah" } }],
+   "why": { "ur": "اللّٰه — اللہ۔", "en": "اللّٰه — Allah." }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "جانتے ہیں", "en": "knows" },
+   "parts": [
+    { "text": "يَ", "role": "particle", "label": { "ur": "مضارع کی علامت", "en": "present-tense sign" } },
+    { "text": "عْلَمُ", "role": "verb", "label": { "ur": "جاننا", "en": "know" } }
+   ],
+   "why": { "ur": "يَعْلَمُ — جانتے ہیں۔", "en": "يَعْلَمُ — knows." }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "پوشیدہ باتیں", "en": "the unseen" },
+   "parts": [{ "text": "غَيْب", "role": "noun", "label": { "ur": "پوشیدہ", "en": "unseen, hidden" } }],
+   "why": {
+    "ur": "غَيْب — پوشیدہ (اسمِ نکرہ)؛ اردو میں غیب مستعمل ہے۔",
+    "en": "غَيْب — the unseen, hidden (indefinite); Urdu uses غیب."
+   }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "آسمانوں کی", "en": "of the heavens" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "سَّمٰوٰت", "role": "noun", "label": { "ur": "آسمان (جمع)", "en": "heavens" } }
+   ],
+   "why": {
+    "ur": "السَّمٰوٰت — آسمان (اسمِ معرفہ)۔ غَيْبَ السَّمٰوٰتِ — آسمانوں کی پوشیدہ باتیں: ترجمہ کرتے ہوئے کا، کی، کے کا اضافہ ہوتا ہے۔",
+    "en": "السَّمٰوٰت — the heavens (definite). غَيْبَ السَّمٰوٰتِ — the unseen of the heavens: idafa adds “of”."
+   }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "اور زمین", "en": "and the earth" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "أَرْض", "role": "noun", "label": { "ur": "زمین", "en": "earth" } }
+   ],
+   "why": {
+    "ur": "وَالْأَرْض — اور زمین۔ إِنَّ اللّٰهَ يَعْلَمُ غَيْبَ السَّمٰوٰتِ وَالْأَرْضِ — یقیناً اللہ تو زمین و آسمان کی ہر پوشیدہ چیز کو جانتے ہیں۔",
+    "en": "وَالْأَرْض — and the earth. إِنَّ اللّٰهَ يَعْلَمُ غَيْبَ السَّمٰوٰتِ وَالْأَرْضِ — indeed Allah knows the unseen of the heavens and the earth."
+   }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "اور اللہ", "en": "and Allah" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "اللّٰه", "role": "noun", "label": { "ur": "اللہ", "en": "Allah" } }
+   ],
+   "why": { "ur": "وَاللّٰهُ — اور اللہ۔", "en": "وَاللّٰهُ — and Allah." }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "دیکھنے والا", "en": "All-Seeing" },
+   "parts": [{ "text": "بَصِيْر", "role": "noun", "label": { "ur": "ازل سے ابد تک دیکھنے والا", "en": "always seeing" } }],
+   "pattern": "فَعِيْل",
+   "patternMeaning": { "ur": "ہمیشہ کی ذاتی صفت", "en": "a lasting quality of who one is" },
+   "why": {
+    "ur": "بَصِيْر — وزن فَعِيْل پر: ازل سے ابد تک دیکھنے والے۔ اردو میں سمع و بصر (سننا اور دیکھنا) مستعمل ہے۔",
+    "en": "بَصِيْر — on the pattern فَعِيْل: seeing without beginning or end. Urdu has سمع و بصر (hearing and sight)."
+   }
+  },
+  {
+   "position": 9,
+   "meaning": { "ur": "اس کے متعلق جو", "en": "of what" },
+   "parts": [
+    { "text": "بِ", "role": "particle", "label": { "ur": "کے متعلق", "en": "about" } },
+    { "text": "مَا", "role": "noun", "label": { "ur": "جو (موصولہ)", "en": "what" } }
+   ],
+   "why": { "ur": "ب (کے متعلق) + ما (موصولہ — جو): اس کے متعلق جو۔", "en": "ب (about) + ما (that which): about whatever." }
+  },
+  {
+   "position": 10,
+   "meaning": { "ur": "تم کرتے ہو", "en": "you do" },
+   "parts": [
+    { "text": "تَ", "role": "particle", "label": { "ur": "مضارع، مخاطب", "en": "present, you" } },
+    { "text": "عْمَلُ", "role": "verb", "label": { "ur": "کام کرنا", "en": "do" } },
+    { "text": "وْنَ", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ت + عمل + ون: ت مضارع اور مخاطب کی علامت، عَمِلَ — کام کیا، ون جمع: تم سب کام کرتے ہو یا کرو گے۔ وَاللّٰهُ بَصِيْرٌ بِمَا تَعْمَلُوْنَ — اور جو کچھ تم کرتے ہو وہ سب اس کی نگاہ میں ہے۔",
+    "en": "ت + عمل + ون: ت marks the present and “you”, عَمِلَ — did, ون — plural: you all do. وَاللّٰهُ بَصِيْرٌ بِمَا تَعْمَلُوْنَ — and Allah sees whatever you do."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2, 3], "role": "particle", "label": { "ur": "بیشک اللہ جانتا ہے", "en": "indeed Allah knows" } },
+   { "words": [4, 5, 6], "role": "noun", "label": { "ur": "آسمانوں اور زمین کا غیب", "en": "the unseen of the heavens and the earth" } },
+   { "words": [7, 8], "role": "noun", "label": { "ur": "اور اللہ دیکھنے والا ہے", "en": "and Allah is All-Seeing" } },
+   { "words": [9, 10], "role": "verb", "label": { "ur": "جو کچھ تم کرتے ہو", "en": "of all that you do" } }
+  ],
+  "plain": {
+   "ur": "یقیناً اللہ تو زمین و آسمان کی ہر پوشیدہ چیز کو جانتے ہیں، اور جو کچھ تم کرتے ہو وہ سب اس کی نگاہ میں ہے۔ یوں سورۃ الحجرات ختم ہوتی ہے: ادب، صلح، بھائی چارے اور سچے ایمان کی تمام ہدایات کے بعد یاد دہانی کہ اللہ سب جانتا اور دیکھتا ہے۔",
+   "en": "Indeed Allah knows every hidden thing in the heavens and the earth, and all that you do is before His sight. So Surah Al-Hujurat closes: after its guidance on manners, peace-making, brotherhood and true faith, a reminder that Allah knows and sees everything."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "اضافت: پہلا اسم نکرہ اور دوسرا معرفہ — ترجمہ کا، کی، کے سے: غَيْبَ السَّمٰوٰتِ — آسمانوں کی پوشیدہ باتیں۔",
+   "en": "Idafa: an indefinite noun then a definite one — translated with “of”: غَيْبَ السَّمٰوٰتِ — the unseen of the heavens."
+  },
+  "points": [
+   {
+    "ur": "بَصِيْر — وزن فَعِيْل: ازل سے ابد تک دیکھنے والا (سَمِيْع، عَلِيْم، خَبِيْر کی طرح)۔",
+    "en": "بَصِيْر — pattern فَعِيْل: always seeing (like سَمِيْع, عَلِيْم, خَبِيْر)."
+   },
+   {
+    "ur": "بِمَا = بِ (کے متعلق) + مَا (جو)۔",
+    "en": "بِمَا = بِ (about) + مَا (that which)."
+   },
+   {
+    "ur": "تَعْمَلُوْنَ = تَ (تم) + عْمَلُ (کام) + وْنَ (جمع)۔",
+    "en": "تَعْمَلُوْنَ = تَ (you) + عْمَلُ (do) + وْنَ (plural)."
+   }
+  ]
+ },
+ "check": [
+  {
+   "id": "u2-l18-q1",
+   "type": "mcq",
+   "prompt": { "ur": "غَيْبَ السَّمٰوٰتِ کا ترجمہ کیا ہے؟", "en": "How is غَيْبَ السَّمٰوٰتِ translated?" },
+   "options": [
+    { "text": { "ur": "آسمانوں کی پوشیدہ باتیں", "en": "the unseen of the heavens" } },
+    { "text": { "ur": "آسمان اور غیب", "en": "the heavens and the unseen" } },
+    { "text": { "ur": "پوشیدہ آسمان", "en": "hidden heavens" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "نکرہ (غَيْب) + معرفہ (السَّمٰوٰت) — اضافت: آسمانوں کی پوشیدہ باتیں۔", "en": "Indefinite (غَيْب) + definite (السَّمٰوٰت) — idafa: the unseen of the heavens." }
+  },
+  {
+   "id": "u2-l18-q2",
+   "type": "mcq",
+   "prompt": { "ur": "بَصِيْر کس وزن پر ہے؟", "en": "Which pattern is بَصِيْر on?" },
+   "arabic": "بَصِيْر",
+   "options": [{ "ar": "فَعِيْل" }, { "ar": "فَعَّال" }, { "ar": "أَفْعَل" }],
+   "answer": 0,
+   "explanation": { "ur": "بَصِيْر وزن فَعِيْل پر ہے: ہمیشہ دیکھنے والا۔", "en": "بَصِيْر is on فَعِيْل: the One who always sees." }
+  },
+  {
+   "id": "u2-l18-q3",
+   "type": "mcq",
+   "prompt": { "ur": "تَعْمَلُوْنَ کا کیا مطلب ہے؟", "en": "What does تَعْمَلُوْنَ mean?" },
+   "options": [
+    { "text": { "ur": "تم سب کام کرتے ہو", "en": "you all do" } },
+    { "text": { "ur": "وہ سب کام کرتے ہیں", "en": "they do" } },
+    { "text": { "ur": "اس نے کام کیا", "en": "he did" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "شروع کی ت — تم (مضارع)، اور ون — جمع: تم سب کام کرتے ہو۔ ”وہ سب“ کے لیے شروع میں ی ہوتی۔", "en": "ت at the start — you (present), and ون — plural: you all do. “They” would start with ی." }
+  },
+  {
+   "id": "u2-l18-q4",
+   "type": "mcq",
+   "prompt": { "ur": "بَصِيْر کا کیا معنی ہے؟", "en": "What does بَصِيْر mean?" },
+   "options": [
+    { "text": { "ur": "دیکھنے والا", "en": "seeing" } },
+    { "text": { "ur": "سننے والا", "en": "hearing" } },
+    { "text": { "ur": "جاننے والا", "en": "knowing" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "بَصِيْر — دیکھنے والا (بصر)؛ سننے والا سَمِيْع، جاننے والا عَلِيْم۔", "en": "بَصِيْر — seeing (بصر); hearing is سَمِيْع, knowing is عَلِيْم." }
+  }
+ ]
+}

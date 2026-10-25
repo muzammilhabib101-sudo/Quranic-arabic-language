@@ -1,0 +1,350 @@
+{
+ "id": "u2-l6",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الحجرات کی چھٹی آیت کو لفظ بہ لفظ سمجھیں، اور سیکھیں: إِنْ (اگر) اور أَنْ (کہ) کا فرق، شروع کا فَ (پس)، تنوین سے لفظ کا عام ہونا، نَبَأ اور خبر کا فرق، اور مَا کی چار قسمیں۔",
+  "en": "Understand the sixth verse of Surah Al-Hujurat word by word, and learn: إِنْ (if) versus أَنْ (that), the فَ (so) at the start of a word, how tanween makes a word general, نَبَأ versus خبر, and the four kinds of مَا."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "إِنْ اور أَنْ", "en": "إِنْ and أَنْ" },
+   "body": {
+    "ur": "ن پر سکون ہو تو: الف پر زیر (إِنْ) — اگر؛ الف پر زبر (أَنْ) — کہ۔ ن پر شد ہو (إِنَّ، أَنَّ) تو دونوں کا معنی بیشک ہے۔",
+    "en": "With a sukun on the ن: a kasra on the alif (إِنْ) means “if”; a fatha (أَنْ) means “that”. With a shadda (إِنَّ, أَنَّ), both mean “indeed”."
+   }
+  },
+  {
+   "title": { "ur": "تنوین — عام", "en": "Tanween — any, some" },
+   "body": {
+    "ur": "تنوین (ـً ـٍ ـٌ) لفظ کو خاص کی بجائے عام کر دیتی ہے: قَوْمًا — کسی قوم کو، فَاسِقٌ — کوئی فاسق۔",
+    "en": "Tanween (ـً ـٍ ـٌ) makes a word general rather than specific: قَوْمًا — some people, فَاسِقٌ — any wrongdoer."
+   }
+  },
+  {
+   "title": { "ur": "مَا کی چار قسمیں", "en": "Four kinds of مَا" },
+   "body": {
+    "ur": "مَا موصولہ — جو (مَا فَعَلْتُمْ)، مَا نافیہ — نہیں (مَا عِنْدِيْ)، مَا استفہامیہ — کیا (مَا الْقَارِعَةُ)، مَا تعجبیہ — کتنا (مَا أَجْمَلَكَ)۔",
+    "en": "مَا meaning “what/that which” (مَا فَعَلْتُمْ), “not” (مَا عِنْدِيْ), “what?” (مَا الْقَارِعَةُ), and “how!” (مَا أَجْمَلَكَ)."
+   }
+  }
+ ],
+ "verse": { "surah": 49, "ayah": 6 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "اے", "en": "O" },
+   "parts": [
+    { "text": "يَا", "role": "particle", "label": { "ur": "اے", "en": "O" } },
+    { "text": "أَيُّ", "role": "noun", "label": { "ur": "اے (توجہ)", "en": "O you" } },
+    { "text": "هَا", "role": "particle", "label": { "ur": "تنبیہ", "en": "attention" } }
+   ],
+   "why": {
+    "ur": "حرفِ ندا — اہمیت سے پکارنا۔ يَا أَيُّهَا الَّذِيْنَ آمَنُوْا — اے اہلِ ایمان۔",
+    "en": "A calling word. يَا أَيُّهَا الَّذِيْنَ آمَنُوْا — O you who believe."
+   }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "وہ سب جو", "en": "those who" },
+   "parts": [{ "text": "الَّذِيْنَ", "role": "noun", "label": { "ur": "جو سب اشخاص", "en": "those who" } }],
+   "why": { "ur": "اسمِ موصول: جو سب اشخاص۔", "en": "A relative word: those who." }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "ایمان لائے", "en": "believed" },
+   "parts": [
+    { "text": "آمَنَ", "role": "verb", "label": { "ur": "ایمان لایا", "en": "believed" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": { "ur": "آمَنَ + وا: وہ سب ایمان لائے۔", "en": "آمَنَ + وا: they all believed." }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "اگر", "en": "if" },
+   "parts": [{ "text": "إِنْ", "role": "particle", "label": { "ur": "اگر", "en": "if" } }],
+   "why": {
+    "ur": "إِنْ — ن پر سکون اور الف پر زیر: اگر۔ (أَنْ — کہ، اور إِنَّ — بیشک۔)",
+    "en": "إِنْ — sukun on the ن, kasra on the alif: if. (أَنْ — that; إِنَّ — indeed.)"
+   }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "تمہارے پاس آئے", "en": "comes to you" },
+   "parts": [
+    { "text": "جَاءَ", "role": "verb", "label": { "ur": "آیا، آ جائے", "en": "came" } },
+    { "text": "كُمْ", "role": "noun", "label": { "ur": "تمہارے (پاس)", "en": "you" } }
+   ],
+   "why": {
+    "ur": "جاء + كُم: جَاءَ — آیا، آ جائے؛ كُمْ — تمہارے۔ إِنْ جَاءَكُمْ — اگر تمہارے پاس آئے۔",
+    "en": "جاء + كُم: جَاءَ — came; كُمْ — you. إِنْ جَاءَكُمْ — if there comes to you."
+   }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "کوئی فاسق", "en": "a wrongdoer" },
+   "parts": [{ "text": "فَاسِق", "role": "noun", "label": { "ur": "فاسق، نافرمان", "en": "wrongdoer" } }],
+   "pattern": "فَاعِل",
+   "patternMeaning": {
+    "ur": "کام کرنے والا",
+    "en": "the one who does the action"
+   },
+   "why": {
+    "ur": "فَاسِق — بدکار، خدا کا نافرمان، حق و صداقت سے ہٹا ہوا، جو نافرمانی کی روش پر اصرار کرے۔ فاسق کا کلمہ اردو میں مستعمل ہے۔ تنوین (فَاسِقٌ) کی وجہ سے ترجمہ ہے: کوئی فاسق۔",
+    "en": "فَاسِق — a wrongdoer, one who disobeys God, strays from truth and insists on disobedience. Urdu uses فاسق. Because of the tanween (فَاسِقٌ), it means: any wrongdoer."
+   }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "کسی اہم اطلاع کے ساتھ", "en": "with news" },
+   "parts": [
+    { "text": "بِ", "role": "particle", "label": { "ur": "کے ساتھ", "en": "with" } },
+    { "text": "نَبَإ", "role": "noun", "label": { "ur": "اہم اطلاع", "en": "important news" } }
+   ],
+   "why": {
+    "ur": "ب + نَبَأ۔ نَبَأ خاص اور اہم اطلاع کو کہتے ہیں جس پر کوئی نتائج مرتب ہوتے ہیں، اور خبر عام اطلاع کو۔ بِنَبَإٍ — کسی اہم اطلاع کے ساتھ۔",
+    "en": "ب + نَبَأ. نَبَأ is important news that has consequences, while خبر is ordinary news. بِنَبَإٍ — with some important news."
+   }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "تو تحقیق کر لیا کرو", "en": "then verify" },
+   "parts": [
+    { "text": "فَ", "role": "particle", "label": { "ur": "پس، تو", "en": "so, then" } },
+    { "text": "تَبَيَّنُ", "role": "verb", "label": { "ur": "واضح کرنا", "en": "make clear" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ف + ت + بیّن + وا۔ ف — پس؛ ت — مخاطب کی علامت؛ بیّن — غیر مشتبہ، نمایاں (اردو: ”اس بات کے ثبوت بیّن ہیں“)؛ وا — جمع۔ فَتَبَيَّنُوْا — پس تم سب وضاحت (تحقیق) کر لیا کرو۔",
+    "en": "ف + ت + بیّن + وا. ف — so; ت — “you”; بیّن — clear, beyond doubt (Urdu: “the proofs are بیّن”); وا — plural. فَتَبَيَّنُوْا — so make it clear, all of you: verify."
+   }
+  },
+  {
+   "position": 9,
+   "meaning": { "ur": "کہ (کہیں ایسا نہ ہو کہ)", "en": "lest" },
+   "parts": [{ "text": "أَنْ", "role": "particle", "label": { "ur": "کہ", "en": "that" } }],
+   "why": {
+    "ur": "أَنْ — ن پر سکون، الف پر زبر: کہ۔ یہاں مطلب ہے: کہیں ایسا نہ ہو کہ۔",
+    "en": "أَنْ — sukun on the ن, fatha on the alif: that. Here it means: lest."
+   }
+  },
+  {
+   "position": 10,
+   "meaning": { "ur": "تم سب مصیبت میں مبتلا کر دو", "en": "you harm" },
+   "parts": [
+    { "text": "تُ", "role": "particle", "label": { "ur": "مخاطب کی علامت", "en": "sign of “you”" } },
+    { "text": "صِيْبُ", "role": "verb", "label": { "ur": "مصیبت پہنچانا", "en": "afflict" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "أَصَابَ — اس نے مصیبت میں مبتلا کیا، يُصِيْبُ — وہ مصیبت میں مبتلا کرتا ہے، مُصِيْبَة — مصیبت (اردو میں مستعمل)۔ تُصِيْبُ + وا — تم سب مصیبت میں مبتلا کر دو گے۔",
+    "en": "أَصَابَ — he afflicted, يُصِيْبُ — he afflicts, مُصِيْبَة — calamity (Urdu مصیبت). تُصِيْبُ + وا — you all would afflict."
+   }
+  },
+  {
+   "position": 11,
+   "meaning": { "ur": "کسی قوم کو", "en": "a people" },
+   "parts": [{ "text": "قَوْم", "role": "noun", "label": { "ur": "قوم", "en": "people" } }],
+   "why": {
+    "ur": "قَوْمًا — کسی قوم کو۔ تنوین نے خاص کی بجائے عام کر دیا۔ قوم کا کلمہ اردو میں مستعمل ہے۔",
+    "en": "قَوْمًا — some people. The tanween makes it general rather than specific. Urdu uses قوم."
+   }
+  },
+  {
+   "position": 12,
+   "meaning": { "ur": "جہالت کے سبب", "en": "out of ignorance" },
+   "parts": [
+    { "text": "بِ", "role": "particle", "label": { "ur": "کے سبب", "en": "because of" } },
+    { "text": "جَهَالَة", "role": "noun", "label": { "ur": "جہالت", "en": "ignorance" } }
+   ],
+   "why": {
+    "ur": "ب + جہالۃ۔ یہاں ب کا معنی ”کے سبب“ ہے۔ جہالت کا کلمہ اردو میں مستعمل ہے۔ بِجَهَالَةٍ — جہالت کے سبب، یعنی نادانستہ۔",
+    "en": "ب + جهالة. Here ب means “because of”. Urdu uses جہالت. بِجَهَالَةٍ — out of ignorance, unknowingly."
+   }
+  },
+  {
+   "position": 13,
+   "meaning": { "ur": "پھر تم ہو جاؤ", "en": "then you become" },
+   "parts": [
+    { "text": "فَ", "role": "particle", "label": { "ur": "پس", "en": "then" } },
+    { "text": "تُصْبِحُ", "role": "verb", "label": { "ur": "ہو جانا", "en": "become" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ف + ت + صبح + وا۔ تُصْبِحُ — تم ہو جاؤ گے؛ فَتُصْبِحُوْا — پس تم سب ہو جاؤ گے۔",
+    "en": "ف + ت + صبح + وا. تُصْبِحُ — you will become; فَتُصْبِحُوْا — then you all will become."
+   }
+  },
+  {
+   "position": 14,
+   "meaning": { "ur": "پر", "en": "over" },
+   "parts": [{ "text": "عَلٰى", "role": "particle", "label": { "ur": "پر", "en": "on, over" } }],
+   "why": {
+    "ur": "عَلٰى — پر، اوپر۔",
+    "en": "عَلٰى — on, over."
+   }
+  },
+  {
+   "position": 15,
+   "meaning": { "ur": "جو", "en": "what" },
+   "parts": [{ "text": "مَا", "role": "noun", "label": { "ur": "جو (موصولہ)", "en": "what (that which)" } }],
+   "why": {
+    "ur": "یہاں مَا موصولہ ہے، یعنی ”جو“۔ مَا کی باقی قسمیں: نافیہ (نہیں)، استفہامیہ (کیا)، تعجبیہ (کتنا)۔",
+    "en": "Here مَا means “what / that which”. Its other kinds: “not”, “what?” and “how!”."
+   }
+  },
+  {
+   "position": 16,
+   "meaning": { "ur": "تم نے کیا", "en": "you have done" },
+   "parts": [
+    { "text": "فَعَلْ", "role": "verb", "label": { "ur": "کام کیا", "en": "did" } },
+    { "text": "تُمْ", "role": "noun", "label": { "ur": "تم نے", "en": "you (all)" } }
+   ],
+   "why": {
+    "ur": "فعل + تم: تم نے کیا۔ عَلٰى مَا فَعَلْتُمْ — اس پر جو تم نے کیا۔",
+    "en": "فعل + تم: you did. عَلٰى مَا فَعَلْتُمْ — over what you have done."
+   }
+  },
+  {
+   "position": 17,
+   "meaning": { "ur": "شرمندہ", "en": "regretful" },
+   "parts": [
+    { "text": "نَادِم", "role": "noun", "label": { "ur": "شرمندہ", "en": "regretful" } },
+    { "text": "يْنَ", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "pattern": "فَاعِل",
+   "patternMeaning": {
+    "ur": "کام کرنے والا",
+    "en": "the one who does the action"
+   },
+   "why": {
+    "ur": "نادم + ین۔ نادم — شرمندہ (اردو میں مستعمل)، اور ین جمع کی علامت۔ فَعَلْتُمْ نَادِمِيْنَ — جو کام تم نے کیا اس پر شرمندہ۔",
+    "en": "نادم + ين. نادم — regretful (Urdu نادم), and ين the plural sign. فَعَلْتُمْ نَادِمِيْنَ — regretful over what you did."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2, 3], "role": "particle", "label": { "ur": "اے ایمان والو", "en": "O you who believe" } },
+   { "words": [4, 5, 6, 7], "role": "verb", "label": { "ur": "اگر کوئی فاسق کوئی اہم خبر لائے", "en": "if a wrongdoer brings you news" } },
+   { "words": [8], "role": "verb", "label": { "ur": "تو تحقیق کر لیا کرو", "en": "then verify it" } },
+   { "words": [9, 10, 11, 12], "role": "verb", "label": { "ur": "کہیں نادانی سے کسی قوم کو نقصان نہ پہنچا دو", "en": "lest you harm a people unknowingly" } },
+   { "words": [13, 14, 15, 16, 17], "role": "verb", "label": { "ur": "پھر اپنے کیے پر شرمندہ ہو", "en": "and then regret what you did" } }
+  ],
+  "plain": {
+   "ur": "اے اہلِ ایمان! اگر کوئی فاسق تمہارے پاس کوئی اہم خبر لے کر آئے تو تحقیق کر لیا کرو — کہیں ایسا نہ ہو کہ تم نادانستہ کسی گروہ کو نقصان پہنچا بیٹھو اور پھر اپنے کیے پر شرمندہ ہو۔ آیت میں تین بار شروع کا فَ آیا ہے، اور ہر بار ایک قدم آگے لے جاتا ہے: فَاسِق کی خبر، فَتَبَيَّنُوْا — تو تحقیق کرو، فَتُصْبِحُوْا — ورنہ پھر شرمندگی۔",
+   "en": "O you who believe! If a wrongdoer brings you important news, verify it — lest you harm a people unknowingly and then regret what you did. The verse moves step by step with فَ: news from a wrongdoer, فَتَبَيَّنُوْا — so verify, فَتُصْبِحُوْا — or else, regret."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "ن پر سکون ہو تو إِنْ — اگر، أَنْ — کہ؛ ن پر شد ہو تو إِنَّ اور أَنَّ — بیشک۔",
+   "en": "With a sukun on the ن: إِنْ — if, أَنْ — that; with a shadda: إِنَّ and أَنَّ — indeed."
+  },
+  "points": [
+   {
+    "ur": "شروع کا فَ — پس، تو: فَتَبَيَّنُوْا، فَتُصْبِحُوْا۔",
+    "en": "فَ at the start — so, then: فَتَبَيَّنُوْا, فَتُصْبِحُوْا."
+   },
+   {
+    "ur": "نَبَأ — اہم اطلاع جس پر نتائج ہوں؛ خبر — عام اطلاع۔ تنوین لفظ کو عام کرتی ہے: قَوْمًا — کسی قوم کو۔",
+    "en": "نَبَأ — important news with consequences; خبر — ordinary news. Tanween makes a word general: قَوْمًا — some people."
+   },
+   {
+    "ur": "مَا کی چار قسمیں: جو، نہیں، کیا، کتنا۔",
+    "en": "Four kinds of مَا: what (that which), not, what?, how!"
+   }
+  ]
+ },
+ "check": [
+  {
+   "id": "u2-l6-q1",
+   "type": "mcq",
+   "prompt": { "ur": "إِنْ جَاءَكُمْ میں إِنْ کا کیا معنی ہے؟", "en": "What does إِنْ mean in إِنْ جَاءَكُمْ?" },
+   "options": [
+    { "text": { "ur": "اگر", "en": "if" } },
+    { "text": { "ur": "کہ", "en": "that" } },
+    { "text": { "ur": "بیشک", "en": "indeed" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "ن پر سکون اور الف پر زیر (إِنْ) — اگر۔ أَنْ — کہ، اور إِنَّ — بیشک۔",
+    "en": "Sukun on the ن and kasra on the alif (إِنْ) — if. أَنْ — that, and إِنَّ — indeed."
+   }
+  },
+  {
+   "id": "u2-l6-q2",
+   "type": "mcq",
+   "prompt": { "ur": "نَبَأ اور خبر میں کیا فرق ہے؟", "en": "What is the difference between نَبَأ and خبر?" },
+   "options": [
+    { "text": { "ur": "نَبَأ اہم اطلاع ہے جس پر نتائج ہوں؛ خبر عام اطلاع", "en": "نَبَأ is important news with consequences; خبر is ordinary news" } },
+    { "text": { "ur": "دونوں بالکل ایک ہیں", "en": "They are exactly the same" } },
+    { "text": { "ur": "نَبَأ جھوٹی خبر ہے", "en": "نَبَأ is false news" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "نَبَأ خاص اور اہم اطلاع کو کہتے ہیں جس پر کوئی نتائج مرتب ہوتے ہیں، اور خبر عام اطلاع کو۔",
+    "en": "نَبَأ is specific, important news that has consequences; خبر is any ordinary news."
+   }
+  },
+  {
+   "id": "u2-l6-q3",
+   "type": "mcq",
+   "prompt": { "ur": "فَتَبَيَّنُوْا کے شروع میں فَ کا کیا معنی ہے؟", "en": "What does the فَ at the start of فَتَبَيَّنُوْا mean?" },
+   "options": [
+    { "text": { "ur": "اور", "en": "and" } },
+    { "text": { "ur": "پس، تو", "en": "so, then" } },
+    { "text": { "ur": "کیا", "en": "is it…?" } }
+   ],
+   "answer": 1,
+   "explanation": {
+    "ur": "شروع کا فَ — پس، تو: فَتَبَيَّنُوْا — تو تحقیق کر لیا کرو۔",
+    "en": "فَ at the start — so, then: فَتَبَيَّنُوْا — so verify."
+   }
+  },
+  {
+   "id": "u2-l6-q4",
+   "type": "mcq",
+   "prompt": { "ur": "قَوْمًا پر تنوین کیا بتاتی ہے؟", "en": "What does the tanween on قَوْمًا tell us?" },
+   "options": [
+    { "text": { "ur": "کوئی خاص قوم", "en": "a particular people" } },
+    { "text": { "ur": "بہت سی قومیں", "en": "many peoples" } },
+    { "text": { "ur": "کوئی بھی قوم — عام", "en": "any people — general" } }
+   ],
+   "answer": 2,
+   "explanation": {
+    "ur": "تنوین نے خاص کی بجائے عام کر دیا: قَوْمًا — کسی قوم کو۔",
+    "en": "The tanween makes it general rather than specific: قَوْمًا — some people, any people."
+   }
+  },
+  {
+   "id": "u2-l6-q5",
+   "type": "mcq",
+   "prompt": { "ur": "عَلٰى مَا فَعَلْتُمْ میں مَا کون سا ہے؟", "en": "Which kind of مَا is in عَلٰى مَا فَعَلْتُمْ?" },
+   "options": [
+    { "text": { "ur": "موصولہ — جو", "en": "“what / that which”" } },
+    { "text": { "ur": "نافیہ — نہیں", "en": "“not”" } },
+    { "text": { "ur": "استفہامیہ — کیا", "en": "“what?”" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "یہاں مَا کا مطلب ”جو“ ہے: اس پر جو تم نے کیا۔",
+    "en": "Here مَا means “what / that which”: over what you have done."
+   }
+  },
+  {
+   "id": "u2-l6-q6",
+   "type": "mcq",
+   "prompt": { "ur": "نَادِمِيْنَ کا کیا مطلب ہے؟", "en": "What does نَادِمِيْنَ mean?" },
+   "options": [
+    { "text": { "ur": "شرمندہ لوگ", "en": "regretful people" } },
+    { "text": { "ur": "پکارنے والے", "en": "people who call" } },
+    { "text": { "ur": "ایک شرمندہ شخص", "en": "one regretful person" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "نادم — شرمندہ، اور آخر میں ین جمع کی علامت: شرمندہ لوگ۔",
+    "en": "نادم — regretful, and ين at the end is the plural sign: regretful people."
+   }
+  }
+ ]
+}

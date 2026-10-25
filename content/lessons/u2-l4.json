@@ -1,0 +1,247 @@
+{
+ "id": "u2-l4",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الحجرات کی چوتھی آیت کو لفظ بہ لفظ سمجھیں، اور سیکھیں: ایک فعل میں کئی حصے (يُنَادُوْنَكَ)، سمتوں کے الفاظ، اور مؤنث ة سے جمع ات بنانا۔",
+  "en": "Understand the fourth verse of Surah Al-Hujurat word by word, and learn: a verb built from several parts (يُنَادُوْنَكَ), words for directions, and making the plural ات from a feminine ة."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "ایک لفظ، چار حصے", "en": "One word, four parts" },
+   "body": {
+    "ur": "يُنَادُوْنَكَ = ی (مضارع کی علامت) + ناد (پکارنا) + ون (جمع) + كَ (آپ کو): وہ سب آپ کو پکارتے ہیں۔",
+    "en": "يُنَادُوْنَكَ = ی (present-tense sign) + ناد (call) + ون (plural) + كَ (you): they call you."
+   }
+  },
+  {
+   "title": { "ur": "سمتیں", "en": "Directions" },
+   "body": {
+    "ur": "أَمَام — سامنے، وَرَاء — پیچھے، يَمِيْن — دائیں، يَسَار / شِمَال — بائیں، فَوْق — اوپر، تَحْت — نیچے۔",
+    "en": "أَمَام — in front, وَرَاء — behind, يَمِيْن — right, يَسَار / شِمَال — left, فَوْق — above, تَحْت — below."
+   }
+  },
+  {
+   "title": { "ur": "ة اور ات", "en": "ة and ات" },
+   "body": {
+    "ur": "کلمے کے آخر پر ة آئے تو سمجھ لیجیے وہ مؤنث ہے۔ جمع بنانے کے لیے ة کو ہٹا کر ات لگا دیتے ہیں: حُجْرَة ← حُجُرَات۔",
+    "en": "A ة at the end of a word marks it feminine. To make the plural, drop the ة and add ات: حُجْرَة becomes حُجُرَات."
+   }
+  }
+ ],
+ "verse": { "surah": 49, "ayah": 4 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "بیشک", "en": "indeed" },
+   "parts": [{ "text": "إِنَّ", "role": "particle", "label": { "ur": "بیشک", "en": "indeed" } }],
+   "why": {
+    "ur": "إِنَّ — بیشک، یقیناً۔",
+    "en": "إِنَّ — indeed, surely."
+   }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "وہ سب جو", "en": "those who" },
+   "parts": [{ "text": "الَّذِيْنَ", "role": "noun", "label": { "ur": "جو سب اشخاص", "en": "those who" } }],
+   "why": {
+    "ur": "اسمِ موصول: جو سب اشخاص۔",
+    "en": "A relative word: those who."
+   }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "آپ کو پکارتے ہیں", "en": "call you" },
+   "parts": [
+    { "text": "يُ", "role": "particle", "label": { "ur": "مضارع کی علامت", "en": "present-tense sign" } },
+    { "text": "نَادُ", "role": "verb", "label": { "ur": "پکارنا", "en": "call" } },
+    { "text": "وْنَ", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } },
+    { "text": "كَ", "role": "noun", "label": { "ur": "آپ کو (مخاطب)", "en": "you" } }
+   ],
+   "why": {
+    "ur": "ی + ناد + ون + كَ۔ شروع کی ی مضارع کی علامت ہے، ناد کا تعلق ندا (پکار) سے ہے — ندا کا لفظ اردو میں بھی مستعمل ہے — ون جمع کی علامت ہے، اور آخر کا كَ مخاطب کی علامت: آپ کو۔ نَادٰى — اس نے پکارا، يُنَادُوْنَ — وہ سب پکارتے ہیں، يُنَادُوْنَكَ — وہ سب آپ کو پکارتے ہیں یا پکاریں گے۔",
+    "en": "ی + ناد + ون + كَ. The ی at the start is the present-tense sign, ناد is from ندا (calling) — a word Urdu uses too — ون is the plural sign, and the final كَ means “you”. نَادٰى — he called, يُنَادُوْنَ — they call, يُنَادُوْنَكَ — they call you."
+   }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "سے", "en": "from" },
+   "parts": [{ "text": "مِنْ", "role": "particle", "label": { "ur": "سے", "en": "from" } }],
+   "why": {
+    "ur": "مِنْ — سے۔",
+    "en": "مِنْ — from."
+   }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "پیچھے", "en": "behind" },
+   "parts": [{ "text": "وَرَاء", "role": "noun", "label": { "ur": "پیچھے", "en": "behind" } }],
+   "why": {
+    "ur": "وَرَاء — پیچھے۔ اردو میں ماوراء اسی سے ہے: ماورائے عدالت قتل غیر قانونی حرکت ہے۔ اس کے مقابلے میں أَمَام — سامنے۔",
+    "en": "وَرَاء — behind. Urdu ماوراء (beyond) comes from it, as in ماورائے عدالت (extra-judicial). Its opposite is أَمَام — in front."
+   }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "حجروں (کے)", "en": "the private chambers" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "حُجُرَات", "role": "noun", "label": { "ur": "رہائش گاہیں", "en": "chambers" } }
+   ],
+   "why": {
+    "ur": "حُجْرَة — رہائش گاہ، اور اس کی جمع حُجُرَات — رہائش گاہیں۔ کلمے کے آخر پر ة ہو تو وہ مؤنث ہے، اور جمع کے لیے ة ہٹا کر ات لگاتے ہیں۔ مِنْ وَرَاءِ الْحُجُرَاتِ میں وَرَاء (بغیر ال) اور الْحُجُرَات (ال کے ساتھ) کی اضافت ہے: حجروں کے پیچھے سے۔",
+    "en": "حُجْرَة — a living room or chamber, plural حُجُرَات. A ة at the end marks a feminine word, and the plural drops the ة and adds ات. In مِنْ وَرَاءِ الْحُجُرَاتِ, وَرَاء (no ال) and الْحُجُرَات (with ال) form an idafa: from behind the chambers."
+   }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "ان میں سے اکثر", "en": "most of them" },
+   "parts": [
+    { "text": "أَكْثَرُ", "role": "noun", "label": { "ur": "زیادہ تر", "en": "most" } },
+    { "text": "هُمْ", "role": "noun", "label": { "ur": "ان سب", "en": "of them" } }
+   ],
+   "pattern": "أَفْعَل",
+   "patternMeaning": {
+    "ur": "سب سے زیادہ",
+    "en": "the most"
+   },
+   "why": {
+    "ur": "اکثر + هُمْ: ان میں سے اکثر۔ اکثر کا لفظ اردو میں عام ہے۔",
+    "en": "اکثر + هُمْ: most of them. اکثر is an everyday Urdu word."
+   }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "نہیں", "en": "not" },
+   "parts": [{ "text": "لَا", "role": "particle", "label": { "ur": "نفی", "en": "not" } }],
+   "why": {
+    "ur": "لَا — نفی، اور منع کرنے کے لیے بھی۔",
+    "en": "لَا — not; it also forbids."
+   }
+  },
+  {
+   "position": 9,
+   "meaning": { "ur": "عقل رکھتے ہیں", "en": "understand" },
+   "parts": [
+    { "text": "يَ", "role": "particle", "label": { "ur": "مضارع کی علامت", "en": "present-tense sign" } },
+    { "text": "عْقِلُ", "role": "verb", "label": { "ur": "سمجھنا", "en": "understand" } },
+    { "text": "وْنَ", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ی + عقل + ون۔ عقل کا معنی سمجھ ہے، اور یہ لفظ اردو میں عام ہے۔ يَعْقِلُ — وہ عقل رکھتا ہے، يَعْقِلُوْنَ — وہ سب عقل رکھتے ہیں، لَا يَعْقِلُوْنَ — وہ سب عقل نہیں رکھتے۔",
+    "en": "ی + عقل + ون. عقل means understanding, and it is an everyday Urdu word. يَعْقِلُ — he understands, يَعْقِلُوْنَ — they understand, لَا يَعْقِلُوْنَ — they do not understand."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2], "role": "particle", "label": { "ur": "بیشک جو لوگ", "en": "indeed those who" } },
+   { "words": [3], "role": "verb", "label": { "ur": "آپ کو پکارتے ہیں", "en": "call you" } },
+   { "words": [4, 5, 6], "role": "noun", "label": { "ur": "حجروں کے پیچھے سے", "en": "from behind the chambers" } },
+   { "words": [7], "role": "noun", "label": { "ur": "ان میں سے اکثر", "en": "most of them" } },
+   { "words": [8, 9], "role": "verb", "label": { "ur": "عقل نہیں رکھتے", "en": "do not understand" } }
+  ],
+  "plain": {
+   "ur": "پچھلی آیت میں ادب سے آواز پست رکھنے والوں کی تعریف تھی؛ اب اس کے برعکس: بیشک جو لوگ آپ ﷺ کو حجروں (رہائش گاہوں) کے باہر سے پکارتے ہیں، ان میں سے اکثر عقل نہیں رکھتے۔ يُنَادُوْنَكَ میں پورا جملہ ایک لفظ میں ہے: وہ سب آپ کو پکارتے ہیں۔",
+   "en": "The previous verse praised those who lower their voices; now the opposite: indeed those who call you ﷺ from outside the private chambers — most of them do not understand. In يُنَادُوْنَكَ a whole sentence fits in one word: they call you."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "کلمے کے آخر پر ة ہو تو وہ مؤنث ہے؛ جمع کے لیے ة ہٹا کر ات لگاتے ہیں: حُجْرَة ← حُجُرَات۔",
+   "en": "A ة at the end marks a feminine word; for the plural, drop the ة and add ات: حُجْرَة becomes حُجُرَات."
+  },
+  "points": [
+   {
+    "ur": "يُنَادُوْنَكَ = ی (مضارع) + ناد (پکارنا) + ون (جمع) + كَ (آپ کو)۔",
+    "en": "يُنَادُوْنَكَ = ی (present) + ناد (call) + ون (plural) + كَ (you)."
+   },
+   {
+    "ur": "أَمَام — سامنے، وَرَاء — پیچھے، فَوْق — اوپر، تَحْت — نیچے، يَمِيْن — دائیں، يَسَار — بائیں۔",
+    "en": "أَمَام — in front, وَرَاء — behind, فَوْق — above, تَحْت — below, يَمِيْن — right, يَسَار — left."
+   },
+   {
+    "ur": "مِنْ وَرَاءِ الْحُجُرَاتِ بھی اضافت ہے: پہلے پر ال نہیں، دوسرے پر ال — حجروں کے پیچھے سے۔",
+    "en": "مِنْ وَرَاءِ الْحُجُرَاتِ is an idafa too: no ال on the first, ال on the second — from behind the chambers."
+   }
+  ]
+ },
+ "check": [
+  {
+   "id": "u2-l4-q1",
+   "type": "mcq",
+   "prompt": { "ur": "يُنَادُوْنَكَ کے آخر میں كَ کا کیا مطلب ہے؟", "en": "What does the كَ at the end of يُنَادُوْنَكَ mean?" },
+   "options": [
+    { "text": { "ur": "ان کو", "en": "them" } },
+    { "text": { "ur": "آپ کو", "en": "you" } },
+    { "text": { "ur": "ہم کو", "en": "us" } }
+   ],
+   "answer": 1,
+   "explanation": {
+    "ur": "آخر کا كَ مخاطب کی ضمیر ہے: آپ کو۔ يُنَادُوْنَكَ — وہ سب آپ کو پکارتے ہیں۔",
+    "en": "The final كَ is the pronoun “you”. يُنَادُوْنَكَ — they call you."
+   }
+  },
+  {
+   "id": "u2-l4-q2",
+   "type": "mcq",
+   "prompt": { "ur": "وَرَاء کا کیا معنی ہے؟", "en": "What does وَرَاء mean?" },
+   "arabic": "وَرَاء",
+   "options": [
+    { "text": { "ur": "سامنے", "en": "in front" } },
+    { "text": { "ur": "اوپر", "en": "above" } },
+    { "text": { "ur": "پیچھے", "en": "behind" } }
+   ],
+   "answer": 2,
+   "explanation": {
+    "ur": "وَرَاء — پیچھے (اردو میں ماوراء)۔ سامنے کے لیے أَمَام اور اوپر کے لیے فَوْق۔",
+    "en": "وَرَاء — behind (Urdu ماوراء). In front is أَمَام, and above is فَوْق."
+   }
+  },
+  {
+   "id": "u2-l4-q3",
+   "type": "mcq",
+   "prompt": { "ur": "حُجْرَة کی جمع کیسے بنتی ہے؟", "en": "How is the plural of حُجْرَة made?" },
+   "arabic": "حُجْرَة",
+   "options": [
+    { "text": { "ur": "ة ہٹا کر ات لگاتے ہیں", "en": "Drop the ة and add ات" } },
+    { "text": { "ur": "آخر میں ون لگاتے ہیں", "en": "Add ون at the end" } },
+    { "text": { "ur": "شروع میں ال لگاتے ہیں", "en": "Add ال at the start" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "ة مؤنث کی علامت ہے؛ جمع کے لیے اسے ہٹا کر ات لگاتے ہیں: حُجُرَات۔ ال لگانے سے لفظ خاص ہوتا ہے، جمع نہیں۔",
+    "en": "ة marks a feminine word; for the plural it is dropped and ات added: حُجُرَات. Adding ال makes a word definite, not plural."
+   }
+  },
+  {
+   "id": "u2-l4-q4",
+   "type": "mcq",
+   "prompt": { "ur": "أَكْثَرُهُمْ کا کیا مطلب ہے؟", "en": "What does أَكْثَرُهُمْ mean?" },
+   "options": [
+    { "text": { "ur": "ان میں سے اکثر", "en": "most of them" } },
+    { "text": { "ur": "ان میں سے کوئی نہیں", "en": "none of them" } },
+    { "text": { "ur": "ان کی عقل", "en": "their understanding" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "أَكْثَر — زیادہ تر، اور هُمْ — ان سب: ان میں سے اکثر۔",
+    "en": "أَكْثَر — most, and هُمْ — them: most of them."
+   }
+  },
+  {
+   "id": "u2-l4-q5",
+   "type": "mcq",
+   "prompt": { "ur": "لَا يَعْقِلُوْنَ کا کیا مطلب ہے؟", "en": "What does لَا يَعْقِلُوْنَ mean?" },
+   "options": [
+    { "text": { "ur": "تم سب عقل رکھتے ہو", "en": "you all understand" } },
+    { "text": { "ur": "وہ سب عقل نہیں رکھتے", "en": "they do not understand" } },
+    { "text": { "ur": "میں نہیں سمجھتا", "en": "I do not understand" } }
+   ],
+   "answer": 1,
+   "explanation": {
+    "ur": "ی (وہ — مضارع) + عقل (سمجھ) + ون (جمع)، اور آگے لَا: وہ سب عقل نہیں رکھتے۔ ”تم“ کے لیے شروع میں ت ہوتا۔",
+    "en": "ی (they — present) + عقل (understanding) + ون (plural), with لَا: they do not understand. “You” would start with ت."
+   }
+  }
+ ]
+}

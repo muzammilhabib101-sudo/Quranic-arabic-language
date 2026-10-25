@@ -1,0 +1,191 @@
+{
+ "id": "u4-l12",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الفرقان کی آیت ۷۲ کو لفظ بہ لفظ سمجھیں — جھوٹ اور لغو سے بچنا — اور سیکھیں: يَشْهَدُوْنَ (مضارع، تیسرا شخص)، إِذَا کے بعد ماضی کا ترجمہ مضارع میں (مَرُّوْا)، اور بِ کے چھ معنی۔",
+  "en": "Understand Al-Furqan 25:72 word by word — avoiding falsehood and idle talk — and learn: يَشْهَدُوْنَ (present, third person), the past after إِذَا translated as present (مَرُّوْا), and six meanings of بِ."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "بِ کے چھ معنی", "en": "Six meanings of بِ" },
+   "body": {
+    "ur": "کے ساتھ (بِسْمِ اللّٰهِ)، میں (بِالْقَوْلِ)، سبب / وجہ (بِجَهَالَةٍ)، پر (بِاللّٰهِ)، کے متعلق (بِكُلِّ شَيْءٍ)، اور سے (بِاللَّغْوِ)۔",
+    "en": "with (بِسْمِ اللّٰهِ), in (بِالْقَوْلِ), because of (بِجَهَالَةٍ), in/on (بِاللّٰهِ), about (بِكُلِّ شَيْءٍ), and by/past (بِاللَّغْوِ)."
+   }
+  },
+  {
+   "title": { "ur": "إِذَا + ماضی", "en": "إِذَا + past" },
+   "body": {
+    "ur": "مَرُّوْا — وہ گزرے (ماضی)؛ إِذَا کی وجہ سے ترجمہ مضارع میں: إِذَا مَرُّوْا — جب وہ گزرتے ہیں۔",
+    "en": "مَرُّوْا — they passed (past); because of إِذَا it is translated in the present: إِذَا مَرُّوْا — when they pass."
+   }
+  }
+ ],
+ "verse": { "surah": 25, "ayah": 72 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "اور وہ جو", "en": "and those who" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "الَّذِيْنَ", "role": "noun", "label": { "ur": "جو اشخاص", "en": "those who" } }
+   ],
+   "why": { "ur": "وَ — اور، الَّذِيْنَ — جو اشخاص۔", "en": "وَ — and, الَّذِيْنَ — those who." }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "نہیں", "en": "do not" },
+   "parts": [{ "text": "لَا", "role": "particle", "label": { "ur": "حرفِ نفی", "en": "not" } }],
+   "why": { "ur": "لَا — حرفِ نفی ہے، اور منع کرنے کے لیے بھی استعمال ہوتا ہے۔", "en": "لَا — not; also used to forbid." }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "گواہ بنتے", "en": "witness" },
+   "parts": [
+    { "text": "يَ", "role": "particle", "label": { "ur": "فعلِ مضارع (تیسرا شخص)", "en": "present (third person)" } },
+    { "text": "شْهَدُ", "role": "verb", "label": { "ur": "گواہی دینا", "en": "witness" } },
+    { "text": "وْنَ", "role": "noun", "label": { "ur": "علامتِ جمع", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ی + شہد + ون۔ شَهِدَ — مشاہدہ کیا، شہادت دی، گواہی دی۔ يَشْهَدُوْنَ — وہ سب مشاہدہ کرتے ہیں یا گواہی دیتے ہیں۔",
+    "en": "ی + شهد + ون. شَهِدَ — witnessed, testified. يَشْهَدُوْنَ — they witness, they testify."
+   }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "جھوٹ کے", "en": "falsehood" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "زُّوْر", "role": "noun", "label": { "ur": "جھوٹ، باطل", "en": "falsehood" } }
+   ],
+   "why": {
+    "ur": "الزُّوْر — جھوٹ، باطل، جعل سازی، بت پرستی۔ وَالَّذِيْنَ لَا يَشْهَدُوْنَ الزُّوْرَ — اور جو جھوٹ کے گواہ نہیں بنتے۔",
+    "en": "الزُّوْر — falsehood, fraud, idolatry. وَالَّذِيْنَ لَا يَشْهَدُوْنَ الزُّوْرَ — those who do not witness falsehood."
+   }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "اور جب", "en": "and when" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "إِذَا", "role": "noun", "label": { "ur": "جب", "en": "when" } }
+   ],
+   "why": { "ur": "إِذَا — جب؛ ماضی سے پہلے آتا ہے اور مضارع کے معنی دیتا ہے۔", "en": "إِذَا — when; before a past verb it gives a present meaning." }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "وہ گزرتے ہیں", "en": "they pass" },
+   "parts": [
+    { "text": "مَرَّ", "role": "verb", "label": { "ur": "گزرا (ماضی)", "en": "passed (past)" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "علامتِ جمع", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "مرّ + وا: وہ گزرے (ماضی)؛ إِذَا کی وجہ سے ترجمہ مضارع میں کریں گے: إِذَا مَرُّوْا — جب وہ گزرتے ہیں۔",
+    "en": "مرّ + وا: they passed (past); because of إِذَا we translate in the present: إِذَا مَرُّوْا — when they pass."
+   }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "لغو کے پاس سے", "en": "by idle talk" },
+   "parts": [
+    { "text": "بِ", "role": "particle", "label": { "ur": "سے", "en": "by" } },
+    { "text": "ال", "role": "particle", "label": { "ur": "اسمِ جنس", "en": "the" } },
+    { "text": "لَّغْو", "role": "noun", "label": { "ur": "بیہودہ، بیکار", "en": "idle, vain" } }
+   ],
+   "why": {
+    "ur": "ب + ال + لغو: بیہودہ، بیکار، بے معنی۔ بِ کے معنی: کے ساتھ (بسم اللہ)، میں (بالقول)، سبب (بجہالۃ)، پر (باللہ)، کے متعلق (بکل شیء)، اور سے (باللغو)۔",
+    "en": "ب + ال + لغو: idle, useless, meaningless. بِ means: with (بسم اللہ), in (بالقول), because of (بجهالة), in (بالله), about (بكل شيء), and by (باللغو)."
+   }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "گزر جاتے ہیں", "en": "they pass" },
+   "parts": [
+    { "text": "مَرَّ", "role": "verb", "label": { "ur": "گزرا", "en": "passed" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "علامتِ جمع", "en": "plural sign" } }
+   ],
+   "why": { "ur": "مَرُّوْا — وہ گزرتے ہیں (إِذَا کی وجہ سے مضارع)۔", "en": "مَرُّوْا — they pass (present because of إِذَا)." }
+  },
+  {
+   "position": 9,
+   "meaning": { "ur": "باوقار انداز سے", "en": "with dignity" },
+   "parts": [{ "text": "كِرَام", "role": "noun", "label": { "ur": "شریفانہ طریقہ", "en": "dignified" } }],
+   "why": {
+    "ur": "كِرَامًا — شریفانہ طریقہ، پروقار انداز۔ وَإِذَا مَرُّوْا بِاللَّغْوِ مَرُّوْا كِرَامًا — اور جب ان کا بیہودہ (لغو) چیز پر سے گزر ہو تو وہ وقار کے ساتھ گزر جاتے ہیں۔",
+    "en": "كِرَامًا — nobly, with dignity. وَإِذَا مَرُّوْا بِاللَّغْوِ مَرُّوْا كِرَامًا — and when they pass by idle talk, they pass with dignity."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2, 3, 4], "role": "verb", "label": { "ur": "اور جو جھوٹ کے گواہ نہیں بنتے", "en": "and those who do not witness falsehood" } },
+   { "words": [5, 6, 7], "role": "verb", "label": { "ur": "اور جب لغو کے پاس سے گزرتے ہیں", "en": "and when they pass by idle talk" } },
+   { "words": [8, 9], "role": "verb", "label": { "ur": "تو وقار سے گزر جاتے ہیں", "en": "they pass by with dignity" } }
+  ],
+  "plain": {
+   "ur": "اور جو جھوٹ کے گواہ نہیں بنتے، اور جب ان کا بیہودہ چیز پر سے گزر ہو تو وہ وقار کے ساتھ گزر جاتے ہیں۔ رحمٰن کے بندے نہ جھوٹ میں شریک ہوتے ہیں، نہ فضول باتوں میں الجھتے ہیں۔",
+   "en": "And those who do not witness falsehood, and when they pass by idle talk, they pass by with dignity. The servants of the Most Merciful neither take part in falsehood nor get caught up in idle talk."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "إِذَا کے بعد ماضی کا ترجمہ مضارع میں: إِذَا مَرُّوْا — جب وہ گزرتے ہیں۔",
+   "en": "After إِذَا, a past verb is translated in the present: إِذَا مَرُّوْا — when they pass."
+  },
+  "points": [
+   { "ur": "بِ کے چھ معنی: کے ساتھ، میں، سبب، پر، کے متعلق، سے۔", "en": "Six meanings of بِ: with, in, because of, on, about, by." },
+   { "ur": "الزُّوْر — جھوٹ، باطل؛ اللَّغْو — بیہودہ، بیکار۔", "en": "الزُّوْر — falsehood; اللَّغْو — idle, vain." },
+   { "ur": "كِرَامًا — باوقار انداز سے۔", "en": "كِرَامًا — with dignity." }
+  ]
+ },
+ "check": [
+  {
+   "id": "u4-l12-q1",
+   "type": "mcq",
+   "prompt": { "ur": "الزُّوْر کا کیا معنی ہے؟", "en": "What does الزُّوْر mean?" },
+   "options": [
+    { "text": { "ur": "جھوٹ، باطل", "en": "falsehood" } },
+    { "text": { "ur": "طاقت", "en": "strength" } },
+    { "text": { "ur": "ملاقات", "en": "a visit" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "الزُّوْر — جھوٹ، باطل، جعل سازی، بت پرستی۔", "en": "الزُّوْر — falsehood, fraud, idolatry." }
+  },
+  {
+   "id": "u4-l12-q2",
+   "type": "mcq",
+   "prompt": { "ur": "إِذَا مَرُّوْا کا ترجمہ کیا ہے؟", "en": "How is إِذَا مَرُّوْا translated?" },
+   "options": [
+    { "text": { "ur": "جب وہ گزرتے ہیں", "en": "when they pass" } },
+    { "text": { "ur": "جب وہ گزر چکے تھے", "en": "when they had passed" } },
+    { "text": { "ur": "گزرو", "en": "pass!" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "مَرُّوْا ماضی ہے، مگر إِذَا کی وجہ سے مضارع: جب وہ گزرتے ہیں۔", "en": "مَرُّوْا is past, but because of إِذَا it is present: when they pass." }
+  },
+  {
+   "id": "u4-l12-q3",
+   "type": "mcq",
+   "prompt": { "ur": "بِجَهَالَةٍ میں بِ کا کیا معنی ہے؟", "en": "What does بِ mean in بِجَهَالَةٍ?" },
+   "options": [
+    { "text": { "ur": "سبب، وجہ", "en": "because of" } },
+    { "text": { "ur": "کے ساتھ", "en": "with" } },
+    { "text": { "ur": "کے متعلق", "en": "about" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "بِجَهَالَةٍ — جہالت کے سبب: یہاں ب ”سبب، وجہ“ ہے۔", "en": "بِجَهَالَةٍ — because of ignorance: here بِ means “because of”." }
+  },
+  {
+   "id": "u4-l12-q4",
+   "type": "mcq",
+   "prompt": { "ur": "يَشْهَدُوْنَ کا کیا مطلب ہے؟", "en": "What does يَشْهَدُوْنَ mean?" },
+   "options": [
+    { "text": { "ur": "وہ گواہی دیتے ہیں", "en": "they testify" } },
+    { "text": { "ur": "وہ دیکھنے آتے ہیں", "en": "they visit" } },
+    { "text": { "ur": "وہ لکھتے ہیں", "en": "they write" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "شَهِدَ — گواہی دی؛ يَشْهَدُوْنَ — وہ سب گواہی دیتے ہیں یا مشاہدہ کرتے ہیں۔", "en": "شَهِدَ — testified; يَشْهَدُوْنَ — they testify, witness." }
+  }
+ ]
+}

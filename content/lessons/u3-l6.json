@@ -1,0 +1,193 @@
+{
+ "id": "u3-l6",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الفاتحہ کی آخری آیت کو لفظ بہ لفظ سمجھیں، اور سیکھیں: أَنْعَمْتَ میں ت — آپ نے (فعلِ ماضی کا پورا جدول)، عَلَيْهِمْ، الْمَغْضُوْب — وزن مَفْعُوْل، اور الضَّالِّيْنَ۔",
+  "en": "Understand the last verse of Al-Fatihah word by word, and learn: the ت in أَنْعَمْتَ — “You did” (the full past-tense table), عَلَيْهِمْ, الْمَغْضُوْب on the pattern مَفْعُوْل, and الضَّالِّيْنَ."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "ماضی کا جدول", "en": "The past-tense table" },
+   "body": {
+    "ur": "أَنْعَمَ — اس ایک مذکر نے انعام کیا، أَنْعَمَتْ — اس ایک مؤنث نے، أَنْعَمْتَ — آپ (مذکر) نے، أَنْعَمْتِ — تو (مؤنث) نے، أَنْعَمْتُ — میں نے، أَنْعَمُوْا — ان سب نے، أَنْعَمْنَا — ہم نے۔",
+    "en": "أَنْعَمَ — he bestowed, أَنْعَمَتْ — she, أَنْعَمْتَ — you (m.), أَنْعَمْتِ — you (f.), أَنْعَمْتُ — I, أَنْعَمُوْا — they, أَنْعَمْنَا — we."
+   }
+  },
+  {
+   "title": { "ur": "وزن مَفْعُوْل", "en": "The pattern مَفْعُوْل" },
+   "body": {
+    "ur": "مَفْعُوْل — جس پر کام کیا گیا: غَضَب ← مَغْضُوْب (جس پر غضب کیا گیا)، رَحِمَ ← مَرْحُوْم (جس پر رحم کیا گیا)۔",
+    "en": "مَفْعُوْل — the one something is done to: غَضَب → مَغْضُوْب (one with whom anger is), رَحِمَ → مَرْحُوْم (one shown mercy)."
+   }
+  }
+ ],
+ "verse": { "surah": 1, "ayah": 7 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "راستہ", "en": "the path" },
+   "parts": [{ "text": "صِرَاط", "role": "noun", "label": { "ur": "راستہ", "en": "path" } }],
+   "why": {
+    "ur": "صِرَاط — راستہ؛ یہاں ال نہیں، کیونکہ اگلا لفظ (الَّذِيْنَ) اسے خاص کر رہا ہے: ان لوگوں کا راستہ۔",
+    "en": "صِرَاط — path; no ال here, because the next word (الَّذِيْنَ) specifies it: the path of those."
+   }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "ان لوگوں کا جو", "en": "of those whom" },
+   "parts": [{ "text": "الَّذِيْنَ", "role": "noun", "label": { "ur": "ان اشخاص کا", "en": "of those" } }],
+   "why": { "ur": "الَّذِيْنَ — ان اشخاص کا، جو۔", "en": "الَّذِيْنَ — of those who." }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "آپ نے انعام فرمایا", "en": "You have blessed" },
+   "parts": [
+    { "text": "أَنْعَمْ", "role": "verb", "label": { "ur": "انعام کیا", "en": "bestowed favour" } },
+    { "text": "تَ", "role": "noun", "label": { "ur": "آپ نے (مخاطب)", "en": "You" } }
+   ],
+   "why": {
+    "ur": "انعم + ت: آپ نے انعام فرمایا۔ ت مخاطب کی علامت ہے (انعام اردو میں مستعمل)۔ أَنْعَمَ — اس ایک مذکر نے انعام کیا، أَنْعَمْتَ — آپ نے، أَنْعَمْتِ — تو ایک مؤنث نے، أَنْعَمْتُ — میں نے، أَنْعَمَتْ — اس ایک مؤنث نے۔",
+    "en": "أنعم + ت: You bestowed favour. The ت means “You” (Urdu has انعام). أَنْعَمَ — he bestowed, أَنْعَمْتَ — You (m.), أَنْعَمْتِ — you (f.), أَنْعَمْتُ — I, أَنْعَمَتْ — she."
+   }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "ان سب پر", "en": "upon them" },
+   "parts": [
+    { "text": "عَلٰى", "role": "particle", "label": { "ur": "اوپر، پر", "en": "on" } },
+    { "text": "هِمْ", "role": "noun", "label": { "ur": "وہ سب", "en": "them" } }
+   ],
+   "why": {
+    "ur": "علی + ہم: ان سب پر۔ صِرَاطَ الَّذِيْنَ أَنْعَمْتَ عَلَيْهِمْ — ان سب لوگوں کا راستہ جن پر آپ نے انعام فرمایا۔",
+    "en": "على + هم: upon them. صِرَاطَ الَّذِيْنَ أَنْعَمْتَ عَلَيْهِمْ — the path of those You have blessed."
+   }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "نہ (ان کا)", "en": "not (of)" },
+   "parts": [{ "text": "غَيْر", "role": "noun", "label": { "ur": "علاوہ، نہ", "en": "other than, not" } }],
+   "why": {
+    "ur": "غَيْر — علاوہ، نہ؛ اردو میں غیر مستعمل ہے (غیر حاضر)۔",
+    "en": "غَيْر — other than, not; Urdu uses غیر (as in غیر حاضر, absent)."
+   }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "جن پر غضب کیا گیا", "en": "those who earned anger" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "مَغْضُوْب", "role": "noun", "label": { "ur": "جس پر غضب کیا گیا", "en": "one with whom anger is" } }
+   ],
+   "pattern": "مَفْعُوْل",
+   "patternMeaning": { "ur": "جس پر کام کیا گیا", "en": "the one the action is done to" },
+   "why": {
+    "ur": "غضب (اردو میں مستعمل) سے، وزن مَفْعُوْل پر: مَغْضُوْب — جس پر غضب کیا گیا، جیسے مَرْحُوْم — جس پر رحم کیا گیا۔",
+    "en": "From غضب (anger, used in Urdu), on the pattern مَفْعُوْل: مَغْضُوْب — one with whom anger is, like مَرْحُوْم — one shown mercy."
+   }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "ان پر", "en": "upon them" },
+   "parts": [
+    { "text": "عَلٰى", "role": "particle", "label": { "ur": "پر", "en": "on" } },
+    { "text": "هِمْ", "role": "noun", "label": { "ur": "وہ سب", "en": "them" } }
+   ],
+   "why": {
+    "ur": "عَلَيْهِمْ — ان سب پر۔ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ — نہ ان لوگوں کے راستے پر جن پر تو نے غضب فرمایا۔",
+    "en": "عَلَيْهِمْ — upon them. غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ — not of those who have earned Your anger."
+   }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "اور نہ", "en": "nor" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "لَا", "role": "particle", "label": { "ur": "نہیں", "en": "not" } }
+   ],
+   "why": { "ur": "وَ — اور، لَا — نہیں۔", "en": "وَ — and, لَا — not." }
+  },
+  {
+   "position": 9,
+   "meaning": { "ur": "گمراہ", "en": "those who go astray" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "ضَّالّ", "role": "noun", "label": { "ur": "گمراہ", "en": "astray" } },
+    { "text": "يْنَ", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ال + ضال + ین: اصل گمراہ لوگ۔ وَلَا الضَّالِّيْنَ — نہ ان لوگوں کے راستے پر جو گمراہ ہوئے۔",
+    "en": "ال + ضالّ + ين: those who have truly gone astray. وَلَا الضَّالِّيْنَ — nor of those who go astray."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2, 3, 4], "role": "noun", "label": { "ur": "ان کا راستہ جن پر تو نے انعام کیا", "en": "the path of those You have blessed" } },
+   { "words": [5, 6, 7], "role": "noun", "label": { "ur": "نہ ان کا جن پر غضب ہوا", "en": "not of those who earned anger" } },
+   { "words": [8, 9], "role": "noun", "label": { "ur": "اور نہ گمراہوں کا", "en": "nor of those astray" } }
+  ],
+  "plain": {
+   "ur": "ان لوگوں کا راستہ جن پر تو نے انعام فرمایا، جو معتوب نہیں ہوئے اور جو بھٹکے ہوئے نہیں ہیں۔ پچھلی آیت میں سیدھا راستہ مانگا گیا تھا؛ یہ آیت بتاتی ہے کہ وہ کس کا راستہ ہے — انعام پانے والوں کا — اور کن کا نہیں۔",
+   "en": "The path of those You have blessed — not of those who earned anger, nor of those who went astray. The previous verse asked for the straight path; this one says whose path it is — those You blessed — and whose it is not."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "فعلِ ماضی کے آخر کی ت: أَنْعَمْتَ (آپ نے)، أَنْعَمْتُ (میں نے)، أَنْعَمْتِ (تو مؤنث نے)، أَنْعَمَتْ (اس مؤنث نے)۔",
+   "en": "A final ت on a past verb: أَنْعَمْتَ (You did), أَنْعَمْتُ (I did), أَنْعَمْتِ (you, f., did), أَنْعَمَتْ (she did)."
+  },
+  "points": [
+   { "ur": "مَغْضُوْب — وزن مَفْعُوْل: جس پر غضب کیا گیا۔", "en": "مَغْضُوْب — pattern مَفْعُوْل: one with whom anger is." },
+   { "ur": "عَلَيْهِمْ = عَلٰى + هِمْ — ان سب پر۔", "en": "عَلَيْهِمْ = عَلٰى + هِمْ — upon them." },
+   { "ur": "غَيْر — علاوہ، نہ۔", "en": "غَيْر — other than, not." }
+  ]
+ },
+ "check": [
+  {
+   "id": "u3-l6-q1",
+   "type": "mcq",
+   "prompt": { "ur": "أَنْعَمْتَ کا کیا مطلب ہے؟", "en": "What does أَنْعَمْتَ mean?" },
+   "options": [
+    { "text": { "ur": "آپ نے انعام فرمایا", "en": "You bestowed favour" } },
+    { "text": { "ur": "میں نے انعام کیا", "en": "I bestowed favour" } },
+    { "text": { "ur": "انہوں نے انعام کیا", "en": "they bestowed favour" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "آخر کی تَ (زبر) — آپ (مذکر) نے۔ میں نے — أَنْعَمْتُ، انہوں نے — أَنْعَمُوْا۔", "en": "Final تَ (fatha) — You (m.). “I” is أَنْعَمْتُ, “they” is أَنْعَمُوْا." }
+  },
+  {
+   "id": "u3-l6-q2",
+   "type": "mcq",
+   "prompt": { "ur": "مَغْضُوْب کس وزن پر ہے؟", "en": "Which pattern is مَغْضُوْب on?" },
+   "arabic": "مَغْضُوْب",
+   "options": [{ "ar": "مَفْعُوْل" }, { "ar": "فَاعِل" }, { "ar": "فَعِيْل" }],
+   "answer": 0,
+   "explanation": { "ur": "مَفْعُوْل — جس پر کام کیا گیا: مَغْضُوْب — جس پر غضب کیا گیا۔", "en": "مَفْعُوْل — the one acted on: مَغْضُوْب — one with whom anger is." }
+  },
+  {
+   "id": "u3-l6-q3",
+   "type": "mcq",
+   "prompt": { "ur": "عَلَيْهِمْ کا کیا مطلب ہے؟", "en": "What does عَلَيْهِمْ mean?" },
+   "options": [
+    { "text": { "ur": "ان سب پر", "en": "upon them" } },
+    { "text": { "ur": "تم سب پر", "en": "upon you" } },
+    { "text": { "ur": "مجھ پر", "en": "upon me" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "عَلٰى (پر) + هِمْ (وہ سب): ان سب پر۔ تم سب پر — عَلَيْكُمْ، مجھ پر — عَلَيَّ۔", "en": "عَلٰى (on) + هِمْ (them): upon them. “Upon you” is عَلَيْكُمْ, “upon me” is عَلَيَّ." }
+  },
+  {
+   "id": "u3-l6-q4",
+   "type": "mcq",
+   "prompt": { "ur": "أَنْعَمْتُ کا کیا مطلب ہے؟", "en": "What does أَنْعَمْتُ mean?" },
+   "arabic": "أَنْعَمْتُ",
+   "options": [
+    { "text": { "ur": "میں نے انعام کیا", "en": "I bestowed favour" } },
+    { "text": { "ur": "آپ نے انعام کیا", "en": "You bestowed favour" } },
+    { "text": { "ur": "اس مؤنث نے انعام کیا", "en": "she bestowed favour" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "آخر کی تُ (پیش) — میں نے: أَنْعَمْتُ۔", "en": "Final تُ (damma) — I: أَنْعَمْتُ." }
+  }
+ ]
+}

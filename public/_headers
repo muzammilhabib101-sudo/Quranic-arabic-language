@@ -1,0 +1,21 @@
+# Response headers for Cloudflare Pages and Netlify (other hosts ignore this file).
+
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), interest-cohort=()
+
+# Build files have content hashes in their names, so they never change.
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Slides and recitations change only when re-rendered or re-downloaded.
+/slides/*
+  Cache-Control: public, max-age=2592000
+/audio/*
+  Cache-Control: public, max-age=2592000
+
+# The search index is rebuilt with every deploy.
+/pagefind/*
+  Cache-Control: public, max-age=0, must-revalidate

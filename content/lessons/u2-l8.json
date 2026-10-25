@@ -1,0 +1,191 @@
+{
+ "id": "u2-l8",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الحجرات کی آٹھویں آیت کو لفظ بہ لفظ سمجھیں — یہ پچھلی آیت کو مکمل کرتی ہے — اور سیکھیں: ال سے لفظ خاص ہوتا ہے (الفضل)، گول ة اردو میں ت (نعمت)، اور عَلِيْم و حَكِيْم کا وزن فَعِيْل۔",
+  "en": "Understand the eighth verse of Surah Al-Hujurat word by word — it completes the previous verse — and learn: ال makes a word specific (الفضل), round ة becomes ت in Urdu (نعمت), and the pattern فَعِيْل of عَلِيْم and حَكِيْم."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "ال — خاص", "en": "ال — specific" },
+   "body": {
+    "ur": "فَضْلًا — فضل (عام)۔ اگر الفضل ہوتا تو کوئی خاص فضل ہوتا۔",
+    "en": "فَضْلًا — a bounty (general). If it were الفضل, it would mean one particular bounty."
+   }
+  },
+  {
+   "title": { "ur": "وزن فَعِيْل", "en": "The pattern فَعِيْل" },
+   "body": {
+    "ur": "عَلِيْم (عِلْم سے) اور حَكِيْم (حکمت سے) دونوں وزن فَعِيْل پر ہیں: ازل سے ابد تک کی ذاتی صفت۔",
+    "en": "عَلِيْم (from knowledge) and حَكِيْم (from wisdom) are both on فَعِيْل: a quality that belongs to Allah Himself, without beginning or end."
+   }
+  }
+ ],
+ "verse": { "surah": 49, "ayah": 8 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "فضل", "en": "a bounty" },
+   "parts": [{ "text": "فَضْل", "role": "noun", "label": { "ur": "فضل", "en": "bounty, grace" } }],
+   "why": {
+    "ur": "فَضْل — سراسر فضل؛ فضل کا لفظ اردو میں مستعمل ہے۔ اس پر ال نہیں، تنوین ہے؛ اگر الفضل ہوتا تو کوئی خاص فضل ہوتا۔ یہ آیت پچھلی آیت کو مکمل کرتی ہے: ایمان کی محبت اللہ کا فضل ہے۔",
+    "en": "فَضْل — sheer grace, bounty; Urdu uses فضل. It has tanween, not ال; الفضل would mean one particular bounty. This verse completes the previous one: the love of faith is Allah's grace."
+   }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "سے", "en": "from" },
+   "parts": [{ "text": "مِنْ", "role": "particle", "label": { "ur": "سے", "en": "from" } }],
+   "why": { "ur": "مِنْ — سے۔", "en": "مِنْ — from." }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "اللہ", "en": "Allah" },
+   "parts": [{ "text": "اللّٰه", "role": "noun", "label": { "ur": "لفظِ جلالہ", "en": "Allah" } }],
+   "why": {
+    "ur": "اللّٰه — اردو میں بھی مستعمل۔ فَضْلًا مِّنَ اللّٰهِ — اللہ کی طرف سے فضل۔",
+    "en": "اللّٰه — used in Urdu too. فَضْلًا مِّنَ اللّٰهِ — a bounty from Allah."
+   }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "اور نعمت", "en": "and favor" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "نِعْمَة", "role": "noun", "label": { "ur": "نعمت", "en": "blessing" } }
+   ],
+   "why": {
+    "ur": "وَ — اور، نِعْمَة — نعمت: دولت، خوشحالی، آسودگی۔ اردو میں گول ة کی جگہ کھلی ت لکھتے ہیں: نعمت۔ فَضْلًا مِّنَ اللّٰهِ وَنِعْمَةً — یہ سراسر اللہ کا احسان اور اس کا انعام ہے۔",
+    "en": "وَ — and, نِعْمَة — blessing: wealth, wellbeing, ease. Urdu writes the round ة as an open ت: نعمت. فَضْلًا مِّنَ اللّٰهِ وَنِعْمَةً — a pure grace and blessing from Allah."
+   }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "اور اللہ", "en": "and Allah" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "اللّٰه", "role": "noun", "label": { "ur": "لفظِ جلالہ", "en": "Allah" } }
+   ],
+   "why": { "ur": "وَاللّٰهُ — اور اللہ تعالیٰ۔", "en": "وَاللّٰهُ — and Allah." }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "جاننے والا", "en": "All-Knowing" },
+   "parts": [{ "text": "عَلِيْم", "role": "noun", "label": { "ur": "ہمیشہ جاننے والا", "en": "always knowing" } }],
+   "pattern": "فَعِيْل",
+   "patternMeaning": {
+    "ur": "ہمیشگی — ایسی صفت جو ازل سے ابد تک ہو اور ذات کا حصہ ہو",
+    "en": "permanence — a quality without beginning or end that is part of who one is"
+   },
+   "why": {
+    "ur": "عِلْم سے، وزن فَعِيْل پر: ازل سے ابد تک جاننے والے — اور یہ صفت اللہ کی ذاتی ہے۔ علیم کا لفظ اردو میں مستعمل ہے۔",
+    "en": "From عِلْم (knowledge), on the pattern فَعِيْل: knowing without beginning or end — a quality of Allah Himself. Urdu uses علیم."
+   }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "حکمت والا", "en": "All-Wise" },
+   "parts": [{ "text": "حَكِيْم", "role": "noun", "label": { "ur": "حکمت اور دانائی والا", "en": "wise" } }],
+   "pattern": "فَعِيْل",
+   "patternMeaning": {
+    "ur": "ہمیشگی — ایسی صفت جو ازل سے ابد تک ہو اور ذات کا حصہ ہو",
+    "en": "permanence — a quality without beginning or end that is part of who one is"
+   },
+   "why": {
+    "ur": "حکمت اور دانائی سے، وزن فَعِيْل پر: اللہ اپنی ذات کی وجہ سے ازل سے ابد تک دانا و بینا ہیں۔ حکیم کا لفظ اردو میں مستعمل ہے۔ وَاللّٰهُ عَلِيْمٌ حَكِيْمٌ — اور اللہ علیم و حکیم ہیں۔",
+    "en": "From wisdom (حکمت), on the pattern فَعِيْل: Allah is wise and all-seeing by His very being, without beginning or end. Urdu uses حکیم. وَاللّٰهُ عَلِيْمٌ حَكِيْمٌ — and Allah is All-Knowing, All-Wise."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2, 3], "role": "noun", "label": { "ur": "اللہ کی طرف سے فضل", "en": "a bounty from Allah" } },
+   { "words": [4], "role": "noun", "label": { "ur": "اور نعمت", "en": "and a blessing" } },
+   { "words": [5, 6, 7], "role": "noun", "label": { "ur": "اور اللہ علیم، حکیم ہے", "en": "and Allah is All-Knowing, All-Wise" } }
+  ],
+  "plain": {
+   "ur": "پچھلی آیت میں تھا کہ اللہ نے ایمان کو تمہارا محبوب بنا دیا اور کفر و نافرمانی کو ناپسندیدہ۔ یہ آیت بتاتی ہے کہ یہ سب کیا ہے: یہ سراسر اللہ کا احسان اور اس کا انعام ہے، اور اللہ سب کچھ جاننے والا، حکمت والا ہے۔",
+   "en": "The previous verse said that Allah made faith beloved to you and disbelief and disobedience hateful. This verse says what that is: a pure grace and blessing from Allah — and Allah is All-Knowing, All-Wise."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "عَلِيْم اور حَكِيْم دونوں وزن فَعِيْل پر ہیں: ہمیشہ کی، ذاتی صفت — جیسے رَحِيْم، سَمِيْع اور عَظِيْم۔",
+   "en": "عَلِيْم and حَكِيْم are both on فَعِيْل: a lasting quality that is part of who one is — like رَحِيْم, سَمِيْع and عَظِيْم."
+  },
+  "points": [
+   {
+    "ur": "فَضْل — عام فضل؛ الفضل — کوئی خاص فضل۔",
+    "en": "فَضْل — a bounty; الفضل — a particular bounty."
+   },
+   {
+    "ur": "عربی کی گول ة اردو میں کھلی ت: نِعْمَة ← نعمت۔",
+    "en": "Arabic's round ة is written ت in Urdu: نِعْمَة becomes نعمت."
+   },
+   {
+    "ur": "یہ آیت پچھلی آیت کا تتمہ ہے: ایمان کی محبت اللہ کا فضل اور نعمت ہے۔",
+    "en": "This verse completes the previous one: the love of faith is Allah's grace and blessing."
+   }
+  ]
+ },
+ "check": [
+  {
+   "id": "u2-l8-q1",
+   "type": "mcq",
+   "prompt": { "ur": "حَكِيْم کس وزن پر ہے؟", "en": "Which pattern is حَكِيْم on?" },
+   "arabic": "حَكِيْم",
+   "options": [{ "ar": "فَعِيْل" }, { "ar": "فَاعِل" }, { "ar": "فَعَّلَ" }],
+   "answer": 0,
+   "explanation": {
+    "ur": "حَكِيْم وزن فَعِيْل پر ہے، عَلِيْم کی طرح: ہمیشہ کی ذاتی صفت۔",
+    "en": "حَكِيْم is on فَعِيْل, like عَلِيْم: a lasting quality that belongs to who one is."
+   }
+  },
+  {
+   "id": "u2-l8-q2",
+   "type": "mcq",
+   "prompt": { "ur": "نِعْمَة اردو میں کیسے لکھا جاتا ہے؟", "en": "How is نِعْمَة written in Urdu?" },
+   "arabic": "نِعْمَة",
+   "options": [
+    { "text": { "ur": "نعمت — آخر میں کھلی ت", "en": "نعمت — with an open ت" } },
+    { "text": { "ur": "نعمہ — آخر میں ہ", "en": "نعمہ — with ہ" } },
+    { "text": { "ur": "نعمات", "en": "نعمات" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "عربی کی گول ة اردو میں کھلی ت بن جاتی ہے: نعمت، جیسے مَغْفِرَة ← مغفرت۔",
+    "en": "Arabic's round ة becomes an open ت in Urdu: نعمت, just as مَغْفِرَة becomes مغفرت."
+   }
+  },
+  {
+   "id": "u2-l8-q3",
+   "type": "mcq",
+   "prompt": { "ur": "اگر فَضْل پر ال ہوتا (الفضل) تو مطلب کیا ہوتا؟", "en": "If فَضْل had ال (الفضل), what would it mean?" },
+   "options": [
+    { "text": { "ur": "کوئی خاص فضل", "en": "a particular bounty" } },
+    { "text": { "ur": "بہت سے فضل", "en": "many bounties" } },
+    { "text": { "ur": "کوئی فضل نہیں", "en": "no bounty" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "ال لفظ کو خاص کرتا ہے: الفضل — کوئی خاص فضل۔ آیت میں فَضْلًا ہے — عام۔",
+    "en": "ال makes a word specific: الفضل — a particular bounty. The verse has فَضْلًا — general."
+   }
+  },
+  {
+   "id": "u2-l8-q4",
+   "type": "mcq",
+   "prompt": { "ur": "حَكِيْم کا کیا معنی ہے؟", "en": "What does حَكِيْم mean?" },
+   "options": [
+    { "text": { "ur": "جاننے والا", "en": "knowing" } },
+    { "text": { "ur": "حکمت اور دانائی والا", "en": "wise" } },
+    { "text": { "ur": "سننے والا", "en": "hearing" } }
+   ],
+   "answer": 1,
+   "explanation": {
+    "ur": "حَكِيْم حکمت سے ہے: حکمت اور دانائی والا۔ جاننے والا عَلِيْم ہے اور سننے والا سَمِيْع۔",
+    "en": "حَكِيْم is from حکمت: wise. “Knowing” is عَلِيْم and “hearing” is سَمِيْع."
+   }
+  }
+ ]
+}

@@ -1,0 +1,133 @@
+{
+ "id": "u4-l6",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الفرقان کی آیت ۶۶ کو لفظ بہ لفظ سمجھیں، اور سیکھیں: إِنَّهَا (بیشک وہ — مؤنث)، سَاءَتْ میں ت کی چار قسمیں، اور مُسْتَقَرّ (عارضی ٹھکانہ) اور مُقَام (مستقل رہنے کی جگہ) کا فرق۔",
+  "en": "Understand Al-Furqan 25:66 word by word, and learn: إِنَّهَا (indeed it — feminine), the four kinds of ت in سَاءَتْ, and the difference between مُسْتَقَرّ (a temporary stay) and مُقَام (a permanent dwelling)."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "ت کی چار قسمیں", "en": "Four kinds of ت" },
+   "body": {
+    "ur": "كَتَبَتْ — اس ایک مؤنث نے لکھا، كَتَبْتُ — میں نے لکھا، كَتَبْتَ — تو ایک مذکر نے لکھا، كَتَبْتِ — تو ایک مؤنث نے لکھا۔ سَاءَتْ کی ت پہلی قسم کی ہے: وہ (جہنم) بری ہے۔",
+    "en": "كَتَبَتْ — she wrote, كَتَبْتُ — I wrote, كَتَبْتَ — you (m.) wrote, كَتَبْتِ — you (f.) wrote. The ت of سَاءَتْ is the first kind: it (Hell) is evil."
+   }
+  },
+  {
+   "title": { "ur": "مستقر اور مقام", "en": "مستقر and مقام" },
+   "body": {
+    "ur": "مُسْتَقَرّ — ٹھہرنے کی جگہ، عارضی ٹھکانہ؛ مُقَام — رہنے کی جگہ، مستقل۔ یعنی جہنم نہ تھوڑی دیر ٹھہرنے کے لیے اچھی ہے، نہ رہنے کے لیے۔",
+    "en": "مُسْتَقَرّ — a place to stop, a temporary stay; مُقَام — a dwelling, permanent. Hell is evil whether for a short stay or a permanent home."
+   }
+  }
+ ],
+ "verse": { "surah": 25, "ayah": 66 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "بیشک وہ", "en": "indeed it" },
+   "parts": [
+    { "text": "إِنَّ", "role": "particle", "label": { "ur": "بیشک", "en": "indeed" } },
+    { "text": "هَا", "role": "noun", "label": { "ur": "وہ ایک مؤنث", "en": "it (f.)" } }
+   ],
+   "why": {
+    "ur": "انّ + ہا: بیشک وہ (ایک مؤنث — یعنی جہنم)۔",
+    "en": "إنّ + ها: indeed it (feminine — meaning Hell)."
+   }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "بہت بری ہے", "en": "evil it is" },
+   "parts": [
+    { "text": "سَاءَ", "role": "verb", "label": { "ur": "برا ہے", "en": "is evil" } },
+    { "text": "تْ", "role": "noun", "label": { "ur": "وہ ایک مؤنث (جہنم)", "en": "she / it (Hell)" } }
+   ],
+   "why": {
+    "ur": "ساء + ت۔ ساء — برا (اردو میں سوء — برے کے معنی میں: سوءِ اخلاق، برے اخلاق)، اور ت — اس ایک مؤنث کی علامت (جہنم)۔ سَاءَتْ — وہ بہت بری ہے۔",
+    "en": "ساء + ت. ساء — bad, evil (Urdu سوء, as in سوءِ اخلاق, bad manners), and ت marks “she/it” (Hell). سَاءَتْ — it is evil."
+   }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "ٹھہرنے کی جگہ", "en": "as a resting place" },
+   "parts": [{ "text": "مُسْتَقَرّ", "role": "noun", "label": { "ur": "عارضی ٹھکانہ", "en": "temporary stay" } }],
+   "why": {
+    "ur": "مستقر + ا: بطور ٹھکانہ۔ اردو میں مستقر کہتے ہیں ٹھہرنے کی جگہ، عارضی ٹھکانے کو۔",
+    "en": "مستقر + ا: as a place of stay. Urdu مستقر means a place to stop, a temporary base."
+   }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "اور رہنے کی جگہ", "en": "and as a dwelling" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "مُقَام", "role": "noun", "label": { "ur": "مستقل رہنے کی جگہ", "en": "permanent dwelling" } }
+   ],
+   "why": {
+    "ur": "مقام + ا: بطور مستقل رہنے کی جگہ (مستقل)۔ إِنَّهَا سَاءَتْ مُسْتَقَرًّا وَّمُقَامًا — وہ تو بہت ہی برا مستقر اور مقام ہے۔",
+    "en": "مقام + ا: as a permanent dwelling. إِنَّهَا سَاءَتْ مُسْتَقَرًّا وَّمُقَامًا — indeed it is an evil resting place and dwelling."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1], "role": "particle", "label": { "ur": "بیشک وہ (جہنم)", "en": "indeed it (Hell)" } },
+   { "words": [2], "role": "verb", "label": { "ur": "بہت بری ہے", "en": "is evil" } },
+   { "words": [3, 4], "role": "noun", "label": { "ur": "ٹھہرنے اور رہنے کی جگہ", "en": "as a stay and as a home" } }
+  ],
+  "plain": {
+   "ur": "وہ تو بہت ہی برا ٹھکانہ اور مقام ہے۔ یہ پچھلی آیت کی دعا کو مکمل کرتی ہے: رحمٰن کے بندے جہنم سے پناہ کیوں مانگتے ہیں؟ کیونکہ وہ نہ عارضی ٹھہرنے کے لیے اچھی ہے، نہ مستقل رہنے کے لیے۔",
+   "en": "Indeed it is an evil place to stay and to dwell. This completes the previous prayer: why do the servants of the Most Merciful seek refuge from Hell? Because it is evil both for a short stay and as a permanent home."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "فعل کے آخر کی تْ (ساکن) — وہ ایک مؤنث: سَاءَتْ (وہ بری ہے)، كَتَبَتْ (اس نے لکھا)۔",
+   "en": "A final تْ (with sukun) on a verb — she / it: سَاءَتْ (it is evil), كَتَبَتْ (she wrote)."
+  },
+  "points": [
+   { "ur": "إِنَّهَا — بیشک وہ (مؤنث)۔", "en": "إِنَّهَا — indeed it/she." },
+   { "ur": "مُسْتَقَرّ — عارضی ٹھکانہ؛ مُقَام — مستقل رہنے کی جگہ۔", "en": "مُسْتَقَرّ — temporary stay; مُقَام — permanent dwelling." },
+   { "ur": "سَاءَ — برا؛ اردو میں سوءِ اخلاق۔", "en": "سَاءَ — evil; Urdu سوءِ اخلاق (bad manners)." }
+  ]
+ },
+ "check": [
+  {
+   "id": "u4-l6-q1",
+   "type": "mcq",
+   "prompt": { "ur": "سَاءَتْ میں ت کیا بتاتی ہے؟", "en": "What does the ت in سَاءَتْ show?" },
+   "options": [
+    { "text": { "ur": "وہ ایک مؤنث (جہنم)", "en": "she / it (Hell)" } },
+    { "text": { "ur": "میں", "en": "I" } },
+    { "text": { "ur": "تم سب", "en": "you all" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "آخر کی تْ — اس ایک مؤنث کی علامت؛ یہاں مراد جہنم ہے۔", "en": "Final تْ — “she/it”; here it means Hell." }
+  },
+  {
+   "id": "u4-l6-q2",
+   "type": "mcq",
+   "prompt": { "ur": "مُسْتَقَرّ اور مُقَام میں کیا فرق ہے؟", "en": "What is the difference between مُسْتَقَرّ and مُقَام?" },
+   "options": [
+    { "text": { "ur": "مستقر عارضی ٹھکانہ؛ مقام مستقل رہنے کی جگہ", "en": "مستقر — temporary stay; مقام — permanent home" } },
+    { "text": { "ur": "دونوں ایک ہیں", "en": "they are the same" } },
+    { "text": { "ur": "مستقر مستقل؛ مقام عارضی", "en": "مستقر — permanent; مقام — temporary" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "مستقر — ٹھہرنے کی جگہ (عارضی)؛ مقام — رہنے کی جگہ (مستقل)۔", "en": "مستقر — a place to stop (temporary); مقام — a dwelling (permanent)." }
+  },
+  {
+   "id": "u4-l6-q3",
+   "type": "mcq",
+   "prompt": { "ur": "كَتَبْتُ کا کیا مطلب ہے؟", "en": "What does كَتَبْتُ mean?" },
+   "arabic": "كَتَبْتُ",
+   "options": [
+    { "text": { "ur": "میں نے لکھا", "en": "I wrote" } },
+    { "text": { "ur": "اس مؤنث نے لکھا", "en": "she wrote" } },
+    { "text": { "ur": "تو نے لکھا", "en": "you wrote" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "تُ (پیش) — میں: كَتَبْتُ — میں نے لکھا؛ اس مؤنث نے — كَتَبَتْ۔", "en": "تُ (damma) — I: كَتَبْتُ — I wrote; she wrote — كَتَبَتْ." }
+  }
+ ]
+}

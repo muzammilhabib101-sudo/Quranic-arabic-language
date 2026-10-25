@@ -1,0 +1,148 @@
+{
+ "id": "u3-l1",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الفاتحہ کی دوسری آیت — الْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَ — کو لفظ بہ لفظ سمجھیں، اور سیکھیں: ال کے دو کام (خاص کرنا اور پوری جنس)، حمد اور نعت کا فرق، رب کے تین معنی، اور اضافت رَبِّ الْعٰلَمِيْنَ۔",
+  "en": "Understand the second verse of Al-Fatihah — الْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَ — word by word, and learn: the two jobs of ال (making specific and covering a whole kind), حمد versus نعت, the three meanings of رب, and the idafa رَبِّ الْعٰلَمِيْنَ."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "ال کے دو کام", "en": "Two jobs of ال" },
+   "body": {
+    "ur": "ال اسمِ معرفہ کے اظہار کے لیے آتا ہے، اور کبھی اسمِ جنس یا نوع کے بیان کے لیے — یعنی ساری قسمیں: مَعْرِضُ الْكُتُب — کتابوں کی نمائش، یعنی کتابوں کی تمام اصناف و انواع کی نمائش۔",
+    "en": "ال makes a word definite, and sometimes covers a whole kind — every type of it: مَعْرِضُ الْكُتُب — a book fair, meaning all kinds of books."
+   }
+  },
+  {
+   "title": { "ur": "حمد اور نعت", "en": "حمد and نعت" },
+   "body": {
+    "ur": "حمد — اللہ کی تعریف؛ نعت — رسول ﷺ کی تعریف۔",
+    "en": "حمد — praise of Allah; نعت — praise of the Messenger ﷺ."
+   }
+  }
+ ],
+ "verse": { "surah": 1, "ayah": 2 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "تمام تعریفیں", "en": "all praise" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "اسمِ جنس (تمام انواع)", "en": "the whole kind" } },
+    { "text": "حَمْد", "role": "noun", "label": { "ur": "تعریف، مدح", "en": "praise" } }
+   ],
+   "why": {
+    "ur": "ال + حمد۔ حمد — تعریف، مدح۔ یہاں ال پوری جنس کے لیے ہے، یعنی تعریف کی تمام قسمیں: الْحَمْدُ — تمام تعریفیں۔",
+    "en": "ال + حمد. حمد — praise. Here ال covers the whole kind — every sort of praise: الْحَمْدُ — all praise."
+   }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "اللہ کے لیے", "en": "for Allah" },
+   "parts": [
+    { "text": "لِ", "role": "particle", "label": { "ur": "کے لیے", "en": "for" } },
+    { "text": "اللّٰه", "role": "noun", "label": { "ur": "اللہ", "en": "Allah" } }
+   ],
+   "why": {
+    "ur": "ل + اللہ: اللہ کے لیے۔ حمد اللہ کی تعریف ہے اور نعت رسول ﷺ کی۔ الْحَمْدُ لِلّٰهِ — سب تعریفیں اللہ ہی کے لیے ہیں۔",
+    "en": "ل + Allah: for Allah. حمد is praise of Allah, نعت praise of the Messenger ﷺ. الْحَمْدُ لِلّٰهِ — all praise belongs to Allah."
+   }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "رب", "en": "Lord" },
+   "parts": [{ "text": "رَبّ", "role": "noun", "label": { "ur": "مالک، پرورش کرنے والا", "en": "Lord, Sustainer" } }],
+   "why": {
+    "ur": "رَبّ کے تین معنی: ۱۔ مالک، آقا؛ ۲۔ مربی — پرورش کرنے والا، خبرگیری اور نگہبانی کرنے والا؛ ۳۔ فرمانروا، حاکم، مدبر اور منتظم۔",
+    "en": "رَبّ has three meanings: 1. owner, master; 2. nurturer — the one who raises, cares for and protects; 3. ruler, governor, planner and administrator."
+   }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "تمام جہانوں کا", "en": "of the worlds" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "اسمِ جنس (تمام انواع)", "en": "the whole kind" } },
+    { "text": "عَالَم", "role": "noun", "label": { "ur": "جہان", "en": "world" } },
+    { "text": "يْنَ", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ال + عالم + ین: تمام جہان۔ رَبِّ (بغیر ال) + الْعٰلَمِيْنَ (ال کے ساتھ) — اضافت: پہلے اسم کے شروع میں ال نہ لگا ہو اور دوسرے کے شروع میں لگا ہو تو ترجمہ کرتے ہوئے کا، کے، کی کا اضافہ کرتے ہیں: رَبِّ الْعٰلَمِيْنَ — تمام جہانوں کا رب۔",
+    "en": "ال + عالم + ين: all the worlds. رَبِّ (no ال) + الْعٰلَمِيْنَ (with ال) — idafa, translated with “of”: رَبِّ الْعٰلَمِيْنَ — Lord of all the worlds."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1], "role": "noun", "label": { "ur": "تمام تعریفیں", "en": "all praise" } },
+   { "words": [2], "role": "noun", "label": { "ur": "اللہ ہی کے لیے", "en": "is for Allah" } },
+   { "words": [3, 4], "role": "noun", "label": { "ur": "جو تمام جہانوں کا رب ہے", "en": "Lord of all the worlds" } }
+  ],
+  "plain": {
+   "ur": "تعریف اللہ ہی کے لیے ہے جو تمام کائنات کا رب ہے۔ الْحَمْدُ کا ال تعریف کی ہر قسم کو سمیٹ لیتا ہے، اور الْعٰلَمِيْنَ کا ال ہر جہان کو — یعنی ہر قسم کی تعریف ہر جہان کے رب کے لیے ہے۔",
+   "en": "Praise belongs to Allah, Lord of all creation. The ال of الْحَمْدُ gathers every kind of praise, and the ال of الْعٰلَمِيْنَ every world — every kind of praise is for the Lord of every world."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "ال کبھی پوری جنس بتاتا ہے — تمام انواع: الْحَمْدُ (تمام تعریفیں)، الْعٰلَمِيْنَ (تمام جہان)۔",
+   "en": "ال sometimes means the whole kind — every type: الْحَمْدُ (all praise), الْعٰلَمِيْنَ (all the worlds)."
+  },
+  "points": [
+   { "ur": "حمد — اللہ کی تعریف؛ نعت — رسول ﷺ کی تعریف۔", "en": "حمد — praise of Allah; نعت — praise of the Messenger ﷺ." },
+   { "ur": "رَبّ — مالک، پرورش کرنے والا، اور حاکم و منتظم۔", "en": "رَبّ — owner, nurturer, and ruler and administrator." },
+   { "ur": "رَبِّ الْعٰلَمِيْنَ — اضافت: تمام جہانوں کا رب۔", "en": "رَبِّ الْعٰلَمِيْنَ — idafa: Lord of all the worlds." }
+  ]
+ },
+ "check": [
+  {
+   "id": "u3-l1-q1",
+   "type": "mcq",
+   "prompt": { "ur": "الْحَمْدُ میں ال کیا بتاتا ہے؟", "en": "What does ال show in الْحَمْدُ?" },
+   "options": [
+    { "text": { "ur": "تعریف کی تمام قسمیں (پوری جنس)", "en": "every kind of praise (the whole kind)" } },
+    { "text": { "ur": "صرف ایک خاص تعریف", "en": "one particular praise only" } },
+    { "text": { "ur": "سوال", "en": "a question" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "یہاں ال اسمِ جنس کے بیان کے لیے ہے: الْحَمْدُ — تمام تعریفیں۔",
+    "en": "Here ال covers the whole kind: الْحَمْدُ — all praise."
+   }
+  },
+  {
+   "id": "u3-l1-q2",
+   "type": "mcq",
+   "prompt": { "ur": "رسول ﷺ کی تعریف کو کیا کہتے ہیں؟", "en": "What is praise of the Messenger ﷺ called?" },
+   "options": [
+    { "text": { "ur": "نعت", "en": "نعت" } },
+    { "text": { "ur": "حمد", "en": "حمد" } },
+    { "text": { "ur": "دعا", "en": "دعا" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "حمد اللہ کی تعریف ہے اور نعت رسول ﷺ کی۔", "en": "حمد is praise of Allah; نعت is praise of the Messenger ﷺ." }
+  },
+  {
+   "id": "u3-l1-q3",
+   "type": "mcq",
+   "prompt": { "ur": "رَبّ کا معنی کون سا نہیں؟", "en": "Which is NOT a meaning of رَبّ?" },
+   "options": [
+    { "text": { "ur": "مالک", "en": "owner" } },
+    { "text": { "ur": "پرورش کرنے والا", "en": "nurturer" } },
+    { "text": { "ur": "مسافر", "en": "traveller" } }
+   ],
+   "answer": 2,
+   "explanation": { "ur": "رَبّ — مالک، پرورش کرنے والا، اور حاکم و منتظم۔", "en": "رَبّ — owner, nurturer, and ruler." }
+  },
+  {
+   "id": "u3-l1-q4",
+   "type": "mcq",
+   "prompt": { "ur": "رَبِّ الْعٰلَمِيْنَ کا ترجمہ کیا ہے؟", "en": "How is رَبِّ الْعٰلَمِيْنَ translated?" },
+   "options": [
+    { "text": { "ur": "تمام جہانوں کا رب", "en": "Lord of all the worlds" } },
+    { "text": { "ur": "رب اور جہان", "en": "the Lord and the worlds" } },
+    { "text": { "ur": "جہانوں والا", "en": "the one with worlds" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "پہلے پر ال نہیں، دوسرے پر ال ہے — اضافت: تمام جہانوں کا رب۔", "en": "No ال on the first, ال on the second — idafa: Lord of all the worlds." }
+  }
+ ]
+}

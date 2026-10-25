@@ -1,0 +1,274 @@
+{
+ "id": "u2-l5",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الحجرات کی پانچویں آیت کو لفظ بہ لفظ سمجھیں، اور سیکھیں: لَوْ (اگر)، حَتّٰى (یہاں تک کہ)، لام کے دو معنی — لَكَانَ اور لَهُمْ میں فرق، اور إِلٰى کے ساتھ ضمیر۔",
+  "en": "Understand the fifth verse of Surah Al-Hujurat word by word, and learn: لَوْ (if), حَتّٰى (until), the two meanings of لام — the difference between لَكَانَ and لَهُمْ — and إِلٰى with a pronoun."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "لام کے دو معنی", "en": "Two kinds of لام" },
+   "body": {
+    "ur": "لام دو طرح آتا ہے: لامِ تعلیل — ”کے لیے“ (لَهُمْ — ان کے لیے)، اور لامِ لازم — ”یقیناً“ (لَكَانَ — یقیناً ہوتا)۔",
+    "en": "لام comes in two ways: the لام of purpose — “for” (لَهُمْ — for them), and the لام of emphasis — “surely” (لَكَانَ — it would surely be)."
+   }
+  },
+  {
+   "title": { "ur": "طرف اور ضمیر", "en": "“Towards” with a pronoun" },
+   "body": {
+    "ur": "إِلٰى کا معنی ”کی طرف“ ہے۔ اس کے ساتھ ضمیر لگے تو: إِلَيْهِمْ — ان سب کی طرف، إِلَيْكُمْ — تم سب کی طرف۔",
+    "en": "إِلٰى means “towards”. With a pronoun: إِلَيْهِمْ — towards them, إِلَيْكُمْ — towards you."
+   }
+  }
+ ],
+ "verse": { "surah": 49, "ayah": 5 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "اور اگر", "en": "and if" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "لَوْ", "role": "particle", "label": { "ur": "اگر", "en": "if" } }
+   ],
+   "why": {
+    "ur": "وَ — اور، لَوْ — اگر۔ لَوْ قرآن میں بار بار آنے والے الفاظ میں سے ہے۔",
+    "en": "وَ — and, لَوْ — if. لَوْ is one of the words that come again and again in the Quran."
+   }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "بیشک وہ سب", "en": "they (indeed)" },
+   "parts": [
+    { "text": "أَنَّ", "role": "particle", "label": { "ur": "بیشک", "en": "indeed" } },
+    { "text": "هُمْ", "role": "noun", "label": { "ur": "وہ سب", "en": "they" } }
+   ],
+   "why": {
+    "ur": "أَنَّ + هُمْ: بیشک وہ سب۔ وَلَوْ أَنَّهُمْ — اور اگر بیشک وہ سب لوگ۔",
+    "en": "أَنَّ + هُمْ: indeed they. وَلَوْ أَنَّهُمْ — and if they indeed."
+   }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "صبر کرتے", "en": "had been patient" },
+   "parts": [
+    { "text": "صَبَرَ", "role": "verb", "label": { "ur": "اس نے صبر کیا", "en": "he was patient" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "صبر + وا۔ صَبَرَ — اس نے صبر کیا، انتظار کیا۔ اردو اور پنجابی میں کوئی بچہ چیز مانگے تو بڑا شخص کہتا ہے ”صبر کرو“ — یعنی انتظار کرو۔ وَلَوْ أَنَّهُمْ صَبَرُوْا — اور اگر وہ یقیناً انتظار کرتے۔",
+    "en": "صبر + وا. صَبَرَ — he was patient, he waited. In Urdu and Punjabi, when a child asks for something, an adult says “صبر کرو” — wait. وَلَوْ أَنَّهُمْ صَبَرُوْا — and if they had waited patiently."
+   }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "یہاں تک کہ", "en": "until" },
+   "parts": [{ "text": "حَتّٰى", "role": "particle", "label": { "ur": "یہاں تک کہ", "en": "until" } }],
+   "why": {
+    "ur": "حَتّٰى — یہاں تک کہ۔ یہ لفظ اردو میں بھی آتا ہے (حتیٰ کہ)۔",
+    "en": "حَتّٰى — until, even. Urdu uses it too (حتیٰ کہ)."
+   }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "آپ باہر آتے", "en": "you came out" },
+   "parts": [
+    { "text": "تَ", "role": "particle", "label": { "ur": "مضارع اور مخاطب کی علامت", "en": "present-tense sign, “you”" } },
+    { "text": "خْرُجَ", "role": "verb", "label": { "ur": "باہر آنا", "en": "come out" } }
+   ],
+   "why": {
+    "ur": "ت + خرج۔ ت مضارع اور مخاطب کی علامت ہے، اور خَرَجَ — خارج ہوا، باہر آیا (خارج اردو میں مستعمل ہے)۔ تَخْرُجَ — آپ باہر تشریف لے آتے۔",
+    "en": "ت + خرج. ت marks both the present tense and “you”, and خَرَجَ — he went out (Urdu خارج). تَخْرُجَ — you came out."
+   }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "ان کی طرف", "en": "to them" },
+   "parts": [
+    { "text": "إِلَيْ", "role": "particle", "label": { "ur": "کی طرف", "en": "towards" } },
+    { "text": "هِمْ", "role": "noun", "label": { "ur": "ان سب", "en": "them" } }
+   ],
+   "why": {
+    "ur": "إِلٰى + هِمْ: ان سب کی طرف۔ حَتّٰى تَخْرُجَ إِلَيْهِمْ — یہاں تک کہ آپ باہر ان کے پاس تشریف لے آتے۔",
+    "en": "إِلٰى + هِمْ: towards them. حَتّٰى تَخْرُجَ إِلَيْهِمْ — until you came out to them."
+   }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "یقیناً ہوتا", "en": "it would surely be" },
+   "parts": [
+    { "text": "لَ", "role": "particle", "label": { "ur": "یقیناً (لامِ لازم)", "en": "surely" } },
+    { "text": "كَانَ", "role": "verb", "label": { "ur": "ہونا", "en": "be" } }
+   ],
+   "why": {
+    "ur": "ل + کان۔ كَانَ کا معنی ہونا ہے — اسی مادّے سے ”کون و مکاں“ ہے: اے کون و مکاں کے مالک۔ یہاں ل لامِ لازم ہے، یعنی ”یقیناً“: لَكَانَ — یقیناً ہوتا۔",
+    "en": "ل + کان. كَانَ means to be — from the same root as کون in “کون و مکاں” (all that exists). Here ل is the لام of emphasis, “surely”: لَكَانَ — it would surely be."
+   }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "بہتر", "en": "better" },
+   "parts": [{ "text": "خَيْر", "role": "noun", "label": { "ur": "بہتر، بھلائی", "en": "good, better" } }],
+   "why": {
+    "ur": "خَيْر — بہتر، بھلائی۔ یہ کلمہ اردو میں مستعمل ہے (خیر)۔",
+    "en": "خَيْر — good, better. Urdu uses خیر."
+   }
+  },
+  {
+   "position": 9,
+   "meaning": { "ur": "ان کے لیے", "en": "for them" },
+   "parts": [
+    { "text": "لَ", "role": "particle", "label": { "ur": "کے لیے (لامِ تعلیل)", "en": "for" } },
+    { "text": "هُمْ", "role": "noun", "label": { "ur": "ان سب", "en": "them" } }
+   ],
+   "why": {
+    "ur": "ل + هُمْ: ان سب کے لیے۔ یہاں ل لامِ تعلیل ہے — ”کے لیے“۔ لَكَانَ خَيْرًا لَّهُمْ — تو یقیناً یہ انہی کے لیے بہتر ہوتا۔",
+    "en": "ل + هُمْ: for them. Here ل is the لام of purpose — “for”. لَكَانَ خَيْرًا لَّهُمْ — it would surely have been better for them."
+   }
+  },
+  {
+   "position": 10,
+   "meaning": { "ur": "اور اللہ", "en": "and Allah" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "اللّٰه", "role": "noun", "label": { "ur": "لفظِ جلالہ", "en": "Allah" } }
+   ],
+   "why": {
+    "ur": "وَ — اور، اللّٰه — لفظِ جلالہ؛ دونوں اردو میں مستعمل۔",
+    "en": "وَ — and, اللّٰه — Allah."
+   }
+  },
+  {
+   "position": 11,
+   "meaning": { "ur": "مغفرت کرنے والا", "en": "Oft-Forgiving" },
+   "parts": [{ "text": "غَفُوْر", "role": "noun", "label": { "ur": "مغفرت کرنے والا", "en": "forgiving" } }],
+   "why": {
+    "ur": "غَفُوْر — مغفرت کرنے والا، بخشنے والا۔ مغفرت کا لفظ اردو میں مستعمل ہے۔",
+    "en": "غَفُوْر — the Forgiving. The word مغفرت (forgiveness) is used in Urdu."
+   }
+  },
+  {
+   "position": 12,
+   "meaning": { "ur": "رحم کرنے والا", "en": "Most Merciful" },
+   "parts": [{ "text": "رَحِيْم", "role": "noun", "label": { "ur": "ہمیشہ رحم کرنے والا", "en": "always merciful" } }],
+   "pattern": "فَعِيْل",
+   "patternMeaning": {
+    "ur": "ہمیشگی — ایسی صفت جو ازل سے ابد تک ہو اور ذات کا حصہ ہو",
+    "en": "permanence — a quality without beginning or end that is part of who one is"
+   },
+   "why": {
+    "ur": "رَحِيْم — رحم کرنے والا، وزن فَعِيْل پر (جیسا کہ بسم اللہ کے سبق میں پڑھا)۔ وَاللّٰهُ غَفُوْرٌ رَّحِيْمٌ — اور اللہ مغفرت فرمانے والے، رحیم ہیں۔",
+    "en": "رَحِيْم — merciful, on the pattern فَعِيْل (as in the Bismillah lesson). وَاللّٰهُ غَفُوْرٌ رَّحِيْمٌ — and Allah is Forgiving, Merciful."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2, 3], "role": "verb", "label": { "ur": "اور اگر وہ صبر کرتے", "en": "and if they had been patient" } },
+   { "words": [4, 5, 6], "role": "verb", "label": { "ur": "یہاں تک کہ آپ ان کے پاس آتے", "en": "until you came out to them" } },
+   { "words": [7, 8, 9], "role": "noun", "label": { "ur": "تو یقیناً ان کے لیے بہتر ہوتا", "en": "it would surely be better for them" } },
+   { "words": [10, 11, 12], "role": "noun", "label": { "ur": "اور اللہ غفور، رحیم ہے", "en": "and Allah is Forgiving, Merciful" } }
+  ],
+  "plain": {
+   "ur": "پچھلی آیت میں حجروں کے باہر سے پکارنے والوں کا ذکر تھا۔ یہ آیت بتاتی ہے کہ بہتر کیا تھا: اگر وہ صبر کرتے یہاں تک کہ آپ ﷺ خود باہر ان کے پاس تشریف لے آتے، تو یقیناً یہ انہی کے لیے بہتر ہوتا۔ اور آخر میں امید: اللہ درگزر کرنے والا اور ہمیشہ رحم فرمانے والا ہے۔",
+   "en": "The previous verse spoke of those who called from outside the chambers. This verse says what would have been better: if they had waited until you ﷺ came out to them, it would surely have been better for them. And it ends with hope: Allah is Forgiving and always Merciful."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "لام دو طرح آتا ہے: لامِ تعلیل — ”کے لیے“ (لَهُمْ)، اور لامِ لازم — ”یقیناً“ (لَكَانَ)۔ ٹھیک معنی سیاق و سباق سے پتا چلتا ہے۔",
+   "en": "لام comes in two ways: “for” (لَهُمْ) and “surely” (لَكَانَ). The context shows which one is meant."
+  },
+  "points": [
+   {
+    "ur": "لَوْ — اگر، حَتّٰى — یہاں تک کہ۔",
+    "en": "لَوْ — if, حَتّٰى — until."
+   },
+   {
+    "ur": "تَخْرُجَ کی ت مضارع بھی بتاتی ہے اور مخاطب بھی — آپ باہر آتے۔",
+    "en": "The ت of تَخْرُجَ marks both the present tense and “you” — you came out."
+   },
+   {
+    "ur": "إِلٰى — کی طرف: إِلَيْهِمْ — ان کی طرف، إِلَيْكُمْ — تمہاری طرف۔",
+    "en": "إِلٰى — towards: إِلَيْهِمْ — towards them, إِلَيْكُمْ — towards you."
+   }
+  ]
+ },
+ "check": [
+  {
+   "id": "u2-l5-q1",
+   "type": "mcq",
+   "prompt": { "ur": "لَوْ کا کیا معنی ہے؟", "en": "What does لَوْ mean?" },
+   "arabic": "لَوْ",
+   "options": [
+    { "text": { "ur": "بیشک", "en": "indeed" } },
+    { "text": { "ur": "اگر", "en": "if" } },
+    { "text": { "ur": "یہاں تک کہ", "en": "until" } }
+   ],
+   "answer": 1,
+   "explanation": {
+    "ur": "لَوْ — اگر۔ بیشک کے لیے إِنَّ اور یہاں تک کہ کے لیے حَتّٰى۔",
+    "en": "لَوْ — if. “Indeed” is إِنَّ, and “until” is حَتّٰى."
+   }
+  },
+  {
+   "id": "u2-l5-q2",
+   "type": "mcq",
+   "prompt": { "ur": "لَكَانَ میں ل کا کیا معنی ہے؟", "en": "What does the ل in لَكَانَ mean?" },
+   "options": [
+    { "text": { "ur": "یقیناً", "en": "surely" } },
+    { "text": { "ur": "کے لیے", "en": "for" } },
+    { "text": { "ur": "نہیں", "en": "not" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "یہاں لامِ لازم ہے: لَكَانَ — یقیناً ہوتا۔ اسی آیت میں لَهُمْ کا لام ”کے لیے“ ہے۔",
+    "en": "This is the لام of emphasis: لَكَانَ — it would surely be. In the same verse, the لام of لَهُمْ means “for”."
+   }
+  },
+  {
+   "id": "u2-l5-q3",
+   "type": "mcq",
+   "prompt": { "ur": "لَهُمْ میں ل کا کیا معنی ہے؟", "en": "What does the ل in لَهُمْ mean?" },
+   "options": [
+    { "text": { "ur": "یقیناً", "en": "surely" } },
+    { "text": { "ur": "اور", "en": "and" } },
+    { "text": { "ur": "کے لیے", "en": "for" } }
+   ],
+   "answer": 2,
+   "explanation": {
+    "ur": "لَهُمْ — ان کے لیے: یہ لامِ تعلیل ہے۔ لَكَانَ خَيْرًا لَّهُمْ — یقیناً ان کے لیے بہتر ہوتا۔",
+    "en": "لَهُمْ — for them: this is the لام of purpose. لَكَانَ خَيْرًا لَّهُمْ — it would surely be better for them."
+   }
+  },
+  {
+   "id": "u2-l5-q4",
+   "type": "mcq",
+   "prompt": { "ur": "إِلَيْهِمْ کا کیا مطلب ہے؟", "en": "What does إِلَيْهِمْ mean?" },
+   "options": [
+    { "text": { "ur": "ان سب کی طرف", "en": "towards them" } },
+    { "text": { "ur": "تم سب کی طرف", "en": "towards you" } },
+    { "text": { "ur": "ان سب سے", "en": "from them" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "إِلٰى (کی طرف) + هِمْ (ان سب): ان سب کی طرف۔ تمہاری طرف کے لیے إِلَيْكُمْ۔",
+    "en": "إِلٰى (towards) + هِمْ (them): towards them. “Towards you” is إِلَيْكُمْ."
+   }
+  },
+  {
+   "id": "u2-l5-q5",
+   "type": "mcq",
+   "prompt": { "ur": "صَبَرُوْا کا کیا مطلب ہے؟", "en": "What does صَبَرُوْا mean?" },
+   "options": [
+    { "text": { "ur": "وہ سب صبر کرتے / انتظار کرتے", "en": "they were patient / waited" } },
+    { "text": { "ur": "تم صبر کرو", "en": "be patient (you)" } },
+    { "text": { "ur": "اس نے صبر کیا", "en": "he was patient" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "صَبَرَ — اس نے صبر کیا؛ آخر میں وا (جمع) لگا تو صَبَرُوْا — وہ سب صبر کرتے۔",
+    "en": "صَبَرَ — he was patient; with وا (plural) at the end, صَبَرُوْا — they were patient."
+   }
+  }
+ ]
+}

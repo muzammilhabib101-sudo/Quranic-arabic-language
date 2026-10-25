@@ -1,0 +1,88 @@
+{
+ "_about": "Patterns (اوزان) taught in the slides, and the Corpus lemmas of course words on each. Used by the pattern exercise. Status: draft — the teaching text needs review like the lessons. Lemmas that occur in the course only as broken plurals (سُجَّد، قِيَام، كِرَام) are left out, since those words are not on the singular's pattern.",
+ "patterns": {
+  "faail": {
+   "ar": "فَاعِل",
+   "slide": 7,
+   "meaning": {
+    "ur": "کام کرنے والا — جیسے رَاحِم (رحم کرنے والا)",
+    "en": "the one who does the action — like رَاحِم (one who shows mercy)"
+   },
+   "lemmas": [
+    "فاسِق",
+    "نادِم",
+    "راشِد",
+    "ظالِم",
+    "صادِق",
+    "مالِك",
+    "جاهِل",
+    "صالِح",
+    "خالِد"
+   ]
+  },
+  "mafool": {
+   "ar": "مَفْعُوْل",
+   "slide": 7,
+   "meaning": {
+    "ur": "جس پر کام کیا گیا — جیسے مَرْحُوْم (جس پر رحم کیا گیا)",
+    "en": "the one the action is done to — like مَرْحُوْم (one shown mercy)"
+   },
+   "lemmas": [
+    "مَغْضُوب"
+   ]
+  },
+  "falaan": {
+   "ar": "فَعْلَان",
+   "slide": 8,
+   "meaning": {
+    "ur": "جوش اور زور سے امڈنے والی صفت — جیسے طُوفَان، غَضْبَان",
+    "en": "a quality that pours out with force — like طُوفَان (a flood), غَضْبَان (furious)"
+   },
+   "lemmas": [
+    "رَحْمٰن"
+   ]
+  },
+  "faeel": {
+   "ar": "فَعِيْل",
+   "slide": 11,
+   "meaning": {
+    "ur": "ہمیشہ رہنے والی، ذاتی صفت — جیسے رَحِيْم، عَلِيْم",
+    "en": "a lasting quality that is part of who one is — like رَحِيْم, عَلِيْم"
+   },
+   "lemmas": [
+    "رَحِيم",
+    "سَمِيع",
+    "عَلِيم",
+    "عَظِيم",
+    "كَثِير",
+    "حَكِيم",
+    "خَبِير",
+    "بَصِير"
+   ]
+  },
+  "afal": {
+   "ar": "أَفْعَل",
+   "slide": 260,
+   "meaning": {
+    "ur": "سب سے زیادہ — جیسے أَكْبَر (سب سے بڑا)",
+    "en": "the most — like أَكْبَر (the greatest)"
+   },
+   "lemmas": [
+    "أَكْثَر",
+    "أَكْرَم",
+    "أَتْقَى"
+   ]
+  },
+  "faaal": {
+   "ar": "فَعَّال",
+   "slide": 250,
+   "meaning": {
+    "ur": "بار بار اور بہت زیادہ کرنے والا — جیسے تَوَّاب (بار بار توبہ قبول کرنے والا)",
+    "en": "doing something again and again — like تَوَّاب (the One who accepts repentance again and again)"
+   },
+   "lemmas": [
+    "تَوّاب"
+   ]
+  }
+ }
+}

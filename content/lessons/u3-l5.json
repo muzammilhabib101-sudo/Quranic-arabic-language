@@ -1,0 +1,120 @@
+{
+ "id": "u3-l5",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الفاتحہ کی چھٹی آیت — اهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ — کو لفظ بہ لفظ سمجھیں، اور سیکھیں: امر جب بندہ اللہ سے کہے تو دعا بن جاتا ہے، اور اسم و صفت — جب دونوں اسموں پر ال ہو۔",
+  "en": "Understand the sixth verse of Al-Fatihah — اهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ — word by word, and learn: a command becomes a prayer when a servant says it to Allah, and noun with adjective — when both nouns have ال."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "امر یا دعا؟", "en": "Command or prayer?" },
+   "body": {
+    "ur": "بڑا چھوٹے کو کہے تو یہ حکم ہے؛ ہم مرتبہ کو کہے تو عرض، طلب اور التماس؛ اور مخلوق خالق کو کہے تو یہ دعا ہوتی ہے۔ اهْدِنَا میں مخلوق خالق سے مانگ رہی ہے: اے اللہ ہمیں عنایت فرما دیجیے۔",
+    "en": "When someone senior says it to a junior, it is a command; to an equal, a request; when a creature says it to the Creator, it is a prayer. In اهْدِنَا the creature asks the Creator: O Allah, grant us."
+   }
+  },
+  {
+   "title": { "ur": "اسم اور صفت", "en": "Noun and adjective" },
+   "body": {
+    "ur": "دو اسم ساتھ ساتھ آئیں اور دونوں کے ساتھ ال لگا ہو تو دوسرا اسم پہلے اسم کی صفت ہوتا ہے: الصِّرَاطَ الْمُسْتَقِيْمَ — سیدھا راستہ (اضافت نہیں، کیونکہ اضافت میں پہلے پر ال نہیں ہوتا)۔",
+    "en": "When two nouns come together and both have ال, the second describes the first: الصِّرَاطَ الْمُسْتَقِيْمَ — the straight path (not an idafa, since in idafa the first has no ال)."
+   }
+  }
+ ],
+ "verse": { "surah": 1, "ayah": 6 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "ہمیں ہدایت دیجیے", "en": "guide us" },
+   "parts": [
+    { "text": "ا", "role": "particle", "label": { "ur": "امر", "en": "command" } },
+    { "text": "هْدِ", "role": "verb", "label": { "ur": "ہدایت دینا", "en": "guide" } },
+    { "text": "نَا", "role": "noun", "label": { "ur": "ہم سب کو", "en": "us" } }
+   ],
+   "why": {
+    "ur": "ا (امر) + ہد (ہدایت) + نا (ہم سب کو): ہمیں ہدایت دیجیے۔ بڑا چھوٹے کو کہے تو حکم، ہم مرتبہ کو کہے تو عرض و التماس، اور مخلوق خالق کو کہے تو یہ دعا ہوتی ہے — یہاں مخلوق خالق سے دعا کر کے مانگ رہی ہے۔",
+    "en": "ا (command) + هد (guidance) + نا (us): guide us. Said by a senior it is a command; to an equal, a request; by a creature to the Creator, a prayer — here the creature is praying to the Creator."
+   }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "راستہ", "en": "the path" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "صِّرَاط", "role": "noun", "label": { "ur": "راستہ", "en": "path" } }
+   ],
+   "why": { "ur": "ال + صراط: خاص راستہ۔", "en": "ال + صراط: the particular path." }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "سیدھا", "en": "straight" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "مُسْتَقِيْم", "role": "noun", "label": { "ur": "سیدھا", "en": "straight" } }
+   ],
+   "why": {
+    "ur": "ال + مستقیم: خاص سیدھا۔ الصِّرَاطَ اور الْمُسْتَقِيْمَ دونوں پر ال ہے، اس لیے دوسرا پہلے کی صفت ہے: راستے کی صفت — سیدھا۔ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ — ہمیں سیدھا راستہ دکھا دیجیے۔",
+    "en": "ال + مستقيم: the straight. Both الصِّرَاطَ and الْمُسْتَقِيْمَ have ال, so the second describes the first: straight describes path. اهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ — guide us to the straight path."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1], "role": "verb", "label": { "ur": "ہمیں ہدایت دیجیے (دعا)", "en": "guide us (a prayer)" } },
+   { "words": [2, 3], "role": "noun", "label": { "ur": "سیدھا راستہ (اسم + صفت)", "en": "the straight path (noun + adjective)" } }
+  ],
+  "plain": {
+   "ur": "ہمیں سیدھا راستہ دکھا۔ پچھلی آیت میں بندے نے کہا تھا کہ ہم صرف تجھ سے مدد مانگتے ہیں؛ اب وہ مدد مانگ رہا ہے — اور سب سے پہلی مانگ ہدایت ہے۔",
+   "en": "Guide us to the straight path. In the previous verse the servant said, “You alone we ask for help”; now he asks — and the very first request is guidance."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "دونوں اسموں پر ال ہو تو دوسرا پہلے کی صفت: الصِّرَاطَ الْمُسْتَقِيْمَ — سیدھا راستہ۔ پہلے پر ال نہ ہو تو اضافت: رَبِّ الْعٰلَمِيْنَ — جہانوں کا رب۔",
+   "en": "Both nouns with ال: the second describes the first — الصِّرَاطَ الْمُسْتَقِيْمَ, the straight path. First without ال: idafa — رَبِّ الْعٰلَمِيْنَ, Lord of the worlds."
+  },
+  "points": [
+   { "ur": "اهْدِنَا = ا (امر) + هْدِ (ہدایت) + نَا (ہم کو)۔", "en": "اهْدِنَا = ا (command) + هْدِ (guide) + نَا (us)." },
+   { "ur": "مخلوق خالق سے امر کے صیغے میں مانگے تو وہ دعا ہے۔", "en": "A creature asking the Creator in the command form is praying." },
+   { "ur": "صِرَاط — راستہ؛ مُسْتَقِيْم — سیدھا۔", "en": "صِرَاط — path; مُسْتَقِيْم — straight." }
+  ]
+ },
+ "check": [
+  {
+   "id": "u3-l5-q1",
+   "type": "mcq",
+   "prompt": { "ur": "اهْدِنَا میں نَا کا کیا مطلب ہے؟", "en": "What does نَا mean in اهْدِنَا?" },
+   "options": [
+    { "text": { "ur": "ہم سب کو", "en": "us" } },
+    { "text": { "ur": "انہیں", "en": "them" } },
+    { "text": { "ur": "نہیں", "en": "not" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "ا (امر) + هد (ہدایت) + نا (ہم سب کو): ہمیں ہدایت دیجیے۔", "en": "ا (command) + هد (guide) + نا (us): guide us." }
+  },
+  {
+   "id": "u3-l5-q2",
+   "type": "mcq",
+   "prompt": { "ur": "جب مخلوق خالق سے امر کے صیغے میں مانگے تو وہ کیا کہلاتا ہے؟", "en": "When a creature asks the Creator in the command form, what is it?" },
+   "options": [
+    { "text": { "ur": "دعا", "en": "a prayer" } },
+    { "text": { "ur": "حکم", "en": "an order" } },
+    { "text": { "ur": "سوال", "en": "a question" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "بڑا چھوٹے کو کہے تو حکم؛ مخلوق خالق کو کہے تو دعا۔", "en": "Senior to junior is an order; creature to Creator is a prayer." }
+  },
+  {
+   "id": "u3-l5-q3",
+   "type": "mcq",
+   "prompt": { "ur": "الصِّرَاطَ الْمُسْتَقِيْمَ میں دوسرا لفظ پہلے کا کیا ہے؟", "en": "In الصِّرَاطَ الْمُسْتَقِيْمَ, what is the second word to the first?" },
+   "options": [
+    { "text": { "ur": "صفت — سیدھا راستہ", "en": "its adjective — the straight path" } },
+    { "text": { "ur": "اضافت — راستے کا سیدھا", "en": "idafa — the path's straightness" } },
+    { "text": { "ur": "جمع", "en": "its plural" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "دونوں پر ال ہے، اس لیے دوسرا اسم پہلے کی صفت ہے: سیدھا راستہ۔", "en": "Both have ال, so the second describes the first: the straight path." }
+  }
+ ]
+}

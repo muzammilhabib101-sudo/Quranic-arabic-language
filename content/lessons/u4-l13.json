@@ -1,0 +1,191 @@
+{
+ "id": "u4-l13",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الفرقان کی آیت ۷۳ کو لفظ بہ لفظ سمجھیں — آیات سن کر غور کرنا — اور سیکھیں: ذُكِّرُوْا (مجہول — نصیحت کیے جاتے ہیں)، لَمْ (نفی)، اور صُمًّا وَعُمْيَانًا (حالت)۔",
+  "en": "Understand Al-Furqan 25:73 word by word — reflecting on the verses — and learn: ذُكِّرُوْا (passive — they are reminded), لَمْ (negation), and the state words صُمًّا وَعُمْيَانًا."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "فعل مجہول — کام کس نے کیا، ذکر نہیں", "en": "Passive verb — the doer is not named" },
+   "body": {
+    "ur": "ذكروا (معروف، پہلے حرف پر زبر) — انہوں نے نصیحت کی؛ ذُكِّرُوْا — انہیں نصیحت کی گئی۔ پہلے حرف پر پیش (ـُ) اور آخری سے پہلے حرف پر زیر (ـِ) مجہول کی پہچان ہے۔",
+    "en": "ذكروا (active, fatha on the first letter) — they reminded; ذُكِّرُوْا — they were reminded. A damma on the first letter and a kasra before the last letter mark the passive."
+   }
+  },
+  {
+   "title": { "ur": "لَمْ — نہیں", "en": "لَمْ — did not" },
+   "body": {
+    "ur": "لَمْ مضارع پر آ کر نفی کرتا ہے: يَخِرُّوْنَ — گرتے ہیں، لَمْ يَخِرُّوْا — نہیں گرتے۔ لَمْ کے بعد آخری نون گر جاتا ہے۔",
+    "en": "لَمْ comes before a present verb and negates it: يَخِرُّوْنَ — they fall, لَمْ يَخِرُّوْا — they do not fall. After لَمْ the final ن drops."
+   }
+  }
+ ],
+ "verse": { "surah": 25, "ayah": 73 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "اور وہ لوگ جو", "en": "and those who" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "الَّذِيْنَ", "role": "noun", "label": { "ur": "وہ لوگ جو", "en": "those who" } }
+   ],
+   "why": { "ur": "وَ — اور، الَّذِيْنَ — وہ سب جو (اسم موصول، جمع)۔", "en": "وَ — and, الَّذِيْنَ — those who (relative noun, plural)." }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "جب", "en": "when" },
+   "parts": [{ "text": "إِذَا", "role": "particle", "label": { "ur": "جب", "en": "when" } }],
+   "why": { "ur": "إِذَا — جب۔", "en": "إِذَا — when." }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "انہیں نصیحت کی جاتی ہے", "en": "they are reminded" },
+   "parts": [
+    { "text": "ذُكِّرُ", "role": "verb", "label": { "ur": "نصیحت کیے گئے (مجہول)", "en": "were reminded (passive)" } },
+    { "text": "وْا", "role": "noun", "label": { "ur": "وہ سب", "en": "they" } }
+   ],
+   "why": {
+    "ur": "ذکر — یاد دہانی، نصیحت۔ ذُكِّرُوْا — انہیں نصیحت کی گئی: پہلے حرف پر پیش، مجہول ہے۔ إِذَا کے ساتھ: جب انہیں نصیحت کی جاتی ہے۔",
+    "en": "ذکر — reminder, advice. ذُكِّرُوْا — they were reminded: damma on the first letter, so passive. With إِذَا: whenever they are reminded."
+   }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "آیات کے ذریعے", "en": "with the verses" },
+   "parts": [
+    { "text": "بِ", "role": "particle", "label": { "ur": "کے ساتھ، کے ذریعے", "en": "with, by" } },
+    { "text": "آيَاتِ", "role": "noun", "label": { "ur": "آیات، نشانیاں", "en": "verses, signs" } }
+   ],
+   "why": { "ur": "ب — کے ساتھ + آیات (آیت کی جمع): آیات کے ذریعے۔", "en": "ب — with + آیات (plural of آیت): with the verses." }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "ان کے رب کی", "en": "of their Lord" },
+   "parts": [
+    { "text": "رَبِّ", "role": "noun", "label": { "ur": "رب", "en": "Lord" } },
+    { "text": "هِمْ", "role": "noun", "label": { "ur": "ان سب کا", "en": "their" } }
+   ],
+   "why": { "ur": "رب + ہم: ان سب کا رب۔ بِآيَاتِ رَبِّهِمْ — ان کے رب کی آیات کے ذریعے۔", "en": "رب + هم: their Lord. بِآيَاتِ رَبِّهِمْ — with the verses of their Lord." }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "نہیں", "en": "do not" },
+   "parts": [{ "text": "لَمْ", "role": "particle", "label": { "ur": "نفی", "en": "not" } }],
+   "why": { "ur": "لَمْ — نہیں؛ اگلے فعل کی نفی کرتا ہے۔", "en": "لَمْ — not; it negates the verb after it." }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "گر پڑتے", "en": "fall" },
+   "parts": [
+    { "text": "يَ", "role": "particle", "label": { "ur": "علامتِ مضارع", "en": "present-tense sign" } },
+    { "text": "خِرُّ", "role": "verb", "label": { "ur": "گرنا", "en": "fall" } },
+    { "text": "وْا", "role": "noun", "label": { "ur": "وہ سب", "en": "they" } }
+   ],
+   "why": {
+    "ur": "يَخِرُّوْنَ — وہ گرتے ہیں؛ لَمْ کے بعد نون گر گیا: لَمْ يَخِرُّوْا — نہیں گر پڑتے۔",
+    "en": "يَخِرُّوْنَ — they fall; after لَمْ the ن drops: لَمْ يَخِرُّوْا — they do not fall."
+   }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "ان پر", "en": "upon them" },
+   "parts": [
+    { "text": "عَلَيْ", "role": "particle", "label": { "ur": "پر", "en": "upon" } },
+    { "text": "هَا", "role": "noun", "label": { "ur": "ان (آیات)", "en": "them (the verses)" } }
+   ],
+   "why": {
+    "ur": "على + ہا: ان پر۔ ہا یہاں آیات کے لیے ہے؛ غیر انسانوں کی جمع کے لیے مؤنث واحد ضمیر آتی ہے۔",
+    "en": "على + ها: upon them. ها here refers to the verses; a plural of non-humans takes a singular feminine pronoun."
+   }
+  },
+  {
+   "position": 9,
+   "meaning": { "ur": "بہرے بن کر", "en": "as deaf" },
+   "parts": [
+    { "text": "صُمّ", "role": "noun", "label": { "ur": "بہرے", "en": "deaf" } },
+    { "text": "ا", "role": "particle", "label": { "ur": "حالت", "en": "state" } }
+   ],
+   "why": {
+    "ur": "صُمّ — اصم (بہرا) کی جمع۔ تنوینِ نصب حالت بتاتی ہے: بہرے بن کر۔",
+    "en": "صُمّ — plural of اصم (deaf). The tanween shows the state: as deaf people."
+   }
+  },
+  {
+   "position": 10,
+   "meaning": { "ur": "اور اندھے بن کر", "en": "and blind" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "عُمْيَان", "role": "noun", "label": { "ur": "اندھے", "en": "blind" } },
+    { "text": "ا", "role": "particle", "label": { "ur": "حالت", "en": "state" } }
+   ],
+   "why": {
+    "ur": "عُمْيَان — اَعْمٰى (اندھا) کی جمع۔ صُمًّا وَعُمْيَانًا — بہرے اور اندھے بن کر۔",
+    "en": "عُمْيَان — plural of أَعْمٰى (blind). صُمًّا وَعُمْيَانًا — as deaf and blind."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2, 3], "role": "verb", "label": { "ur": "اور وہ لوگ جب انہیں نصیحت کی جاتی ہے", "en": "and those who, when reminded" } },
+   { "words": [4, 5], "role": "noun", "label": { "ur": "اپنے رب کی آیات سے", "en": "of their Lord's verses" } },
+   { "words": [6, 7, 8], "role": "verb", "label": { "ur": "ان پر نہیں گر پڑتے", "en": "do not fall upon them" } },
+   { "words": [9, 10], "role": "noun", "label": { "ur": "بہرے اور اندھے بن کر", "en": "deaf and blind" } }
+  ],
+  "plain": {
+   "ur": "اللہ کے بندے وہ ہیں کہ جب انہیں ان کے رب کی آیات سے نصیحت کی جاتی ہے تو وہ ان پر بہرے اور اندھے بن کر نہیں گرتے، بلکہ کان لگا کر سنتے اور آنکھیں کھول کر سمجھتے ہیں۔",
+   "en": "The servants of the Most Merciful are those who, when reminded with the verses of their Lord, do not fall upon them deaf and blind — they listen and reflect with open ears and eyes."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "پہلے حرف پر پیش = مجہول: ذُكِّرُوْا — انہیں نصیحت کی گئی۔",
+   "en": "Damma on the first letter = passive: ذُكِّرُوْا — they were reminded."
+  },
+  "points": [
+   { "ur": "لَمْ + مضارع = نفی؛ آخری نون گر جاتا ہے: لَمْ يَخِرُّوْا۔", "en": "لَمْ + present verb = negation; the final ن drops: لَمْ يَخِرُّوْا." },
+   { "ur": "صُمّ — بہرے، عُمْيَان — اندھے۔", "en": "صُمّ — deaf, عُمْيَان — blind." },
+   { "ur": "تنوینِ نصب یہاں حالت بتاتی ہے: بن کر۔", "en": "The tanween here shows the state: “as”." }
+  ]
+ },
+ "check": [
+  {
+   "id": "u4-l13-q1",
+   "type": "mcq",
+   "prompt": { "ur": "ذُكِّرُوْا کا کیا مطلب ہے؟", "en": "What does ذُكِّرُوْا mean?" },
+   "arabic": "ذُكِّرُوْا",
+   "options": [
+    { "text": { "ur": "انہیں نصیحت کی گئی", "en": "they were reminded" } },
+    { "text": { "ur": "انہوں نے نصیحت کی", "en": "they reminded" } },
+    { "text": { "ur": "وہ بھول گئے", "en": "they forgot" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "پہلے حرف پر پیش ہے، اس لیے مجہول: انہیں نصیحت کی گئی۔", "en": "The first letter has a damma, so it is passive: they were reminded." }
+  },
+  {
+   "id": "u4-l13-q2",
+   "type": "mcq",
+   "prompt": { "ur": "صُمًّا کا کیا مطلب ہے؟", "en": "What does صُمًّا mean?" },
+   "arabic": "صُمًّا",
+   "options": [
+    { "text": { "ur": "بہرے بن کر", "en": "as deaf" } },
+    { "text": { "ur": "اندھے بن کر", "en": "as blind" } },
+    { "text": { "ur": "خاموش", "en": "silent" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "صُمّ — بہرے؛ عُمْيَان — اندھے۔", "en": "صُمّ — deaf; عُمْيَان — blind." }
+  },
+  {
+   "id": "u4-l13-q3",
+   "type": "mcq",
+   "prompt": { "ur": "لَمْ يَخِرُّوْا میں لَمْ کیا کرتا ہے؟", "en": "What does لَمْ do in لَمْ يَخِرُّوْا?" },
+   "options": [
+    { "text": { "ur": "نفی — نہیں گرتے", "en": "negates — they do not fall" } },
+    { "text": { "ur": "سوال — کیا گرتے ہیں؟", "en": "asks — do they fall?" } },
+    { "text": { "ur": "تاکید — ضرور گرتے ہیں", "en": "stresses — they surely fall" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "لَمْ نفی کرتا ہے اور آخری نون گرا دیتا ہے۔", "en": "لَمْ negates and drops the final ن." }
+  }
+ ]
+}

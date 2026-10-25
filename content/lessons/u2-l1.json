@@ -1,0 +1,338 @@
+{
+ "id": "u2-l1",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الحجرات کی پہلی آیت کو لفظ بہ لفظ سمجھیں، اور ساتھ میں سیکھیں: پکارنے کے الفاظ (حروفِ ندا)، الَّذِيْنَ جیسے اسمائے موصولہ، جمع کی علامتیں، ضمیر، اور امر سے پہلے آنے والا الف۔",
+  "en": "Understand the first verse of Surah Al-Hujurat word by word, and learn along the way: calling words (يَا أَيُّهَا), relative words like الَّذِيْنَ, the plural signs, pronouns, and the alif that comes before a command."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "پکارنے کے الفاظ", "en": "Calling words" },
+   "body": {
+    "ur": "يَا، أَيُّهَا اور أَيَّتُهَا کسی کو پکارنے کے لیے آتے ہیں، جیسے اردو میں اے، ارے، او۔",
+    "en": "يَا, أَيُّهَا and أَيَّتُهَا are used to call someone, like “O” or “hey” in English."
+   }
+  },
+  {
+   "title": { "ur": "جمع کی علامتیں", "en": "Plural signs" },
+   "body": {
+    "ur": "وا، ون اور ین — یہ علامتیں جس کلمے کے آخر پر آتی ہیں اسے جمع بنا دیتی ہیں۔",
+    "en": "وا, ون and ين — when one of these comes at the end of a word, it makes the word plural."
+   }
+  },
+  {
+   "title": { "ur": "ضمیر", "en": "Pronouns" },
+   "body": {
+    "ur": "وہ کلمہ جو اسم کی جگہ آئے اور اس کا پورا معنی دے، ضمیر کہلاتا ہے۔ عربی میں ضمیر لفظ کے ساتھ جڑ جاتی ہے: قَلَمُهٗ — اس کا قلم۔",
+    "en": "A word that stands in for a noun and carries its full meaning is a pronoun. In Arabic it often attaches to the word: قَلَمُهٗ — his pen."
+   }
+  }
+ ],
+ "verse": { "surah": 49, "ayah": 1 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "اے", "en": "O" },
+   "parts": [
+    { "text": "يَا", "role": "particle", "label": { "ur": "اے (پکارنا)", "en": "O (calling)" } },
+    { "text": "أَيُّ", "role": "noun", "label": { "ur": "اے (توجہ دلانا)", "en": "O you (drawing attention)" } },
+    { "text": "هَا", "role": "particle", "label": { "ur": "تنبیہ", "en": "attention" } }
+   ],
+   "why": {
+    "ur": "يَا، أَيُّهَا اور أَيَّتُهَا حروفِ ندا کہلاتے ہیں — یعنی وہ الفاظ جو کسی کو پکارنے کے لیے آتے ہیں، جیسے اردو میں اے، ارے، او۔ يَا خُبَيْبُ (اے خبیب) میں صرف يَا ہے۔ جب کسی زیادہ اہم بات کی طرف متوجہ کرنا ہو تو يَا کے ساتھ مذکر کے لیے أَيُّهَا اور مؤنث کے لیے أَيَّتُهَا لگاتے ہیں: يَا أَيُّهَا الرَّجُلُ — اے آدمی، يَا أَيَّتُهَا الْبِنْتُ — اے لڑکی۔",
+    "en": "يَا, أَيُّهَا and أَيَّتُهَا are calling words — words used to call someone, like “O”. In يَا خُبَيْبُ (O Khubaib) there is only يَا. When something important needs attention, أَيُّهَا is added for a man and أَيَّتُهَا for a woman: يَا أَيُّهَا الرَّجُلُ — O man, يَا أَيَّتُهَا الْبِنْتُ — O girl."
+   }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "وہ سب جو", "en": "those who" },
+   "parts": [{ "text": "الَّذِيْنَ", "role": "noun", "label": { "ur": "جو سب اشخاص", "en": "those who (plural)" } }],
+   "why": {
+    "ur": "الَّذِيْنَ اسمِ موصول ہے، یعنی ”جو“۔ اس کے ساتھی بھی یاد کر لیں: الَّذِيْ — جو ایک شخص (مذکر)، الَّتِيْ — جو ایک مؤنث، اللَّائِيْ — جو سب مؤنث۔ یہ کلمات قرآن میں بار بار آتے ہیں۔",
+    "en": "الَّذِيْنَ is a relative word meaning “who / those who”. Learn its family too: الَّذِيْ — who (one man), الَّتِيْ — who (one woman), اللَّائِيْ — who (women). These words come again and again in the Quran."
+   }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "ایمان لائے", "en": "believed" },
+   "parts": [
+    { "text": "آمَنَ", "role": "verb", "label": { "ur": "وہ ایمان لایا", "en": "he believed" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت (سب)", "en": "plural sign (they all)" } }
+   ],
+   "why": {
+    "ur": "آمَنَ — جو ایک شخص ایمان لایا؛ آخر میں وا لگا تو آمَنُوْا — جو سب اشخاص ایمان لائے۔ اَمن (سلامتی) کا لفظ اردو میں بھی استعمال ہوتا ہے۔ يَا أَيُّهَا الَّذِيْنَ آمَنُوْا کا لفظی مطلب ہے: اے وہ تمام لوگو جو ایمان لائے ہو — یعنی اے اہلِ ایمان۔",
+    "en": "آمَنَ — he (one person) believed; add وا at the end and آمَنُوْا means they all believed. The word امن (peace, safety) is used in Urdu too. يَا أَيُّهَا الَّذِيْنَ آمَنُوْا literally means: O all you people who have believed — that is, O believers."
+   }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "نہ", "en": "do not" },
+   "parts": [{ "text": "لَا", "role": "particle", "label": { "ur": "نفی / منع", "en": "no / do not" } }],
+   "why": {
+    "ur": "لَا حرفِ نفی ہے، اور کسی کام سے منع کرنے کے لیے بھی آتا ہے۔ اردو میں بھی اسی معنی میں استعمال ہوتا ہے: لاجواب، لاتعداد، لازوال۔",
+    "en": "لَا is a particle of negation, and it is also used to forbid something. Urdu uses it the same way: لاجواب (unanswerable), لاتعداد (countless), لازوال (everlasting)."
+   }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "تم سب پیش قدمی کرو", "en": "you all go ahead" },
+   "parts": [
+    { "text": "تُقَدِّمُ", "role": "verb", "label": { "ur": "تم پیش قدمی کرو", "en": "you go ahead" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت (سب)", "en": "plural sign (you all)" } }
+   ],
+   "why": {
+    "ur": "تُ + قَدِّمُ: پیش قدمی کرنا، آگے بڑھنا — تقدیم اور قدم کے الفاظ اردو میں استعمال ہوتے ہیں۔ آخر میں جمع کی علامت وا لگی: تُقَدِّمُوْا — تم سب پیش قدمی کرتے ہو یا کرو گے۔ آگے لَا آیا تو منع بن گیا: لَا تُقَدِّمُوْا — تم سب پیش قدمی نہ کرو۔",
+    "en": "تُ + قَدِّمُ: to go ahead, to put oneself forward — the words تقدیم and قدم are used in Urdu. The plural sign وا is added: تُقَدِّمُوْا — you all go ahead. With لَا in front it becomes a prohibition: لَا تُقَدِّمُوْا — do not go ahead, all of you."
+   }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "درمیان", "en": "between" },
+   "parts": [{ "text": "بَيْنَ", "role": "noun", "label": { "ur": "درمیان", "en": "between" } }],
+   "why": {
+    "ur": "بَيْنَ کا معنی درمیان ہے۔ یہ لفظ اردو میں بھی آتا ہے، جیسے بین الاقوامی۔",
+    "en": "بَيْنَ means “between”. Urdu uses it too, as in بین الاقوامی (international)."
+   }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "دونوں ہاتھ", "en": "two hands" },
+   "parts": [{ "text": "يَدَيْ", "role": "noun", "label": { "ur": "دونوں ہاتھ", "en": "two hands" } }],
+   "why": {
+    "ur": "يَد ہاتھ کو کہتے ہیں (اردو میں یدِ طولیٰ، یدِ بیضا)، اور يَدَيْ — دونوں ہاتھ۔ بَيْنَ يَدَيْ — دونوں ہاتھوں کے درمیان — عربی کا محاورہ ہے جس کا مطلب ہے: سامنے۔",
+    "en": "يَد means hand (Urdu has یدِ طولیٰ, یدِ بیضا), and يَدَيْ means two hands. بَيْنَ يَدَيْ — “between the two hands” — is an Arabic idiom meaning: in front of."
+   }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "اللہ (کے)", "en": "(of) Allah" },
+   "parts": [{ "text": "اللّٰه", "role": "noun", "label": { "ur": "لفظِ جلالہ", "en": "the name of Allah" } }],
+   "why": {
+    "ur": "لفظِ جلالہ — اللہ کا نام، جو اردو میں بھی استعمال ہوتا ہے۔ بَيْنَ يَدَيِ اللّٰهِ: اللہ کے سامنے۔",
+    "en": "The name of Allah, used in Urdu as well. بَيْنَ يَدَيِ اللّٰهِ: in front of Allah."
+   }
+  },
+  {
+   "position": 9,
+   "meaning": { "ur": "اور اس کے رسول (کے)", "en": "and His Messenger" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "رَسُوْلِ", "role": "noun", "label": { "ur": "رسول", "en": "messenger" } },
+    { "text": "هٖ", "role": "noun", "label": { "ur": "اس کا (ضمیر)", "en": "his (pronoun)" } }
+   ],
+   "why": {
+    "ur": "وَ کا معنی ”اور“ ہے، اور یہ اردو میں بھی آتا ہے: شب و روز، صبح و شام۔ رَسُوْل + هٖ = اس کا رسول — رسول اور پیغمبر دونوں الفاظ اردو میں استعمال ہوتے ہیں۔ هٖ ضمیر ہے: یہ اللہ کی جگہ آئی ہے، اس لیے ”اس کا رسول“ یعنی اللہ کا رسول۔",
+    "en": "وَ means “and”, and Urdu uses it too: شب و روز (night and day), صبح و شام (morning and evening). رَسُوْل + هٖ = his messenger — both رسول and پیغمبر are used in Urdu. هٖ is a pronoun standing in for Allah, so “His Messenger” means the Messenger of Allah."
+   }
+  },
+  {
+   "position": 10,
+   "meaning": { "ur": "اور تم سب ڈرو", "en": "and fear (all of you)" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "اتَّقِ", "role": "verb", "label": { "ur": "ڈر (حکم)", "en": "fear (command)" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت (سب)", "en": "plural sign (you all)" } }
+   ],
+   "why": {
+    "ur": "کلمے سے پہلے الف صرف تین حالتوں میں آتا ہے: متکلم — أَكْتُبُ (میں لکھتا ہوں)، استفہام — أَأَكْتُبُ (کیا میں لکھتا ہوں؟)، اور امر — اُكْتُبْ (لکھو)۔ یہاں الف امر کا ہے۔ لفظ تقویٰ سے، جس کا معنی ڈرنا اور پرہیزگاری اختیار کرنا ہے، امر بنایا تو حرفِ علت (ی) گر گیا: اتَّقِ + وا = اتَّقُوْا — تم سب ڈرو۔",
+    "en": "An alif comes before a word in only three cases: “I” — أَكْتُبُ (I write); a question — أَأَكْتُبُ (do I write?); and a command — اُكْتُبْ (write!). Here the alif is the command alif. From تقویٰ (fearing Allah, being mindful), a command is made and the weak letter (ی) drops: اتَّقِ + وا = اتَّقُوْا — fear, all of you."
+   }
+  },
+  {
+   "position": 11,
+   "meaning": { "ur": "اللہ (سے)", "en": "Allah" },
+   "parts": [{ "text": "اللّٰه", "role": "noun", "label": { "ur": "لفظِ جلالہ", "en": "the name of Allah" } }],
+   "why": {
+    "ur": "وَاتَّقُوا اللّٰهَ: اور تم سب اللہ سے ڈرو۔",
+    "en": "وَاتَّقُوا اللّٰهَ: and fear Allah, all of you."
+   }
+  },
+  {
+   "position": 12,
+   "meaning": { "ur": "بیشک", "en": "indeed" },
+   "parts": [{ "text": "إِنَّ", "role": "particle", "label": { "ur": "بیشک، یقیناً", "en": "indeed, surely" } }],
+   "why": {
+    "ur": "إِنَّ اور أَنَّ — ن پر شد ہو تو الف پر زبر ہو یا زیر، دونوں حالتوں میں معنی ”یقیناً“ یا ”بیشک“ ہی ہے۔",
+    "en": "إِنَّ and أَنَّ — when the ن has a shadda, the meaning is “indeed” or “surely”, whether the alif has a fatha or a kasra."
+   }
+  },
+  {
+   "position": 13,
+   "meaning": { "ur": "اللہ", "en": "Allah" },
+   "parts": [{ "text": "اللّٰه", "role": "noun", "label": { "ur": "لفظِ جلالہ", "en": "the name of Allah" } }],
+   "why": {
+    "ur": "إِنَّ اللّٰهَ: بیشک اللہ۔",
+    "en": "إِنَّ اللّٰهَ: indeed Allah."
+   }
+  },
+  {
+   "position": 14,
+   "meaning": { "ur": "سننے والا", "en": "All-Hearing" },
+   "parts": [{ "text": "سَمِيْع", "role": "noun", "label": { "ur": "ہمیشہ سننے والا", "en": "always hearing" } }],
+   "pattern": "فَعِيْل",
+   "patternMeaning": {
+    "ur": "ہمیشگی — ایسی صفت جو ازل سے ابد تک ہو اور ذات کا حصہ ہو",
+    "en": "permanence — a quality that is always there and part of who one is"
+   },
+   "why": {
+    "ur": "سَمِعَ (اس نے سنا) کو وزن فَعِيْل پر لے جائیں تو سَمِيْع بنتا ہے: یعنی ازل سے ابد تک سننے والا — اور یہ اللہ کی ذاتی صفت ہے۔ سمیع کا لفظ اردو میں بھی استعمال ہوتا ہے۔",
+    "en": "Put سَمِعَ (he heard) on the pattern فَعِيْل and you get سَمِيْع: the One who hears, without beginning or end — a quality that belongs to Allah Himself. سمیع is used in Urdu too."
+   }
+  },
+  {
+   "position": 15,
+   "meaning": { "ur": "جاننے والا", "en": "All-Knowing" },
+   "parts": [{ "text": "عَلِيْم", "role": "noun", "label": { "ur": "ہمیشہ جاننے والا", "en": "always knowing" } }],
+   "pattern": "فَعِيْل",
+   "patternMeaning": {
+    "ur": "ہمیشگی — ایسی صفت جو ازل سے ابد تک ہو اور ذات کا حصہ ہو",
+    "en": "permanence — a quality that is always there and part of who one is"
+   },
+   "why": {
+    "ur": "عَلِمَ (اس نے جانا) کو وزن فَعِيْل پر لے جائیں تو عَلِيْم بنتا ہے: ازل سے ابد تک جاننے والا — یہ بھی اللہ کی ذاتی صفت ہے۔ علیم کا لفظ اردو میں بھی استعمال ہوتا ہے۔",
+    "en": "Put عَلِمَ (he knew) on the pattern فَعِيْل and you get عَلِيْم: the One who knows, without beginning or end — again a quality of Allah Himself. علیم is used in Urdu too."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1], "role": "particle", "label": { "ur": "اے (پکار)", "en": "O (a call)" } },
+   { "words": [2, 3], "role": "noun", "label": { "ur": "وہ لوگو جو ایمان لائے", "en": "you who believe" } },
+   { "words": [4, 5], "role": "verb", "label": { "ur": "آگے نہ بڑھو (منع)", "en": "do not go ahead (a prohibition)" } },
+   { "words": [6, 7], "role": "noun", "label": { "ur": "سامنے", "en": "in front of" } },
+   { "words": [8, 9], "role": "noun", "label": { "ur": "اللہ اور اس کے رسول کے", "en": "Allah and His Messenger" } },
+   { "words": [10, 11], "role": "verb", "label": { "ur": "اور اللہ سے ڈرو (حکم)", "en": "and fear Allah (a command)" } },
+   { "words": [12, 13], "role": "particle", "label": { "ur": "بیشک اللہ (وجہ)", "en": "indeed Allah (the reason)" } },
+   { "words": [14, 15], "role": "noun", "label": { "ur": "سننے والا، جاننے والا", "en": "All-Hearing, All-Knowing" } }
+  ],
+  "plain": {
+   "ur": "آیت ایک پکار سے شروع ہوتی ہے: اے ایمان والو۔ پھر ایک منع آتا ہے: آگے نہ بڑھو — کس کے؟ بَيْنَ يَدَيْ، یعنی اللہ اور اس کے رسول کے سامنے۔ پھر ایک حکم: اور اللہ سے ڈرو۔ اور آخر میں وجہ بتائی: بیشک اللہ سب کچھ سننے والا، سب کچھ جاننے والا ہے۔",
+   "en": "The verse opens with a call: O you who believe. Then comes a prohibition: do not go ahead — of whom? بَيْنَ يَدَيْ, in front of Allah and His Messenger. Then a command: and fear Allah. And finally the reason: indeed Allah hears everything and knows everything."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "وا، ون اور ین جس کلمے کے آخر پر آئیں، اسے جمع بنا دیتے ہیں: آمَنَ — وہ ایمان لایا، آمَنُوْا — وہ سب ایمان لائے۔",
+   "en": "وا, ون and ين at the end of a word make it plural: آمَنَ — he believed, آمَنُوْا — they all believed."
+  },
+  "points": [
+   {
+    "ur": "يَا أَيُّهَا (مذکر) اور يَا أَيَّتُهَا (مؤنث) کسی کو اہمیت سے پکارنے کے لیے آتے ہیں — اے۔",
+    "en": "يَا أَيُّهَا (for men) and يَا أَيَّتُهَا (for women) call someone's attention to something important — O."
+   },
+   {
+    "ur": "الَّذِيْنَ — جو سب، الَّذِيْ — جو ایک مذکر، الَّتِيْ — جو ایک مؤنث، اللَّائِيْ — جو سب مؤنث۔",
+    "en": "الَّذِيْنَ — those who, الَّذِيْ — he who, الَّتِيْ — she who, اللَّائِيْ — those women who."
+   },
+   {
+    "ur": "جڑی ہوئی ضمیریں: هٗ — اس کا، هَا — اس مؤنث کا، هُمَا — ان دونوں کا، هُمْ — ان سب کا، هُنَّ — ان سب مؤنث کا۔",
+    "en": "Attached pronouns: هٗ — his, هَا — her, هُمَا — of the two of them, هُمْ — their (men), هُنَّ — their (women)."
+   }
+  ]
+ },
+ "check": [
+  {
+   "id": "u2-l1-q1",
+   "type": "mcq",
+   "prompt": { "ur": "الَّذِيْنَ کا کیا معنی ہے؟", "en": "What does الَّذِيْنَ mean?" },
+   "options": [
+    { "text": { "ur": "جو سب اشخاص", "en": "those who (plural)" } },
+    { "text": { "ur": "جو ایک شخص (مذکر)", "en": "he who (one man)" } },
+    { "text": { "ur": "جو ایک مؤنث", "en": "she who (one woman)" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "الَّذِيْنَ جمع کے لیے ہے: جو سب اشخاص۔ ایک مذکر کے لیے الَّذِيْ اور ایک مؤنث کے لیے الَّتِيْ آتا ہے۔",
+    "en": "الَّذِيْنَ is plural: those who. For one man it is الَّذِيْ, and for one woman الَّتِيْ."
+   }
+  },
+  {
+   "id": "u2-l1-q2",
+   "type": "mcq",
+   "prompt": { "ur": "آمَنُوْا کے آخر میں وا کیا بتاتا ہے؟", "en": "What does the وا at the end of آمَنُوْا tell us?" },
+   "options": [
+    { "text": { "ur": "کام کرنے والے کئی ہیں — جمع", "en": "Many people did it — plural" } },
+    { "text": { "ur": "کام کرنے والی مؤنث ہے", "en": "The one who did it is a woman" } },
+    { "text": { "ur": "یہ ایک سوال ہے", "en": "It is a question" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "وا جمع کی علامت ہے: آمَنَ — وہ ایمان لایا، آمَنُوْا — وہ سب ایمان لائے۔",
+    "en": "وا is a plural sign: آمَنَ — he believed, آمَنُوْا — they all believed."
+   }
+  },
+  {
+   "id": "u2-l1-q3",
+   "type": "mcq",
+   "prompt": { "ur": "لَا تُقَدِّمُوْا کا کیا مطلب ہے؟", "en": "What does لَا تُقَدِّمُوْا mean?" },
+   "options": [
+    { "text": { "ur": "تم سب پیش قدمی کرو", "en": "Go ahead, all of you" } },
+    { "text": { "ur": "تم سب پیش قدمی نہ کرو", "en": "Do not go ahead, all of you" } },
+    { "text": { "ur": "میں پیش قدمی نہیں کروں گا", "en": "I will not go ahead" } }
+   ],
+   "answer": 1,
+   "explanation": {
+    "ur": "تُقَدِّمُوْا کا مطلب ہے تم سب پیش قدمی کرو؛ آگے لَا (منع) آیا تو مطلب ہوا: تم سب پیش قدمی نہ کرو۔",
+    "en": "تُقَدِّمُوْا means you all go ahead; with لَا (do not) in front it means: do not go ahead, all of you."
+   }
+  },
+  {
+   "id": "u2-l1-q4",
+   "type": "mcq",
+   "prompt": { "ur": "محاورے میں بَيْنَ يَدَيْ کا کیا مطلب ہے؟", "en": "As an idiom, what does بَيْنَ يَدَيْ mean?" },
+   "options": [
+    { "text": { "ur": "پیچھے", "en": "behind" } },
+    { "text": { "ur": "دونوں ہاتھوں میں", "en": "in both hands" } },
+    { "text": { "ur": "سامنے", "en": "in front of" } }
+   ],
+   "answer": 2,
+   "explanation": {
+    "ur": "لفظی طور پر بَيْنَ يَدَيْ کا مطلب ہے ”دونوں ہاتھوں کے درمیان“، اور محاورے میں: سامنے۔",
+    "en": "Word for word, بَيْنَ يَدَيْ is “between the two hands”; as an idiom it means: in front of."
+   }
+  },
+  {
+   "id": "u2-l1-q5",
+   "type": "mcq",
+   "prompt": { "ur": "قَلَمُهُمْ کا کیا مطلب ہے؟", "en": "What does قَلَمُهُمْ mean?" },
+   "arabic": "قَلَمُهُمْ",
+   "options": [
+    { "text": { "ur": "ان سب (مذکر) کا قلم", "en": "their pen (of the men)" } },
+    { "text": { "ur": "ان دونوں کا قلم", "en": "the pen of the two of them" } },
+    { "text": { "ur": "اس ایک مؤنث کا قلم", "en": "her pen" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "هُمْ ان سب مذکر کی ضمیر ہے: قَلَمُهُمْ — ان سب کا قلم۔ دونوں کے لیے قَلَمُهُمَا اور ایک مؤنث کے لیے قَلَمُهَا آتا ہے۔",
+    "en": "هُمْ is the pronoun for “them (men)”: قَلَمُهُمْ — their pen. For two it is قَلَمُهُمَا, and for one woman قَلَمُهَا."
+   }
+  },
+  {
+   "id": "u2-l1-q6",
+   "type": "mcq",
+   "prompt": { "ur": "اتَّقُوْا کے شروع میں الف کیوں ہے؟", "en": "Why does اتَّقُوْا start with an alif?" },
+   "options": [
+    { "text": { "ur": "یہ امر (حکم) کی علامت ہے", "en": "It is the sign of a command" } },
+    { "text": { "ur": "اس کا مطلب ہے ”میں“", "en": "It means “I”" } },
+    { "text": { "ur": "یہ سوال کی علامت ہے", "en": "It marks a question" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "الف تین حالتوں میں آتا ہے: متکلم (أَكْتُبُ)، استفہام (أَأَكْتُبُ) اور امر (اُكْتُبْ)۔ اتَّقُوْا ایک حکم ہے: تم سب ڈرو۔",
+    "en": "An alif comes in three cases: “I” (أَكْتُبُ), a question (أَأَكْتُبُ) and a command (اُكْتُبْ). اتَّقُوْا is a command: fear, all of you."
+   }
+  },
+  {
+   "id": "u2-l1-q7",
+   "type": "mcq",
+   "prompt": { "ur": "سَمِيْع کس وزن پر ہے؟", "en": "Which pattern is سَمِيْع on?" },
+   "arabic": "سَمِيْع",
+   "options": [{ "ar": "فَاعِل" }, { "ar": "فَعِيْل" }, { "ar": "فَعْلَان" }],
+   "answer": 1,
+   "explanation": {
+    "ur": "سَمِيْع اور عَلِيْم دونوں وزن فَعِيْل پر ہیں — ہمیشہ رہنے والی، ذاتی صفت۔",
+    "en": "سَمِيْع and عَلِيْم are both on فَعِيْل — a lasting quality that belongs to who one is."
+   }
+  }
+ ]
+}

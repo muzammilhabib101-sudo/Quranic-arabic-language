@@ -1,0 +1,140 @@
+{
+ "id": "u4-l4",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الفرقان کی آیت ۶۴ کو لفظ بہ لفظ سمجھیں — رات کی عبادت — اور دہرائیں: مضارع کی علامت ی اور جمع کی علامت ون (يَبِيْتُوْنَ)، اور ل + رب + ہم (لِرَبِّهِمْ)۔",
+  "en": "Understand Al-Furqan 25:64 word by word — worship at night — and review: the present-tense ی and plural ون (يَبِيْتُوْنَ), and ل + رب + هم (لِرَبِّهِمْ)."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "ایک لفظ، تین حصے", "en": "One word, three parts" },
+   "body": {
+    "ur": "يَبِيْتُوْنَ = ی (مضارع کی علامت) + بیت (رات گزارنا) + ون (جمع کی علامت): وہ راتیں گزارتے ہیں۔",
+    "en": "يَبِيْتُوْنَ = ی (present-tense sign) + بيت (spend the night) + ون (plural): they spend the night."
+   }
+  },
+  {
+   "title": { "ur": "بیت — اردو میں", "en": "بیت in Urdu" },
+   "body": {
+    "ur": "بیت کا کلمہ اردو میں مستعمل ہے: شب بیت گئی، دن گزر گیا — بیت میں رات گزارنے کے معنی پائے جاتے ہیں۔",
+    "en": "Urdu uses بیت: “شب بیت گئی” (the night passed) — بیت carries the sense of passing the night."
+   }
+  }
+ ],
+ "verse": { "surah": 25, "ayah": 64 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "اور وہ جو", "en": "and those who" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "الَّذِيْنَ", "role": "noun", "label": { "ur": "جو اشخاص", "en": "those who" } }
+   ],
+   "why": { "ur": "وَ — اور، الَّذِيْنَ — جو اشخاص۔", "en": "وَ — and, الَّذِيْنَ — those who." }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "رات گزارتے ہیں", "en": "spend the night" },
+   "parts": [
+    { "text": "يَ", "role": "particle", "label": { "ur": "مضارع کی علامت", "en": "present-tense sign" } },
+    { "text": "بِيْتُ", "role": "verb", "label": { "ur": "رات گزارنا", "en": "spend the night" } },
+    { "text": "وْنَ", "role": "noun", "label": { "ur": "علامتِ جمع", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ی + بیت + ون: وہ راتوں کو گزارتے ہیں۔ بیت کا کلمہ اردو میں مستعمل ہے: شب بیت گئی، دن گزر گیا — بیت میں رات گزارنے کے معنی پائے جاتے ہیں۔ وَالَّذِيْنَ يَبِيْتُوْنَ — اور اللہ کے بندے وہ ہیں جو راتوں کو گزارتے ہیں۔",
+    "en": "ی + بيت + ون: they spend their nights. Urdu says “شب بیت گئی” — the night passed — so بیت carries the sense of spending the night. وَالَّذِيْنَ يَبِيْتُوْنَ — and those who spend the night."
+   }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "اپنے رب کے لیے", "en": "for their Lord" },
+   "parts": [
+    { "text": "لِ", "role": "particle", "label": { "ur": "کے لیے", "en": "for" } },
+    { "text": "رَبِّ", "role": "noun", "label": { "ur": "پالنہار", "en": "Lord, Sustainer" } },
+    { "text": "هِمْ", "role": "noun", "label": { "ur": "ان سب کے", "en": "their" } }
+   ],
+   "why": { "ur": "ل (کے لیے) + رب (پالنہار) + ہم (ان سب کے): اپنے رب کے لیے۔", "en": "ل (for) + رب (Lord) + هم (their): for their Lord." }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "سجدے کی حالت میں", "en": "prostrating" },
+   "parts": [{ "text": "سُجَّد", "role": "noun", "label": { "ur": "سجدہ کرنے والے", "en": "prostrating" } }],
+   "why": {
+    "ur": "سُجَّدًا — حالتِ سجدہ میں؛ تنوین حالت بتاتی ہے (سجدہ اردو میں مستعمل)۔",
+    "en": "سُجَّدًا — in prostration; the tanween shows a state (Urdu سجدہ)."
+   }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "اور قیام کی حالت میں", "en": "and standing" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "قِيَام", "role": "noun", "label": { "ur": "کھڑے ہونا", "en": "standing" } }
+   ],
+   "why": {
+    "ur": "قِيَامًا — حالتِ قیام میں (قیام اردو میں مستعمل)۔ لِرَبِّهِمْ سُجَّدًا وَّقِيَامًا — اپنے رب کے لیے سجدہ اور قیام کی حالت میں۔",
+    "en": "قِيَامًا — standing (Urdu قیام). لِرَبِّهِمْ سُجَّدًا وَّقِيَامًا — prostrating and standing for their Lord."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2], "role": "verb", "label": { "ur": "اور جو راتیں گزارتے ہیں", "en": "and those who spend the night" } },
+   { "words": [3], "role": "noun", "label": { "ur": "اپنے رب کے لیے", "en": "for their Lord" } },
+   { "words": [4, 5], "role": "noun", "label": { "ur": "سجدے اور قیام میں", "en": "prostrating and standing" } }
+  ],
+  "plain": {
+   "ur": "اور جو اپنے رب کے حضور سجدے اور قیام کی حالت میں راتیں گزارتے ہیں۔ رحمٰن کے بندوں کی تیسری صفت: دن کو لوگوں کے ساتھ نرمی، اور رات کو اپنے رب کی عبادت۔",
+   "en": "And those who spend the night prostrating and standing before their Lord. A third quality of the servants of the Most Merciful: gentleness with people by day, and worship of their Lord by night."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "يَبِيْتُوْنَ = ی (مضارع) + بیت + ون (جمع) — ایک لفظ میں ”وہ سب رات گزارتے ہیں“۔",
+   "en": "يَبِيْتُوْنَ = ی (present) + بيت + ون (plural) — “they spend the night” in one word."
+  },
+  "points": [
+   { "ur": "لِرَبِّهِمْ = ل (کے لیے) + رَبّ + هِمْ (ان کے)۔", "en": "لِرَبِّهِمْ = ل (for) + رَبّ + هِمْ (their)." },
+   { "ur": "سُجَّدًا وَّقِيَامًا — سجدے اور قیام کی حالت میں؛ تنوین حالت بتاتی ہے۔", "en": "سُجَّدًا وَّقِيَامًا — prostrating and standing; tanween shows the state." },
+   { "ur": "بیت — اردو میں ”شب بیت گئی“۔", "en": "بیت — Urdu “شب بیت گئی” (the night passed)." }
+  ]
+ },
+ "check": [
+  {
+   "id": "u4-l4-q1",
+   "type": "mcq",
+   "prompt": { "ur": "يَبِيْتُوْنَ کا کیا مطلب ہے؟", "en": "What does يَبِيْتُوْنَ mean?" },
+   "options": [
+    { "text": { "ur": "وہ رات گزارتے ہیں", "en": "they spend the night" } },
+    { "text": { "ur": "وہ گھر بناتے ہیں", "en": "they build houses" } },
+    { "text": { "ur": "وہ سوتے ہیں", "en": "they sleep" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "ی + بیت (رات گزارنا) + ون: وہ سب رات گزارتے ہیں۔", "en": "ی + بيت (spend the night) + ون: they spend the night." }
+  },
+  {
+   "id": "u4-l4-q2",
+   "type": "mcq",
+   "prompt": { "ur": "لِرَبِّهِمْ میں ل کا کیا معنی ہے؟", "en": "What does the ل in لِرَبِّهِمْ mean?" },
+   "options": [
+    { "text": { "ur": "کے لیے", "en": "for" } },
+    { "text": { "ur": "یقیناً", "en": "surely" } },
+    { "text": { "ur": "نہیں", "en": "not" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "لِرَبِّهِمْ — اپنے رب کے لیے: یہاں ل ”کے لیے“ ہے۔", "en": "لِرَبِّهِمْ — for their Lord: here ل means “for”." }
+  },
+  {
+   "id": "u4-l4-q3",
+   "type": "mcq",
+   "prompt": { "ur": "سُجَّدًا وَّقِيَامًا کا کیا مطلب ہے؟", "en": "What does سُجَّدًا وَّقِيَامًا mean?" },
+   "options": [
+    { "text": { "ur": "سجدے اور قیام کی حالت میں", "en": "prostrating and standing" } },
+    { "text": { "ur": "سوتے اور جاگتے", "en": "sleeping and waking" } },
+    { "text": { "ur": "چلتے پھرتے", "en": "walking about" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "سُجَّدًا — سجدے کی حالت میں، قِيَامًا — قیام کی حالت میں۔", "en": "سُجَّدًا — in prostration, قِيَامًا — standing." }
+  }
+ ]
+}

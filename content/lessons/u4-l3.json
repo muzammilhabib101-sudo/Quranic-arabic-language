@@ -1,0 +1,226 @@
+{
+ "id": "u4-l3",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الفرقان کی آیت ۶۳ کو لفظ بہ لفظ سمجھیں — رحمٰن کے بندوں کی پہلی صفت — اور سیکھیں: عِبَاد (عبد کی جمع)، يَمْشُوْنَ، اور إِذَا — جو ماضی سے پہلے آ کر اسے مضارع کے معنی میں بدل دیتا ہے۔",
+  "en": "Understand Al-Furqan 25:63 word by word — the first quality of the servants of the Most Merciful — and learn: عِبَاد (plural of عبد), يَمْشُوْنَ, and إِذَا — which turns a past verb after it into a present meaning."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "إِذَا اور ماضی", "en": "إِذَا with the past" },
+   "body": {
+    "ur": "إِذَا (جب) فعلِ ماضی سے پہلے آ جائے تو ترجمہ فعلِ مضارع میں کرتے ہیں: خَاطَبَهُمْ — اس نے ان سے خطاب کیا؛ إِذَا خَاطَبَهُمْ — جب ان سے خطاب کرتے ہیں۔",
+    "en": "When إِذَا (when) comes before a past verb, we translate it in the present: خَاطَبَهُمْ — addressed them; إِذَا خَاطَبَهُمْ — when they address them."
+   }
+  },
+  {
+   "title": { "ur": "عِبَادُ الرَّحْمٰن", "en": "عِبَادُ الرَّحْمٰن" },
+   "body": {
+    "ur": "عِبَاد، عَبْد کی جمع ہے، جس کے معنی ہیں بندہ، غلام۔ عِبَادُ الرَّحْمٰنِ — رحمٰن کے بندے (اضافت)۔",
+    "en": "عِبَاد is the plural of عَبْد, servant. عِبَادُ الرَّحْمٰنِ — the servants of the Most Merciful (idafa)."
+   }
+  }
+ ],
+ "verse": { "surah": 25, "ayah": 63 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "اور بندے", "en": "and the servants" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "عِبَاد", "role": "noun", "label": { "ur": "بندے (عبد کی جمع)", "en": "servants" } }
+   ],
+   "why": { "ur": "عِبَاد — عبد کی جمع، جس کے معنی ہیں بندہ، غلام۔", "en": "عِبَاد — plural of عبد, meaning servant." }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "رحمٰن کے", "en": "of the Most Merciful" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "رَحْمٰن", "role": "noun", "label": { "ur": "جوش سے رحم کرنے والا", "en": "overflowing in mercy" } }
+   ],
+   "pattern": "فَعْلَان",
+   "patternMeaning": {
+    "ur": "جوش، قوت؛ حدود سے باہر نکل آنا",
+    "en": "force; overflowing beyond limits"
+   },
+   "why": {
+    "ur": "الرَّحْمٰن — وزن فَعْلَان پر (بسم اللہ کے سبق میں پڑھا): ایسا رحم کرنے والا جس کا رحم جوش سے امڈ آتا ہے۔ عِبَادُ الرَّحْمٰنِ — رحمٰن کے بندے۔",
+    "en": "الرَّحْمٰن — on the pattern فَعْلَان (as in the Bismillah lesson): the One whose mercy surges out. عِبَادُ الرَّحْمٰنِ — the servants of the Most Merciful."
+   }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "وہ ہیں جو", "en": "are those who" },
+   "parts": [{ "text": "الَّذِيْنَ", "role": "noun", "label": { "ur": "جو اشخاص", "en": "those who" } }],
+   "why": { "ur": "الَّذِيْنَ — جو اشخاص۔", "en": "الَّذِيْنَ — those who." }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "چلتے ہیں", "en": "walk" },
+   "parts": [
+    { "text": "يَ", "role": "particle", "label": { "ur": "فعلِ مضارع کی علامت", "en": "present-tense sign" } },
+    { "text": "مْشُ", "role": "verb", "label": { "ur": "چلنا", "en": "walk" } },
+    { "text": "وْنَ", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ی + مش + ون۔ مَشٰى — وہ چلا، يَمْشِيْ — وہ چلتا ہے یا چلے گا، يَمْشُوْنَ — وہ سب چلتے ہیں یا چلیں گے۔ اردو میں: معاش — بری معاش والا یعنی بدمعاش (برے چال چلن والا)۔",
+    "en": "ی + مش + ون. مَشٰى — he walked, يَمْشِيْ — he walks, يَمْشُوْنَ — they walk. Urdu بدمعاش (a person of bad conduct) is related."
+   }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "پر", "en": "on" },
+   "parts": [{ "text": "عَلٰى", "role": "particle", "label": { "ur": "پر، اوپر", "en": "on" } }],
+   "why": { "ur": "عَلٰى — پر، اوپر۔", "en": "عَلٰى — on." }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "زمین", "en": "the earth" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "خاص", "en": "the" } },
+    { "text": "أَرْض", "role": "noun", "label": { "ur": "زمین", "en": "earth" } }
+   ],
+   "why": { "ur": "الْأَرْض — زمین۔", "en": "الْأَرْض — the earth." }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "نرم چال سے", "en": "gently" },
+   "parts": [{ "text": "هَوْن", "role": "noun", "label": { "ur": "ہولے ہولے، نرمی", "en": "gently, humbly" } }],
+   "why": {
+    "ur": "هَوْنًا — ہولے ہولے، نرمی، سکون، وقار، حیا۔ وَعِبَادُ الرَّحْمٰنِ الَّذِيْنَ يَمْشُوْنَ عَلَى الْأَرْضِ هَوْنًا — اور رحمٰن کے بندے وہ ہیں جو زمین پر نرم چال چلتے ہیں۔",
+    "en": "هَوْنًا — gently, softly, calmly, with dignity and modesty. وَعِبَادُ الرَّحْمٰنِ الَّذِيْنَ يَمْشُوْنَ عَلَى الْأَرْضِ هَوْنًا — and the servants of the Most Merciful are those who walk on the earth gently."
+   }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "اور جب", "en": "and when" },
+   "parts": [
+    { "text": "وَ", "role": "particle", "label": { "ur": "اور", "en": "and" } },
+    { "text": "إِذَا", "role": "noun", "label": { "ur": "جب", "en": "when" } }
+   ],
+   "why": {
+    "ur": "إِذَا — جب۔ فعلِ ماضی سے پہلے آ جائے تو ترجمہ فعلِ مضارع میں کرتے ہیں۔",
+    "en": "إِذَا — when. Before a past verb, it is translated in the present."
+   }
+  },
+  {
+   "position": 9,
+   "meaning": { "ur": "ان سے بات کرتے ہیں", "en": "address them" },
+   "parts": [
+    { "text": "خَاطَبَ", "role": "verb", "label": { "ur": "خطاب کیا", "en": "addressed" } },
+    { "text": "هُمُ", "role": "noun", "label": { "ur": "ان سب سے", "en": "them" } }
+   ],
+   "why": {
+    "ur": "خاطب + ہم: خطاب کیا ان سب سے (خطاب اردو میں مستعمل)۔ إِذَا کی وجہ سے مضارع میں ترجمہ کریں گے: جب ان سے خطاب کرتے ہیں یا گفتگو کرتے ہیں۔",
+    "en": "خاطب + هم: addressed them (Urdu خطاب). Because of إِذَا we translate it in the present: when they address them, speak to them."
+   }
+  },
+  {
+   "position": 10,
+   "meaning": { "ur": "جاہل", "en": "the ignorant" },
+   "parts": [
+    { "text": "ال", "role": "particle", "label": { "ur": "اسمِ معرفہ", "en": "the" } },
+    { "text": "جَاهِل", "role": "noun", "label": { "ur": "جاہل", "en": "ignorant" } },
+    { "text": "وْنَ", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "pattern": "فَاعِل",
+   "patternMeaning": { "ur": "کام کرنے والا", "en": "the one who does the action" },
+   "why": {
+    "ur": "ال + جاہل + ون: حقیقی جاہل (جاہل اردو میں مستعمل)۔",
+    "en": "ال + جاهل + ون: the truly ignorant (Urdu جاہل)."
+   }
+  },
+  {
+   "position": 11,
+   "meaning": { "ur": "وہ کہتے ہیں", "en": "they say" },
+   "parts": [
+    { "text": "قَالَ", "role": "verb", "label": { "ur": "کہا (ماضی)", "en": "said (past)" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "علامتِ جمع", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "قال + وا: ماضی — انہوں نے کہا؛ لیکن إِذَا کی وجہ سے ترجمہ کریں گے: وہ کہتے ہیں۔",
+    "en": "قال + وا: past — they said; but because of إِذَا we translate: they say."
+   }
+  },
+  {
+   "position": 12,
+   "meaning": { "ur": "سلام", "en": "peace" },
+   "parts": [{ "text": "سَلَام", "role": "noun", "label": { "ur": "سلامتی کی بات", "en": "peace" } }],
+   "why": {
+    "ur": "سَلَامًا — سلام کرنا، سلامتی کی بات کہنا؛ ساتھ سلام کرنا یعنی بات ختم کرنا۔ وَإِذَا خَاطَبَهُمُ الْجٰهِلُوْنَ قَالُوْا سَلَامًا — اور جاہل ان کے منہ آئیں تو انہیں سلام کہتے ہیں۔",
+    "en": "سَلَامًا — saying peace, a word of peace; parting with a greeting, ending the matter. وَإِذَا خَاطَبَهُمُ الْجٰهِلُوْنَ قَالُوْا سَلَامًا — and when the ignorant address them, they say: peace."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2], "role": "noun", "label": { "ur": "اور رحمٰن کے بندے", "en": "and the servants of the Most Merciful" } },
+   { "words": [3, 4, 5, 6, 7], "role": "verb", "label": { "ur": "وہ ہیں جو زمین پر نرم چال چلتے ہیں", "en": "walk on the earth gently" } },
+   { "words": [8, 9, 10], "role": "verb", "label": { "ur": "اور جب جاہل ان سے الجھیں", "en": "and when the ignorant address them" } },
+   { "words": [11, 12], "role": "verb", "label": { "ur": "تو سلام کہہ کر الگ ہو جاتے ہیں", "en": "they say: peace" } }
+  ],
+  "plain": {
+   "ur": "اور رحمٰن کے بندے وہ ہیں جو زمین پر نرم چال چلتے ہیں، اور جب جاہل ان سے مخاطب ہوں تو انہیں سلام کر کے رخصت ہو جاتے ہیں۔ آیت میں دو صفات ہیں: عاجزی سے چلنا، اور جاہلوں سے الجھنے کی بجائے سلامتی کی بات کہہ کر الگ ہو جانا۔",
+   "en": "And the servants of the Most Merciful are those who walk on the earth gently, and when the ignorant address them, they say “peace” and move on. Two qualities: walking humbly, and parting with a word of peace instead of arguing with the ignorant."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "إِذَا فعلِ ماضی سے پہلے آئے تو ترجمہ مضارع میں: إِذَا خَاطَبَهُمْ — جب ان سے بات کرتے ہیں؛ قَالُوْا — وہ کہتے ہیں۔",
+   "en": "إِذَا before a past verb is translated in the present: إِذَا خَاطَبَهُمْ — when they address them; قَالُوْا — they say."
+  },
+  "points": [
+   { "ur": "عِبَاد — عَبْد کی جمع: بندے۔", "en": "عِبَاد — plural of عَبْد: servants." },
+   { "ur": "مَشٰى، يَمْشِيْ، يَمْشُوْنَ — چلا، چلتا ہے، وہ سب چلتے ہیں۔", "en": "مَشٰى, يَمْشِيْ, يَمْشُوْنَ — walked, walks, they walk." },
+   { "ur": "هَوْنًا — نرمی سے، وقار سے۔", "en": "هَوْنًا — gently, with dignity." }
+  ]
+ },
+ "check": [
+  {
+   "id": "u4-l3-q1",
+   "type": "mcq",
+   "prompt": { "ur": "إِذَا خَاطَبَهُمْ کا ترجمہ مضارع میں کیوں ہوتا ہے؟", "en": "Why is إِذَا خَاطَبَهُمْ translated in the present?" },
+   "options": [
+    { "text": { "ur": "إِذَا ماضی سے پہلے آئے تو مضارع کا معنی دیتا ہے", "en": "إِذَا before a past verb gives a present meaning" } },
+    { "text": { "ur": "خَاطَبَ مضارع ہے", "en": "خَاطَبَ is present tense" } },
+    { "text": { "ur": "یہ حکم ہے", "en": "It is a command" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "خَاطَبَ ماضی ہے، مگر إِذَا کی وجہ سے ترجمہ مضارع میں: جب ان سے بات کرتے ہیں۔", "en": "خَاطَبَ is past, but because of إِذَا it is translated in the present: when they address them." }
+  },
+  {
+   "id": "u4-l3-q2",
+   "type": "mcq",
+   "prompt": { "ur": "عِبَاد کس لفظ کی جمع ہے؟", "en": "عِبَاد is the plural of which word?" },
+   "arabic": "عِبَاد",
+   "options": [{ "ar": "عَبْد" }, { "ar": "عَمَل" }, { "ar": "عِلْم" }],
+   "answer": 0,
+   "explanation": { "ur": "عِبَاد، عَبْد (بندہ) کی جمع ہے۔", "en": "عِبَاد is the plural of عَبْد (servant)." }
+  },
+  {
+   "id": "u4-l3-q3",
+   "type": "mcq",
+   "prompt": { "ur": "يَمْشُوْنَ کا کیا مطلب ہے؟", "en": "What does يَمْشُوْنَ mean?" },
+   "options": [
+    { "text": { "ur": "وہ سب چلتے ہیں", "en": "they walk" } },
+    { "text": { "ur": "وہ چلا", "en": "he walked" } },
+    { "text": { "ur": "تم چلو", "en": "walk!" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "ی (مضارع) + مش (چلنا) + ون (جمع): وہ سب چلتے ہیں۔", "en": "ی (present) + مش (walk) + ون (plural): they walk." }
+  },
+  {
+   "id": "u4-l3-q4",
+   "type": "mcq",
+   "prompt": { "ur": "جاہلوں کے جواب میں رحمٰن کے بندے کیا کہتے ہیں؟", "en": "What do the servants of the Most Merciful say to the ignorant?" },
+   "options": [
+    { "text": { "ur": "سَلَامًا — سلامتی کی بات", "en": "سَلَامًا — peace" } },
+    { "text": { "ur": "وہ بھی سخت بات کہتے ہیں", "en": "something harsh back" } },
+    { "text": { "ur": "کچھ نہیں کہتے", "en": "nothing at all" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "قَالُوْا سَلَامًا — وہ سلام کہہ کر بات ختم کر دیتے ہیں۔", "en": "قَالُوْا سَلَامًا — they say “peace” and end the matter." }
+  }
+ ]
+}

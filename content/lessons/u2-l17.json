@@ -1,0 +1,289 @@
+{
+ "id": "u2-l17",
+ "status": "draft",
+ "goal": {
+  "ur": "سورۃ الحجرات کی سترہویں آیت کو لفظ بہ لفظ سمجھیں — اسلام کا احسان کس کا ہے — اور سیکھیں: مَنّ (احسان جتانا)، عَلَى کے ساتھ ضمیریں (عَلَيْكَ، عَلَيَّ، عَلَيْكُمْ)، بَلْ (بلکہ)، اور إِنْ كُنْتُمْ (اگر تم ہو)۔",
+  "en": "Understand the seventeenth verse of Surah Al-Hujurat word by word — whose favour is Islam — and learn: مَنّ (to count something as a favour), عَلَى with pronouns (عَلَيْكَ, عَلَيَّ, عَلَيْكُمْ), بَلْ (rather), and إِنْ كُنْتُمْ (if you are)."
+ },
+ "concepts": [
+  {
+   "title": { "ur": "مَنّ — احسان جتانا", "en": "مَنّ — reminding of a favour" },
+   "body": {
+    "ur": "مَنّ — احسان جتانا: ”اپنے صدقات و خیرات کو مَنّ و احسان کے ساتھ ضائع نہ کرو“۔ يَمُنُّوْنَ — وہ سب احسان جتاتے ہیں۔",
+    "en": "مَنّ — counting something as a favour to others: “do not spoil your charity by reminding people of it”. يَمُنُّوْنَ — they count it as a favour."
+   }
+  },
+  {
+   "title": { "ur": "عَلَى + ضمیر", "en": "عَلَى with a pronoun" },
+   "body": {
+    "ur": "عَلَيْكَ — آپ پر، عَلَيْكُمْ — تم سب پر، عَلَيَّ — مجھ پر (دو ی شد کے ذریعے اکٹھی کی گئیں)۔",
+    "en": "عَلَيْكَ — on you, عَلَيْكُمْ — on you all, عَلَيَّ — on me (two ی joined with a shadda)."
+   }
+  }
+ ],
+ "verse": { "surah": 49, "ayah": 17 },
+ "words": [
+  {
+   "position": 1,
+   "meaning": { "ur": "وہ احسان جتاتے ہیں", "en": "they count it a favour" },
+   "parts": [
+    { "text": "يَ", "role": "particle", "label": { "ur": "مضارع کی علامت", "en": "present-tense sign" } },
+    { "text": "مُنُّ", "role": "verb", "label": { "ur": "احسان جتانا", "en": "count as a favour" } },
+    { "text": "وْنَ", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "ی + منّ + ون۔ مَنّ — احسان جتایا: ”اپنے صدقات و خیرات کو مَنّ و احسان کے ساتھ ضائع نہ کرو“۔ يَمُنُّ — وہ احسان جتاتا ہے، يَمُنُّوْنَ — وہ سب احسان جتاتے ہیں۔",
+    "en": "ی + منّ + ون. مَنّ — reminding someone of a favour: “do not spoil your charity with مَنّ”. يَمُنُّ — he counts it a favour, يَمُنُّوْنَ — they count it a favour."
+   }
+  },
+  {
+   "position": 2,
+   "meaning": { "ur": "آپ پر", "en": "upon you" },
+   "parts": [
+    { "text": "عَلٰى", "role": "particle", "label": { "ur": "پر", "en": "on" } },
+    { "text": "كَ", "role": "noun", "label": { "ur": "آپ", "en": "you" } }
+   ],
+   "why": { "ur": "علی + ک: آپ پر۔", "en": "على + ك: upon you." }
+  },
+  {
+   "position": 3,
+   "meaning": { "ur": "کہ", "en": "that" },
+   "parts": [{ "text": "أَنْ", "role": "particle", "label": { "ur": "کہ", "en": "that" } }],
+   "why": { "ur": "أَنْ — کہ۔", "en": "أَنْ — that." }
+  },
+  {
+   "position": 4,
+   "meaning": { "ur": "وہ اسلام لائے", "en": "they submitted" },
+   "parts": [
+    { "text": "أَسْلَمُ", "role": "verb", "label": { "ur": "مسلمان ہوا", "en": "submitted" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": {
+    "ur": "اسلم + وا: وہ سب مسلمان ہوئے۔ يَمُنُّوْنَ عَلَيْكَ أَنْ أَسْلَمُوْا — وہ آپ پر اپنے قبولِ اسلام کا احسان جتلاتے ہیں۔",
+    "en": "أسلم + وا: they became Muslim. يَمُنُّوْنَ عَلَيْكَ أَنْ أَسْلَمُوْا — they count it as a favour to you that they have submitted."
+   }
+  },
+  {
+   "position": 5,
+   "meaning": { "ur": "کہہ دیجیے", "en": "say" },
+   "parts": [{ "text": "قُلْ", "role": "verb", "label": { "ur": "کہہ دیجیے (امر)", "en": "say (command)" } }],
+   "why": { "ur": "قُلْ — کہہ دیجیے؛ آخری حرف پر جزم (سکون) — فعلِ امر۔", "en": "قُلْ — say; the sukun on the last letter marks a command." }
+  },
+  {
+   "position": 6,
+   "meaning": { "ur": "نہ", "en": "do not" },
+   "parts": [{ "text": "لَا", "role": "particle", "label": { "ur": "نہ", "en": "do not" } }],
+   "why": { "ur": "لَا — نہ (منع)۔", "en": "لَا — do not." }
+  },
+  {
+   "position": 7,
+   "meaning": { "ur": "تم احسان جتاؤ", "en": "count as a favour" },
+   "parts": [
+    { "text": "تَ", "role": "particle", "label": { "ur": "مضارع کی علامت (تم)", "en": "present (you)" } },
+    { "text": "مُنُّ", "role": "verb", "label": { "ur": "احسان جتانا", "en": "count as a favour" } },
+    { "text": "وا", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "why": { "ur": "ت + منّ + وا: تم احسان جتاؤ؛ لَا تَمُنُّوْا — احسان نہ جتاؤ۔", "en": "ت + منّ + وا: you count it a favour; لَا تَمُنُّوْا — do not count it a favour." }
+  },
+  {
+   "position": 8,
+   "meaning": { "ur": "مجھ پر", "en": "upon me" },
+   "parts": [
+    { "text": "عَلٰى", "role": "particle", "label": { "ur": "پر", "en": "on" } },
+    { "text": "يَّ", "role": "noun", "label": { "ur": "مجھ (متکلم)", "en": "me" } }
+   ],
+   "why": {
+    "ur": "علی + ی (متکلم مفرد): مجھ پر۔ دو ی شد کے ذریعے اکٹھی کی گئیں: عَلَيَّ۔",
+    "en": "على + ي (first person): upon me. The two ی are joined with a shadda: عَلَيَّ."
+   }
+  },
+  {
+   "position": 9,
+   "meaning": { "ur": "اپنے اسلام کا", "en": "your Islam" },
+   "parts": [
+    { "text": "إِسْلَامَ", "role": "noun", "label": { "ur": "اسلام", "en": "Islam" } },
+    { "text": "كُمْ", "role": "noun", "label": { "ur": "تمہارا", "en": "your" } }
+   ],
+   "why": {
+    "ur": "اسلام + كُم: اپنے اسلام کا۔ قُلْ لَّا تَمُنُّوْا عَلَيَّ إِسْلَامَكُمْ — کہہ دیجیے کہ تم اپنے اسلام کا احسان مجھ پر نہ رکھو۔",
+    "en": "إسلام + كُم: your Islam. قُلْ لَّا تَمُنُّوْا عَلَيَّ إِسْلَامَكُمْ — say: do not count your Islam as a favour to me."
+   }
+  },
+  {
+   "position": 10,
+   "meaning": { "ur": "بلکہ", "en": "rather" },
+   "parts": [{ "text": "بَلْ", "role": "particle", "label": { "ur": "بلکہ", "en": "rather" } }],
+   "why": { "ur": "بَلْ — بلکہ۔", "en": "بَلْ — rather, but." }
+  },
+  {
+   "position": 11,
+   "meaning": { "ur": "اللہ", "en": "Allah" },
+   "parts": [{ "text": "اللّٰه", "role": "noun", "label": { "ur": "لفظِ جلالہ", "en": "Allah" } }],
+   "why": { "ur": "اللّٰه — اللہ۔", "en": "اللّٰه — Allah." }
+  },
+  {
+   "position": 12,
+   "meaning": { "ur": "احسان رکھتا ہے", "en": "confers a favour" },
+   "parts": [
+    { "text": "يَ", "role": "particle", "label": { "ur": "مضارع کی علامت", "en": "present-tense sign" } },
+    { "text": "مُنُّ", "role": "verb", "label": { "ur": "احسان کرنا", "en": "confer a favour" } }
+   ],
+   "why": { "ur": "يَمُنُّ — وہ احسان رکھتے ہیں۔", "en": "يَمُنُّ — He confers a favour." }
+  },
+  {
+   "position": 13,
+   "meaning": { "ur": "تم سب پر", "en": "upon you" },
+   "parts": [
+    { "text": "عَلٰى", "role": "particle", "label": { "ur": "پر", "en": "on" } },
+    { "text": "كُمْ", "role": "noun", "label": { "ur": "تم سب", "en": "you (all)" } }
+   ],
+   "why": { "ur": "عَلَيْكُمْ — تم سب پر۔", "en": "عَلَيْكُمْ — upon you all." }
+  },
+  {
+   "position": 14,
+   "meaning": { "ur": "کہ", "en": "that" },
+   "parts": [{ "text": "أَنْ", "role": "particle", "label": { "ur": "کہ", "en": "that" } }],
+   "why": { "ur": "أَنْ — کہ۔", "en": "أَنْ — that." }
+  },
+  {
+   "position": 15,
+   "meaning": { "ur": "اس نے تمہیں ہدایت دی", "en": "He guided you" },
+   "parts": [
+    { "text": "هَدٰى", "role": "verb", "label": { "ur": "ہدایت دی", "en": "guided" } },
+    { "text": "كُمْ", "role": "noun", "label": { "ur": "تم سب کو", "en": "you" } }
+   ],
+   "why": { "ur": "ہدیٰ + كُم: اس نے تمہیں ہدایت دی (ہدایت اردو میں مستعمل)۔", "en": "هدى + كُم: He guided you (Urdu ہدایت)." }
+  },
+  {
+   "position": 16,
+   "meaning": { "ur": "ایمان کے لیے", "en": "to faith" },
+   "parts": [
+    { "text": "لِلْ", "role": "particle", "label": { "ur": "کے لیے", "en": "for, to" } },
+    { "text": "إِيْمَان", "role": "noun", "label": { "ur": "ایمان", "en": "faith" } }
+   ],
+   "why": {
+    "ur": "لل + ایمان: ایمان کے لیے (دو لام اکٹھے — ”کے لیے“)۔ بَلِ اللّٰهُ يَمُنُّ عَلَيْكُمْ أَنْ هَدٰكُمْ لِلْإِيْمَانِ — بلکہ یہ تو اللہ کا احسان ہے کہ اس نے تمہیں ایمان کی ہدایت بخشی۔",
+    "en": "لل + إيمان: to faith (two lams together — “for, to”). بَلِ اللّٰهُ يَمُنُّ عَلَيْكُمْ أَنْ هَدٰكُمْ لِلْإِيْمَانِ — rather, it is Allah's favour upon you that He guided you to faith."
+   }
+  },
+  {
+   "position": 17,
+   "meaning": { "ur": "اگر", "en": "if" },
+   "parts": [{ "text": "إِنْ", "role": "particle", "label": { "ur": "اگر", "en": "if" } }],
+   "why": { "ur": "إِنْ — اگر۔", "en": "إِنْ — if." }
+  },
+  {
+   "position": 18,
+   "meaning": { "ur": "تم ہو", "en": "you are" },
+   "parts": [
+    { "text": "كُنْ", "role": "verb", "label": { "ur": "ہو", "en": "be" } },
+    { "text": "تُمْ", "role": "noun", "label": { "ur": "تم سب", "en": "you (all)" } }
+   ],
+   "why": { "ur": "کن + تم: تم سب ہو۔", "en": "كن + تم: you are." }
+  },
+  {
+   "position": 19,
+   "meaning": { "ur": "سچے", "en": "truthful" },
+   "parts": [
+    { "text": "صَادِق", "role": "noun", "label": { "ur": "سچا", "en": "truthful" } },
+    { "text": "يْنَ", "role": "noun", "label": { "ur": "جمع کی علامت", "en": "plural sign" } }
+   ],
+   "pattern": "فَاعِل",
+   "patternMeaning": { "ur": "کام کرنے والا", "en": "the one who does the action" },
+   "why": {
+    "ur": "صادق + ین: تم سب سچے۔ إِنْ كُنْتُمْ صَادِقِيْنَ — اگر تم اپنے دعوائے ایمانی میں سچے ہو۔",
+    "en": "صادق + ين: truthful (plural). إِنْ كُنْتُمْ صَادِقِيْنَ — if you are truthful in your claim of faith."
+   }
+  }
+ ],
+ "connect": {
+  "flow": [
+   { "words": [1, 2, 3, 4], "role": "verb", "label": { "ur": "وہ آپ پر اپنے اسلام کا احسان جتاتے ہیں", "en": "they count their Islam as a favour to you" } },
+   { "words": [5, 6, 7, 8, 9], "role": "verb", "label": { "ur": "کہہ دیجیے: مجھ پر اپنے اسلام کا احسان نہ جتاؤ", "en": "say: do not count your Islam a favour to me" } },
+   { "words": [10, 11, 12, 13], "role": "verb", "label": { "ur": "بلکہ اللہ کا تم پر احسان ہے", "en": "rather Allah has favoured you" } },
+   { "words": [14, 15, 16], "role": "verb", "label": { "ur": "کہ اس نے تمہیں ایمان کی ہدایت دی", "en": "by guiding you to faith" } },
+   { "words": [17, 18, 19], "role": "verb", "label": { "ur": "اگر تم سچے ہو", "en": "if you are truthful" } }
+  ],
+  "plain": {
+   "ur": "وہ لوگ آپ پر اپنے قبولِ اسلام کا احسان جتلاتے ہیں۔ ان سے کہہ دیجیے: اپنے اسلام کا احسان مجھ پر نہ رکھو، بلکہ یہ تو اللہ کا احسان ہے کہ اس نے تمہیں ایمان کی ہدایت بخشی — اگر تم اپنے دعوائے ایمانی میں سچے ہو۔ ایک ہی فعل مَنّ تین بار آیا: يَمُنُّوْنَ (وہ جتاتے ہیں)، لَا تَمُنُّوْا (نہ جتاؤ)، اور يَمُنُّ (اللہ احسان کرتا ہے) — یوں احسان کا رخ بدل گیا۔",
+   "en": "They count it as a favour to you that they have accepted Islam. Say: do not count your Islam a favour to me; rather it is Allah who has favoured you by guiding you to faith — if you are truthful. The same verb مَنّ comes three times: يَمُنُّوْنَ (they count it a favour), لَا تَمُنُّوْا (do not), and يَمُنُّ (Allah confers the favour) — turning the favour around."
+  }
+ },
+ "remember": {
+  "rule": {
+   "ur": "عَلَى + ضمیر: عَلَيْكَ (آپ پر)، عَلَيْكُمْ (تم سب پر)، عَلَيَّ (مجھ پر — دو ی شد سے)۔",
+   "en": "عَلَى + pronoun: عَلَيْكَ (on you), عَلَيْكُمْ (on you all), عَلَيَّ (on me — two ی with a shadda)."
+  },
+  "points": [
+   {
+    "ur": "مَنّ — احسان جتانا: يَمُنُّوْنَ، لَا تَمُنُّوْا، يَمُنُّ۔",
+    "en": "مَنّ — counting as a favour: يَمُنُّوْنَ, لَا تَمُنُّوْا, يَمُنُّ."
+   },
+   {
+    "ur": "بَلْ — بلکہ۔",
+    "en": "بَلْ — rather."
+   },
+   {
+    "ur": "إِنْ كُنْتُمْ صَادِقِيْنَ — اگر تم سچے ہو (كُنْ + تُمْ)۔",
+    "en": "إِنْ كُنْتُمْ صَادِقِيْنَ — if you are truthful (كُنْ + تُمْ)."
+   }
+  ]
+ },
+ "check": [
+  {
+   "id": "u2-l17-q1",
+   "type": "mcq",
+   "prompt": { "ur": "يَمُنُّوْنَ کا کیا مطلب ہے؟", "en": "What does يَمُنُّوْنَ mean?" },
+   "options": [
+    { "text": { "ur": "وہ احسان جتاتے ہیں", "en": "they count it as a favour" } },
+    { "text": { "ur": "وہ ایمان لاتے ہیں", "en": "they believe" } },
+    { "text": { "ur": "وہ سکھاتے ہیں", "en": "they teach" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "ی + منّ (احسان جتانا) + ون: وہ سب احسان جتاتے ہیں۔", "en": "ی + منّ (count as a favour) + ون: they count it as a favour." }
+  },
+  {
+   "id": "u2-l17-q2",
+   "type": "mcq",
+   "prompt": { "ur": "عَلَيَّ کا کیا مطلب ہے؟", "en": "What does عَلَيَّ mean?" },
+   "options": [
+    { "text": { "ur": "مجھ پر", "en": "upon me" } },
+    { "text": { "ur": "آپ پر", "en": "upon you" } },
+    { "text": { "ur": "ان پر", "en": "upon them" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "علی + ی (متکلم): مجھ پر؛ دو ی شد سے اکٹھی ہوئیں۔ آپ پر — عَلَيْكَ۔",
+    "en": "على + ي (first person): upon me; the two ی join with a shadda. “Upon you” is عَلَيْكَ."
+   }
+  },
+  {
+   "id": "u2-l17-q3",
+   "type": "mcq",
+   "prompt": { "ur": "بَلْ کا کیا معنی ہے؟", "en": "What does بَلْ mean?" },
+   "arabic": "بَلْ",
+   "options": [
+    { "text": { "ur": "بلکہ", "en": "rather" } },
+    { "text": { "ur": "اگر", "en": "if" } },
+    { "text": { "ur": "پھر", "en": "then" } }
+   ],
+   "answer": 0,
+   "explanation": { "ur": "بَلْ — بلکہ۔ اگر — إِنْ، پھر — ثُمَّ۔", "en": "بَلْ — rather. “If” is إِنْ, “then” is ثُمَّ." }
+  },
+  {
+   "id": "u2-l17-q4",
+   "type": "mcq",
+   "prompt": { "ur": "آیت کے مطابق اصل احسان کس کا ہے؟", "en": "According to the verse, whose favour is it really?" },
+   "options": [
+    { "text": { "ur": "اللہ کا، کہ اس نے ایمان کی ہدایت دی", "en": "Allah's, for guiding them to faith" } },
+    { "text": { "ur": "ان لوگوں کا، کہ وہ اسلام لائے", "en": "theirs, for accepting Islam" } },
+    { "text": { "ur": "کسی کا نہیں", "en": "no one's" } }
+   ],
+   "answer": 0,
+   "explanation": {
+    "ur": "بَلِ اللّٰهُ يَمُنُّ عَلَيْكُمْ أَنْ هَدٰكُمْ لِلْإِيْمَانِ — بلکہ اللہ کا احسان ہے کہ اس نے تمہیں ایمان کی ہدایت دی۔",
+    "en": "بَلِ اللّٰهُ يَمُنُّ عَلَيْكُمْ أَنْ هَدٰكُمْ لِلْإِيْمَانِ — rather, Allah has favoured you by guiding you to faith."
+   }
+  }
+ ]
+}
