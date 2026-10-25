@@ -25,6 +25,7 @@
   },
   "home": {
     "greeting": "Assalamu alaikum",
+    "contentCredit": "Content credit: {name}",
     "intro": "Learn the Arabic of the Quran one word at a time — its roots, patterns and meanings, explained simply.",
     "start": "Start the course",
     "continueTitle": "Continue learning",
@@ -454,6 +455,7 @@
       "software": "Software"
     },
     "items": {
+      "contentAuthor": "All the course content on this site — the lessons and their explanations — is credited to Mr M.Arham Elqi.",
       "course": "The lessons follow an Urdu PowerPoint course on Quranic Arabic (521 slides). The original slides are shown with every lesson. The text lessons were written from these slides and are drafts until a teacher has checked them.",
       "kfgqpc": "The verses are shown in the Madinah Mushaf (Hafs) text of the King Fahd Glorious Quran Printing Complex, obtained through the Quran.com API. The text is never altered.",
       "tanzil": "Tanzil Quran Text (Uthmani), Copyright © 2007–2024 Tanzil Project, License: Creative Commons Attribution 3.0. Used as the reference text for search and for checking every verse.",

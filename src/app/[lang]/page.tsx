@@ -1,10 +1,13 @@
+import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Barbell, BookOpenText, ChartLineUp } from "@phosphor-icons/react/ssr";
 import Dashboard from "@/components/Dashboard";
 import Mixed from "@/components/Mixed";
 import { courseIndex } from "@/content/course";
+import { CONTENT_AUTHOR } from "@/content/credits";
 import { hasLocale } from "@/i18n/config";
 import { getDictionary } from "@/i18n/dictionaries";
+import { fill } from "@/i18n/format";
 
 const features = [
   { key: "learn", Icon: BookOpenText },
@@ -24,6 +27,12 @@ export default async function HomePage({ params }: PageProps<"/[lang]">) {
         <p className="mb-1 text-accent">{t.greeting}</p>
         <h1 className="mb-2 text-3xl font-bold md:text-4xl">{dict.site.tagline}</h1>
         <p className="max-w-2xl text-lg text-muted">{t.intro}</p>
+        <Link
+          href={`/${lang}/credits/`}
+          className="mt-3 inline-flex min-h-11 items-center rounded-full border border-border bg-surface px-4 text-sm text-muted hover:text-accent"
+        >
+          {fill(t.contentCredit, lang, { name: CONTENT_AUTHOR })}
+        </Link>
       </header>
 
       <Dashboard lang={lang} index={courseIndex(lang)} t={t} />

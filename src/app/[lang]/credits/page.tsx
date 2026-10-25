@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
+import { CONTENT_AUTHOR } from "@/content/credits";
 import { hasLocale } from "@/i18n/config";
 import { getDictionary, type Dictionary } from "@/i18n/dictionaries";
 import { fill } from "@/i18n/format";
@@ -10,7 +11,7 @@ type Source = { name?: string; url?: string; item: ItemKey };
 // Names stay as their owners write them; the descriptions are translated.
 // Keep in step with content/quran/SOURCES.md.
 const SECTIONS: { key: keyof Dictionary["credits"]["sections"]; sources: Source[] }[] = [
-  { key: "course", sources: [{ item: "course" }] },
+  { key: "course", sources: [{ name: CONTENT_AUTHOR, item: "contentAuthor" }, { item: "course" }] },
   {
     key: "quran",
     sources: [
