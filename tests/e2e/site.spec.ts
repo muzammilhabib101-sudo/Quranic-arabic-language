@@ -1,5 +1,5 @@
 import { expect, test } from "@playwright/test";
-import { readJson, watchErrors } from "./helpers";
+import { playPractice, readJson, watchErrors } from "./helpers";
 
 type CourseMap = { lessons: { id: string; sourceSlides: { from: number; to: number } }[] };
 const map = readJson<CourseMap>("content/course-map.json");
@@ -75,4 +75,17 @@ test("a practice link can open on one exercise", async ({ page }) => {
   await page.goto("/ur/practice/lesson/u2-l2/?word=49:2:5&type=match");
   await expect(page.getByText(/پہلے لفظ پر ٹیپ/)).toBeVisible();
   await expect(page.locator("main")).toContainText("تم سب بلند کرو");
+});
+
+test("a finished practice set leads on to the next lesson's practice", async ({ page }) => {
+  await page.goto("/ur/practice/lesson/u2-l2/");
+  await playPractice(page);
+  await expect(page.getByRole("button", { name: "دوبارہ مشق کریں" })).toBeVisible();
+  await page.getByRole("link", { name: /اگلے سبق کی مشق کریں/ }).click();
+  await expect(page).toHaveURL(/\/ur\/practice\/lesson\/u2-l3\/$/);
+
+  // The last lesson of the course has nothing after it.
+  await page.goto("/ur/practice/lesson/u4-l17/");
+  await playPractice(page);
+  await expect(page.getByRole("link", { name: /اگلے سبق کی مشق کریں/ })).toHaveCount(0);
 });

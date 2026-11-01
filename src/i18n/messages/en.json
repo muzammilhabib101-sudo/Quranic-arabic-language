@@ -253,6 +253,8 @@
     "doneBody": "You got {right} of {total} right on the first try.",
     "doneReview": "The words are now scheduled for review — they will come back when it's time.",
     "practiseAgain": "Practise again",
+    "nextLesson": "Practise the next lesson",
+    "nextUnit": "Review the next unit",
     "backToPractice": "Back to practice",
     "emptyReview": "Nothing to review right now. Come back later, or practise a lesson.",
     "types": {

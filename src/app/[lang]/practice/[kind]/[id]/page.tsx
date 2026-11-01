@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import PracticeSession, { type SessionKind } from "@/components/practice/PracticeSession";
-import { getLesson, getUnit, lessons, t as tx, units } from "@/content/course";
+import { getLesson, getUnit, lessons, nextLesson, t as tx, units } from "@/content/course";
 import { hasLocale, type Locale } from "@/i18n/config";
 import { getDictionary, type Dictionary } from "@/i18n/dictionaries";
 import { EXERCISE_TYPES, type ExerciseType } from "@/lib/practice/types";
@@ -33,6 +33,19 @@ function titleOf(kind: string, id: string, lang: Locale, t: Dictionary["practice
   return null;
 }
 
+/** Where the "next" button on the finished screen leads: the next lesson's or unit's practice. */
+function nextOf(kind: string, id: string, lang: Locale, t: Dictionary["practice"]) {
+  if (kind === "lesson") {
+    const l = nextLesson(id);
+    return l ? { href: `/${lang}/practice/lesson/${l.id}/`, label: t.nextLesson, title: tx(l.title, lang) } : null;
+  }
+  if (kind === "unit") {
+    const u = units[units.findIndex((x) => x.id === id) + 1];
+    return u ? { href: `/${lang}/practice/unit/${u.id}/`, label: t.nextUnit, title: tx(u.title, lang) } : null;
+  }
+  return null;
+}
+
 export async function generateMetadata({
   params,
 }: PageProps<"/[lang]/practice/[kind]/[id]">): Promise<Metadata> {
@@ -57,6 +70,7 @@ export default async function PracticeSessionPage({
       kind={kind as SessionKind}
       id={id}
       title={title}
+      next={nextOf(kind, id, lang, dict.practice)}
       t={dict.practice}
       roles={dict.home.roles}
     />

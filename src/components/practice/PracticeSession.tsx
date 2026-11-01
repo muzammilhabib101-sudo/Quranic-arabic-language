@@ -29,6 +29,8 @@ type Props = {
   kind: SessionKind;
   id: string;
   title: string;
+  /** The next lesson's or unit's practice, offered when this set is finished. */
+  next?: { href: string; label: string; title: string } | null;
   t: Dictionary["practice"];
   roles: Dictionary["home"]["roles"];
 };
@@ -121,7 +123,7 @@ function withFocus(items: Item[], pool: PracticeWord[], data: PracticeData, lang
   return [focus, ...items.filter((it) => !same(it))];
 }
 
-function Runner({ lang, kind, id, title, t, roles, data, onRestart }: Props & { data: PracticeData; onRestart: () => void }) {
+function Runner({ lang, kind, id, title, next: nextPractice, t, roles, data, onRestart }: Props & { data: PracticeData; onRestart: () => void }) {
   const [{ items, fallback }] = useState(() => plan(kind, id, data, lang));
   const [queue, setQueue] = useState(() => items.map((_, i) => i));
   const [pos, setPos] = useState(0);
@@ -209,8 +211,29 @@ function Runner({ lang, kind, id, title, t, roles, data, onRestart }: Props & { 
           <h2 className="text-2xl font-bold">{t.doneTitle}</h2>
           <p className="text-lg">{fill(t.doneBody, lang, { right, total: items.length })}</p>
           <p className="max-w-md text-muted">{t.doneReview}</p>
+          {/* Moving on is the main way forward; practising again stays one tap away. */}
+          {nextPractice && (
+            <Link
+              href={nextPractice.href}
+              className="inline-flex min-h-12 flex-col items-center justify-center rounded-xl bg-accent px-6 py-2 text-accent-ink hover:opacity-90"
+            >
+              <span className="flex items-center gap-2 font-semibold">
+                {nextPractice.label}
+                <ArrowRight size={20} weight="bold" className="rtl:rotate-180" aria-hidden />
+              </span>
+              <span className="text-sm">{nextPractice.title}</span>
+            </Link>
+          )}
           <div className="flex flex-wrap justify-center gap-3">
-            <button type="button" onClick={onRestart} className="min-h-12 rounded-xl bg-accent px-6 font-semibold text-accent-ink hover:opacity-90">
+            <button
+              type="button"
+              onClick={onRestart}
+              className={
+                nextPractice
+                  ? "min-h-12 rounded-xl border border-border px-5 hover:border-accent hover:text-accent"
+                  : "min-h-12 rounded-xl bg-accent px-6 font-semibold text-accent-ink hover:opacity-90"
+              }
+            >
               {t.practiseAgain}
             </button>
             <Link href={`/${lang}/practice/`} className="min-h-12 content-center rounded-xl border border-border px-5 hover:border-accent hover:text-accent">
