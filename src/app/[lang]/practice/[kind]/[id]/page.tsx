@@ -33,15 +33,27 @@ function titleOf(kind: string, id: string, lang: Locale, t: Dictionary["practice
   return null;
 }
 
-/** Where the "next" button on the finished screen leads: the next lesson's or unit's practice. */
+/**
+ * Where the "next" button on the finished screen leads, so every practice
+ * set has a way forward. Today's review is the exception: its next step
+ * depends on the learner's progress, so PracticeSession picks it.
+ */
 function nextOf(kind: string, id: string, lang: Locale, t: Dictionary["practice"]) {
   if (kind === "lesson") {
     const l = nextLesson(id);
-    return l ? { href: `/${lang}/practice/lesson/${l.id}/`, label: t.nextLesson, title: tx(l.title, lang) } : null;
+    if (l) return { href: `/${lang}/practice/lesson/${l.id}/`, label: t.nextLesson, title: tx(l.title, lang) };
+    // The last lesson of the course: review its unit.
+    const u = getUnit(getLesson(id)!.unitId)!;
+    return { href: `/${lang}/practice/unit/${u.id}/`, label: t.reviewUnit, title: tx(u.title, lang) };
   }
   if (kind === "unit") {
     const u = units[units.findIndex((x) => x.id === id) + 1];
-    return u ? { href: `/${lang}/practice/unit/${u.id}/`, label: t.nextUnit, title: tx(u.title, lang) } : null;
+    if (u) return { href: `/${lang}/practice/unit/${u.id}/`, label: t.nextUnit, title: tx(u.title, lang) };
+    return { href: `/${lang}/practice/review/today/`, label: t.startReview, title: t.today };
+  }
+  if (kind === "mode") {
+    const type = EXERCISE_TYPES[(EXERCISE_TYPES.indexOf(id as ExerciseType) + 1) % EXERCISE_TYPES.length];
+    return { href: `/${lang}/practice/mode/${type}/`, label: t.nextMode, title: t.types[type].name };
   }
   return null;
 }
@@ -71,6 +83,7 @@ export default async function PracticeSessionPage({
       id={id}
       title={title}
       next={nextOf(kind, id, lang, dict.practice)}
+      lessonTitles={kind === "review" ? Object.fromEntries(lessons.map((l) => [l.id, tx(l.title, lang)])) : undefined}
       t={dict.practice}
       roles={dict.home.roles}
     />

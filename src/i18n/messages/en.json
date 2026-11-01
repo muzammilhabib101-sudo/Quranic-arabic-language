@@ -255,6 +255,9 @@
     "practiseAgain": "Practise again",
     "nextLesson": "Practise the next lesson",
     "nextUnit": "Review the next unit",
+    "reviewUnit": "Review this unit",
+    "nextMode": "Practise the next type",
+    "yourLesson": "Practise your lesson",
     "backToPractice": "Back to practice",
     "emptyReview": "Nothing to review right now. Come back later, or practise a lesson.",
     "types": {

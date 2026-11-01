@@ -31,6 +31,8 @@ type Props = {
   title: string;
   /** The next lesson's or unit's practice, offered when this set is finished. */
   next?: { href: string; label: string; title: string } | null;
+  /** Lesson titles by id, for today's review to point at the learner's lesson. */
+  lessonTitles?: Record<string, string>;
   t: Dictionary["practice"];
   roles: Dictionary["home"]["roles"];
 };
@@ -123,7 +125,7 @@ function withFocus(items: Item[], pool: PracticeWord[], data: PracticeData, lang
   return [focus, ...items.filter((it) => !same(it))];
 }
 
-function Runner({ lang, kind, id, title, next: nextPractice, t, roles, data, onRestart }: Props & { data: PracticeData; onRestart: () => void }) {
+function Runner({ lang, kind, id, title, next: nextStep, lessonTitles, t, roles, data, onRestart }: Props & { data: PracticeData; onRestart: () => void }) {
   const [{ items, fallback }] = useState(() => plan(kind, id, data, lang));
   const [queue, setQueue] = useState(() => items.map((_, i) => i));
   const [pos, setPos] = useState(0);
@@ -133,6 +135,14 @@ function Runner({ lang, kind, id, title, next: nextPractice, t, roles, data, onR
   const answer = useStore((s) => s.answer);
   const rate = useStore((s) => s.rate);
   const finishPractice = useStore((s) => s.finishPractice);
+  const lastLesson = useStore((s) => s.lastLesson);
+  // After today's review, practise the lesson the learner is on (or the first one).
+  const ownLesson = lessonTitles && (lastLesson && lessonTitles[lastLesson] ? lastLesson : Object.keys(lessonTitles)[0]);
+  const nextPractice =
+    nextStep ??
+    (ownLesson
+      ? { href: `/${lang}/practice/lesson/${ownLesson}/`, label: t.yourLesson, title: lessonTitles![ownLesson] }
+      : null);
 
   const backHref = kind === "lesson" ? `/${lang}/lesson/${id}/` : `/${lang}/practice/`;
 

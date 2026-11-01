@@ -44,10 +44,11 @@ test("every slide page and image is published", async ({ request }) => {
 });
 
 test("slides move with the arrow keys (mirrored in Urdu)", async ({ page }) => {
-  await page.goto("/ur/slides/1/");
+  // The key listener is attached after hydration, so wait for the page to settle.
+  await page.goto("/ur/slides/1/", { waitUntil: "networkidle" });
   await page.keyboard.press("ArrowLeft");
   await expect(page).toHaveURL(/\/ur\/slides\/2\/$/);
-  await page.goto("/en/slides/2/");
+  await page.goto("/en/slides/2/", { waitUntil: "networkidle" });
   await page.keyboard.press("ArrowLeft");
   await expect(page).toHaveURL(/\/en\/slides\/1\/$/);
 });
@@ -77,15 +78,44 @@ test("a practice link can open on one exercise", async ({ page }) => {
   await expect(page.locator("main")).toContainText("تم سب بلند کرو");
 });
 
-test("a finished practice set leads on to the next lesson's practice", async ({ page }) => {
-  await page.goto("/ur/practice/lesson/u2-l2/");
-  await playPractice(page);
-  await expect(page.getByRole("button", { name: "دوبارہ مشق کریں" })).toBeVisible();
-  await page.getByRole("link", { name: /اگلے سبق کی مشق کریں/ }).click();
-  await expect(page).toHaveURL(/\/ur\/practice\/lesson\/u2-l3\/$/);
+// Every practice set ends with a way forward, beside "practise again".
+const NEXT_STEPS: [string, RegExp, RegExp][] = [
+  ["/ur/practice/lesson/u2-l2/", /اگلے سبق کی مشق کریں/, /\/ur\/practice\/lesson\/u2-l3\/$/],
+  ["/ur/practice/lesson/u4-l17/", /اس یونٹ کی دہرائی کریں/, /\/ur\/practice\/unit\/u4\/$/],
+  ["/ur/practice/unit/u1/", /اگلے یونٹ کا جائزہ لیں/, /\/ur\/practice\/unit\/u2\/$/],
+  ["/ur/practice/unit/u4/", /دہرائی شروع کریں/, /\/ur\/practice\/review\/today\/$/],
+  ["/ur/practice/mode/match/", /اگلی قسم کی مشق کریں/, /\/ur\/practice\/mode\/[a-z]+\/$/],
+];
 
-  // The last lesson of the course has nothing after it.
-  await page.goto("/ur/practice/lesson/u4-l17/");
+for (const [url, button, target] of NEXT_STEPS) {
+  test(`finishing ${url} offers the next step`, async ({ page }) => {
+    await page.goto(url);
+    await playPractice(page);
+    await expect(page.getByRole("button", { name: "دوبارہ مشق کریں" })).toBeVisible();
+    await page.getByRole("link", { name: button }).click();
+    await expect(page).toHaveURL(target);
+    expect(page.url()).not.toContain(url);
+  });
+}
+
+test("finishing today's review leads to the learner's own lesson", async ({ page }) => {
+  await page.goto("/ur/");
+  await page.evaluate(() =>
+    localStorage.setItem(
+      "qa-store",
+      JSON.stringify({
+        version: 1,
+        state: {
+          lessons: { "u2-l5": { seen: [], step: 2, steps: 6 } },
+          lastLesson: "u2-l5",
+          activeDays: [],
+          cards: { "49:5:1": { due: "2026-01-01T00:00:00.000Z", stability: 0, difficulty: 0, elapsed_days: 0, scheduled_days: 0, learning_steps: 0, reps: 0, lapses: 0, state: 0 } },
+        },
+      }),
+    ),
+  );
+  await page.goto("/ur/practice/review/today/");
   await playPractice(page);
-  await expect(page.getByRole("link", { name: /اگلے سبق کی مشق کریں/ })).toHaveCount(0);
+  await page.getByRole("link", { name: /اپنے سبق کی مشق کریں/ }).click();
+  await expect(page).toHaveURL(/\/ur\/practice\/lesson\/u2-l5\/$/);
 });
