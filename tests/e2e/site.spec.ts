@@ -70,3 +70,9 @@ test("search finds a word in both scripts", async ({ page }) => {
   await page.getByRole("searchbox").fill("رحيم");
   await expect(page.locator("main")).toContainText(/Bismillah|بسم/);
 });
+
+test("a practice link can open on one exercise", async ({ page }) => {
+  await page.goto("/ur/practice/lesson/u2-l2/?word=49:2:5&type=match");
+  await expect(page.getByText(/پہلے لفظ پر ٹیپ/)).toBeVisible();
+  await expect(page.locator("main")).toContainText("تم سب بلند کرو");
+});

@@ -7,7 +7,7 @@ import type { Locale } from "@/i18n/config";
 import type { Dictionary } from "@/i18n/dictionaries";
 import { fill } from "@/i18n/format";
 import { usePracticeData } from "@/lib/practice/data";
-import { buildSet, MIXED, shuffle } from "@/lib/practice/generate";
+import { buildSet, makeItem, MIXED, shuffle } from "@/lib/practice/generate";
 import { dueIds, type Grade } from "@/lib/practice/srs";
 import {
   EXERCISE_TYPES,
@@ -15,6 +15,7 @@ import {
   type ExerciseType,
   type Item,
   type PracticeData,
+  type PracticeWord,
 } from "@/lib/practice/types";
 import { useHydrated, useStore } from "@/lib/store";
 import Bar from "../Bar";
@@ -102,7 +103,22 @@ function plan(kind: SessionKind, id: string, data: PracticeData, lang: Locale) {
   }
   let items = buildSet(pool, types, size, data, lang);
   if (items.length < 3) items = buildSet(all, types, size, data, lang);
-  return { items, fallback };
+  return { items: withFocus(items, pool, data, lang), fallback };
+}
+
+/**
+ * A link like ?word=49:2:5&type=match opens the set with that exercise, so a
+ * teacher can point straight at one question. Unknown values are ignored.
+ */
+function withFocus(items: Item[], pool: PracticeWord[], data: PracticeData, lang: Locale) {
+  const params = new URLSearchParams(window.location.search);
+  const word = data.words.find((w) => w.id === params.get("word"));
+  const type = params.get("type") as ExerciseType | null;
+  if (!word || !type || !EXERCISE_TYPES.includes(type)) return items;
+  const focus = makeItem(type, word, pool.includes(word) ? pool : data.words, data, lang);
+  if (!focus) return items;
+  const same = (it: Item) => it.type === type && itemWords(it).some((w) => w.id === word.id);
+  return [focus, ...items.filter((it) => !same(it))];
 }
 
 function Runner({ lang, kind, id, title, t, roles, data, onRestart }: Props & { data: PracticeData; onRestart: () => void }) {
