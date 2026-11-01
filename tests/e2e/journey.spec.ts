@@ -20,7 +20,8 @@ test("switch to Urdu, finish the Bismillah lesson, save a word and review it", a
 
   // Lesson page → player
   await page.goto("/ur/lesson/u1-l1/");
-  await expect(page.getByText("مسودہ · نظرِ ثانی باقی").first()).toBeVisible();
+  // Reviewed by a teacher, so no draft badge.
+  await expect(page.getByText("مسودہ · نظرِ ثانی باقی")).toHaveCount(0);
   await page.getByRole("link", { name: "سبق شروع کریں" }).click();
   await expect(page).toHaveURL(/\/learn\/$/);
 

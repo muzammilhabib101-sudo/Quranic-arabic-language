@@ -84,7 +84,7 @@ const NEXT_STEPS: [string, RegExp, RegExp][] = [
   ["/ur/practice/lesson/u4-l17/", /اس یونٹ کی دہرائی کریں/, /\/ur\/practice\/unit\/u4\/$/],
   ["/ur/practice/unit/u1/", /اگلے یونٹ کا جائزہ لیں/, /\/ur\/practice\/unit\/u2\/$/],
   ["/ur/practice/unit/u4/", /دہرائی شروع کریں/, /\/ur\/practice\/review\/today\/$/],
-  ["/ur/practice/mode/match/", /اگلی قسم کی مشق کریں/, /\/ur\/practice\/mode\/[a-z]+\/$/],
+  ["/ur/practice/mode/match/", /اگلی قسم کی مشق کریں/, /\/ur\/practice\/mode\/(?!match\/)[a-z]+\/$/],
 ];
 
 for (const [url, button, target] of NEXT_STEPS) {
