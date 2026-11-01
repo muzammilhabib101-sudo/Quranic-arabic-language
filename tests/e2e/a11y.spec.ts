@@ -26,6 +26,8 @@ const scan = (page: Page) =>
 for (const lang of ["ur", "en"]) {
   for (const path of PAGES) {
     test(`/${lang}/${path} has no accessibility violations`, async ({ page }) => {
+      // The Dictionary lists every word of the course; scanning it takes ~20s alone.
+      if (path === "words/") test.slow();
       await page.goto(`/${lang}/${path}`);
       await page.waitForLoadState("networkidle");
       expect(await scan(page)).toEqual([]);
