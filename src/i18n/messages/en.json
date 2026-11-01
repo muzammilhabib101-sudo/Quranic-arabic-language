@@ -252,6 +252,7 @@
     "doneTitle": "Practice complete",
     "doneBody": "You got {right} of {total} right on the first try.",
     "doneReview": "The words are now scheduled for review — they will come back when it's time.",
+    "previewNote": "Preview only — nothing was recorded in your progress.",
     "practiseAgain": "Practise again",
     "nextLesson": "Practise the next lesson",
     "nextUnit": "Review the next unit",

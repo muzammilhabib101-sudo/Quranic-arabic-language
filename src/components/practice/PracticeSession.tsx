@@ -131,7 +131,10 @@ function Runner({ lang, kind, id, title, next: nextStep, lessonTitles, t, roles,
   const [pos, setPos] = useState(0);
   const [result, setResult] = useState<boolean | null>(null);
   const [right, setRight] = useState(0);
-  const [done, setDone] = useState(false);
+  // ?preview=done opens straight on the finished screen, to check its buttons;
+  // nothing is answered, so nothing is recorded.
+  const [preview] = useState(() => new URLSearchParams(window.location.search).get("preview") === "done");
+  const [done, setDone] = useState(preview);
   const answer = useStore((s) => s.answer);
   const rate = useStore((s) => s.rate);
   const finishPractice = useStore((s) => s.finishPractice);
@@ -219,8 +222,14 @@ function Runner({ lang, kind, id, title, next: nextStep, lessonTitles, t, roles,
         <section className="flex flex-col items-center gap-4 rounded-2xl border border-border bg-surface px-5 py-10 text-center">
           <CheckCircle size={64} weight="fill" className="text-accent-2" aria-hidden />
           <h2 className="text-2xl font-bold">{t.doneTitle}</h2>
-          <p className="text-lg">{fill(t.doneBody, lang, { right, total: items.length })}</p>
-          <p className="max-w-md text-muted">{t.doneReview}</p>
+          {preview ? (
+            <p className="max-w-md text-muted">{t.previewNote}</p>
+          ) : (
+            <>
+              <p className="text-lg">{fill(t.doneBody, lang, { right, total: items.length })}</p>
+              <p className="max-w-md text-muted">{t.doneReview}</p>
+            </>
+          )}
           {/* Moving on is the main way forward; practising again stays one tap away. */}
           {nextPractice && (
             <Link
@@ -237,7 +246,11 @@ function Runner({ lang, kind, id, title, next: nextStep, lessonTitles, t, roles,
           <div className="flex flex-wrap justify-center gap-3">
             <button
               type="button"
-              onClick={onRestart}
+              onClick={() => {
+                // From a preview, "practise again" starts a real set.
+                if (preview) window.history.replaceState(null, "", window.location.pathname);
+                onRestart();
+              }}
               className={
                 nextPractice
                   ? "min-h-12 rounded-xl border border-border px-5 hover:border-accent hover:text-accent"

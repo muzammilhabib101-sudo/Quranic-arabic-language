@@ -119,3 +119,16 @@ test("finishing today's review leads to the learner's own lesson", async ({ page
   await page.getByRole("link", { name: /اپنے سبق کی مشق کریں/ }).click();
   await expect(page).toHaveURL(/\/ur\/practice\/lesson\/u2-l5\/$/);
 });
+
+test("?preview=done shows the finished screen without recording anything", async ({ page }) => {
+  await page.goto("/ur/practice/mode/flashcard/?preview=done");
+  await expect(page.getByText("یہ صرف پیش نظارہ ہے")).toBeVisible();
+  await expect(page.getByRole("link", { name: /اگلی قسم کی مشق کریں/ })).toBeVisible();
+  const stored = await page.evaluate(() => JSON.parse(localStorage.getItem("qa-store") ?? "{}").state ?? {});
+  expect(stored.practice?.answered ?? 0).toBe(0);
+
+  // "Practise again" from a preview starts a real set.
+  await page.getByRole("button", { name: "دوبارہ مشق کریں" }).click();
+  await expect(page.locator("#ex-prompt")).toBeVisible();
+  await expect(page).toHaveURL(/\/flashcard\/$/);
+});
