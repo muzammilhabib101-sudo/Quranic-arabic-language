@@ -1,6 +1,10 @@
 {
  "_about": "Corrections to word-by-word meanings from the Quran.com API that are wrong. Keyed by surah:ayah:position. Applied in practice exercises and the Dictionary; the downloaded data in words/ is left untouched. Each entry says what the source had.",
  "fixes": {
+  "49:2:5": {
+   "ur": "تم سب بلند کرو",
+   "source": "Quran.com Urdu had «بلند کرو». Teacher's review (2026-10-26): تَرْفَعُوْا is plural address — «تم سب بلند کرو», as in lesson u2-l2."
+  },
   "25:68:17": {
    "ur": "وہ زنا کرتے",
    "source": "Quran.com Urdu had «وہ زندہ کرتے» (they bring to life) — a typo for زنا کرتے."

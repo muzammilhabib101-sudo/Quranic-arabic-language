@@ -45,6 +45,7 @@ describe("practice data", () => {
 
   it("applies meaning fixes over the downloaded data", () => {
     expect(all.find((w) => w.id === "25:68:17")?.m.ur).toBe("وہ زنا کرتے");
+    expect(all.find((w) => w.id === "49:2:5")?.m.ur).toBe("تم سب بلند کرو");
   });
 });
 
