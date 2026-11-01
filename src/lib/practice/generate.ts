@@ -18,10 +18,17 @@ export function shuffle<T>(list: T[]): T[] {
 
 const meaningOf = (w: PracticeWord, lang: Lang) => (w.m[lang] || w.m.ur).trim();
 const askable = (w: PracticeWord, lang: Lang) => !w.grouped && meaningOf(w, lang).length > 0;
+/**
+ * How a word looks: the Arabic without pause and annotation marks (ۚ ۖ…) or
+ * spaces, so فِيهَا and فِيهَا ۚ count as the same word. Harakat stay — they
+ * tell words apart.
+ */
+const shape = (w: PracticeWord) => w.ar.replace(/[ۖ-ۭ\s]/g, "");
 
 /**
- * Picks `n` distractors: different from the answer by `key`, and as close
- * to the word as possible — same lesson first, then unit, then anywhere.
+ * Picks `n` distractors: different from the answer by `key` (and by
+ * `distinct`, when given), and as close to the word as possible — same
+ * lesson first, then unit, then anywhere.
  */
 function distractors<T>(
   word: PracticeWord,
@@ -30,9 +37,11 @@ function distractors<T>(
   key: (w: PracticeWord) => T | null,
   n: number,
   prefer?: (w: PracticeWord) => boolean,
+  distinct?: (w: PracticeWord) => string,
 ): PracticeWord[] {
   const answer = key(word);
   const seen = new Set<T>([answer as T]);
+  const seenAlso = new Set<string>(distinct ? [distinct(word)] : []);
   const out: PracticeWord[] = [];
   const tiers = [
     pool.filter((w) => w.lesson === word.lesson),
@@ -45,7 +54,9 @@ function distractors<T>(
     for (const w of tier) {
       const k = key(w);
       if (k === null || seen.has(k)) continue;
+      if (distinct && seenAlso.has(distinct(w))) continue;
       seen.add(k);
+      if (distinct) seenAlso.add(distinct(w));
       out.push(w);
       if (out.length === n) return out;
     }
@@ -85,7 +96,7 @@ export function makeItem(
       return choice("meaning", word, { text: meaningOf(word, lang) }, wrong.map((w) => ({ text: meaningOf(w, lang) })));
     }
     case "listen": {
-      const wrong = distractors(word, pool, all, (w) => w.ar, 3, (w) => w.root === word.root || w.role === word.role);
+      const wrong = distractors(word, pool, all, shape, 3, (w) => w.root === word.root || w.role === word.role);
       return choice("listen", word, { ar: word.ar }, wrong.map((w) => ({ ar: w.ar })));
     }
     case "root": {
@@ -112,7 +123,7 @@ export function makeItem(
       const context = verseWords();
       if (context.length < 3) return null;
       // Options are real words; only the right one completes the verse as revealed.
-      const wrong = distractors(word, pool, all, (w) => w.ar, 3, (w) => w.role === word.role);
+      const wrong = distractors(word, pool, all, shape, 3, (w) => w.role === word.role);
       return choice("fill", word, { ar: word.ar }, wrong.map((w) => ({ ar: w.ar })), context);
     }
     case "anatomy":
@@ -121,7 +132,9 @@ export function makeItem(
       return { kind: "flash", type: "flashcard", word };
     case "match": {
       if (!askable(word, lang)) return null;
-      const others = distractors(word, pool.filter((w) => askable(w, lang)), all.filter((w) => askable(w, lang)), (w) => meaningOf(w, lang), 3);
+      // Different meanings and different-looking words: the same word twice
+      // (ٱلَّذِينَ as «وہ لوگ» and «وہ لوگ ہیں») can't be told apart.
+      const others = distractors(word, pool.filter((w) => askable(w, lang)), all.filter((w) => askable(w, lang)), (w) => meaningOf(w, lang), 3, undefined, shape);
       if (others.length < 3) return null;
       const words = [word, ...others];
       return { kind: "match", type: "match", words, meanings: shuffle(words.map((w) => meaningOf(w, lang))) };

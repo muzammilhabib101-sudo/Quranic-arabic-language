@@ -8,15 +8,21 @@ const data = practiceData();
 const all = data.words;
 const langs = ["ur", "en"] as const;
 
+/** Arabic as it looks, without pause marks: فِيهَا and فِيهَا ۚ are one word. */
+const looks = (ar: string) => ar.replace(/[ۖ-ۭ\s]/g, "");
+
 /** Checks the rules every exercise must keep. */
 function checkItem(item: Item) {
   if (item.kind === "choice") {
     expect(item.answer).toBeGreaterThanOrEqual(0);
     expect(item.answer).toBeLessThan(item.options.length);
-    const keys = item.options.map((o) => o.ar ?? o.text);
-    expect(new Set(keys).size, `${item.type} options repeat`).toBe(keys.length);
+    const keys = item.options.map((o) => (o.ar ? looks(o.ar) : o.text));
+    expect(new Set(keys).size, `${item.type} options look the same: ${keys.join(" / ")}`).toBe(keys.length);
   }
   if (item.kind === "match") {
+    // Two cards that look the same can't be matched to different meanings.
+    const shapes = item.words.map((w) => looks(w.ar));
+    expect(new Set(shapes).size, `match repeats a word: ${shapes.join(" / ")}`).toBe(shapes.length);
     // Each word's own meaning is on the board exactly once.
     expect([...item.meanings].sort()).toEqual(item.words.map((w) => w.m.ur.trim()).sort());
     expect(new Set(item.meanings).size).toBe(item.meanings.length);
