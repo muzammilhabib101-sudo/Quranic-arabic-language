@@ -132,3 +132,9 @@ test("?preview=done shows the finished screen without recording anything", async
   await expect(page.locator("#ex-prompt")).toBeVisible();
   await expect(page).toHaveURL(/\/flashcard\/$/);
 });
+
+test("?preview=done works for today's review even with nothing due", async ({ page }) => {
+  await page.goto("/ur/practice/review/today/?preview=done");
+  await expect(page.getByText("یہ صرف پیش نظارہ ہے")).toBeVisible();
+  await expect(page.getByRole("link", { name: /اپنے سبق کی مشق کریں/ })).toBeVisible();
+});

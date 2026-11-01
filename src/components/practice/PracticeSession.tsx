@@ -149,7 +149,7 @@ function Runner({ lang, kind, id, title, next: nextStep, lessonTitles, t, roles,
 
   const backHref = kind === "lesson" ? `/${lang}/lesson/${id}/` : `/${lang}/practice/`;
 
-  if (items.length === 0) {
+  if (items.length === 0 && !preview) {
     return (
       <div className="flex flex-col gap-4 rounded-2xl border border-border bg-surface p-6">
         <p>{t.emptyReview}</p>
